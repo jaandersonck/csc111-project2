@@ -1,0 +1,51 @@
+\documentclass[fontsize=11pt]{article}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.75in]{geometry}
+
+\title{CSC111 Project Proposal: TODO FILL IN YOUR PROJECT TITLE HERE}
+\author{TODO: FILL IN ALL GROUP MEMBER NAMES HERE}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section*{Problem Description and Research Question}
+
+TODO
+
+\section*{Computational Plan}
+
+\begin{enumerate}
+    \item[1.] Parse \verb|courses.html| into \verb|courses.json|, where each course entry stores its course code, raw prerequisite string, and raw exclusion list.
+
+    \item[2.] For each course, parse the raw prerequisite string into a structured, evaluable form:
+    \begin{enumerate}
+        \item[a)] Extract course codes via regex (\verb|[A-Z]{3}[0-9]{3}[HY][0-9]|).
+        \item[b)] Infer logical structure from UofT's formatting conventions: \verb|,| as AND, \verb|/| as OR, parentheses as grouping.
+        \item[c)] Classify non-course requirements (credit thresholds, permissions, placement tests) by keyword detection.
+    \end{enumerate}
+
+    \item[3.] Implement a custom \verb|CourseTree| class where each node stores a student state (completed courses, total credits). The tree models course selection analogously to \verb|a2_minichess.py|: the current state determines available moves (eligible courses), and selecting a course expands the tree to a new child state.
+
+    \item[4.] Implement core tree methods:
+    \begin{enumerate}
+        \item[a)] \verb|get_available_courses(state)| --- return all available courses at a current state based on prerequisites/exclusions.
+        \item[b)] \verb|append(course)| --- TODO 
+        \item[c)] \verb|find_path_to(target)| --- search the tree for a sequence of courses that makes the target course eligible, analogous to searching a game tree for a winning position.
+    	\item[d)] \verb|get_credits(optional[Dept])| --- return the number of credits satisfied by the current tree, taking an optional argument to check by department for some requirements.
+    \end{enumerate}
+
+    \item[5.] Build an interactive user interface where a student inputs completed courses, views available courses (children of the current node), selects courses to ``take'' (expanding the tree), and queries for paths to a target course.
+\end{enumerate}
+
+\section*{References}
+
+
+
+% NOTE: LaTeX does have a built-in way of generating references automatically,
+% but it's a bit tricky to use so you are allowed to write your references manually
+% using a standard academic format like MLA or IEEE.
+% See project proposal handout for details.
+
+\end{document}

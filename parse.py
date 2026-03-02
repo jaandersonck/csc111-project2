@@ -1,3 +1,4 @@
+"""University of Toronto course parsing script"""
 import bs4
 from bs4 import BeautifulSoup
 from bs4.element import Tag
@@ -11,7 +12,7 @@ with open("courses.html") as f:
         title = elem.find(class_='views-field-title').find(class_='field-content')
 
         body: Tag | None = None
-        breadth: Tag| None = None
+        breadth: Tag | None = None
         hours: Tag | None = None
         prereq: Tag | None = None
         exclusion: Tag | None = None
@@ -84,6 +85,5 @@ with open("courses.html") as f:
 import json
 with open('courses.json', 'w') as f:
     json.dump(d, f)
-    # for elem in s:
-    #
-    #     print(type(elem))
+
+print([d[m]['prerequisites'] for m in d])
