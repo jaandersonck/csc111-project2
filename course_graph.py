@@ -27,32 +27,166 @@ class CourseGraph:
         self._edges = {}
 
     def add_vertex(self, vertex: _CourseVertex) -> None:
-        """Add a course vertex to this graph."""
-        raise NotImplementedError
+        """Add a course vertex to this graph. Do nothing if a vertex with the same code already exists.
+
+        Preconditions:
+            - vertex is not None
+
+        >>> g = CourseGraph()
+        >>> v = _CourseVertex('CSC148H1', 'Introduction to Computer Science', None, None, 5, None, None)
+        >>> g.add_vertex(v)
+        >>> 'CSC148H1' in g._vertices
+        True
+        """
+        if vertex.code not in self._vertices:
+            self._vertices[vertex.code] = vertex
+            self._edges[vertex.code] = set()
 
     def add_edge(self, code1: str, code2: str) -> None:
-        """Add a directed edge from code1 to code2, indicating code1 is a prerequisite of code2."""
-        raise NotImplementedError
+        """Add a directed edge from code1 to code2, indicating that code1 is a prerequisite of code2.
+
+        Raise ValueError if either code1 or code2 does not correspond to a vertex in this graph.
+
+        Preconditions:
+            - code1 != code2
+            - code1 in self._vertices
+            - code2 in self._vertices
+            - code2 not in self._edges[code1]  # no duplicate edges
+
+        >>> g = CourseGraph()
+        >>> v1 = _CourseVertex('CSC148H1', 'Intro', None, None, 5, None, None)
+        >>> v2 = _CourseVertex('CSC207H1', 'Software Design', None, None, 5, None, None)
+        >>> g.add_vertex(v1)
+        >>> g.add_vertex(v2)
+        >>> g.add_edge('CSC148H1', 'CSC207H1')
+        >>> 'CSC207H1' in g._edges['CSC148H1']
+        True
+        """
+        if code1 not in self._vertices or code2 not in self._vertices:
+            raise ValueError(f'One or both course codes not found in graph: {code1!r}, {code2!r}')
+        self._edges[code1].add(code2)
 
     def get_vertex(self, code: str) -> _CourseVertex:
-        """Return the vertex corresponding to the given course code."""
-        raise NotImplementedError
+        """Return the vertex corresponding to the given course code.
+
+        Raise KeyError if no vertex with that code exists in this graph.
+
+        Preconditions:
+            - code in self._vertices
+
+        >>> g = CourseGraph()
+        >>> v = _CourseVertex('CSC148H1', 'Intro', None, None, 5, None, None)
+        >>> g.add_vertex(v)
+        >>> g.get_vertex('CSC148H1').code
+        'CSC148H1'
+        """
+        return self._vertices[code]
 
     def is_eligible(self, code: str, completed: set[str]) -> bool:
-        """Return whether the student is eligible to enrol in the given course."""
-        raise NotImplementedError
+        """Return whether a student who has completed the given courses is eligible to enrol in code.
+
+        A student is eligible if the course's prereq_tree is None (no prerequisites)
+        or if prereq_tree.is_satisfied(completed) returns True.
+        A course the student has already completed is not considered eligible.
+
+        Raise KeyError if code does not correspond to a vertex in this graph.
+
+        Preconditions:
+            - code in self._vertices
+            - all(c in self._vertices for c in completed)
+
+        >>> g = CourseGraph()
+        >>> v = _CourseVertex('CSC108H1', 'Intro', None, None, 5, None, None)
+        >>> g.add_vertex(v)
+        >>> g.is_eligible('CSC108H1', set())
+        True
+        >>> g.is_eligible('CSC108H1', {'CSC108H1'})
+        False
+        """
+        # Unvalid Course Code
+        if code not in self._vertices:
+            raise KeyError(f'Course code not found in graph: {code!r}')
+
+        # Student already completed the course
+        if code in completed:
+            return False
+
+        if self._vertices[code].prerequisites is None:  # Course w/o prerequisites
+            return True
+        else:  # Course that neeeds to check prerequisites
+            return self._vertices[code].prerequisites.is_satisfied(completed)
 
     def eligible_courses(self, completed: set[str]) -> set[str]:
-        """Return the set of all course codes the student is currently eligible to enrol in."""
-        raise NotImplementedError
+        """Return the set of all course codes the student is currently eligible to enrol in,
+        excluding courses they have already completed.
+
+        Preconditions:
+            - all(c in self._vertices for c in completed)
+
+        >>> g = CourseGraph()
+        >>> v = _CourseVertex('CSC108H1', 'Intro', None, None, 5, None, None)
+        >>> g.add_vertex(v)
+        >>> 'CSC108H1' in g.eligible_courses(set())
+        True
+        >>> 'CSC108H1' in g.eligible_courses({'CSC108H1'})
+        False
+        """
+        return {code for code in self._vertices if self.is_eligible(code, completed)}
 
     def credit_count(self, completed: set[str], department: str | None = None) -> float:
-        """Return the total credits accumulated from completed courses.
+        """Return the total credits accumulated from the completed courses.
 
-        If department is given, only count credits from that department.
+        If department is given, only count credits from courses in that department.
+        If a course code in completed is not found in this graph, it is ignored.
+
+        Preconditions:
+            - department is None or len(department) > 0
+
+        >>> g = CourseGraph()
+        >>> v1 = _CourseVertex('CSC148H1', 'Intro', None, None, 5, None, None)
+        >>> v2 = _CourseVertex('CSC207H1', 'Software Design', None, None, 5, None, None)
+        >>> v3 = _CourseVertex('MAT137Y1', 'Calculus', None, None, 5, None, None)
+        >>> g.add_vertex(v1)
+        >>> g.add_vertex(v2)
+        >>> g.add_vertex(v3)
+        >>> g.credit_count({'CSC148H1', 'CSC207H1', 'MAT137Y1'})
+        2.0
+        >>> g.credit_count({'CSC148H1', 'CSC207H1', 'MAT137Y1'}, department='CSC')
+        1.0
+        >>> g.credit_count({'CSC148H1', 'FAKE999H1'})
+        0.5
         """
-        raise NotImplementedError
+        if department is None:
+            return sum(self._vertices[course].credits
+                       for course in completed
+                       if course in self._vertices)
+        else:
+            return sum(self._vertices[course].credits
+                       for course in completed
+                       if course in self._vertices
+                       and self._vertices[course].department == department)
+
 
     def find_paths(self, completed: set[str], target: str) -> list[list[str]]:
-        """Return all valid course sequences the student could take to become eligible for target."""
+        """Return all valid course sequences the student could take to become eligible for target.
+
+        Each path is a list of course codes in the order they should be taken,
+        starting from the first course the student needs to take and ending with target.
+        Courses in completed are not included in the returned paths.
+        Returns an empty list if target is already in completed or is unreachable.
+
+        Preconditions:
+            - target in self._vertices
+            - all(c in self._vertices for c in completed)
+            - target not in completed
+
+        >>> g = CourseGraph()
+        >>> v1 = _CourseVertex('CSC108H1', 'Intro', None, None, 5, None, None)
+        >>> v2 = _CourseVertex('CSC148H1', 'Intro 2', None, None, 5, None, None)
+        >>> g.add_vertex(v1)
+        >>> g.add_vertex(v2)
+        >>> g.add_edge('CSC108H1', 'CSC148H1')
+        >>> g.find_paths(set(), 'CSC148H1')
+        [['CSC108H1', 'CSC148H1']]
+        """
         raise NotImplementedError
