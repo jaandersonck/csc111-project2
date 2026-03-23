@@ -30,3 +30,6 @@ class BooleanList:
         self.operator = operator
         self.items = items
 
+    def is_satisfied(self, completed: set[str]) -> bool:
+        """Return whether this condition is satisfied given a set of completed course codes."""
+        raise NotImplementedError
