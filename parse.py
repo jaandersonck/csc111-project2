@@ -7,7 +7,7 @@ d: dict = {}
 
 with open("courses.html") as f:
     soup = BeautifulSoup(f, "html.parser")
-    s = {e for e in soup.find(class_="view-content") if isinstance(e, bs4.element.Tag)}
+    s = [e for e in soup.find(class_="view-content") if isinstance(e, bs4.element.Tag)]
     for elem in s:
         title = elem.find(class_='views-field-title').find(class_='field-content')
 
