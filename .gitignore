@@ -1,3 +1,5 @@
 *.aux
 *.gz
 *.log
+__pycache__/
+*.pyc
