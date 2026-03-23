@@ -53,5 +53,31 @@ class BooleanList:
         self.items = items
 
     def is_satisfied(self, completed: set[str]) -> bool:
-        """Return whether this condition is satisfied given a set of completed course codes."""
-        raise NotImplementedError
+        """Return whether this boolean condition is satisfied given a set of completed course codes.
+
+        If this BooleanList has operator 'AND', all items must be satisfied.
+        If this BooleanList has operator 'OR', at least one item must be satisfied.
+        Each item is either a course code string, a credits node, or a nested BooleanList,
+        all of which are evaluated recursively.
+
+        completed is the set of course codes the student has already finished.
+
+        >>> bl = BooleanList('AND', ['CSC148H1', 'CSC165H1'])
+        >>> bl.is_satisfied({'CSC148H1', 'CSC165H1', 'MAT137Y1'})
+        True
+        >>> bl.is_satisfied({'CSC148H1'})
+        False
+
+        >>> bl = BooleanList('OR', ['CSC148H1', 'CSC111H1'])
+        >>> bl.is_satisfied({'CSC111H1'})
+        True
+        >>> bl.is_satisfied({'MAT137Y1'})
+        False
+        """
+
+        if isinstance(self, str):
+            return self in completed
+        elif self.operator == 'AND':
+            return all(item in completed for item in self.items)
+        elif self.operator == 'OR':
+            return any(item in completed for item in self.items)
