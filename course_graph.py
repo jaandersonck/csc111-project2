@@ -189,4 +189,29 @@ class CourseGraph:
         >>> g.find_paths(set(), 'CSC148H1')
         [['CSC108H1', 'CSC148H1']]
         """
-        raise NotImplementedError
+
+    def _find_paths_helper(self, completed: set[str], target: str, visited: set[str]) -> list[list[str]]:
+        """Return all valid course sequences from the current state to target, avoiding visited courses.
+
+        This is a helper method for find_paths. It recursively explores all eligible
+        courses from the current completed set, adding each to the path and simulating
+        the student taking it before continuing the search.
+
+        visited tracks which courses have already been explored in the current branch
+        of the search to prevent infinite loops in the graph traversal.
+
+        Preconditions:
+            - target in self._vertices
+            - all(c in self._vertices for c in completed)
+            - all(c in self._vertices for c in visited)
+            - target not in completed
+
+        >>> g = CourseGraph()
+        >>> v1 = _CourseVertex('CSC108H1', 'Intro', None, None, 5, None, None)
+        >>> v2 = _CourseVertex('CSC148H1', 'Intro 2', None, None, 5, None, None)
+        >>> g.add_vertex(v1)
+        >>> g.add_vertex(v2)
+        >>> g.add_edge('CSC108H1', 'CSC148H1')
+        >>> g._find_paths_helper(set(), 'CSC148H1', set())
+        [['CSC108H1', 'CSC148H1']]
+        """
