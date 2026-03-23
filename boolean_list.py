@@ -1,5 +1,27 @@
 from __future__ import annotations
 from typing import Any
+from dataclasses import dataclass
+
+
+@dataclass
+class CreditCondition:
+    """..."""
+    credits: float | None
+    department: str | None
+
+
+@dataclass
+class CourseCondition:
+    """...
+
+    Representation Invariants:
+        - self.kind in {'course', 'credit'}
+        - (self.item is a valid course code) or (self.item is a valid credit condition)
+        - self.kind == 'course' or not isinstance(self.item, str)
+        - self.kind == 'credit' or not isinstance(self.item, CreditCondition)
+    """
+    kind: str
+    item: str | CreditCondition
 
 
 class BooleanList:
@@ -22,10 +44,10 @@ class BooleanList:
     #   - items: A list where each element is either a course code string
     #            or a nested BooleanList representing a sub-condition.
 
-    operator: str
-    items: list[str | BooleanList]
+    operator: str | None
+    items: list[CreditCondition | BooleanList] | None
 
-    def __init__(self, operator: str, items: list[str | BooleanList]) -> None:
+    def __init__(self, operator: str = None, items: list[CreditCondition | BooleanList] = None) -> None:
         """Initialize a new BooleanList with the given operator and items."""
         self.operator = operator
         self.items = items
