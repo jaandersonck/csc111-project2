@@ -79,11 +79,6 @@ class CourseGraph:
         self._edges = {}
 
     def add_vertex(self, vertex: _CourseVertex) -> None:
-<<<<<<< HEAD
-        """Add a course vertex to this graph."""
-        # REPLACE THIS IMPLEMENTATION WITH UPSTREAM
-        self._vertices[vertex.code] = vertex
-=======
         """Add a course vertex to this graph. Do nothing if a vertex with the same code already exists.
 
         Preconditions:
@@ -98,7 +93,6 @@ class CourseGraph:
         if vertex.code not in self._vertices:
             self._vertices[vertex.code] = vertex
             self._edges[vertex.code] = set()
->>>>>>> main
 
     def add_edge(self, code1: str, code2: str) -> None:
         """Add a directed edge from code1 to code2, indicating that code1 is a prerequisite of code2.
@@ -125,13 +119,6 @@ class CourseGraph:
         self._edges[code1].add(code2)
 
     def get_vertex(self, code: str) -> _CourseVertex:
-<<<<<<< HEAD
-        """Return the vertex corresponding to the given course code."""
-        if code in self._vertices:
-            return self._vertices[code]
-        else:
-            raise ValueError
-=======
         """Return the vertex corresponding to the given course code.
 
         Raise KeyError if no vertex with that code exists in this graph.
@@ -145,8 +132,10 @@ class CourseGraph:
         >>> g.get_vertex('CSC148H1').code
         'CSC148H1'
         """
+        if code not in self._vertices:
+            raise ValueError
+
         return self._vertices[code]
->>>>>>> main
 
     def is_eligible(self, code: str, completed: set[str]) -> bool:
         """Return whether a student who has completed the given courses is eligible to enrol in code.
