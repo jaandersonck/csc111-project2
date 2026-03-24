@@ -2,6 +2,7 @@ from __future__ import annotations
 from typing import Any
 from dataclasses import dataclass
 
+
 class CreditCondition:
     """..."""
     amount_credits: float | None
@@ -136,6 +137,7 @@ class BooleanList:
             return item.credits_satisfied(completed)
         else:
             raise ValueError(f'Unknown item type: {type(item)}')
+
     # Equality for BooleanList for doctests and ease of use
     def __eq__(self, candidate: BooleanList) -> bool:
         """
@@ -145,12 +147,12 @@ class BooleanList:
         >>> BooleanList('AND', []) == BooleanList('AND', [])
         True
 
-        >>> BooleanList('AND', [CourseCondition('course', 'CSC110')]) \
-        == BooleanList('AND', [CourseCondition('course', 'CSC110')])
+        >>> BooleanList('AND', ['CSC110']) \
+        == BooleanList('AND', ['CSC110'])
         True
 
-        >>> BooleanList('AND', [CourseCondition('course', 'CSC110')]) \
-        == BooleanList('AND', [CourseCondition('course', 'CSC11')])
+        >>> BooleanList('AND', ['CSC110']) \
+        == BooleanList('AND', ['CSC11'])
         False
         """
         if self.operator != candidate.operator:
@@ -168,6 +170,29 @@ class BooleanList:
                 if self_item != candidate_item:
                     return False
         return True
+
+    # Allow BooleanList to be represented in console
+    def __repr__(self) -> str:
+        """
+        >>> BooleanList('AND', [1,2,3])
+        (1 AND 2 AND 3)
+
+        >>> BooleanList('OR', [1,2])
+        (1 OR 2)
+
+        >>> BooleanList('AND', [1, 2, BooleanList('OR', [3, 4])])
+        (1 AND 2 AND (3 OR 4))
+        """
+        s = ''
+        if self.operator == 'AND':
+            p = [item.__repr__() for item in self.items]
+            s = ' AND '.join(p)
+            s = f'({s})'
+        else:
+            p = [item.__repr__() for item in self.items]
+            s = ' OR '.join(p)
+            s = f'({s})'
+        return s
 
     def is_satisfied(self, completed: set[str]) -> bool:
         """Return whether this boolean condition is satisfied given a set of completed course codes.
@@ -194,7 +219,7 @@ class BooleanList:
 
         if self.operator == 'AND':
             return all(self.evaluate_item(item, completed) for item in self.items)
-        elif self.operator == 'OR':
+        else:
             return any(self.evaluate_item(item, completed) for item in self.items)
 
     def arrange(self) -> BooleanList:
@@ -228,6 +253,9 @@ class BooleanList:
         >>> BooleanList('AND', [BooleanList('OR', [1,2]), 3, 4]).generate_combinations()
         [[1, 3, 4], [2, 3, 4]]
         """
+        #########################
+        # UNDERSTAND THIS
+        #########################
         options_at_depth = []
         for item in self.items:
             if isinstance(item, BooleanList):

@@ -1,6 +1,6 @@
 """Functions for moving between json and CourseGraph/_CourseVertex."""
 from course_graph import CourseGraph, _CourseVertex
-from boolean_list import BooleanList, CourseCondition, CreditCondition
+from boolean_list import BooleanList, CreditCondition
 import json
 
 
@@ -49,7 +49,7 @@ def _dict_to_credit_condition(tree: dict) -> CreditCondition:
     return credit_condition
 
 
-def _raw_list_to_formatted(tree: list) -> list[CourseCondition | BooleanList]:
+def _raw_list_to_formatted(tree: list) -> list[BooleanList]:
     """Return a list that is a valid candidate for BooleanList.items, that is, take a raw
     list and convert all values to be one of {CourseCondition, BooleanList}.
 
@@ -71,7 +71,6 @@ def _raw_list_to_formatted(tree: list) -> list[CourseCondition | BooleanList]:
                 # Per the defintion, BooleanList can contain other BooleanList
                 lst.append(result)
             elif isinstance(result, CreditCondition):
-                # Per the definition, BooleanList can contain CourseCondition
                 lst.append(result)
     return lst
 
@@ -88,7 +87,7 @@ def _traverse_tree(tree: dict | list) -> BooleanList | CreditCondition | list:
         following types: {str, BooleanList, CreditCondition}, or is empty.
 
     >>> bd = {'operator': 'AND', 'items': ['CSC110']}
-    >>> _traverse_tree(bd) == BooleanList('AND', [CourseCondition('course', 'CSC110')])
+    >>> _traverse_tree(bd) == BooleanList('AND', ['CSC110'])
     True
     """
     if isinstance(tree, dict):
@@ -116,6 +115,7 @@ def parse_prerequisite_list(tree: dict) -> BooleanList:
     """
     prerequisite_list: BooleanList = _traverse_tree(tree)
     return prerequisite_list
+
 
 def load_graph_from_json(file: str) -> CourseGraph:
     """Load each course from a valid json file into a CourseGraph consisting of distinct _CourseVertex.
