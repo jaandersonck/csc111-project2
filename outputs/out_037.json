@@ -1,0 +1,1285 @@
+{
+  "PHL196H1": {
+    "code": "PHL196H1",
+    "name": "Philosophy, Film, and Social Criticism",
+    "hours": "48S",
+    "description": "This course will critically examine the role of cinema in relation to selected topics and themes in social and political philosophy; these will vary from year to year, but may include race, ethnic and cultural 'other'-ness, class, social conflict, citizenship, cosmopolitanism, and human rights. Films will be screened in class and discussed against the background of focused critical and philosophical readings. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "PHL197H1": {
+    "code": "PHL197H1",
+    "name": "Introduction to Philosophical Anthropology",
+    "hours": "24S",
+    "description": "Philosophical anthropology is the subject that poses the most fundamental questions about human nature and the human condition. Taking as its point of departure the most up-to-date scientific understanding of human nature, from anthropology broadly conceived, it goes on to inquire, in a disciplined fashion, about the implications of these views for perennial philosophical questions about human rationality, morality, the possibility of progress, the existence of god and the meaning of life. This course will examine one or more topics in this domain, as a more general introduction to the discipline. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL198H1": {
+    "code": "PHL198H1",
+    "name": "Philosophy of Time",
+    "hours": "24S",
+    "description": "The passage of time is a fundamental aspect of human experience: we are born, we grow older, and eventually we pass away. During our lives our experience of the past, present, and future are distinct. We can influence the world in the present and the future, but it does not seem that we can influence the past. We have hopes about the future, memories of the past, and experiences of the present. In this seminar we will explore insights from contemporary philosophy and physics concerning the nature of the passage of time. Questions to be considered may include the following: What does it mean to say that time passes? Does time really pass at all? How do we experience time? Why can we influence the future but not the past? Is it possible to travel backward in time? Is time even real? What is time? Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHL199H1": {
+    "code": "PHL199H1",
+    "name": "Ethics and Fiction",
+    "hours": "24S",
+    "description": "The goal of this seminar is to investigate selected ethical questions via works of fiction, considering how, and with what effect, fiction functions as an ethical medium. We will reflect on what fiction can teach us about pressing challenges of the human condition; themes to be discussed will vary from year to year, but may include choice and responsibility, freedom, friendship, empathy, integrity, and our relation to the divine and to death. Genres studied may range over novels, short stories, plays, and narrative poetry. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL200Y1": {
+    "code": "PHL200Y1",
+    "name": "Ancient Philosophy",
+    "hours": "72L",
+    "description": "Central texts of the pre-Socratics, Plato, Aristotle, and post-Aristotelian philosophy.",
+    "exclusions": "PHLB31H3,  PHL202H5",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL201H1": {
+    "code": "PHL201H1",
+    "name": "Introductory Philosophy",
+    "hours": "36L",
+    "description": "An introduction to philosophy focusing on the connections among its main branches: logic, theory of knowledge, metaphysics, and ethics. This course is intended for those with little or no philosophy background but who have completed Year 1 in any area of study.",
+    "exclusions": "PHL100Y1,  PHL101Y1, or more than 1.0 PHL course",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": "ANY"
+    }
+  },
+  "PHL205H1": {
+    "code": "PHL205H1",
+    "name": "Early Medieval Philosophy",
+    "hours": "36L",
+    "description": "A study of issues such as the relations of reason and faith, the being and the nature of God, and the problem of universals, in the writings of such philosophers as Augustine, Boethius, Anselm and Abelard.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL206H1": {
+    "code": "PHL206H1",
+    "name": "Later Medieval Philosophy",
+    "hours": "36L",
+    "description": "A study of issues such as the relations of reason and faith, the being and the nature of God, and the structure of the universe, in the writings of such philosophers as Aquinas and Ockham.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL210Y1": {
+    "code": "PHL210Y1",
+    "name": "17th-and 18th-Century Philosophy",
+    "hours": "72L",
+    "description": "Central texts of such philosophers as Hobbes, Descartes, Spinoza, Leibniz, Locke, Berkeley, Hume, and Kant.",
+    "exclusions": "PHLB35H3,  PHL210Y5",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL217H1": {
+    "code": "PHL217H1",
+    "name": "Introduction to Continental Philosophy",
+    "hours": "36L",
+    "description": "An introduction to some of the post-Hegelian thinkers who inspired the various philosophical movements broadly referred to as continental, such as phenomenology, existentialism, deconstruction, and post-modernism. Questions include the will, faith, death, existence, history and politics, rationality and its limits, encountering an other. Authors studied may include: Kierkegaard, Schopenhauer, Nietzsche, Marx, Freud, Heidegger, Sartre.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL232H1": {
+    "code": "PHL232H1",
+    "name": "Knowledge and Reality",
+    "hours": "36L",
+    "description": "An introduction to issues in the fundamental branches of philosophy: metaphysics, which considers the overall framework of reality; epistemology, or the theory of knowledge; and related problems in the philosophy of science. Topics in metaphysics may include: mind and body, causality, space and time, God, freedom and determinism; topics in epistemology may include perception, evidence, belief, truth, skepticism.",
+    "exclusions": "PHLB20H3,  PHLB60H3",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL233H1": {
+    "code": "PHL233H1",
+    "name": "Philosophy for Scientists",
+    "hours": "24L/12T",
+    "description": "An introduction to philosophy tailored for students with backgrounds in mathematics and science. Topics include causation, explanation, the relation between scientific and mathematical theories and reality, the role of mathematics in scientific theories, the relevance of scientific and mathematical discoveries to \u2018big\u2019 traditional philosophical questions such as the nature of consciousness, whether we have free will, and the meaning of life.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL235H1": {
+    "code": "PHL235H1",
+    "name": "Philosophy of Religion",
+    "hours": "36L",
+    "description": "Some central issues in the philosophy of religion such as the nature of religion and religious faith, arguments for the existence of God, the problem of evil, varieties of religious experience, religion and human autonomy.",
+    "exclusions": "PHL235H5",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL236H1": {
+    "code": "PHL236H1",
+    "name": "Buddhist Philosophy",
+    "hours": "36L",
+    "description": "This course is an introduction to topics, schools, and figures in Buddhist philosophy. Texts to be read (in English translation) will range from the P\u0101li Canon (attributed directly to the Buddha) via Sanskrit and Tibetan Buddhist schools to contemporary Buddhist reflections. Themes and topics will be selected from those prominent in Buddhist texts: emptiness, impermanence, and non-selfhood; the theory of inference; perception and epistemology; philosophy of language; and philosophy of action. Texts and authors to be studied will standardly include the P\u0101li Canon, and one or more among N\u0101g\u0101rjuna, Vasubandhu, Dharmak\u012brti, Milarepa and contemporary Buddhist thinkers.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL237H1": {
+    "code": "PHL237H1",
+    "name": "Introduction to Chinese Philosophy",
+    "hours": "36L",
+    "description": "A historical introduction to Chinese philosophy, covering selected figures and texts from the Warring States period through the Q\u012bng dynasty. Schools of thought covered include Confucianism, Mohism, Daoism, Legalism, \"Profound Learning,\" Neo-Confucianism, and \"Evidential Learning.\" Texts and thinkers include the Confucian Analects, M\u00f2z\u01d0, M\u00e8ngz\u01d0, X\u00fanz\u01d0, D\u00e0od\u00e9j\u012bng, Zhu\u0101ngz\u01d0, H\u00e1n F\u0113i, Gu\u014d Xi\u00e0ng, Zh\u016b X\u012b, W\u00e1ng Y\u00e1ngm\u00edng, and D\u00e0i Zh\u00e8n.",
+    "exclusions": "EAS241H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL238H1": {
+    "code": "PHL238H1",
+    "name": "Reason and Irrationality",
+    "hours": "36L",
+    "description": "How does one live one\u2019s life without falling victim to various forms of irrationality? This course offers theoretical insight and practical guidance regarding norms of rationality and how we can live by them. Topics to be addressed include: informal logic; criteria for the assessment of arguments; common fallacies; truth and noncontradiction as norms; cognitive biases; \u201cthinking fast and slow\u201d and behavioral economics; conspiracy theories; and media ethics.",
+    "exclusions": "TRN200Y1,  PHL247H1,  PHL145H5,  PHL238H5,  PHL247H5",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL239H1": {
+    "code": "PHL239H1",
+    "name": "Introduction to South Asian Philosophy",
+    "hours": "36L",
+    "description": "An introduction to the main schools, thinkers, and topics in the philosophical thought of the Sanskrit world, covering various topics, from epistemology to philosophy of religion. Students will get acquainted with one of the world's richest philosophical traditions and its challenges.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL240H1": {
+    "code": "PHL240H1",
+    "name": "Persons, Minds and Bodies",
+    "hours": "36L",
+    "description": "Consciousness and its relation to the body; personal identity and survival; knowledge of other minds; psychological events and behaviour.",
+    "exclusions": "PHLB81H3",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL243H1": {
+    "code": "PHL243H1",
+    "name": "Philosophy of Human Sexuality",
+    "hours": "36L",
+    "description": "Philosophical issues about sex and sexual identity in the light of biological, psychological and ethical theories of sex and gender; the concept of gender; male and female sex roles; perverse sex; sexual liberation; love and sexuality.",
+    "exclusions": "PHLB12H3,  PHL243H5",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL244H1": {
+    "code": "PHL244H1",
+    "name": "Human Nature",
+    "hours": "36L",
+    "description": "Aspects of human nature, e.g., emotion, instincts, motivation. Theories of human nature, e.g., behaviourism, psychoanalysis.",
+    "exclusions": "PHLB91H3,  PHL244H5",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL245H1": {
+    "code": "PHL245H1",
+    "name": "Modern Symbolic Logic",
+    "hours": "36L",
+    "description": "An introduction to formal deductive logic. Semantics, symbolization, and techniques of natural deduction in sentential logic. Symbolization, natural deduction, and models in monadic predicate logic. Symbolization and natural deduction with polyadic predicates. Introduction to advanced concepts in first-order logic, such as operations, identity, and models.",
+    "exclusions": "PHLB50H3,  PHL245H5",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL246H1": {
+    "code": "PHL246H1",
+    "name": "Probability and Inductive Logic",
+    "hours": "36L",
+    "description": "The elements of axiomatic probability theory and its main interpretations (frequency, logical, and subjective). Reasoning with probabilities in decision-making and science.",
+    "exclusions": "PHL246H5",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL255H1": {
+    "code": "PHL255H1",
+    "name": "Philosophy of Science",
+    "hours": "24L/12T",
+    "description": "This course is an introduction to contemporary topics in the philosophy of science which serves as preparation for more advanced study in general philosophy of science and philosophy of the particular sciences. Topics may include the rise and fall of logical positivism, the problem of demarcation, falsificationism, confirmation, the connection between theory and observation, the value free ideal, and the epistemic authority of scientists.",
+    "exclusions": "HPS250H1",
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHL256H1": {
+    "code": "PHL256H1",
+    "name": "Philosophy of the Internet",
+    "hours": "36L",
+    "description": "The internet and digital technology have had a transformative impact on the economy, society and politics, art and culture, and everyday life. This course explores the fascinating, often urgent, new philosophical questions raised by these changes as well as the way they invite a rethinking of many older philosophical questions. Topics to be addressed may include ethical problems relating to artificial intelligence and algorithms; identity through social media; digital ownership and privacy; and collective/distributed knowledge in its relation to information, among others.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL265H1": {
+    "code": "PHL265H1",
+    "name": "Introduction to Political Philosophy",
+    "hours": "36L",
+    "description": "An introduction to central issues in political philosophy, e.g., political and social justice, liberty and the criteria of good government. The writings of contemporary political philosophers, as well as major figures in the history of philosophy, may be considered.",
+    "exclusions": "PHLB17H3,  PHL265H5",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "PHL268H1": {
+    "code": "PHL268H1",
+    "name": "Philosophy and Social Criticism",
+    "hours": "36L",
+    "description": "Is the objective of philosophy to understand and interpret the world, or to change it? A study of theorists who have taken philosophy to be a tool for social criticism. Topics studied may include feminism, critical race theory, anti-consumerism, the critique of mass society, new social movements and conservative cultural criticism.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "PHL269H1": {
+    "code": "PHL269H1",
+    "name": "Philosophy of Race",
+    "hours": "24L/12T",
+    "description": "What is the meaning of race? How does it affect political philosophy? Is there an ethics of race? These are some of the questions that will be covered in this course on the critical philosophy of race. Students will be introduced to problems concerning the metaphysics of race, race and political injustice, ethics and recognition, race and aesthetic critique, and others.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "PHL271H1": {
+    "code": "PHL271H1",
+    "name": "Law and Morality",
+    "hours": "36L",
+    "description": "Justifications for the legal enforcement of morality; particular ethical issues arising out of the intersection of law and morality, such as punishment, freedom of expression and censorship, autonomy and paternalism, constitutional protection of human rights.",
+    "exclusions": "PHLB11H3,  PHL271H5",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "PHL273H1": {
+    "code": "PHL273H1",
+    "name": "Environmental Ethics",
+    "hours": "36L",
+    "description": "A study of environmental issues raising questions of concern to moral and political philosophers, such as property rights, responsibility for future generations, and the interaction of human beings with the rest of nature. Typical issues: sustainable development, alternative energy, the preservation of wilderness areas, animal rights.",
+    "exclusions": "PHLB02H3,  PHL273H5",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "PHL275H1": {
+    "code": "PHL275H1",
+    "name": "Introduction to Ethics",
+    "hours": "36L",
+    "description": "An introduction to central issues in ethics or moral philosophy, such as the objectivity of values, the nature of moral judgements, rights and duties, the virtues, and consequentialism. Readings may be drawn from a variety of contemporary and historical sources.",
+    "exclusions": "PHLB07H3,  PHL275H5",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL276H1": {
+    "code": "PHL276H1",
+    "name": "Philosophy of Sports",
+    "hours": "24L/12T",
+    "description": "Sports play a complex role in contemporary society. They offer recreational participants a source of meaning in life and professional participants a livelihood. They inspire intense devotion from fans. They are a crucible for debates about fair play, medical enhancement, sex, gender, race, and sexuality. This course will explore the nature and ethics of sports.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "PHL277H1": {
+    "code": "PHL277H1",
+    "name": "Ethics and Data",
+    "hours": "24L/12T",
+    "description": "An introduction to fundamental ethical problems raised by \u201cBig Data.\u201d Topics may include: fairness in data collection; algorithmic discrimination; data privacy; and moral puzzles stemming from the application of machine learning to everyday decision-making.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL281H1": {
+    "code": "PHL281H1",
+    "name": "Bioethics",
+    "hours": "36L",
+    "description": "An introduction to the study of moral and legal problems in medical practice and in biomedical research; the development of health policy. Topics include: concepts of health and disease, patient rights, informed consent, allocation of scarce resources, euthanasia, abortion, genetic and reproductive technologies, human research, and mental health.",
+    "exclusions": "PHLB09H3,  PHL283H5",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "PHL285H1": {
+    "code": "PHL285H1",
+    "name": "Aesthetics",
+    "hours": "36L",
+    "description": "An historical and systematic introduction to the main questions in the philosophy of art and beauty from Plato to the present. These include the relation between art and beauty, the nature of aesthetic experience, definitions and theories of art, the criteria of excellence in the arts, and the function of art criticism.",
+    "exclusions": "PHLB03H3,  PHL285H5",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "PHL295H1": {
+    "code": "PHL295H1",
+    "name": "Business Ethics",
+    "hours": "36L",
+    "description": "Philosophical issues in ethics, social theory, and theories of human nature insofar as they bear on contemporary conduct of business. Issues include: Does business have moral responsibilities? Can social costs and benefits be calculated? Does modern business life determine human nature or the other way around? Do political ideas and institutions such as democracy have a role within business?",
+    "exclusions": "PHLB06H3,  PHL295H5",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "PHL299H1": {
+    "code": "PHL299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHL299Y1": {
+    "code": "PHL299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHL301H1": {
+    "code": "PHL301H1",
+    "name": "Early Greek Philosophy",
+    "hours": "36L",
+    "description": "A study of selected Greek philosophers before Plato. Topics may include the Pre-Socratic natural philosophers, Parmenides and the Eleatics, and the so-called sophistic movement.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "PHL200Y1"
+  },
+  "PHL302H1": {
+    "code": "PHL302H1",
+    "name": "Ancient Philosophy After Aristotle",
+    "hours": "36L",
+    "description": "A study of selected themes in post-Aristotelian philosophy. Topics may include Stoicism, Epicureanism, Neoplatonism, and various forms of scepticism.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "PHL200Y1"
+  },
+  "PHL303H1": {
+    "code": "PHL303H1",
+    "name": "Plato",
+    "hours": "36L",
+    "description": "Selected metaphysical, epistemological, and ethical themes in Plato\u2019s dialogues.",
+    "exclusions": "PHL301H5",
+    "breadth": 2,
+    "prereq_tree": "PHL200Y1"
+  },
+  "PHL304H1": {
+    "code": "PHL304H1",
+    "name": "Aristotle",
+    "hours": "36L",
+    "description": "Selected anthropological, ethical and metaphysical themes in the works of Aristotle.",
+    "exclusions": "PHL302H5",
+    "breadth": 2,
+    "prereq_tree": "PHL200Y1"
+  },
+  "PHL305H1": {
+    "code": "PHL305H1",
+    "name": "Classical Islamic Philosophy",
+    "hours": "36L",
+    "description": "An introduction to the major thinkers in classical Islamic philosophy, with emphasis placed on developing a properly philosophical understanding of the issues and arguments. Topics include the existence of God; creation and causality; human nature and knowledge; the nature of ethical obligations; and the constitution of the ideal political state.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PHL200Y1",
+        {
+          "credits": 7.5,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "PHL306H1": {
+    "code": "PHL306H1",
+    "name": "Post-Classical Islamic Philosophy",
+    "hours": "36L",
+    "description": "An advanced introduction to philosophical movements in the Islamic world in the wake of Avicenna. Topics include developments in metaphysics, epistemology, philosophy of mind, value theory, and philosophical methodology from the 12th to the 17th century that arose in response to new social, political, religious, and scientific currents.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 7.5,
+      "department": ""
+    }
+  },
+  "PHL307H1": {
+    "code": "PHL307H1",
+    "name": "Augustine",
+    "hours": "36L",
+    "description": "Central themes in St. Augustine's Christian philosophy, such as the problem of evil, the interior way to God, the goal of human life and the meaning of history.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL200Y1",
+        "PHL205H1"
+      ]
+    }
+  },
+  "PHL308H1": {
+    "code": "PHL308H1",
+    "name": "Aquinas",
+    "hours": "36L",
+    "description": "Philosophical innovations that St. Thomas Aquinas made in the course of constructing a systematic theology: essence and existence, the Five Ways, separate intelligences, the human soul and ethics.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL200Y1",
+        "PHL205H1",
+        "PHL206H1"
+      ]
+    }
+  },
+  "PHL309H1": {
+    "code": "PHL309H1",
+    "name": "Topics in Medieval Philosophy",
+    "hours": "36L",
+    "description": "Study of a major philosophical figure from the medieval period, such as Anselm, Abelard, Bonaventure, Maimonides, Avicenna, Duns Scotus, William of Ockham; or consideration of a central philosophical topic in a variety of medieval authors, for example, universals, individuation, the existence of God, free will and free choice, eternity and creation.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL200Y1",
+        "PHL205H1",
+        "PHL206H1"
+      ]
+    }
+  },
+  "PHL310H1": {
+    "code": "PHL310H1",
+    "name": "The Rationalists",
+    "hours": "36L",
+    "description": "Central philosophical problems in philosophers such as Descartes, Spinoza, Leibniz, and their contemporaries.",
+    "exclusions": "PHLC35H3",
+    "breadth": 2,
+    "prereq_tree": "PHL210Y1"
+  },
+  "PHL311H1": {
+    "code": "PHL311H1",
+    "name": "The Empiricists",
+    "hours": "36L",
+    "description": "Central philosophical problems in philosophers such as Locke, Berkeley, Hume, and their contemporaries.",
+    "exclusions": "PHLC36H3",
+    "breadth": 2,
+    "prereq_tree": "PHL210Y1"
+  },
+  "PHL313H1": {
+    "code": "PHL313H1",
+    "name": "Topics in 17th and 18th Century Philosophy",
+    "hours": "36L",
+    "description": "Central philosophical problems arising in the early modern period.",
+    "exclusions": "PHL313H5",
+    "breadth": 2,
+    "prereq_tree": "PHL210Y1"
+  },
+  "PHL314H1": {
+    "code": "PHL314H1",
+    "name": "Kant",
+    "hours": "36L",
+    "description": "A systematic study of The Critique of Pure Reason.",
+    "exclusions": "PHLC37H3,  PHL314H5",
+    "breadth": 2,
+    "prereq_tree": "PHL210Y1"
+  },
+  "PHL315H1": {
+    "code": "PHL315H1",
+    "name": "Topics in 19th-Century Philosophy",
+    "hours": "36L",
+    "description": "Central philosophical problems arising in the 19th century.",
+    "exclusions": "PHL315H5",
+    "breadth": 2,
+    "prereq_tree": "PHL210Y1"
+  },
+  "PHL316H1": {
+    "code": "PHL316H1",
+    "name": "Hegel",
+    "hours": "36L",
+    "description": "An examination of Hegel's project of absolute knowing, its philosophical assumptions, and its implications for history, science and experience.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "PHL210Y1"
+  },
+  "PHL317H1": {
+    "code": "PHL317H1",
+    "name": "Marx and Marxism",
+    "hours": "36L",
+    "description": "An examination of some of the leading themes in the philosophy of Karl Marx. Developments of Marxist philosophy by later thinkers, and critics of Marxism, may also be considered.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL319H1": {
+    "code": "PHL319H1",
+    "name": "Philosophy and Psychoanalytic Theory",
+    "hours": "36L",
+    "description": "A study of the fundamentals of psychoanalytic theory from a philosophical perspective, focusing on the works of Freud and others. Topics include mind (conscious and unconscious), instinctual drives, mechanisms of defence, the structure of personality, civilization, the nature of conscience, and the status of psychoanalysis.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL320H1": {
+    "code": "PHL320H1",
+    "name": "Phenomenology",
+    "hours": "36L",
+    "description": "Phenomenology is a method used in the analysis of human awareness and subjectivity. It has been applied in the social sciences, in the humanities, and in philosophy. Texts studied are from Husserl and later practitioners, e.g., Heidegger, Sartre, Merleau-Ponty, Gurwitsch, and Ricoeur.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL210Y1",
+        "PHL217H1"
+      ]
+    }
+  },
+  "PHL321H1": {
+    "code": "PHL321H1",
+    "name": "Heidegger",
+    "hours": "36L",
+    "description": "Some work from the 1920s (either Being and Time or contemporary lectures) and selections from Heidegger's later work on poetry, technology, and history are studied. Heidegger's position within phenomenology and within the broader history of thought is charted.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "PHL217H1"
+  },
+  "PHL323H1": {
+    "code": "PHL323H1",
+    "name": "Social and Cultural Theory",
+    "hours": "36L",
+    "description": "A study of philosophical approaches to understanding various aspects of contemporary culture and/or society. Topics may include theories of modernity, capitalism and consumerism, architecture and design, cultural pluralism, globalization, media and internet.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "PHL325H1": {
+    "code": "PHL325H1",
+    "name": "Early Analytic Philosophy",
+    "hours": "36L",
+    "description": "An examination of some of the classic texts of early analytic philosophy, concentrating on the work of Frege, Russell, and Wittgenstein.",
+    "exclusions": "PHLC43H3,  PHL325H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL245H1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT157Y1",
+            "PHL232H1"
+          ]
+        },
+        "PHL233H1",
+        "PHL240H1"
+      ]
+    }
+  },
+  "PHL327H1": {
+    "code": "PHL327H1",
+    "name": "Ethics and Religion in Sanskrit Philosophy",
+    "hours": "36L",
+    "description": "This course covers topics in Sanskrit philosophy, with a special focus on ethics and/or philosophy of religion. Students will investigate specific primary texts (in translation) and will learn how to recognize and analyze the philosophical arguments they contain. Example texts and ideas include: theology and atheism in various Sanskrit schools (with selected readings from Dharmak\u012brti, Udayana, R\u0101m\u0101nuja etc.); the place of ethics in Sanskrit philosophy and beyond (with selected readings from \u015a\u0101ntideva, B.K. Matilal and epic and juridical texts).",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 7.5,
+      "department": ""
+    }
+  },
+  "PHL328H1": {
+    "code": "PHL328H1",
+    "name": "Metaphysics and Epistemology in Sanskrit Philosophy",
+    "hours": "36L",
+    "description": "This course covers topics in Sanskrit philosophy, with a special focus on metaphysics and epistemology (and related issues in philosophy of language and logic). Students will investigate specific primary texts (in translation) and will learn how to recognize and analyze the philosophical arguments they contain. Example texts and ideas include: the Upani\u1e63ads, the Mah\u0101bh\u0101rata, the Buddhist dialogues, the Ny\u0101ya- and Vai\u015be\u1e63ika-s\u016btra, the works of Dign\u0101ga, and others.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 7.5,
+      "department": ""
+    }
+  },
+  "PHL329H1": {
+    "code": "PHL329H1",
+    "name": "Topics in 20th Century Continental Philosophy",
+    "hours": "36L",
+    "description": "Selected topics and themes in continental philosophy of the 20th century, drawing on such approaches as hermeneutics, phenomenology, critical theory, structuralism, deconstruction, feminism, psychoanalysis, and post-colonial theory. Authors and texts will vary, but may include such authors as: Adorno, Arendt, Benjamin, Bloch, Deleuze, Derrida, Fanon, Foucault, Freud, Gadamer, Habermas, Heidegger, Irigaray, Kristeva, Lacan, Levi-Strauss, Levinas, Merleau-Ponty.",
+    "exclusions": "PHL322H1,  PHL324H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 8.0,
+          "department": ""
+        },
+        "PHL217H1",
+        {
+          "credits": 1.5,
+          "department": "PHL"
+        }
+      ]
+    }
+  },
+  "PHL330H1": {
+    "code": "PHL330H1",
+    "name": "Contemporary Continental Philosophy",
+    "hours": "36L",
+    "description": "A discussion of selected problems and debates in recent Continental philosophy. Authors and texts will vary, but may include such authors as: Giorgio Agamben, Alain Badiou, \u00c9tienne Balibar, Judith Butler, Jacques Derrida, Catherine Malabou, Achille Mbembe, Quentin Meillassoux, Jean-Luc Nancy, Jacques Ranci\u00e8re, Gayatri Spivak, Slavoj \u017di\u017eek, Sylvia Wynter.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 8.0,
+          "department": ""
+        },
+        "PHL217H1",
+        {
+          "credits": 1.5,
+          "department": "PHL"
+        }
+      ]
+    }
+  },
+  "PHL331H1": {
+    "code": "PHL331H1",
+    "name": "Metaphysics",
+    "hours": "36L",
+    "description": "Historical and systematic approaches to topics in metaphysics, such as the nature of reality, substance and existence, necessity and possibility, causality, universals and particulars.",
+    "exclusions": "PHLC60H3,  PHL332H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 7.5,
+              "department": ""
+            },
+            "PHL245H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT157Y1",
+            "PHL232H1"
+          ]
+        },
+        "PHL233H1",
+        "PHL240H1"
+      ]
+    }
+  },
+  "PHL332H1": {
+    "code": "PHL332H1",
+    "name": "Epistemology",
+    "hours": "36L",
+    "description": "Historical and systematic approaches to topics in the theory of knowledge, such as truth, belief, justification, perception, a priori knowledge, certitude, skepticism, other minds.",
+    "exclusions": "PHLC20H3,  PHL333H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL232H1",
+        "PHL233H1"
+      ]
+    }
+  },
+  "PHL333H1": {
+    "code": "PHL333H1",
+    "name": "Puzzles and Paradoxes",
+    "hours": "36L",
+    "description": "Time travel, truth, infinity, rational decision making: each of these topics gives rise to philosophical puzzles and paradoxes. In this class we'll consider a variety of such paradoxes. Using logic and other philosophical tools, we'll show how these paradoxes can lead to deep and important philosophical conclusions.",
+    "exclusions": "PHLB55H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 7.5,
+              "department": ""
+            },
+            {
+              "credits": 1.5,
+              "department": "PHI"
+            },
+            "PHL245H1"
+          ]
+        },
+        "MAT157Y1"
+      ]
+    }
+  },
+  "PHL334H1": {
+    "code": "PHL334H1",
+    "name": "Mind and Language in Chinese Thought",
+    "hours": null,
+    "description": "Issues in the philosophy of mind and language played a crucial role in the philosophical discourse of classical China. This course will guide students in reconstructing this role and exploring its philosophical significance by interpreting and critically evaluating selected early Chinese philosophical texts that treat mind, language, and interrelated aspects of psychology. Topics to be discussed include the nature and functions of names and speech; the role of \u201ccorrecting names\u201d; semantic theory and argumentation; perception and knowledge; the role of language in knowledge and action; and the ontological grounds of linguistic distinctions. Texts to be discussed include the Analects, Gu\u01cenz\u01d0, M\u00f2z\u01d0, M\u00e8ngz\u01d0, D\u00e0od\u00e9j\u012bng, X\u00fanz\u01d0, Zhu\u0101ngz\u01d0, and Annals of Mr. L\u01da.",
+    "exclusions": "EAS338H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 7.5,
+          "department": ""
+        },
+        {
+          "credits": 1.5,
+          "department": "PHL"
+        },
+        "PHL237H1"
+      ]
+    }
+  },
+  "PHL335H1": {
+    "code": "PHL335H1",
+    "name": "Issues in Philosophy of Religion",
+    "hours": "36L",
+    "description": "Some specific problem(s) in the philosophy of religion, such as the relationship of religious faith and religious belief, the ontological argument for the existence of God, theories about divine transcendence, the philosophical presuppositions of religious doctrines, the modern critique of religion.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL337H1": {
+    "code": "PHL337H1",
+    "name": "Classical Chinese Ethics",
+    "hours": "36L",
+    "description": "This course explores and critiques personal and social ethical ideals as presented in early Chinese Confucian, Mohist, and Daoist writings and considers their relevance to issues in contemporary ethics. Major texts discussed include the Analects, M\u00e8ngz\u01d0, X\u00fanz\u01d0, M\u00f2z\u01d0, D\u00e0od\u00e9j\u012bng, and Zhu\u0101ngz\u01d0. Central questions examined include: What is the way (d\u00e0o)? What standards can guide us in following the way? What grounds can we have for confidence that these are the correct standards? What kind of person should we strive to be? What is virtue (d\u00e9)? What values take priority in a life of virtue? How does the person of virtue act?",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 7.5,
+          "department": ""
+        },
+        {
+          "credits": 1.5,
+          "department": "PHL"
+        },
+        "PHL237H1"
+      ]
+    }
+  },
+  "PHL338H1": {
+    "code": "PHL338H1",
+    "name": "Jewish Philosophy",
+    "hours": "36L",
+    "description": "A selection of texts and issues in Jewish philosophy, for example, Maimonides' Guide of the Perplexed, Buber's The Prophetic Faith, prophecy and revelation, Divine Command and morality, creation and eternity, the historical dimension of Jewish thought.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL340H1": {
+    "code": "PHL340H1",
+    "name": "Issues in Philosophy of Mind",
+    "hours": "36L",
+    "description": "Typical issues include: the mind-brain identity theory; intentionality and the mental; personal identity.",
+    "exclusions": "PHLC95H3,  PHL340H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "COG250Y1",
+        "PHL240H1"
+      ]
+    }
+  },
+  "PHL341H1": {
+    "code": "PHL341H1",
+    "name": "Freedom, Responsibility, and Human Action",
+    "hours": "36L",
+    "description": "Human action, and the nature of freedom and responsibility in the light of contemporary knowledge concerning the causation of behaviour.",
+    "exclusions": "PHL341H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL210Y1",
+        "PHL232H1",
+        "PHL233H1",
+        "PHL240H1"
+      ]
+    }
+  },
+  "PHL342H1": {
+    "code": "PHL342H1",
+    "name": "Minds and Machines",
+    "hours": "36L",
+    "description": "An investigation of philosophical questions raised by contemporary cognitive science and artificial intelligence (AI). Possible topics to be addressed: whether machines could think and be conscious; the computational theory of mind; embodied cognition and the extended mind hypothesis; the \u201csingularity\u201d; and moral and political implications of machine learning research.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 8.0,
+              "department": ""
+            },
+            "COG250Y1"
+          ]
+        },
+        {
+          "credits": 1.5,
+          "department": "PHL"
+        }
+      ]
+    }
+  },
+  "PHL344H1": {
+    "code": "PHL344H1",
+    "name": "Philosophy of Emotions",
+    "hours": "36L",
+    "description": "A survey of philosophical topics related to the emotions, from a range of philosophical perspectives. Questions to be considered may include the following: What exactly is an emotion? Are emotions feelings? What emotions are there, and how are they shaped by culture and society? How are emotions related to reason, the brain and the body? What role do -- and should -- the emotions play in decision-making? Can an emotion be morally right or wrong, and what makes it so?",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL240H1",
+        "PHL244H1",
+        "PHL342H1"
+      ]
+    }
+  },
+  "PHL345H1": {
+    "code": "PHL345H1",
+    "name": "Intermediate Logic",
+    "hours": "36L",
+    "description": "A continuation of  PHL245H1, requiring no other prior knowledge of philosophy or mathematics. First-order logic, including basic metalogical results such as soundness and completeness. An introduction to basic set theory and metalogic. Topics may include the Loewenheim-Skolem theorems for first-order logic, Goedel\u2019s incompleteness theorems.",
+    "exclusions": "PHLC51H3,  PHL345H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL245H1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "PHL347H1": {
+    "code": "PHL347H1",
+    "name": "Modal Logic and Philosophical Applications of Logic",
+    "hours": "36L",
+    "description": "Formal study of the concepts of necessity and possibility, modal, propositional and quantificational logic, possible-worlds semantics, and the metaphysics of modality. Other topics may include counterfactuals, truth, vagueness, epistemic logic, temporal logic, or non-classical logic.",
+    "exclusions": "PHL347H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL245H1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "PHL348H1": {
+    "code": "PHL348H1",
+    "name": "Logic and Computation",
+    "hours": "36L",
+    "description": "Topics will include Kurt G\u00f6del's celebrated incompleteness theorems, the technical ideas and methods involved in proving them, their relation to the abstract theory of computation, and their philosophical implications. Are there mathematical truths that cannot be known? Are mathematical concepts such as number and set indeterminate to some extent? Are there limits to what can be modeled formally?",
+    "exclusions": "MAT309H1/ CSC438H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL245H1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "PHL349H1": {
+    "code": "PHL349H1",
+    "name": "Set Theory",
+    "hours": "36L",
+    "description": "An introduction to set theory emphasizing its philosophical relevance as a unifying framework for mathematics and logic. Topics examined may include the paradoxes of the 'na\u00efve' conception of sets and their resolution through axiomatization, the construction of natural numbers and real numbers in set theory, equivalents of the axiom of choice, and model theory.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL245H1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "PHL351H1": {
+    "code": "PHL351H1",
+    "name": "Philosophy of Language",
+    "hours": "36L",
+    "description": "The nature of language as a system of human communication, theories of meaning and meaningfulness, the relation of language to the world and to the human mind.",
+    "exclusions": "PHLC80H3,  PHL350H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL245H1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT157Y1",
+            "PHL232H1"
+          ]
+        },
+        "PHL233H1",
+        "PHL240H1"
+      ]
+    }
+  },
+  "PHL354H1": {
+    "code": "PHL354H1",
+    "name": "Philosophy of Mathematics",
+    "hours": "36L",
+    "description": "Platonism versus nominalism, the relation between logic and mathematics, implications of G\u00f6del's theorem, formalism and intuitionism.",
+    "exclusions": "PHL346H1,  PHL346H5,  PHL344H5,  PHL354H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL245H1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "PHL355H1": {
+    "code": "PHL355H1",
+    "name": "Philosophy of Natural Science",
+    "hours": "36L",
+    "description": "The structure and methods of science: explanation, methodology, realism and instrumentalism.",
+    "exclusions": "PHL355H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 7.5,
+              "department": ""
+            },
+            "PHL255H1",
+            {
+              "credits": 1.0,
+              "department": "PHL"
+            }
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 1.5,
+              "department": "PHL"
+            },
+            "HPS250H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PHL356H1": {
+    "code": "PHL356H1",
+    "name": "Philosophy of Physics",
+    "hours": "36L",
+    "description": "Introduction to philosophical issues which arise in modern physics, especially in relativity and quantum mechanics. This course will be accessible to students without a significant background in physics, but with an interest in the philosophical challenges that modern physics poses.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHL357H1": {
+    "code": "PHL357H1",
+    "name": "Philosophy of Biology",
+    "hours": "36L",
+    "description": "Philosophical issues in the foundations of biology, e.g., the nature of life, evolutionary theory; controversies about natural selection; competing mechanisms, units of selection; the place of teleology in biology; biological puzzles about sex and sexual reproduction; the problem of species; genetics and reductionism; sociobiology; natural and artificial life.",
+    "exclusions": "PHL357H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 7.5,
+              "department": ""
+            },
+            "PHL255H1",
+            {
+              "credits": 1.0,
+              "department": "PHL"
+            },
+            {
+              "credits": 1.5,
+              "department": "PHL"
+            },
+            "HPS250H1"
+          ]
+        },
+        {
+          "credits": 1.5,
+          "department": "BCH"
+        }
+      ]
+    }
+  },
+  "PHL358H1": {
+    "code": "PHL358H1",
+    "name": "Philosophy of Psychiatry",
+    "hours": "36L",
+    "description": "An advanced introduction to topics at the intersection of philosophy and psychiatry. Topics may include: what makes something a psychiatric disease? What can psychiatric syndromes tell us about the nature of moods and decision-making? Do some psychiatric patients act with less agency, and should they have less moral or criminal responsibility?",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "credits": 8.0,
+          "department": ""
+        },
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 1.0,
+              "department": "PHL"
+            },
+            "PSY240H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PHL362H1": {
+    "code": "PHL362H1",
+    "name": "Philosophy of History",
+    "hours": "36L",
+    "description": "Typical questions include: Has history any meaning? Can there be general theories of history? How are the findings of historians related to the theories of metaphysics and of science? Is history deterministic? Must the historian make value judgements? Is history science or an art? Are there historical forces or spirits of an epoch?",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL365H1": {
+    "code": "PHL365H1",
+    "name": "Political Philosophy",
+    "hours": "36L",
+    "description": "A study of some of the central problems of political philosophy, addressed by historical and contemporary political theorists.",
+    "exclusions": "PHLC92H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL265H1",
+        "POL200Y1"
+      ]
+    }
+  },
+  "PHL366H1": {
+    "code": "PHL366H1",
+    "name": "Topics in Political Philosophy",
+    "hours": "39L",
+    "description": "A focused examination of a selected issue in political philosophy.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL265H1",
+        "POL200Y1"
+      ]
+    }
+  },
+  "PHL367H1": {
+    "code": "PHL367H1",
+    "name": "Philosophy of Feminism",
+    "hours": "36L",
+    "description": "Selected issues and topics in the philosophy of feminism.",
+    "exclusions": "PHLC13H3,  PHL367H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL265H1",
+        "PHL268H1"
+      ]
+    }
+  },
+  "PHL369H1": {
+    "code": "PHL369H1",
+    "name": "Philosophy of Race, Gender, and Capitalism",
+    "hours": "36L",
+    "description": "How should our understanding of capitalism be shaped by the realities of racial domination and gender oppression? What are the different accounts of justice and injustice that would emerge from trying to think through these three phenomena together? Or are they really one phenomenon? This course will survey the complex philosophical debates, both historical and contemporary, concerning the specificities and interrelationships between race, gender, and capitalism.",
+    "exclusions": "PHLC13H3,  PHL367H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 8.0,
+              "department": ""
+            },
+            "PHL265H1"
+          ]
+        },
+        "PHL268H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHL269H1",
+            {
+              "credits": 1.5,
+              "department": "PHL"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PHL370H1": {
+    "code": "PHL370H1",
+    "name": "Issues in Philosophy of Law",
+    "hours": "36L",
+    "description": "Major issues in philosophy of law, such as legal positivism and its critics, law and liberalism, feminist critiques of law, punishment and responsibility.",
+    "exclusions": "PHL370H5",
+    "breadth": 2,
+    "prereq_tree": "PHL271H1"
+  },
+  "PHL373H1": {
+    "code": "PHL373H1",
+    "name": "Issues in Environmental Ethics",
+    "hours": "36L",
+    "description": "An intermediate-level examination of key issues in environmental philosophy, such as the ethics of animal welfare, duties to future generations, deep ecology, ecofeminism, sustainable development and international justice.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "PHL273H1"
+  },
+  "PHL375H1": {
+    "code": "PHL375H1",
+    "name": "Ethics",
+    "hours": "36L",
+    "description": "An intermediate-level study of selected issues in moral philosophy, or of influential contemporary or historical works in ethical theory.",
+    "exclusions": "PHLC05H3",
+    "breadth": 2,
+    "prereq_tree": "PHL275H1"
+  },
+  "PHL376H1": {
+    "code": "PHL376H1",
+    "name": "Topics in Moral Philosophy",
+    "hours": "36L",
+    "description": "A focused examination of a selected issue in moral philosophy.",
+    "exclusions": "PHLC06H3",
+    "breadth": 2,
+    "prereq_tree": "PHL275H1"
+  },
+  "PHL377H1": {
+    "code": "PHL377H1",
+    "name": "Ethical Issues in Big Data",
+    "hours": "36L",
+    "description": "An intermediate-level treatment of fundamental ethical problems arising in \u201cBig Data\u201d and artificial intelligence. Formal tools from economics and statistics will be applied to emerging ethical technology issues such as model transparency, data bias, and privacy. Broader political issues such as the geopolitics of AI may also be covered.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": "ANY"
+            },
+            "PHL273H1"
+          ]
+        },
+        "PHL275H1",
+        "PHL281H1",
+        "PHL295H1"
+      ]
+    }
+  },
+  "PHL378H1": {
+    "code": "PHL378H1",
+    "name": "War and Morality",
+    "hours": "36L",
+    "description": "Moral and political issues concerning warfare: the theory of the just war, pacifism, moral constraints on the conduct of war, war as an instrument of foreign policy, the strategy of deterrence. Special attention to the implications of nuclear weapons.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL265H1",
+        "PHL275H1"
+      ]
+    }
+  },
+  "PHL380H1": {
+    "code": "PHL380H1",
+    "name": "Global Bioethics",
+    "hours": "36L",
+    "description": "An intermediate-level study of moral problems that arise in international contexts, including issues of special interest in bioethics: moral universalism and relativism; global distributive justice; poverty relief and international aid; international health disparities; globalization and health; HIV/AIDS; intellectual property and access to essential medicines; clinical trials in developing countries; exploitation and the 10/90 gap.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "PHL281H1"
+  },
+  "PHL381H1": {
+    "code": "PHL381H1",
+    "name": "Ethics and Medical Research",
+    "hours": "36L",
+    "description": "An intermediate-level study of problems in biomedical and behavioural research with human subjects: informed voluntary consent, risk and benefit, experimental therapy, randomized clinical trials, research codes and legal issues, dependent groups (human embryos, children, the aged, hospital patients, the dying, prisoners, the mentally ill.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "PHL281H1"
+  },
+  "PHL382H1": {
+    "code": "PHL382H1",
+    "name": "Ethics: Death and Dying",
+    "hours": "36L",
+    "description": "An intermediate-level study of moral and legal problems, including the philosophical significance of death, the high-tech prolongation of life, definition and determination of death, suicide, active and passive euthanasia, the withholding of treatment, palliative care and the control of pain, living wills; recent judicial decisions.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "PHL281H1"
+  },
+  "PHL383H1": {
+    "code": "PHL383H1",
+    "name": "Ethics and Mental Health",
+    "hours": "36L",
+    "description": "An intermediate-level study of moral and legal problems, including the concepts of mental health and illness, mental competence, dangerousness and psychiatric confidentiality, mental institutionalization, involuntary treatment and behaviour control, controversial therapies; legal issues: the Mental Health Act, involuntary commitment, the insanity defence.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "PHL281H1"
+  },
+  "PHL384H1": {
+    "code": "PHL384H1",
+    "name": "Ethics, Genetics and Reproduction",
+    "hours": "36L",
+    "description": "An intermediate-level study of moral and legal problems, including the ontological and moral status of the human embryo and fetus; human newborn, carrier and prenatal genetic screening for genetic defect, genetic therapy; the reproductive technologies (e.g., artificial insemination, in vitro fertilization); recent legislative proposals and judicial decisions.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "PHL281H1"
+  },
+  "PHL385H1": {
+    "code": "PHL385H1",
+    "name": "Issues in Aesthetics",
+    "hours": "36L",
+    "description": "Selected topics in the philosophy of art. Such issues as the following are discussed: whether different arts require different aesthetic principles; relations between art and language; the adequacy of traditional aesthetics to recent developments in the arts; art as an institution.",
+    "exclusions": "PHLC03H3",
+    "breadth": 1,
+    "prereq_tree": null
+  }
+}

@@ -1,0 +1,1680 @@
+{
+  "CLA299H1": {
+    "code": "CLA299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CLA299Y1": {
+    "code": "CLA299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CLA303H1": {
+    "code": "CLA303H1",
+    "name": "The Ancient Novel",
+    "hours": "36S",
+    "description": "An introduction to the Greek romances of love and adventure (Chariton, Longus, Heliodorus), and the more ironical and socially conscious works of the Roman writers Petronius and Apuleius.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA204H1"
+          ]
+        },
+        "CLA219H1",
+        "CLA222H1",
+        "CLA223H1",
+        "CLA224H1",
+        "CLA232H1",
+        "CLA233H1",
+        "CLA236H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA305H1": {
+    "code": "CLA305H1",
+    "name": "Theories of Myth",
+    "hours": "36S",
+    "description": "A detailed study of the major modern approaches to the analysis and interpretation of myth with specific reference to their applications to ancient Graeco-Roman myth.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "CLA204H1",
+            "CLA160H1"
+          ]
+        },
+        "CLA170H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA308H1": {
+    "code": "CLA308H1",
+    "name": "Religion in the Greek World",
+    "hours": "36S",
+    "description": "A study of the religious cults and forms of worship in the ancient Greek world.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA204H1"
+          ]
+        },
+        "CLA208H1",
+        "CLA209H1",
+        "CLA210H1",
+        "CLA222H1",
+        "CLA223H1",
+        "CLA224H1",
+        "CLA230H1",
+        "CLA232H1",
+        "CLA236H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA310H1": {
+    "code": "CLA310H1",
+    "name": "Religion in the Roman World",
+    "hours": "36S",
+    "description": "A study of the religious cults and forms of worship in the Roman world, including the pagan cults, Judaism, and early Christianity.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA204H1"
+          ]
+        },
+        "CLA208H1",
+        "CLA209H1",
+        "CLA210H1",
+        "CLA222H1",
+        "CLA223H1",
+        "CLA224H1",
+        "CLA231H1",
+        "CLA233H1",
+        "CLA236H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA312H1": {
+    "code": "CLA312H1",
+    "name": "Persons and Passions",
+    "hours": "36L",
+    "description": "Ancient Greek and Roman thought about the emotions and the relationship that individuals have, or ought to have, with them. Primary sources in translation drawn from ancient literary, medical and philosophical texts.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA208H1"
+          ]
+        },
+        "CLA209H1",
+        "CLA222H1",
+        "CLA223H1",
+        "CLA224H1",
+        "CLA230H1",
+        "CLA231H1",
+        "CLA232H1",
+        "CLA233H1",
+        "CLA260H1",
+        "PHL200Y1"
+      ]
+    }
+  },
+  "CLA314H1": {
+    "code": "CLA314H1",
+    "name": "Slavery in the Ancient Mediterranean World",
+    "hours": "36S",
+    "description": "A study of slavery and slave systems in ancient Greek and Roman societies.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA210H1"
+          ]
+        },
+        "CLA215H1",
+        "CLA217H1",
+        "CLA219H1",
+        "CLA230H1",
+        "CLA231H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA315H1": {
+    "code": "CLA315H1",
+    "name": "Insider-Outsiders: Being Greek in the Roman Empire",
+    "hours": "36L",
+    "description": "This course looks at Greek culture in the Roman imperial context. Topics include the Second Sophistic; the creation of canons and the idea of the \"Classics\"; alterity; the rise of Christianity; cultural loss and nostalgia; the fiction of Greece as a site of cultural capital and prestige. Authors including Pausanias, Philostratus, Plutarch, Aristides, Galen, and Lucian are read in translation.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA222H1"
+          ]
+        },
+        "CLA223H1",
+        "CLA224H1",
+        "CLA230H1",
+        "CLA231H1",
+        "CLA232H1",
+        "CLA233H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA317H1": {
+    "code": "CLA317H1",
+    "name": "Greek and Roman Colonialism",
+    "hours": "36L",
+    "description": "An exploration of the motivations and consequences of colonial movements and foundations throughout classical antiquity, and the role of race and ethnicity in ancient structures of colonial power. Includes consideration of their influence on later colonial and imperial projects and reactions to them.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA217H1"
+          ]
+        },
+        "CLA230H1",
+        "CLA231H1",
+        "CLA232H1",
+        "CLA233H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA319H1": {
+    "code": "CLA319H1",
+    "name": "Sexuality and Gender in Classical Literature",
+    "hours": "36S",
+    "description": "Detailed study of the representation of sexuality and gender in Greek and/or Roman literary texts from one or more genres.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA219H1"
+          ]
+        },
+        "CLA222H1",
+        "CLA223H1",
+        "CLA224H1",
+        "CLA232H1",
+        "CLA233H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA321H1": {
+    "code": "CLA321H1",
+    "name": "Sport and Festival",
+    "hours": "36S",
+    "description": "An examination of various aspects of athletic competition in the ancient Greco-Roman world, employing literary and archaeological evidence.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA210H1"
+          ]
+        },
+        "CLA222H1",
+        "CLA223H1",
+        "CLA224H1",
+        "CLA230H1",
+        "CLA231H1",
+        "CLA232H1",
+        "CLA233H1",
+        "CLA236H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA322H1": {
+    "code": "CLA322H1",
+    "name": "Classical Reception",
+    "hours": "36S",
+    "description": "Modern reception of the classical world in a variety of media, such as art, literature, music, popular culture, etc.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA204H1"
+          ]
+        },
+        "CLA219H1",
+        "CLA222H1",
+        "CLA223H1",
+        "CLA224H1",
+        "CLA230H1",
+        "CLA231H1",
+        "CLA232H1",
+        "CLA233H1",
+        "CLA236H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA323H1": {
+    "code": "CLA323H1",
+    "name": "Ancient Philosophy and Literature",
+    "hours": "36S",
+    "description": "A study of some of the ways in which ancient Greek and Roman philosophy was itself a literary endeavour, and its relations to other kinds of ancient literature.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA203H1"
+          ]
+        },
+        "CLA204H1",
+        "CLA208H1",
+        "CLA222H1",
+        "CLA223H1",
+        "CLA224H1",
+        "CLA232H1",
+        "CLA233H1",
+        "CLA236H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA336H1": {
+    "code": "CLA336H1",
+    "name": "Law in Ancient Greek and Roman Society",
+    "hours": "36S",
+    "description": "A study of legal sources and systems in ancient Greek and/or Roman states with particular attention to social and historical context.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA210H1"
+          ]
+        },
+        "CLA215H1",
+        "CLA219H1",
+        "CLA230H1",
+        "CLA231H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA362H1": {
+    "code": "CLA362H1",
+    "name": "Early Greece",
+    "hours": "36S",
+    "description": "The Greek world from the second millennium B.C.E. to the emergence of the polis",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA210H1"
+          ]
+        },
+        "CLA230H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA363H1": {
+    "code": "CLA363H1",
+    "name": "Archaic and Classical Greece",
+    "hours": "36S",
+    "description": "The Greek world from the eighth to the fourth centuries B.C.E., with an emphasis on political events and development.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA210H1"
+          ]
+        },
+        "CLA230H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA364H1": {
+    "code": "CLA364H1",
+    "name": "The Hellenistic World",
+    "hours": "36S",
+    "description": "The Greek world in the age of Alexander the Great and his successors (336 B.C.E. to 31 B.C.E.)",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA210H1"
+          ]
+        },
+        "CLA230H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA367H1": {
+    "code": "CLA367H1",
+    "name": "The Roman Republic",
+    "hours": "36S",
+    "description": "The Roman world from 510 B.C.E. to 44 B.C.E.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA210H1"
+          ]
+        },
+        "CLA231H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA368H1": {
+    "code": "CLA368H1",
+    "name": "Augustus and the Julio-Claudians",
+    "hours": "36S",
+    "description": "The Roman world in the age of Augustus and his dynasty (44 B.C.E. to 68 C.E.)",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA210H1"
+          ]
+        },
+        "CLA231H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA369H1": {
+    "code": "CLA369H1",
+    "name": "The Roman Empire",
+    "hours": "36S",
+    "description": "The Roman world from 68 C.E. to 378 C.E.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA210H1"
+          ]
+        },
+        "CLA231H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA372H1": {
+    "code": "CLA372H1",
+    "name": "The Economic History of the Classical World",
+    "hours": "36S",
+    "description": "The structure and performance of economies in the Greek and/or Roman worlds, and their modern interpretation.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA210H1"
+          ]
+        },
+        "CLA230H1",
+        "CLA231H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA373H1": {
+    "code": "CLA373H1",
+    "name": "The Environment in the Greco-Roman World",
+    "hours": "36S",
+    "description": "An exploration of the ecology and environment of the ancient Mediterranean basin in classical antiquity.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA210H1"
+          ]
+        },
+        "CLA230H1",
+        "CLA231H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA378H1": {
+    "code": "CLA378H1",
+    "name": "Late Antiquity",
+    "hours": "36S",
+    "description": "The history and culture of the Greco-Roman world during the fourth through seventh centuries C.E., with particular emphasis on the decline of the Roman state and emergence of Christianity.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA210H1"
+          ]
+        },
+        "CLA231H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA382H1": {
+    "code": "CLA382H1",
+    "name": "Tragedy",
+    "hours": "36S",
+    "description": "The study of classical tragedy as a literary genre, dramatic production, and social institution, with analysis of representative plays.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA204H1"
+          ]
+        },
+        "CLA219H1",
+        "CLA222H1",
+        "CLA223H1",
+        "CLA224H1",
+        "CLA230H1",
+        "CLA232H1",
+        "CLA236H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA383H1": {
+    "code": "CLA383H1",
+    "name": "Comedy",
+    "hours": "36S",
+    "description": "The origin and development of Greek and Roman comedy, based on a study of representative plays.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA219H1"
+          ]
+        },
+        "CLA222H1",
+        "CLA223H1",
+        "CLA224H1",
+        "CLA230H1",
+        "CLA231H1",
+        "CLA232H1",
+        "CLA233H1",
+        "CLA236H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA387H1": {
+    "code": "CLA387H1",
+    "name": "Spectacle in the Roman World",
+    "hours": "36S",
+    "description": "The role in Roman society and culture of public spectacles, including the chariot-races, the gladiatorial games, executions, and triumphal processions.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA231H1"
+          ]
+        },
+        "CLA233H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA388H1": {
+    "code": "CLA388H1",
+    "name": "Classical Antiquity and the Cinema",
+    "hours": "36S",
+    "description": "A study of the representation of ancient Greece and/ or Rome in cinema.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA219H1"
+          ]
+        },
+        "CLA222H1",
+        "CLA223H1",
+        "CLA224H1",
+        "CLA232H1",
+        "CLA233H1",
+        "CLA260H1",
+        "CIN105Y1"
+      ]
+    }
+  },
+  "CLA389H1": {
+    "code": "CLA389H1",
+    "name": "Classical Spaces: Sites and Monuments",
+    "hours": "36S",
+    "description": "A close study of one or more sites in the ancient world and the cultural significance of the site(s) in question.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CLA160H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CLA170H1",
+            "CLA210H1"
+          ]
+        },
+        "CLA230H1",
+        "CLA231H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA392H1": {
+    "code": "CLA392H1",
+    "name": "Topics in the study of Classical Culture and Society",
+    "hours": "36S",
+    "description": "Topics vary from year to year.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "CLA160H1",
+            "CLA210H1"
+          ]
+        },
+        "CLA219H1",
+        "CLA230H1",
+        "CLA231H1",
+        "CLA232H1",
+        "CLA233H1",
+        "CLA260H1"
+      ]
+    }
+  },
+  "CLA398H0": {
+    "code": "CLA398H0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CLA398Y0": {
+    "code": "CLA398Y0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CLA399H1": {
+    "code": "CLA399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CLA399Y1": {
+    "code": "CLA399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CLA400H1": {
+    "code": "CLA400H1",
+    "name": "Independent Studies",
+    "hours": null,
+    "description": "Independent Studies. Not eligible for CR/NCR option.",
+    "exclusions": "CLA400Y1",
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CLA401H1": {
+    "code": "CLA401H1",
+    "name": "Independent Studies",
+    "hours": null,
+    "description": "Independent Studies. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CLA402H1": {
+    "code": "CLA402H1",
+    "name": "Advanced Seminar in Greek Civilization",
+    "hours": "36S",
+    "description": "An advanced research seminar devoted to critical issues relating to Greek civilization. Course requirements include a research essay. Topics vary from year to year.",
+    "exclusions": "CLA403H1",
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 14.0,
+          "department": ""
+        },
+        {
+          "credits": 1.0,
+          "department": "CLA"
+        }
+      ]
+    }
+  },
+  "CLA403H1": {
+    "code": "CLA403H1",
+    "name": "Advanced Seminar in Roman Civilization",
+    "hours": "36S",
+    "description": "An advanced research seminar devoted to critical issues relating to Roman civilization. Course requirements include a research essay. Topics vary from year to year.",
+    "exclusions": "CLA402H1",
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 14.0,
+          "department": ""
+        },
+        {
+          "credits": 1.0,
+          "department": "CLA"
+        }
+      ]
+    }
+  },
+  "CLT110H1": {
+    "code": "CLT110H1",
+    "name": "Celtic Mythology and Saga",
+    "hours": "24L",
+    "description": "The medieval Celtic nations were home to one of the richest imaginative literary traditions of Western Europe. This course will introduce students to the literature from medieval Ireland and Wales that portrayed both the adventures of the Celtic gods and goddesses, and heroic \u2018saga\u2019, by which is meant the exploits of Ireland\u2019s and Britain\u2019s prehistoric heroes. The course will also trace continuities in the storytelling of medieval Ireland and Wales with the culture of the Continental Celts of Antiquity, and will include examination of the role of literacy and the advent of Christianity on the islands\u2019 native mythologies. The course assumes no prior familiarity with Celtic literature and history and all texts will be read in English translation.",
+    "exclusions": "CLT250H1,  SMC250Y1,  SMC250H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CLT141Y1": {
+    "code": "CLT141Y1",
+    "name": "Introduction to the Irish Language",
+    "hours": "48L/24T",
+    "description": "This course in Modern Irish Language is designed for learners with no prior knowledge of the language. The course is intended to introduce students to and provide practice in the four language skills: listening, speaking, reading and writing.",
+    "exclusions": "SMC141Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLT240H1": {
+    "code": "CLT240H1",
+    "name": "The Celts in the Ancient and Medieval World",
+    "hours": "24L",
+    "description": "An introduction to the culture and literature of the Celtic peoples in pre-history and in the Middle Ages.",
+    "exclusions": "SMC240Y1,  SMC240H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLT241H1": {
+    "code": "CLT241H1",
+    "name": "The Celts in the Modern World",
+    "hours": "24L",
+    "description": "An introduction to the culture and literature of the modern Celtic nations from 1600 to the present.",
+    "exclusions": "SMC240Y1,  SMC241H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLT242Y1": {
+    "code": "CLT242Y1",
+    "name": "An Introduction to Scottish Gaelic",
+    "hours": "48L/24T",
+    "description": "An introduction to Scottish Gaelic language and culture. Students will master fundamentals of reading, writing, and the basics of grammar and will begin to speak Gaelic. Proverbs, poetry, songs and folktales introduce students to the language, literature and folklore of Gaelic Scotland and immigrant North America. No prior knowledge of the language is required.",
+    "exclusions": "SMC242Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLT243Y1": {
+    "code": "CLT243Y1",
+    "name": "Modern Welsh",
+    "hours": "48L/24T",
+    "description": "An introductory course intended to provide a basic speaking and reading knowledge of Modern Welsh. Open to students with no prior experience of Welsh.",
+    "exclusions": "SMC243Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLT244H1": {
+    "code": "CLT244H1",
+    "name": "Lowland Scots Language and Literature",
+    "hours": "24L/12T",
+    "description": "An introduction to Lowland Scots language and literature. Students will acquire fundamentals of reading, writing, grammar and spoken Scots. Poetry, songs and folktales introduce students to the language, literature and folklore of the Scots language, from the Renaissance poets through to Burns, MacDiarmid and modern artists. No prior knowledge of the language is required.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLT251H1": {
+    "code": "CLT251H1",
+    "name": "Intermediate Irish Language I",
+    "hours": "24L/12T",
+    "description": "This course builds on  CLT141Y1 Introduction to the Irish Language. It will provide further expansion of the four language skills: listening, speaking, reading and writing.",
+    "exclusions": "SMC251H1",
+    "breadth": 1,
+    "prereq_tree": "CLT141Y1"
+  },
+  "CLT252H1": {
+    "code": "CLT252H1",
+    "name": "Intermediate Irish Language II",
+    "hours": "24L/12T",
+    "description": "This course is a continuation of  CLT251H1 Intermediate Irish Language I. It will provide further expansion of language skills. We will examine literary texts, both prose and poetry.",
+    "exclusions": "SMC252H1",
+    "breadth": 1,
+    "prereq_tree": "CLT251H1"
+  },
+  "CLT331H1": {
+    "code": "CLT331H1",
+    "name": "Advanced Irish Language I",
+    "hours": "24L/12T",
+    "description": "An advanced course in the Irish language, this builds on the speaking, listening, reading and writing competencies developed in  CLT251H1 and  CLT252H1 (Intermediate Irish Language I and II).",
+    "exclusions": "SMC333H1 (Special Topics in Celtic Studies I: Advanced Irish Language), offered in Fall 2018,  SMC331H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CLT251H1",
+        "CLT252H1"
+      ]
+    }
+  },
+  "CLT332H1": {
+    "code": "CLT332H1",
+    "name": "Advanced Irish Language II",
+    "hours": "24L/12T",
+    "description": "An advanced course in the Irish language, this builds on the speaking, listening, reading and writing competencies developed in  CLT331H1 (Advanced Irish Language I).",
+    "exclusions": "SMC333H1 (Special Topics in Celtic Studies I: Advanced Irish Language), offered in Fall 2018,  SMC332H1",
+    "breadth": 1,
+    "prereq_tree": "CLT331H1"
+  },
+  "CLT333H1": {
+    "code": "CLT333H1",
+    "name": "Special Topics in Celtic Studies I",
+    "hours": "24S",
+    "description": "Various topics are taken up each year, the content of which depends on the instructor. Students should check the college web site for details.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CLT336H1": {
+    "code": "CLT336H1",
+    "name": "Sport in Ireland",
+    "hours": "24L",
+    "description": "Sport in Ireland is a course designed to investigate the role sport has had since the inception of the Irish Free State in 1922 up until the present day. The course aims to explore the position of sport at a regional level in Ireland as well as the differences existing between certain sporting organizations at a regional and national level. The course will also determine sport\u2019s contribution to the identity of Ireland in its first one hundred years as a nation state.",
+    "exclusions": "CLT333H1 (Special Topics in Celtic Studies I: Sport in Ireland), offered in Fall 2022",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CLT337H1": {
+    "code": "CLT337H1",
+    "name": "Early Celtic History 450-1000",
+    "hours": "24L",
+    "description": "The history of the insular Celtic nation groups from the post-Roman period to the end of the first millennium, the course will trace settlement history and social organization, the making of Celtic nations, the process of Christianization, the impact of the Vikings, and the rise of paramount kings.",
+    "exclusions": "SMC337H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CLT338H1": {
+    "code": "CLT338H1",
+    "name": "The Celtic Nations in the Later Middle Ages 1000-1550",
+    "hours": "24L",
+    "description": "Later medieval development of Ireland, Scotland and Wales: development of kingship, trade and urban settlement, arrival and colonizing patterns of the Normans, role of English administration and aggression, resurgence of native elites, development of frontier zones, beginning of the more complete English conquest of Ireland and Wales",
+    "exclusions": "SMC338H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CLT339H1": {
+    "code": "CLT339H1",
+    "name": "Northern Ireland:  The Troubles 1968-1998",
+    "hours": "24L",
+    "description": "This course examines the conflict between Protestants and Catholics in Northern Ireland between the civil rights movement of 1968 and the peace settlement of 1998, with special reference to colonial legacies, ethno-religious hostilities, loyalist and nationalist ideologies, guerrilla warfare, state security and civil liberty, and the peace process.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CLT340H1": {
+    "code": "CLT340H1",
+    "name": "Ireland Transformed, 1948-2020",
+    "hours": "24L",
+    "description": "In 1948, Ireland was a rural, socially conservative, deeply religious and economically impoverished country. Today, it is an urban, socially progressive, secular and wealthy society \u2013 and one that is experiencing new sets of problems. This course examines how and why these changes came about, the nature of contemporary Ireland, and the challenges that lie ahead.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CLT341H1": {
+    "code": "CLT341H1",
+    "name": "Global Irish Diaspora",
+    "hours": "24L",
+    "description": "Over 70 million people in the world can claim Irish descent. Since the 17th century, Irish people have voluntarily migrated and have been forcibly transported to a variety of global destinations. This course explores the \"push and pull\" factors that prompted these migrations and focuses on the diasporic communities created by Irish Catholics and Protestants in Great Britain, Canada, the United States, Continental Europe, the Caribbean, Argentina, South Africa, India, Australia, and New Zealand.",
+    "exclusions": "SMC341H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CLT345H1": {
+    "code": "CLT345H1",
+    "name": "Writing Ireland",
+    "hours": "24L",
+    "description": "This course looks at some of the major literary figures of Ireland in the twentieth and twenty-first centuries, writing in both Irish and English. Authors examined may include W. B. Yeats, Patrick Pearse, Nuala N\u00ed Dhomhnaill, Se\u00e1n \u00d3 Riord\u00e1in, Seamus Heaney and Claire Keegan. Through a close reading of poetry, prose and critical texts, students will examine how Ireland's past, present and future are variously figured in its greatest modern literature. All Irish-language works will be read in English translation.",
+    "exclusions": "SMC345H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CLT346H1": {
+    "code": "CLT346H1",
+    "name": "Celtic Folklore",
+    "hours": "24L",
+    "description": "This course examines the relationship between folklore and national identity in Ireland, Scotland and Wales, with special emphasis on storytelling traditions.",
+    "exclusions": "SMC346H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CLT347H1": {
+    "code": "CLT347H1",
+    "name": "Traditional Music in Ireland and Scotland",
+    "hours": "24L",
+    "description": "From Medieval harp playing to the emergence of reels and jigs during the eighteenth century, this course explores the changes and continuities in traditional music, and its place in contemporary culture.",
+    "exclusions": "SMC347H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CLT348H1": {
+    "code": "CLT348H1",
+    "name": "Early Modern Ireland",
+    "hours": "24L",
+    "description": "This course focuses on Irish history from the early seventeenth century to the Great Famine of the mid nineteenth century. Topics include the Ulster plantation, Catholic resistance, the Penal Laws, the United Irishmen, the Act of Union, Catholic Emancipation and the Famine.",
+    "exclusions": "SMC348H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CLT350H1": {
+    "code": "CLT350H1",
+    "name": "Celtic Spirituality",
+    "hours": "24L",
+    "description": "The religious culture of the early and mediaeval Celtic Church as manifested in the material and written record, and its significance for contemporary religious movements. Texts studied include the Patrician dossier, early monastic Rules and Liturgies, selected hagiographical, homiletic, devotional and lyric texts.",
+    "exclusions": "SMC350H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CLT353H1": {
+    "code": "CLT353H1",
+    "name": "The Scottish Witch-Hunt in its European Contexts",
+    "hours": "24L",
+    "description": "This course will explore various aspects of witchcraft accusations in Scotland and place them within the European context. A major focus of the course will be exploring the questions that historians have raised about the European witch-hunts and how this has influenced the historiography of the Scottish witch-hunts. The course will also involve several different kinds of primary sources and include discussions of their value and limitations.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLT374H1": {
+    "code": "CLT374H1",
+    "name": "The Celtic Book",
+    "hours": "24L",
+    "description": "A study of the production of manuscripts, books and tracts that played a crucial role in the historical evolution of a national culture or cultures in the Celtic world.",
+    "exclusions": "SMC374H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CLT378H1": {
+    "code": "CLT378H1",
+    "name": "Ireland Since the Famine",
+    "hours": "24L",
+    "description": "This course examines the relationship between nationalism and unionism in post-Famine Ireland, with particular emphasis on the debates over Home Rule, the Irish Revolution and Civil War of 1916-23, the effects of partition, and the Troubles in Northern Ireland.",
+    "exclusions": "SMC378H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CLT395Y1": {
+    "code": "CLT395Y1",
+    "name": "Independent Study in Celtic Studies",
+    "hours": null,
+    "description": "A research project chosen by the student in consultation with a faculty supervisor and approved by the Program Coordinator. A full proposal including a course description, working bibliography, marking scheme, and approval from your academic supervisor must be submitted for approval by the Program Coordinator and Director. More information and application forms are available at https://stmikes.utoronto.ca/academic-forms or from the SMC Principal's Office, smc.programs@utoronto.ca. Completed forms must be submitted to the Principal's Office by the first day of classes in September/May for F courses, or January/July for S courses. Meeting times are determined in consultation with your supervisor, and may be in person or online as appropriate. Not eligible for CR/NCR option.",
+    "exclusions": "CLT396H1",
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 6.0,
+          "department": ""
+        },
+        {
+          "credits": 1.0,
+          "department": "CLT"
+        }
+      ]
+    }
+  },
+  "CLT396H1": {
+    "code": "CLT396H1",
+    "name": "Independent Study in Celtic Studies",
+    "hours": null,
+    "description": "A research project chosen by the student in consultation with a faculty supervisor and approved by the Program Coordinator. A full proposal including a course description, working bibliography, marking scheme, and approval from your academic supervisor must be submitted for approval by the Program Coordinator and Director. More information and application forms are available at https://stmikes.utoronto.ca/academic-forms or from the SMC Principal's Office, smc.programs@utoronto.ca. Completed forms must be submitted to the Principal's Office by the first day of classes in September/May for F courses, or January/July for S courses. Meeting times are determined in consultation with your supervisor, and may be in person or online as appropriate. Not eligible for CR/NCR option.",
+    "exclusions": "CLT395Y1",
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 6.0,
+          "department": ""
+        },
+        {
+          "credits": 1.0,
+          "department": "CLT"
+        }
+      ]
+    }
+  },
+  "CLT411H1": {
+    "code": "CLT411H1",
+    "name": "Advanced Topics in Celtic Studies I",
+    "hours": "24S",
+    "description": "Various topics are taken up each year, the content of which depends on the instructor. Students should check the St. Michael's College website for details.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "CLT413H1": {
+    "code": "CLT413H1",
+    "name": "The Irish in Canada",
+    "hours": "24S",
+    "description": "This course explores the history of Irish migration and settlement in Canada with a special emphasis on political, social, economic and religious themes.",
+    "exclusions": "SMC413H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "CLT418H1": {
+    "code": "CLT418H1",
+    "name": "Romantic Scotland",
+    "hours": "24L",
+    "description": "This course provides an in-depth exploration of the origins and development of Romantic constructions of Scotland \u2013 its history, culture, language, and landscape \u2013 in literature, theatre, music, historiography, and art. The course will focus in particular on the Romantic movement in Scotland and its relationship to European Romanticism and nationalism. It will also explore the enduring legacy of that movement in more contemporary representations of Scottish identity (both within and outside of its national borders) in the arts and in political discourse. Offered in alternate years.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "CLT420H1": {
+    "code": "CLT420H1",
+    "name": "Ireland, Race and Empires",
+    "hours": "24S",
+    "description": "This course examines the extent to which the Irish can be understood as a colonized and racialized people, and the degree to which they participated in the colonization and racialization of Blacks and Indigenous peoples in the British and American empires. It encompasses debates about whether the Irish were victims of genocidal policies during the Famine, and their role in what one historian calls the \u201ccasual genocide\u201d of imperial expansion. It also discusses the character and limitations of anti-colonialism in Irish nationalist discourse, and attitudes of racialized minorities and Indigenous peoples towards the Irish. This course is jointly offered with the graduate course, HIS1441H.",
+    "exclusions": "CLT411H1 (\"Ireland, Race & Empires\", offered in Fall 2022)",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "CLT440H1": {
+    "code": "CLT440H1",
+    "name": "Middle Welsh",
+    "hours": "24L",
+    "description": "Middle Welsh, the native Celtic language of medieval Wales, was for centuries the language in which the Welsh celebrated their medieval princes and ancestral heroes, was the medium for the preservation of native British legend and Welsh law, and was the vehicle for the earliest narratives of Arthur. Students will be introduced to reading and translating Middle Welsh, and by the course\u2019s end will have read one complete text of Middle Welsh literature in the original. Students will learn Welsh specifically but will also learn the characteristic linguistic features of a Celtic language. No prior knowledge of Welsh or any other Celtic language is assumed.",
+    "exclusions": "SMC440Y1,  SMC440H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "CLT441H1": {
+    "code": "CLT441H1",
+    "name": "Introduction to Old Irish",
+    "hours": "24L",
+    "description": "This course will introduce students to Old Irish, the language of Western Europe\u2019s earliest vernacular literature. The course will focus on bringing students to a reading knowledge of Classical Old Irish, drawing on the most recent teaching aids and incorporating translation exercises and prepared reading passages from the early literature. The course will also teach the linguistic vocabulary for describing a Celtic language. No prior knowledge of Irish is assumed.",
+    "exclusions": "SMC441Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "CLT451Y1": {
+    "code": "CLT451Y1",
+    "name": "Senior Essay in Celtic Studies",
+    "hours": null,
+    "description": "A scholarly project chosen by the student in consultation with a faculty supervisor and approved by the Program Coordinator. A full proposal including a course description, working bibliography, marking scheme, and approval from your academic supervisor must be submitted for approval by the Program Coordinator and Director. More information and application forms are available at https://stmikes.utoronto.ca/academic-forms or from the SMC Principal's Office, smc.programs@utoronto.ca. Completed forms must be submitted to the Principal's Office by the first day of classes in September/May for F courses, or January/July for S courses. Meeting times are determined in consultation with your supervisor, and may be in person or online as appropriate. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        {
+          "credits": 2.0,
+          "department": "CLT"
+        }
+      ]
+    }
+  },
+  "COG250Y1": {
+    "code": "COG250Y1",
+    "name": "Introduction to Cognitive Science",
+    "hours": "78L",
+    "description": "An introduction to the problems, theories and research [strategies central to the interdisciplinary field focusing on the nature and organization of the human mind and other cognitive systems. Interrelations among the philosophical, psychological, linguistic and computer science aspects of the field are emphasized.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "COG260H1": {
+    "code": "COG260H1",
+    "name": "Data, Computation, and the Mind",
+    "hours": "24L/12P",
+    "description": "How does the human mind work? We explore this question by analyzing a range of data concerning such topics as human rationality and irrationality, human memory, how objects are represented in the mind, and the relation of language and cognition. This class provides critical thinking and practical computational skills that will allow students to work with data in cognitive science and related disciplines.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSC108H1",
+        "CSC148H1"
+      ]
+    }
+  },
+  "COG341H1": {
+    "code": "COG341H1",
+    "name": "Issues in Cognitive Science I: Attention, Perception, and Consciousness",
+    "hours": "36L",
+    "description": "An examination of core topics in cognitive science building on introductions in  COG250Y1. Typical topics include: perception and attention; concepts; imagery; consciousness.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "COG250Y1",
+            "PSY270H1"
+          ]
+        },
+        "PHL342H1"
+      ]
+    }
+  },
+  "COG342H1": {
+    "code": "COG342H1",
+    "name": "Issues in Cognitive Science II: Concepts, Theories of Mind, and Cognitive Evolution",
+    "hours": "36L",
+    "description": "An examination of core topics in cognitive science building on introductions in  COG250Y1. Typical topics include: concepts; theories of mind; cognitive evolution.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "COG250Y1",
+            "PSY270H1"
+          ]
+        },
+        "PHL342H1"
+      ]
+    }
+  },
+  "COG343H1": {
+    "code": "COG343H1",
+    "name": "Issues in Cognitive Science III: Computational Cognition",
+    "hours": "24L/12P",
+    "description": "An examination of core topics in cognitive science building on introductions in  COG250Y1. Typical topics include: computational models of cognition and learning, natural language processing, computer intelligence.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "COG260H1",
+            "CSC148H1",
+            "STA220H1"
+          ]
+        },
+        "PSY201H1"
+      ]
+    }
+  },
+  "COG344H1": {
+    "code": "COG344H1",
+    "name": "Issues in Cognitive Science IV: Language and Communication",
+    "hours": "36L",
+    "description": "An examination of core topics in cognitive science building on introductions in  COG250Y1. Typical topics include: language and cognition; language acquisition; theories of meaning; pragmatics.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "COG250Y1",
+            "LIN232H1"
+          ]
+        },
+        "LIN241H1",
+        "JLP315H1",
+        "JLP374H1"
+      ]
+    }
+  },
+  "COG345H1": {
+    "code": "COG345H1",
+    "name": "Issues in Cognitive Science V: Cognitive Science and Society",
+    "hours": "36L",
+    "description": "An examination of core topics in cognitive science building on introductions in  COG250Y1. Topics include central moral, social, and political questions both relevant to and raised by cognitive science research.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "COG250Y1",
+            "PSY270H1"
+          ]
+        },
+        "PHL342H1"
+      ]
+    }
+  },
+  "COG370H1": {
+    "code": "COG370H1",
+    "name": "Special Topics in Cognitive Science",
+    "hours": "24S",
+    "description": "An in-depth study of selected questions in the field of Cognitive Science. Content will vary from year to year. Specific course information will be available on the Cognitive Science website at https://www.uc.utoronto.ca/cognitive-science",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 8.0,
+      "department": ""
+    }
+  },
+  "COG401H1": {
+    "code": "COG401H1",
+    "name": "Seminar in Cognitive Science",
+    "hours": "36S",
+    "description": "Advanced treatment of cognitive science topics for arts majors. Possible topics include: concepts, consciousness, the mind-body problem, cognitive science and the arts.",
+    "exclusions": "COG402H1,  COG403H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "COG250Y1",
+        "PHL342H1",
+        {
+          "credits": 14.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "COG402H1": {
+    "code": "COG402H1",
+    "name": "Seminar in Cognitive Science",
+    "hours": "36S",
+    "description": "Advanced treatment of cognitive science topics such as neuroscientific theories of consciousness, rationality and modelling of cognitive processes.",
+    "exclusions": "COG401H1;  COG403H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "COG250Y1",
+        "PSY270H1",
+        {
+          "credits": 14.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "COG403H1": {
+    "code": "COG403H1",
+    "name": "Seminar in Cognitive Science",
+    "hours": "36S",
+    "description": "Advanced treatment of cognitive science topics, including the application of core ideas from probability theory, information theory, statistics, and machine learning to modelling human cognition and artificial intelligence.",
+    "exclusions": "COG401H1,  COG402H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 14.0,
+              "department": ""
+            },
+            "CSC148H1",
+            "COG250Y1",
+            "COG260H1",
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT137Y1",
+            {
+              "credits": 0.5,
+              "department": "STA"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "COG404H1": {
+    "code": "COG404H1",
+    "name": "Seminar in Cognitive Science",
+    "hours": "36S",
+    "description": "Advanced treatment of cognitive science topics, including language processes and language representation, productions and comprehension, language acquisition, and language and theory of mind, pragmatics, reference and context.",
+    "exclusions": "COG401H1;  COG402H1;  COG403H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "COG250Y1",
+        "JLP315H1",
+        "JLP374H1",
+        "LIN232H1",
+        "LIN241H1",
+        {
+          "credits": 14.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "COG415H1": {
+    "code": "COG415H1",
+    "name": "Cognitive Science in Practice",
+    "hours": "18L/15P",
+    "description": "This course provides COG students with the opportunities to practice quantitative and qualitative evaluation and assessment methods in real world situations and juxtapose theory with practice. Placement activities will ground topics such as problem solving, logistics, decision making, etc., through practical application, individual and group / in-class critical reflection.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "COG250Y1",
+            "COG341H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "COG342H1",
+            "PSY370H1"
+          ]
+        }
+      ]
+    }
+  },
+  "COG470H1": {
+    "code": "COG470H1",
+    "name": "Special Topics in Cognitive Science",
+    "hours": "24S",
+    "description": "An in-depth study of selected questions in the field of Cognitive Science. Content will vary from year to year. Specific course information will be available on the Cognitive Science website at https://www.uc.utoronto.ca/cognitive-science",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 12.0,
+      "department": ""
+    }
+  },
+  "COG471H1": {
+    "code": "COG471H1",
+    "name": "Special Topics in Cognitive Science",
+    "hours": "24S",
+    "description": "An in-depth study of selected questions in the field of Cognitive Science. Content will vary from year to year. Specific course information will be available on the Cognitive Science website at https://www.uc.utoronto.ca/cognitive-science",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "COG497Y1": {
+    "code": "COG497Y1",
+    "name": "COG Independent Study",
+    "hours": null,
+    "description": "Advanced Independent Study. Not eligible for CR/NCR option. Students must submit an application form that includes a written proposal and confirms that a faculty member has agreed to supervise. Applications must be submitted to the UC Programs Office (UC 173) for approval by the Program Director. Applications are due before the first day of course enrolment. Application form is available at the University College website at https://www.uc.utoronto.ca/cognitive-science-courses.",
+    "exclusions": "( COG498H1,  COG499H1)",
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 15.0,
+      "department": ""
+    }
+  },
+  "COG498H1": {
+    "code": "COG498H1",
+    "name": "Independent Study",
+    "hours": null,
+    "description": "Advanced Independent Study. Not eligible for CR/NCR option. Students must submit an application form that includes a written proposal and confirms that a faculty member has agreed to supervise. Applications must be submitted to the UC Programs Office (UC 173) for approval by the Program Director. Applications are due before the first day of course enrolment. Application form is available at the University College website at\u00a0https://www.uc.utoronto.ca/cognitive-science-courses.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 15.0,
+      "department": ""
+    }
+  },
+  "COG499H1": {
+    "code": "COG499H1",
+    "name": "Individual Study in Cognitive Science",
+    "hours": null,
+    "description": "Advanced Independent Study. Not eligible for CR/NCR option. Students must submit an application form that includes a written proposal and confirms that a faculty member has agreed to supervise. Applications must be submitted to the UC Programs Office (UC 173) for approval by the Program Director. Applications are due before the first day of course enrolment. Application form is available at the University College website at\u00a0https://www.uc.utoronto.ca/cognitive-science-courses.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 15.0,
+      "department": ""
+    }
+  },
+  "CRE201H1": {
+    "code": "CRE201H1",
+    "name": "Introduction to Creativity and Society",
+    "hours": "12L/12S",
+    "description": "A course that explores the relationship between creativity and the social, political, and economic worlds in which it functions. Students acquire theoretical and methodological frameworks in Creativity Studies, historicize the conditions of creative possibility across disciplines, and explore case studies. Topics include the advent of creativity as a concept, a comparative understanding of creativity across non-western and historically marginalized cultures, analyses of how the business of innovation and professionalization of \u201ccreatives\u201d affect the way arts and ideas develop, and a self-examination of how students\u2019 own creative goals are shaped by the standards, structures, and practices that precede them.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CRE209H1": {
+    "code": "CRE209H1",
+    "name": "How Stories Work",
+    "hours": "24S",
+    "description": "Stories give shape and substance to the things we believe in, from scientific theories and sacred texts to literary tales and philosophical propositions. They perpetuate ideals and identities, and sustain institutions and communities. This course will take up a set of texts from the arts, sciences, religions and several other storytelling traditions, ancient and modern, considering their claims to authority and making connections between them.",
+    "exclusions": "VIC209H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CRE210H1": {
+    "code": "CRE210H1",
+    "name": "Holography for 3D Visualization",
+    "hours": "24L/36P",
+    "description": "An introduction to the theory and practice of holography. Human perception & 3D visualization; fundamentals of 3D modeling; ray and wave optics; interference, diffraction, coherence; transmission and reflection holograms; colour perception; stereograms. Applications of holography in art, medicine, and technology. Computer simulation, design, and construction of holograms. This course does not require specific background or preparation in the sciences or arts. This course has a mandatory Materials Fee of $100 to cover non-reusable materials. The fee will be included on students' ACORN invoice.",
+    "exclusions": "JOP210H1,  IVP210H1",
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "CRE235H1": {
+    "code": "CRE235H1",
+    "name": "Innovation in Society",
+    "hours": "24L",
+    "description": "This course investigates innovation as it relates to emerging social, scientific, and environmental trends. Students will acquire key frameworks for understanding the evolution of innovation, the place of creativity, and the social impacts of disruption. Through case studies of innovation (such as the sharing economy and cryptocurrencies) and considering related issues (such as ethics and inclusion) students will develop approaches to understanding the societal impacts of creative disruption.",
+    "exclusions": "VIC235H1,  MUN101H1,  MUN102H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CRE247H1": {
+    "code": "CRE247H1",
+    "name": "Creativity in the Sciences",
+    "hours": "24S",
+    "description": "This course explores definitions of \u201ccreativity\u201d and compares its significance in science to creativity in arts, business or engineering. By studying major developments in the history of science as well as psychological and neuroscientific studies, we will consider factors that enable creativity; creativity in fundamental science and at various stages of a project; the randomness or predictability of scientific discoveries; disciplinary and interdisciplinary work; the evaluation of discoveries; and attempts to predict the future of scientific creativity.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": ""
+    }
+  },
+  "CRE269H1": {
+    "code": "CRE269H1",
+    "name": "Creative Practice: Speculative Fiction",
+    "hours": "24S",
+    "description": "This practice-based course provides the opportunity to study and produce creative works of speculative fiction in a workshop-style seminar. In addition to fiction, this course examines multimedia works in film and television, music, animation, and the arts while providing extensive grounding in contemporary artistic contexts of publication and production. Genres studied and produced may include cyberpunk, eco-fiction, contemporary fairytale and fable, horror, historical fiction, and dystopia and utopia.",
+    "exclusions": "CRE282H1 (Emerging Genres in Creative Writing) offered in Fall 2022, 2023, and 2024.",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CRE270H1": {
+    "code": "CRE270H1",
+    "name": "Listening: A Critical History",
+    "hours": "24S",
+    "description": "Surveying scenarios for public and private musical listening, from historical contexts to the present, this course explores critical questions about how we listen, including the relationship between musical genres and listening situations, the definition of music vs. noise, the influence of spectatorship, and the impact of changing technologies. Students discuss the changing aesthetics and ideologies of musical listening, considering ways in which listening shapes our understanding of the social and our awareness of communities.",
+    "exclusions": "VIC270H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CRE271H1": {
+    "code": "CRE271H1",
+    "name": "Reading the Wild",
+    "hours": "24S",
+    "description": "In light of the environmental crisis, this seminar surveys a wide range of oral and written literature in order to discover how our approach to nature has changed over the centuries, what gains and losses have attended modernity, and what older cultures can teach us as we seek to preserve threatened ecosystems. This course has a mandatory Materials Fee of $10 to cover non-reusable materials. The fee will be included on students' ACORN invoice.",
+    "exclusions": "VIC271H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CRE272H1": {
+    "code": "CRE272H1",
+    "name": "Song, Lyrics, and Songwriting",
+    "hours": "24S",
+    "description": "A course exploring song and lyrics in various musical genres, with a review of major developments in the repertoire. Topics addressed could include the ethics of borrowed forms, instrumentation and collaboration, commercial songwriting standards and practices, major aspects of music industries, and reception. Students will have the opportunity to create compositions, and pursue projects related to aspects of the field. Musical ability and training are not required.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  }
+}

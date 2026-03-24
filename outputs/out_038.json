@@ -1,0 +1,1636 @@
+{
+  "PHL388H1": {
+    "code": "PHL388H1",
+    "name": "Literature and Philosophy",
+    "hours": "36L",
+    "description": "An examination of the interplays and tensions between literature and philosophy. Possible themes include: the 'literary' expression of philosophical ideas; the ancient 'quarrel of the poets and philosophers'; the relation of form to content in philosophical writing, and the immense variety of philosophical genres (e.g. aphorism, essai, confession, treatise, dialogue, manifesto, meditation, etc.); the philosophical content and significance of certain 'literary' works and forms; and philosophical problems regarding translation, adaptation, and interpretation. Topics and texts will vary according to instructor.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 8.0,
+          "department": ""
+        },
+        {
+          "credits": 1.5,
+          "department": "PHL"
+        }
+      ]
+    }
+  },
+  "PHL394H1": {
+    "code": "PHL394H1",
+    "name": "Markets and Morals",
+    "hours": "36L",
+    "description": "A study of the standards that can be used to judge the performance of economic systems, e.g., efficiency, fairness, maximization, along with the different institutional mechanisms that can be used to organize economic activity, e.g., markets or hierarchies, public or private ownership.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL265H1",
+        "PHL275H1",
+        "POL200Y1"
+      ]
+    }
+  },
+  "PHL395H1": {
+    "code": "PHL395H1",
+    "name": "Issues in Business Ethics",
+    "hours": "36L",
+    "description": "A focused examination of moral issues that arise in the conduct of business, in areas such as accounting and finance, corporate governance, human resources, environmental conduct, business lobbying and regulatory compliance.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "PHL295H1"
+  },
+  "PHL398H0": {
+    "code": "PHL398H0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHL398Y0": {
+    "code": "PHL398Y0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHL399H1": {
+    "code": "PHL399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHL399Y1": {
+    "code": "PHL399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHL400H1": {
+    "code": "PHL400H1",
+    "name": "Seminar in Ancient/Medieval Philosophy",
+    "hours": "36S",
+    "description": "Advanced discussion of the principal figures and themes in ancient and/or medieval philosophy.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PHL200Y1",
+        {
+          "credits": 4.0,
+          "department": "PHI"
+        }
+      ]
+    }
+  },
+  "PHL401H1": {
+    "code": "PHL401H1",
+    "name": "Seminar in the History of Philosophy",
+    "hours": "36S",
+    "description": "Advanced study of some of the principal figures in a particular historical, philosophical tradition.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL200Y1",
+        "PHL210Y1"
+      ]
+    }
+  },
+  "PHL402H1": {
+    "code": "PHL402H1",
+    "name": "Seminar in Early Modern Philosophy",
+    "hours": "36S",
+    "description": "Advanced discussion of the principal figures and themes in the philosophy of the 17th and/or 18th centuries.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PHL210Y1",
+        {
+          "credits": 4.0,
+          "department": "PHI"
+        }
+      ]
+    }
+  },
+  "PHL403H1": {
+    "code": "PHL403H1",
+    "name": "Seminar in 19th-Century Philosophy",
+    "hours": "36S",
+    "description": "Advanced discussion of some principal figures and themes in 19th century philosophy.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL210Y1",
+        "PHL217H1",
+        "PHL315H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHL316H1",
+            {
+              "credits": 4.0,
+              "department": "PHI"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PHL404H1": {
+    "code": "PHL404H1",
+    "name": "Seminar in Epistemology",
+    "hours": "36S",
+    "description": "Typical problems include the nature of knowledge and belief; perception; theories of truth and necessity; skepticism.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL232H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHL233H1",
+            {
+              "credits": 4.0,
+              "department": "PHI"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PHL405H1": {
+    "code": "PHL405H1",
+    "name": "Seminar in Philosophy of Mind",
+    "hours": "36S",
+    "description": "Advanced study of a problem in the philosophy of mind.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL240H1",
+        "PHL342H1",
+        {
+          "operator": "AND",
+          "items": [
+            "COG250Y1",
+            {
+              "credits": 4.0,
+              "department": "PHI"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PHL406H1": {
+    "code": "PHL406H1",
+    "name": "Seminar in Metaphysics",
+    "hours": "36S",
+    "description": "Typical problems include causality and determinism; ontological categories; mind and body; the objectivity of space and time.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 4.0,
+              "department": "PHI"
+            },
+            "PHL245H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT157Y1",
+            "PHL232H1"
+          ]
+        },
+        "PHL233H1",
+        "PHL240H1"
+      ]
+    }
+  },
+  "PHL407H1": {
+    "code": "PHL407H1",
+    "name": "Seminar in Ethics",
+    "hours": "36S",
+    "description": "Advanced discussion of issues in moral philosophy, including issues of applied ethics.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PHL275H1",
+        {
+          "credits": 4.0,
+          "department": "PHI"
+        }
+      ]
+    }
+  },
+  "PHL408H1": {
+    "code": "PHL408H1",
+    "name": "Seminar in Philosophy",
+    "hours": "36S",
+    "description": "Topics vary but bridge two or more areas or traditions of philosophy.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": "PHI"
+    }
+  },
+  "PHL409H1": {
+    "code": "PHL409H1",
+    "name": "New Books Seminar",
+    "hours": "36S",
+    "description": "Advanced study of key philosophical works published within the last five years.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": "PHI"
+    }
+  },
+  "PHL410H1": {
+    "code": "PHL410H1",
+    "name": "Seminar in Continental Philosophy",
+    "hours": "36S",
+    "description": "Advanced study of recent philosophical discussions within the continental tradition.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL217H1",
+        "PHL315H1",
+        "PHL316H1",
+        "PHL319H1",
+        "PHL320H1",
+        "PHL321H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHL322H1",
+            {
+              "credits": 4.0,
+              "department": "PHI"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PHL411H1": {
+    "code": "PHL411H1",
+    "name": "Seminar in Analytic Philosophy",
+    "hours": "36S",
+    "description": "Advanced study of some topic of current philosophical interest within the analytic tradition.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL245H1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT157Y1",
+            "PHL232H1"
+          ]
+        },
+        "PHL233H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHL240H1",
+            {
+              "credits": 4.0,
+              "department": "PHI"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PHL412H1": {
+    "code": "PHL412H1",
+    "name": "Seminar in Political Philosophy",
+    "hours": "36S",
+    "description": "Advanced study of some topic in social or political philosophy.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL265H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHL271H1",
+            {
+              "credits": 4.0,
+              "department": "PHI"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PHL413H1": {
+    "code": "PHL413H1",
+    "name": "Seminar in Applied Ethics",
+    "hours": "36S",
+    "description": "Advanced study of some topic in an area of applied ethics, including bioethics, environmental ethics, and so on.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL271H1",
+        "PHL273H1",
+        "PHL275H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHL281H1",
+            {
+              "credits": 4.0,
+              "department": "PHI"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PHL414H1": {
+    "code": "PHL414H1",
+    "name": "Seminar in Philosophy of Religion",
+    "hours": "36S",
+    "description": "Advanced study of topics in the philosophy of religion.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL235H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHL335H1",
+            {
+              "credits": 4.0,
+              "department": "PHI"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PHL416H1": {
+    "code": "PHL416H1",
+    "name": "Seminar in Philosophy of Law",
+    "hours": "36S",
+    "description": "Advanced discussion of issues in the philosophy of law.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL265H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHL271H1",
+            "PHL365H1"
+          ]
+        },
+        "PHL370H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHL375H1",
+            {
+              "credits": 4.0,
+              "department": "PHI"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PHL417H1": {
+    "code": "PHL417H1",
+    "name": "Seminar in History of Analytic Philosophy",
+    "hours": "36S",
+    "description": "Advanced study of a figure or topic from the history of analytic philosophy.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PHL325H1",
+        {
+          "credits": 4.0,
+          "department": "PHI"
+        }
+      ]
+    }
+  },
+  "PHL418H1": {
+    "code": "PHL418H1",
+    "name": "Seminar in Sanskrit Philosophy",
+    "hours": "36S",
+    "description": "Advanced study of one or more topics in Sanskrit Philosophy.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": "PHL"
+    }
+  },
+  "PHL440H1": {
+    "code": "PHL440H1",
+    "name": "Clinical Bioethics",
+    "hours": "36S",
+    "description": "Advanced study of topics in bioethics, taught in conjunction with clinical bioethicists associated with the health care organization partners of the University of Toronto Joint Centre for Bioethics.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PHL281H1",
+        {
+          "credits": 4.0,
+          "department": "PHI"
+        }
+      ]
+    }
+  },
+  "PHL445H1": {
+    "code": "PHL445H1",
+    "name": "Metalogic",
+    "hours": "36S",
+    "description": "A continuation of  PHL345H1, this is a course in the mathematical study of logic, also known as metalogic. We will investigate and prove theorems about logical systems. Topics covered may include: important results in metalogic, second and higher-order logic, or lambda-calculus.",
+    "exclusions": "PHL445H5;  PHLD51H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL345H1",
+        "MAT309H1",
+        {
+          "credits": 4.0,
+          "department": "PHI"
+        }
+      ]
+    }
+  },
+  "PHL446H1": {
+    "code": "PHL446H1",
+    "name": "Seminar in Decision Theory",
+    "hours": "36S",
+    "description": "Decision theory studies what one ought to do when some more or less desirable outcomes of one\u2019s actions depend on external facts about which one is uncertain. Uncertainty is characterized in terms of probabilities, desires are characterized in terms of utilities, and together they determine the expected utility of one\u2019s actions. This course introduces these notions and their mathematical representations, as well as critically reflects on philosophical questions such as whether one should always take the action that maximize one\u2019s expected utility, whether uncertainty is subjective or objective, and why uncertainty does, or ought to, obey the laws of probability.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PHL246H1",
+        {
+          "credits": 4.0,
+          "department": "PHI"
+        }
+      ]
+    }
+  },
+  "PHL447H1": {
+    "code": "PHL447H1",
+    "name": "Seminar in Philosophical Logic",
+    "hours": "36S",
+    "description": "Advanced discussion of some topic in philosophical logic.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL245H1",
+        "MAT157Y1",
+        "PHL246H1",
+        "PHL345H1",
+        "PHL347H1",
+        "PHL445H1",
+        "MAT309H1",
+        {
+          "credits": 4.0,
+          "department": "PHI"
+        }
+      ]
+    }
+  },
+  "PHL451H1": {
+    "code": "PHL451H1",
+    "name": "Seminar in Philosophy of Language",
+    "hours": "36S",
+    "description": "Advanced study of some topic in the philosophy of language.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 4.0,
+              "department": "PHL"
+            },
+            "PHL245H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT157Y1",
+            "PHL232H1"
+          ]
+        },
+        "PHL233H1",
+        "PHL240H1"
+      ]
+    }
+  },
+  "PHL455H1": {
+    "code": "PHL455H1",
+    "name": "Seminar in Philosophy of Science",
+    "hours": "36S",
+    "description": "Advanced study of some area or problem in the philosophy of science.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "PHL355H1",
+            "PHL357H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "HPS250H1",
+            {
+              "credits": 4.0,
+              "department": "PHI"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PHL470H1": {
+    "code": "PHL470H1",
+    "name": "Advanced Bioethics",
+    "hours": "36S",
+    "description": "Philosophical exploration of the foundations and methodology of bioethics. Offered jointly with PHL2145H.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "PHL281H1",
+            "PHL380H1"
+          ]
+        },
+        "PHL381H1",
+        "PHL382H1",
+        "PHL383H1",
+        "PHL384H1"
+      ]
+    }
+  },
+  "PHL471H1": {
+    "code": "PHL471H1",
+    "name": "Advanced Topics in Greek Philosophy",
+    "hours": "36S",
+    "description": "Advanced Topics in Greek Philosophy",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": "PHL200Y1"
+  },
+  "PHL472H1": {
+    "code": "PHL472H1",
+    "name": "Advanced Topics in Medieval Philosophy",
+    "hours": "36S",
+    "description": "Advanced Topics in Medieval Philosophy",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL200Y1",
+        "PHL205H1",
+        "PHL206H1"
+      ]
+    }
+  },
+  "PHL473H1": {
+    "code": "PHL473H1",
+    "name": "Advanced Topics in Modern Philosophy",
+    "hours": "36S",
+    "description": "Advanced Topics in Modern Philosophy",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": "PHL210Y1"
+  },
+  "PHL475H1": {
+    "code": "PHL475H1",
+    "name": "Advanced Topics in Moral Philosophy",
+    "hours": "36S",
+    "description": "Advanced Topics in Moral Philosophy",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": "PHL275H1"
+  },
+  "PHL476H1": {
+    "code": "PHL476H1",
+    "name": "Advanced Topics in Epistemology",
+    "hours": "36S",
+    "description": "Advanced Topics in Epistemology",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL232H1",
+        "PHL233H1"
+      ]
+    }
+  },
+  "PHL477H1": {
+    "code": "PHL477H1",
+    "name": "Advanced Topics in Metaphysics",
+    "hours": "36S",
+    "description": "Advanced Topics in Metaphysics",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL232H1",
+        "PHL233H1"
+      ]
+    }
+  },
+  "PHL478H1": {
+    "code": "PHL478H1",
+    "name": "Advanced Topics in Philosophy of Religion",
+    "hours": "36S",
+    "description": "Advanced Topics in Philosophy of Religion",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL235H1",
+        "PHL335H1"
+      ]
+    }
+  },
+  "PHL479H1": {
+    "code": "PHL479H1",
+    "name": "Advanced Topics in Philosophy of Mind",
+    "hours": "36S",
+    "description": "Advanced Topics in Philosophy of Mind",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "COG250Y1",
+        "PHL240H1",
+        "PHL340H1",
+        "PHL341H1",
+        "PHL342H1"
+      ]
+    }
+  },
+  "PHL480H1": {
+    "code": "PHL480H1",
+    "name": "Advanced Topics in Logic",
+    "hours": "36S",
+    "description": "Advanced Topics in Logic",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PHL344H1",
+        "PHL349H1"
+      ]
+    }
+  },
+  "PHL481H1": {
+    "code": "PHL481H1",
+    "name": "Advanced Topics in the Philosophy of Language",
+    "hours": "36S",
+    "description": "Advanced Topics in the Philosophy of Language",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": "PHL351H1"
+  },
+  "PHL482H1": {
+    "code": "PHL482H1",
+    "name": "Advanced Topics in Philosophy of Natural Science",
+    "hours": "36S",
+    "description": "Advanced Topics in Philosophy of Natural Science",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "PHL355H1",
+            "PHL357H1"
+          ]
+        },
+        "HPS250H1"
+      ]
+    }
+  },
+  "PHL483H1": {
+    "code": "PHL483H1",
+    "name": "Advanced Topics in Social and Political Philosophy",
+    "hours": "36S",
+    "description": "Advanced Topics in Social and Political Philosophy",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": "PHL265H1"
+  },
+  "PHL484H1": {
+    "code": "PHL484H1",
+    "name": "Advanced Topics in the Philosophy of Law",
+    "hours": "36S",
+    "description": "Advanced Topics in the Philosophy of Law",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": "PHL271H1"
+  },
+  "PHL485H1": {
+    "code": "PHL485H1",
+    "name": "Advanced Topics in Aesthetics",
+    "hours": "36S",
+    "description": "Advanced Topics in Aesthetics",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHL285H1",
+        "PHL385H1"
+      ]
+    }
+  },
+  "PHL486H1": {
+    "code": "PHL486H1",
+    "name": "Advanced Topics in Philosophy of History",
+    "hours": "36S",
+    "description": "Advanced Topics in Philosophy of History",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": "PHL362H1"
+  },
+  "PHL487H1": {
+    "code": "PHL487H1",
+    "name": "Advanced Topics in Philosophy",
+    "hours": null,
+    "description": "Advanced Topics in Philosophy",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHL488H1": {
+    "code": "PHL488H1",
+    "name": "Advanced Topics in Philosophy",
+    "hours": null,
+    "description": "Advanced Topics in Philosophy",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHL489Y1": {
+    "code": "PHL489Y1",
+    "name": "Advanced Topics in Philosophy: Socrates Project",
+    "hours": null,
+    "description": "Socrates Project Seminar. The Socrates Project Seminar allows exceptional senior undergraduate students to become teaching assistants for a 1st year PHL course. In addition to grading and leading tutorials, Socrates Project students enroll in  PHL489Y1 as a condition of their employment. Students are expected to apply for the Socrates Project in March prior to the start of the Fall/Winter term. Admission to the Socrates Project is limited to students enrolled in a Philosophy or Bioethics program. A minimum of 80% in PHL courses is required. Information about the Socrates Project including the application form can be found at https://philosophy.utoronto.ca/st-george/undergraduate-at-st-george/socrates-project-undergraduate-tas/",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHL490Y1": {
+    "code": "PHL490Y1",
+    "name": "Individual Studies",
+    "hours": null,
+    "description": "Individual Studies. Not eligible for CR/NCR option. Students must complete an Individual Study application form (found on the Department of Philosophy website) in consultation with their proposed faculty supervisor. The application form must be submitted to the Undergraduate Administrator by the first day of classes.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHL495H1": {
+    "code": "PHL495H1",
+    "name": "Individual Studies",
+    "hours": null,
+    "description": "Individual Studies. Not eligible for CR/NCR option. Students must complete an Individual Study application form (found on the Department of Philosophy website) in consultation with their proposed faculty supervisor. The application form must be submitted to the Undergraduate Administrator by the first day of classes.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHL496H1": {
+    "code": "PHL496H1",
+    "name": "Individual Studies",
+    "hours": null,
+    "description": "Individual Studies. Not eligible for CR/NCR option. Students must complete an Individual Study application form (found on the Department of Philosophy website) in consultation with their proposed faculty supervisor. The application form must be submitted to the Undergraduate Administrator by the first day of classes.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHL497H1": {
+    "code": "PHL497H1",
+    "name": "Individual Studies",
+    "hours": null,
+    "description": "Individual Studies. Not eligible for CR/NCR option. Students must complete an Individual Study application form (found on the Department of Philosophy website) in consultation with their proposed faculty supervisor. The application form must be submitted to the Undergraduate Administrator by the first day of classes.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHL498H1": {
+    "code": "PHL498H1",
+    "name": "Individual Studies",
+    "hours": null,
+    "description": "Individual Studies. Not eligible for CR/NCR option. Students must complete an Individual Study application form (found on the Department of Philosophy website) in consultation with their proposed faculty supervisor. The application form must be submitted to the Undergraduate Administrator by the first day of classes.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHL499H1": {
+    "code": "PHL499H1",
+    "name": "Individual Studies",
+    "hours": null,
+    "description": "Individual Studies. Not eligible for CR/NCR option. Students must complete an Individual Study application form (found on the Department of Philosophy website) in consultation with their proposed faculty supervisor. The application form must be submitted to the Undergraduate Administrator by the first day of classes.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHS103H1": {
+    "code": "PHS103H1",
+    "name": "Introduction to Public Health",
+    "hours": "24L/24T",
+    "description": "This course introduces students to basic Canadian public health-related concepts, significant aspects of the historical development of public health in Canada, and a selection of topics illustrating the broad and evolving nature of this field. In addition, it helps students explore the contributions that various disciplines/fields offer to public health in Canada.",
+    "exclusions": "PHS100H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "PHS300H1": {
+    "code": "PHS300H1",
+    "name": "HIV Prevention Research",
+    "hours": "24L",
+    "description": "This course examines HIV prevention research across the full spectrum of sciences concerned with prevention of HIV and sexual health, including basic science, clinical science, epidemiology, behavioural science, social science, and legal, policy, economic analysis, and cultural theory. Examples are borrowed from efforts across the globe. The course highlights prevention research related to key populations at risk of HIV infection and transmission. The course focuses on challenges and issues, with the goal of stimulating critical thinking and engagement with topics. Some material will be presented by Guest Lecturers who are experts in the areas, allowing students to learn from and interact with these experts and to hear about their current research as well as their career paths. It is expected that at the end of this course students will have an advanced appreciation of the history and future and underlying values and ethics of effective HIV prevention research, including future possibilities and challenges. One ancillary aim is to encourage students to compare and contrast HIV Prevention with prevention research in adjacent areas (e.g., HCV, HPV).",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "PHY100H1": {
+    "code": "PHY100H1",
+    "name": "The Magic of Physics",
+    "hours": "24L/12T",
+    "description": "This course provides a survey of Physics, including both Classical and Modern Physics. It is designed for non-scientists, and assumes no background in either science or mathematics. The approach to the course is broad rather than deep. We will concentrate on the concepts underlying such fascinating topics as planetary motion, chaos, the nature of light, time travel, black holes, matter waves, Schrodinger's cat, quarks, and climate change. We will uncover the wonders of the classical and the quantum worlds courtesy of Galileo, Newton, Maxwell, Einstein, Heisenberg and many others. ( PHY100H1 is primarily intended as a Breadth Requirement course for students in the Humanities and Social Sciences with no university-level background in physics. Any student with university-level credit in physics, including students with secondary school transfer credits in physics is ineligible to take this course).",
+    "exclusions": "Any PHY course taken previously or concurrently (except  PHY196H1/  PHY197H1/  PHY198H1/  PHY199H1/  PHY202H1/  PHY205H1/  PHY207H1)",
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHY131H1": {
+    "code": "PHY131H1",
+    "name": "Introduction to Physics I",
+    "hours": "36L/20P",
+    "description": "A first university physics course primarily for students not intending to pursue a Specialist or Major program in Physical or Mathematical Sciences. Topics include: classical kinematics & dynamics, momentum, energy, force, friction, work, power, angular momentum, oscillations, waves, sound. Lab kit fees of $52 may apply.",
+    "exclusions": "PHY151H1",
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHY132H1": {
+    "code": "PHY132H1",
+    "name": "Introduction to Physics II",
+    "hours": "36L/20P",
+    "description": "The second university physics course primarily for students not intending to pursue a Specialist or Major program in Physical or Mathematical Sciences. Topics include: electricity, magnetism, light, optics, special relativity. Lab kit fees of $52 may apply.",
+    "exclusions": "PHY152H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHY131H1",
+        "PHY151H1"
+      ]
+    }
+  },
+  "PHY151H1": {
+    "code": "PHY151H1",
+    "name": "Foundations of Physics I",
+    "hours": "36L/30P",
+    "description": "The first physics course in many of the Specialist and Major Programs in Physical Sciences. It provides an introduction to the concepts, approaches and tools the physicist uses to describe the physical world while laying the foundation for classical and modern mechanics. Topics include: mathematics of physics, energy, momentum, conservation laws, kinematics, dynamics, and special relativity.",
+    "exclusions": "PHY131H1",
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHY152H1": {
+    "code": "PHY152H1",
+    "name": "Foundations of Physics II",
+    "hours": "36L/30P",
+    "description": "The concept of fields will be introduced and discussed in the context of gravity and electricity. Topics include rotational motion, oscillations, waves, electricity and magnetism.",
+    "exclusions": "PHY132H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHY131H1",
+        "PHY151H1",
+        "PHY180H1"
+      ]
+    }
+  },
+  "PHY189H1": {
+    "code": "PHY189H1",
+    "name": "Introduction to Research Methods in the Physical and Mathematical Sciences",
+    "hours": "24P/24S",
+    "description": "This course is an introduction to research challenges and methods in physical and mathematical sciences. Topics include documenting scientific work, literature searches, building a basic measurement system, mathematical modelling and measurement of simple physical systems, basic computational analysis of data, debugging (measurements, analysis, code, ...), evaluating uncertainties, ethical and social issues in science, and communicating scientific work orally and in writing.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHY196H1": {
+    "code": "PHY196H1",
+    "name": "Emergence in Nature",
+    "hours": "24S",
+    "description": "The universe is not a rigid clockwork, but neither is it formless and random. Instead, it is filled with highly organized, evolved structures that have somehow emerged from simple rules of physics. Examples range from the structure of galaxies to the pattern of ripples on windblown sand, to biological and even social processes. These phenomena exist in spite of the universal tendency towards disorder. How is this possible? Self-organization challenges the usual reductionistic scientific method, and begs the question of whether we can ever really understand or predict truly complex systems. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHY197H1": {
+    "code": "PHY197H1",
+    "name": "Modern Physics for the Curious",
+    "hours": "24S",
+    "description": "Have you wondered about the origin and workings of the natural world around us? Have you found physical science interesting but inaccessible because it was too full of math and jargon? Have you felt a pull to become more science-literate? If so, this seminar course is for you -- or for anyone interested in understanding more about the universe, including our planet, seen through the lens of modern physics. Ideas on the menu will include: particle physics, space and time, relativity, black holes, quantum physics, unification forces, string theory, and big bang cosmology. The intriguing story of these integrated phenomena unfolds over a wide distance and a long time. Students from diverse academic backgrounds are warmly welcome. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHY198H1": {
+    "code": "PHY198H1",
+    "name": "Physics at the Cutting Edge",
+    "hours": "24L/12S",
+    "description": "A limited enrollment seminar course for First Year Science students interested in current research in Physics. Students will meet active researchers studying the universe from the centre of the earth to the edge of the cosmos. Topics may range from string theory to experimental biological physics, from climate change to quantum computing, from superconductivity to earthquakes. The course may involve both individual and group work, essays and oral presentations. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": "PHY151H1"
+  },
+  "PHY199H1": {
+    "code": "PHY199H1",
+    "name": "Dark Matter and Dark Energy are the New Black",
+    "hours": "24S",
+    "description": "It is now 90 years since astronomers found the first evidence for a form of matter that wasn't part of the stars in our galaxies, but rather is \"dark\" and has a gravitational attraction to ordinary matter. Other lines of evidence lead us to believe that there is six times more dark matter than the ordinary matter we are familiar with. Despite this, we have no credible, direct evidence for what this dark matter might be. It is one of the biggest puzzles in particle physics and cosmology. In the last decade, we have also discovered that something else is going on \u2013 the universe appears to be filled with \"dark energy\" that causes the expansion of our universe to speed up instead of slowdown. We will discuss what we know about the hypotheses of dark matter and dark energy, and the debates about what might really be going on. Are we seeing science in crisis, with a revolution just around the corner, or is this just the \"normal science\" talked about by Kuhn and other philosophers of science? Participants will be expected to participate in seminar-style discussions, as well as take the lead on at least one topic of discussion. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHY202H1": {
+    "code": "PHY202H1",
+    "name": "The Physics of Science Fiction and Gaming",
+    "hours": "24L/12T",
+    "description": "The physics of time travel, teleportation, levitation, invisibility, special effects, and other physics related topics found in literature, film, and gaming. The course will analyze the realism of physical phenomena in these media, and consider the impact of these concepts on science and society. ( PHY202H1 is primarily intended as a Breadth Requirement course for students in the Humanities and Social Sciences with no university-level background in physics. Any student with university-level credit in physics, including students with secondary school transfer credits in physics is ineligible to take this course).",
+    "exclusions": "Any PHY course taken previously or concurrently (except  PHY196H1/  PHY197H1/  PHY198H1/  PHY199H1/  PHY100H1/  PHY205H1/  PHY207H1).",
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHY205H1": {
+    "code": "PHY205H1",
+    "name": "The Physics of Everyday Life",
+    "hours": "24L/12T",
+    "description": "An introduction to the physics of everyday life. This conceptual course looks at everyday objects to learn about the basis for our modern technological world. Topics may include anything from automobiles to weather. ( PHY205H1 is primarily intended as a Breadth Requirement course for students in the Humanities and Social Sciences with no university-level background in physics. Any student with university-level credit in physics, including students with secondary school transfer credits in physics is ineligible to take this course).",
+    "exclusions": "Any PHY course taken previously or concurrently (except  PHY196H1/  PHY197H1/  PHY198H1/  PHY199H1/  PHY100H1/  PHY202H1/  PHY207H1).",
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHY207H1": {
+    "code": "PHY207H1",
+    "name": "The Physics of Music",
+    "hours": "24L/12T",
+    "description": "An online course intended to provide non-science students with a basic understanding of the science behind sound and music. Topics include oscillations, waves, human hearing and perception of music, musical scales, musical instruments, recording and storing sound digitally, producing sound and broadcasting. Lectures will be delivered via the web and mandatory tutorials will require live webinar participation. The final exam will require attendance on the St. George campus. (PHY207H1 is primarily intended as a Breadth Requirement course for students with no university-level background in physics. Any student with university-level credit in physics, including students with secondary school transfer credits in physics is ineligible to take this course).",
+    "exclusions": "Any PHY course taken previously or concurrently (except  PHY196H1/  PHY197H1/  PHY198H1/  PHY199H1/  PHY100H1/  PHY202H1/  PHY205H1).",
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHY224H1": {
+    "code": "PHY224H1",
+    "name": "Practical Physics I",
+    "hours": "72P",
+    "description": "Develops the core practical experimental and computational skills necessary to do physics. Students tackle simple physics questions involving mathematical models, computational simulations and solutions, experimental measurements, data and uncertainty analysis.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHY131H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHY151H1",
+            "PHY132H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PHY152H1",
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "PHY231H1": {
+    "code": "PHY231H1",
+    "name": "Physics of Living Systems",
+    "hours": "24L/18P",
+    "description": "An introductory course for students interested in understanding the physical phenomena occurring in biological systems and the applications of physics in life sciences. Topics may include physical processes inside living cells and systems, medical physics and imaging.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHY131H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHY151H1",
+            "PHY132H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PHY152H1",
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "PHY250H1": {
+    "code": "PHY250H1",
+    "name": "Electricity and Magnetism",
+    "hours": "24L/12T",
+    "description": "An introductory course in Electromagnetism. Topics include: Point charges, Coulomb\u2019s law, electrostatic field and potential, Gauss's Law, conductors, electrostatic energy, magnetostatics, Ampere's Law, Biot-Savart Law, the Lorentz Force Law, Faraday\u2019s Law, Maxwell's equations in free space.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHY131H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHY151H1",
+            "PHY132H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PHY152H1",
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "PHY252H1": {
+    "code": "PHY252H1",
+    "name": "Thermal Physics",
+    "hours": "24L/12T",
+    "description": "The quantum statistical basis of macroscopic systems; definition of entropy in terms of the number of accessible states of a many particle system leading to simple expressions for absolute temperature, the canonical distribution, and the laws of thermodynamics. Specific effects of quantum statistics at high densities and low temperatures.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHY131H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHY151H1",
+            "PHY132H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PHY152H1",
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "PHY254H1": {
+    "code": "PHY254H1",
+    "name": "Classical Mechanics",
+    "hours": "24L/12T",
+    "description": "The course analyzes the linear, nonlinear and chaotic behaviour of classical mechanical systems such as harmonic oscillators, rotating bodies, and central field systems. The course will develop the analytical and numerical tools to solve such systems and determine their basic properties. The course will include mathematical analysis, numerical exercises using Python, and participatory demonstrations of mechanical systems.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHY131H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHY151H1",
+            "PHY132H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PHY152H1",
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "PHY256H1": {
+    "code": "PHY256H1",
+    "name": "Introduction to Quantum Physics",
+    "hours": "24L/12T",
+    "description": "Failures of classical physics; the Quantum revolution; Stern-Gerlach effect; harmonic oscillator; uncertainty principle; interference packets; scattering and tunneling in one-dimension.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHY131H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHY151H1",
+            "PHY132H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PHY152H1",
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "PHY299H1": {
+    "code": "PHY299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHY299Y1": {
+    "code": "PHY299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHY324H1": {
+    "code": "PHY324H1",
+    "name": "Practical Physics II",
+    "hours": "72P",
+    "description": "A modular practical course that further develops the core experimental and computational skills necessary to do physics. Modules include: experimental skills building, computational tools in data and uncertainty analysis, and independent experimental projects.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "PHY224H1",
+            "PHY231H1"
+          ]
+        },
+        "PHY250H1",
+        "PHY252H1",
+        "PHY254H1",
+        "PHY256H1"
+      ]
+    }
+  },
+  "PHY331H1": {
+    "code": "PHY331H1",
+    "name": "Introduction to Biological Physics",
+    "hours": "24L/18P",
+    "description": "A course for students interested in a deeper understanding of physical phenomena occurring in biological systems. Thermodynamics, diffusion, entropic forces, fluids, biological applications.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHY252H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CHM222H1",
+            "PHY231H1"
+          ]
+        },
+        "PHY250H1",
+        "PHY254H1",
+        "PHY256H1"
+      ]
+    }
+  },
+  "PHY350H1": {
+    "code": "PHY350H1",
+    "name": "Electromagnetic Theory",
+    "hours": "24L/12T",
+    "description": "This course builds upon the knowledge and tools developed in  PHY250H1. Topics include: solving Poisson and Laplace equations via method of images and separation of variables, multipole expansion for electrostatics, atomic dipoles and polarizability, polarization in dielectrics, multipole expansion in magnetostatics, magnetic dipoles, magnetization in matter, Maxwell\u2019s equations in matter, conservation laws in electrodynamics, and electromagnetic waves.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MAT223H1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT240H1",
+            "MAT244H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT267H1",
+            "MAT235Y1"
+          ]
+        },
+        "MAT237Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT257Y1",
+            "PHY250H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PHY354H1": {
+    "code": "PHY354H1",
+    "name": "Advanced Classical Mechanics",
+    "hours": "24L/12T",
+    "description": "Symmetry and conservation laws, stability and instability, generalized coordinates, Hamilton's principle, Hamilton's equations, phase space, Liouville's theorem, canonical transformations, Poisson brackets, Noether's theorem.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MAT223H1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT240H1",
+            "MAT244H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT267H1",
+            "MAT235Y1"
+          ]
+        },
+        "MAT237Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT257Y1",
+            "PHY254H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PHY356H1": {
+    "code": "PHY356H1",
+    "name": "Quantum Mechanics I",
+    "hours": "24L/12T",
+    "description": "The general structure of wave mechanics; eigenfunctions and eigenvalues; operators; orbital angular momentum; spherical harmonics; central potential; separation of variables; hydrogen atom; Dirac notation; operator methods; harmonic oscillator and spin.",
+    "exclusions": "CHM326H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MAT223H1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT240H1",
+            "MAT235Y1"
+          ]
+        },
+        "MAT237Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT257Y1",
+            "PHY250H1",
+            "PHY256H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "CHM222H1",
+            "CHM223H1",
+            "PHY256H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PHY357H1": {
+    "code": "PHY357H1",
+    "name": "Nuclear and Particle Physics",
+    "hours": "24L/12T",
+    "description": "The subatomic particles; nuclei, baryons and mesons, quarks, leptons and bosons; the structure of nuclei and hadronic matter; symmetries and conservation laws; fundamental forces and interactions, electromagnetic, weak, and strong; a selection of other topics: CP violation, nuclear models, standard model, proton decay, supergravity, nuclear and particle astrophysics. This course is not a prerequisite for any PHY400-level course.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": "PHY356H1"
+  },
+  "PHY358H1": {
+    "code": "PHY358H1",
+    "name": "Quantum Materials: from Atoms to Crystals",
+    "hours": "24L/12T",
+    "description": "This course covers the most important iconic quantum systems, from the hydrogen atom through to solid state systems, focusing on how quantum mechanics is applied and determines physical properties of atoms, molecules, and crystals. It begins with the hydrogen atom, including orbital and spin angular momentum, spin-orbit coupling, and effects of the magnetic field, and then extends to systems of two identical particles: bosons vs. fermions and the helium atom with two electrons. Other topics include spin singlets and triplets, entanglement, perturbation theory, the effects of electron-electron interactions and diatomic molecules. For crystals, the course covers Fermi gases, Fermi surfaces, crystal structure, the reciprocal lattice, the nearly-free electron model, energy bands, and topology using low-dimensional models.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": "PHY356H1"
+  },
+  "PHY365H1": {
+    "code": "PHY365H1",
+    "name": "Quantum Information",
+    "hours": "24L/12T",
+    "description": "Introduction to quantum computing; Quantum states of multi-particle systems and Entanglement; Quantum Algorithms; Quantum Information Processing Technologies; Quantum error correction.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHY256H1",
+        "PHY294H1",
+        "CHM223H1",
+        {
+          "operator": "AND",
+          "items": [
+            "ECE330H1",
+            "MAT223H1"
+          ]
+        },
+        "MAT240H1"
+      ]
+    }
+  },
+  "PHY371Y1": {
+    "code": "PHY371Y1",
+    "name": "Supervised Study in Physics",
+    "hours": null,
+    "description": "An individual study program chosen by the student with the advice of, and under the direction of, a staff member. A student may take advantage of this course either to specialize further in a field of interest or to explore interdisciplinary fields not available in the regular syllabus. Consult the department web pages for some possible topics. This course may also be available in the summer. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHY372H1": {
+    "code": "PHY372H1",
+    "name": "Supervised Study in Physics",
+    "hours": null,
+    "description": "An individual study program chosen by the student with the advice of, and under the direction of, a staff member. A student may take advantage of this course either to specialize further in a field of interest or to explore interdisciplinary fields not available in the regular syllabus. Consult the department web site for some possible topics. This course may also be available in the summer. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHY378H1": {
+    "code": "PHY378H1",
+    "name": "Undergraduate Research Project",
+    "hours": null,
+    "description": "An individual experimental or theoretical research project undertaken with the advice of, and under the direction of, a staff member. A student may take advantage of this course either to specialize further in a field of interest or to explore independent research. Consult the department web site for some possible topics. This course may also be available in the summer. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHY379Y1": {
+    "code": "PHY379Y1",
+    "name": "Undergraduate Research Project",
+    "hours": null,
+    "description": "An individual experimental or theoretical research project undertaken with the advice of, and under the direction of, a staff member. A student may take advantage of this course either to specialize further in a field of interest or to explore independent research. Consult the department web site for some possible topics. This course may also be available in the summer. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHY385H1": {
+    "code": "PHY385H1",
+    "name": "Introductory Optics",
+    "hours": "24L/20P",
+    "description": "An introduction to the physics of light. Topics covered include: electromagnetic waves and propagation of light; the Huygens and Fermat principles; geometrical optics and optical instruments; interference of waves and diffraction; polarization; introduction to photons, lasers, and optical fibers.",
+    "exclusions": "ECE318H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "PHY250H1",
+            "PHY224H1",
+            "MAT235Y1"
+          ]
+        },
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    }
+  },
+  "PHY392H1": {
+    "code": "PHY392H1",
+    "name": "Physics of Climate",
+    "hours": "24L",
+    "description": "This course provides an introduction to climate physics and the earth-atmosphere-ocean system. Topics include solar and terrestrial radiation; global energy balance; radiation laws; radiative transfer; atmospheric structure; convection; the meridional structure of the atmosphere; the general circulation of the atmosphere; the ocean and its circulation; and climate variability.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PHY250H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHY252H1",
+            "MAT235Y1"
+          ]
+        },
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    }
+  },
+  "PHY396Y0": {
+    "code": "PHY396Y0",
+    "name": "Research Topic Abroad",
+    "hours": null,
+    "description": "Course credit for research or field studies abroad under the supervision of a faculty member. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 8.5,
+          "department": ""
+        },
+        {
+          "credits": 14.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "PHY397Y0": {
+    "code": "PHY397Y0",
+    "name": "Exchange Research Project Abroad",
+    "hours": null,
+    "description": "Course credit for research or field studies abroad under the supervision of a faculty or staff member from an exchange institution. Consult the Physics Department web pages for information about opportunities. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "PHY398H0": {
+    "code": "PHY398H0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHY398Y0": {
+    "code": "PHY398Y0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHY399H1": {
+    "code": "PHY399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHY399Y1": {
+    "code": "PHY399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PHY405H1": {
+    "code": "PHY405H1",
+    "name": "Electronics Lab",
+    "hours": "12L/36P",
+    "description": "Electrical circuits, networks and devices are all-pervasive in the modern world. This laboratory course is an introduction to the world of electronics. Students will learn the joys and perils of electronics, by designing, constructing and debugging circuits and devices. The course will cover topics ranging from filters and operational amplifiers to micro-controllers, and will introduce students to concepts such as impedance, transfer functions, feedback and noise.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PHY224H1",
+        "PHY250H1",
+        "PHY405H1"
+      ]
+    }
+  }
+}

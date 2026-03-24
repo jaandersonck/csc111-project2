@@ -1,0 +1,1038 @@
+{
+  "GGR429H1": {
+    "code": "GGR429H1",
+    "name": "Innovation and Governance",
+    "hours": "24S",
+    "description": "The course focuses on a broad range of topics related to innovation and governance, such as (i) technological change and its social and economic consequences, (ii) the spatial effects which result from this, and (iii) the necessities for economic policies at different territorial levels. Since international competitiveness of industrialized economies cannot be based on cost advantages alone, future growth in the knowledge-based economy will be increasingly associated with capabilities related to creativity, knowledge generation and innovation. As a consequence, questions regarding the performance in innovation and effectiveness of policy support become decisive at the firm level, regional level and national level. The first part of the course deals with conceptual foundations of innovation processes, such as evolutionary and institutional views of innovation. In the second part, national configurations of innovation processes are investigated. The third part deals with innovation at the subnational level, focusing on regional clustering, institution building, multilevel governance, and regionalized innovation systems.",
+    "exclusions": "POL408H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "GGR430H1": {
+    "code": "GGR430H1",
+    "name": "Geographies of Markets",
+    "hours": "36S",
+    "description": "Focuses on actually-existing markets and their geographically-mediated formation and assemblage. Explores how markets are produced, stabilized, reshaped and fall apart at multiple geographic scales. We examine issues such as the debates on states versus markets, embeddedness of markets, neoliberalism and moral justification of markets, varieties of capitalism, regionally variegated capitalism, post-socialist market transitions, and the dynamic evolution of market institutions and economic landscapes.",
+    "exclusions": "GGR400H1 (2013-14)",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "GGR431H1": {
+    "code": "GGR431H1",
+    "name": "Regional Dynamics",
+    "hours": "24L",
+    "description": "Economic activity, and related indices of socioeconomic well-being and human capital, have always tended to concentrate in space, leaving specific regions to be classified as \u201ccreative\u201d, \u201cdeveloped\u201d, or \u201ccore\u201d regions and others as \u201chave-not\u201d, \u201cless-developed, \u201cperipheral\u201d, or \u201cmarginal\u201d regions. As a result, regional economic change has been very difficult to fully explain (and certainly predict) using conventional (orthodox) theories and methods. This course examines the theoretical linkage between related trends in terms of globalization, vertical disintegration, specialization, innovation, and the locational behaviour of firms. We will focus on the seemingly counter-intuitive finding that regional economic change in a time of increasing global interdependence is increasingly dependent on the local context. Topics will include evolutionary economic geography, path dependence, economic clusters, learning regions, the role of institutions, knowledge spill-overs, and the geography of innovation, among others. We will see why the economic activity is becoming ever more concentrated in space even as it globalizes. The course makes extensive use of empirical case studies from around the globe.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 10.0,
+              "department": ""
+            },
+            "GGR221H1"
+          ]
+        },
+        "GGR251H1"
+      ]
+    }
+  },
+  "GGR432H1": {
+    "code": "GGR432H1",
+    "name": "China in the Global Political Economy",
+    "hours": "24S",
+    "description": "Set against the backdrop of the rise of China, and following the perspective of geographic political economy, this seminar course examines the interactions between and mutual transformations of the Chinese economy and the global economy. We will focus on the evolving political and institutional foundations of China\u2019s post-Mao, hybrid, hierarchical market-authoritarian system. Key sectors \u2013 telecoms, Internet, semiconductor, and automobile \u2013 will be examined to understand the nuances of China\u2019s integration into the global production through state-directed uneven domestic development, and in turn the challenges raised by escalating international conflicts.",
+    "exclusions": "GGR389H1 (Special Topic: China in the Global Political Economy), offered in Fall 2022",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "GGR433H1": {
+    "code": "GGR433H1",
+    "name": "Built Environment and Health",
+    "hours": "36S",
+    "description": "Linking across fields that include public health, geography and planning, this course examines the growing evidence and ways in which human health is affected by the design and development of the built environment in which we live, work and play. The course considers how various planning and development decisions impact population and individual health, particularly in relation to chronic diseases, injuries, and mental health. Potential of several local field trips (transportation costs: approximately $20).",
+    "exclusions": "GGR400H1 (Special Topics in Geography I: Built Environments & Health), offered in Winter 2013",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "GGR434H1": {
+    "code": "GGR434H1",
+    "name": "Building Community Resilience",
+    "hours": "36S",
+    "description": "Examines concepts of resilience as a way of building the capacity of communities to (a) respond to predicted disruptions/shocks associated with climate change, global pandemics, anticipated disruptions in global food supply, energy insecurity, and environmental degradation; and (b) nurture the development of alternative spaces that support the emergence of more life-sustaining structures and practices. Includes explicit attention to equity and public health, and explores issues such as: participatory governance of social-ecological systems, the nature of social change, complexity science, the role of social movements, indigenous and political ecology perspectives.",
+    "exclusions": "GGR400H1 (2011-12)",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "GGR437H1": {
+    "code": "GGR437H1",
+    "name": "Geographies of Waste",
+    "hours": "36S",
+    "description": "This seminar course examines how waste is made and how it circulates locally, regionally, and globally. It considers changing conceptions of \u2018waste\u2019 and the wider systems that have shaped efforts to manage waste through a selection of historic and contemporary geographies of waste. We will examine waste as a resource (e.g., recycling, composting) and waste avoided (e.g., reuse, repair). Through case studies, we will analyze waste \u2013 including urban wastewater \u2013 in relation to policy and planning, political economy, forms of labour and infrastructure, and the social norms and values that have shaped people\u2019s relationship to it.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "GGR438H1": {
+    "code": "GGR438H1",
+    "name": "Environment and Development",
+    "hours": "36S",
+    "description": "Examines the implications of development \u2013 as an economic and social project \u2013 for how the environment is used, by whom, and to what ends. Draws on literatures in political ecology and critical development geography. Topics include: interpretations of scarcity and degradation, questions of consumption, and the greening of development. Examines expansion of and struggles over new forms of green infrastructure in urban and rural settings.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "GGR456H1": {
+    "code": "GGR456H1",
+    "name": "Entanglements of Power: Race, Sexuality and the City",
+    "hours": "24S",
+    "description": "This course investigates the city as a space sculpted by particular configurations and relations of power, and productive of those forms. It considers shifting urban geographies of identity, economy and desire with a focus on race and racism, settler colonialism, empire, the laboring body, sexuality, and sexual identity. Course participants will engage a series of case studies of particular urban spaces and struggles, drawing on conceptual support from scholarship in urban geography, anti-colonial thought, political economy, black studies, feminist and queer theory, Indigenous and settler colonial studies, as well as literature and other artistic work.",
+    "exclusions": "GGR400H1 (Special Topics in Geography I: Entanglements of Power: Race, Sexuality and the City), offered in Fall 2018",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "GGR458H1": {
+    "code": "GGR458H1",
+    "name": "Selected Topics in Urban Geography",
+    "hours": "24L",
+    "description": "This course focuses on a special topic in urban geography and covers it with more depth than would otherwise be the case in a survey-oriented class. The aim is to utilize this single topic as a vehicle to understanding how urban geographical ideas are produced more widely. Check the department website for the theme (updated each year).",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "GGR460H1": {
+    "code": "GGR460H1",
+    "name": "Global Cities, Urban Planning, Critical Theory",
+    "hours": "36S",
+    "description": "This seminar addresses the relationship between urbanization and global economic, political, cultural, social, demographic, technological and ecological dynamics. It does so with an emphasis on the contested legacies of city planning, urban design, architecture and urban political activism, by drawing on historical studies of global cities as well as critical-theoretical perspectives on the \u2018production of space\u2019. While broaching the question what\u2019s \u2018production of space\u2019 got to do with social justice, we explore\u2014with reference to pioneering thinkers in the fields of planning, architecture and critical theory\u2014such concepts as radical planning, the urban revolution and the right to the city.",
+    "exclusions": "GGR400H1 (Topics: Planning and Global Cities), offered in Winter 2018",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "GGR462H1": {
+    "code": "GGR462H1",
+    "name": "GIS Research Project",
+    "hours": "24L",
+    "description": "Students work in groups to develop their own research project and then acquire, organize and analyze geographic data to complete it. Emphasis is placed on research design, project management and the application of GIS concepts and skills learned in previous courses to a practical problem.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "GGR373H1"
+      ]
+    }
+  },
+  "GGR472H1": {
+    "code": "GGR472H1",
+    "name": "Developing Web Maps",
+    "hours": "24L",
+    "description": "Explores the power of web mapping and CyberGIS, with a focus on hands-on learning and open source software. Students will learn about relevant software (exploring various APIs), data structures, methods, and cartographic and visualization techniques. Finally, students will work in groups to develop and deliver their own online web maps from scratch, on a topic of their choosing.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 10.0,
+              "department": ""
+            },
+            "GGR272H1",
+            "GGR273H1"
+          ]
+        },
+        "GGR274H1"
+      ]
+    }
+  },
+  "GGR473H1": {
+    "code": "GGR473H1",
+    "name": "Geospatial Big Data",
+    "hours": "24L",
+    "description": "Advances in sensing and mobile technologies have contributed to the increasing availability of large volume georeferenced data such as geo-tagged social media content, GPS traces, and crowdsourced maps. While geospatial big data provide a major source for innovation and analysis, challenges relating to data handling, processing, and interpretation have simultaneously arisen. In this course, students will build a critical understanding of the evolution, potential, and biases of geospatial big data. Knowledge of geo-computational techniques to handle geospatial big data and perform meaningful analysis will also be developed and applied.",
+    "exclusions": "GGR401H1 (Special Topic: Geospatial Big Data), offered in Fall 2022",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 10.0,
+              "department": ""
+            },
+            "GGR272H1"
+          ]
+        },
+        "GGR274H1"
+      ]
+    }
+  },
+  "GGR482H1": {
+    "code": "GGR482H1",
+    "name": "Toronto Field Course",
+    "hours": null,
+    "description": "Examines the production of urban landscapes, built environments and social spaces in Toronto and surrounding areas through in-depth case studies. Coverage will vary some depending on instructor. The course consists of local field trips and in-class seminars and lectures. Students must submit an application directly to the Department in the spring (see the Geography website for details in March). Course may be limited by size. Not eligible for CR/NCR option. Field trip costs are normally low, but may go up to $153.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "GGR491Y1": {
+    "code": "GGR491Y1",
+    "name": "Research Project",
+    "hours": null,
+    "description": "Specially designed for students wishing to gain experience in conducting research in their area of specialization. Of particular value for geographers interested in graduate study, or positions in government, planning and consulting firms where research skills may be an asset. Students select a research problem and complete a project under the supervision of a faculty member. Enrolment requires written permission from a faculty supervisor and Associate Chair, Undergraduate; early discussion with a likely supervisor is encouraged. Enrolment may be completed at any time up to September; open to students in a Specialist or Major Program sponsored by the Department of Geography. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "GGR492H1": {
+    "code": "GGR492H1",
+    "name": "Senior Practicum",
+    "hours": null,
+    "description": "Students design and implement an independent applied geography/planning project in consultation with an employer (paid or volunteer), who will act as their \u201cclient.\u201d Enrolment requires written permission from a staff supervisor and Associate Chair, Undergraduate. Only open to students who are enrolled in a Specialist or Major program sponsored by the Department of Geography. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "GGR492Y1": {
+    "code": "GGR492Y1",
+    "name": "Senior Practicum",
+    "hours": null,
+    "description": "Students design and implement an independent applied geography/planning/GIS project in consultation with an employer (paid or volunteer), who will act as their \u201cclient\u201d. Enrolment required written permission from a staff supervisor and Associate Chair, Undergraduate. Only open to students who have completed 10.0 credits and who are enrolled in a Specialist, Major or GIS minor program sponsored by the Department of Geography. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "GGR493Y1": {
+    "code": "GGR493Y1",
+    "name": "Geography Professional Experience",
+    "hours": null,
+    "description": "Undertake professional placement matching academic interests and career goals. Students meet regularly during the year in class to cover topics such as: reflective writing, project management, career planning, and the application of academic skills in professional contexts. Research project required that connects a topic related to placement with academic literatures. Normally, one day per week spent at placement site. For students in their final year of a Geography major or specialist program of study, or the GIS Minor. Satisfies program requirements based on placement. Students must submit an application directly to the Department in the spring (see the Geography website for details in March). Course may be limited by size. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 14.5,
+      "department": ""
+    }
+  },
+  "GGR496H1": {
+    "code": "GGR496H1",
+    "name": "Independent Research",
+    "hours": null,
+    "description": "Independent research extension to one of the courses already completed in Geographic Information Systems. Enrolment requires written permission from a faculty supervisor and Associate Chair, Undergraduate. Only open to students who are in Year 3 or higher and who are enrolled in the GIS program sponsored by the Department of Geography. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "GGR497H1": {
+    "code": "GGR497H1",
+    "name": "Independent Research",
+    "hours": null,
+    "description": "Independent research extension to one of the courses already completed in Environmental Geography. Enrolment requires written permission from a faculty supervisor and Associate Chair, Undergraduate. Only open to students who are in Year 3 or higher and who are enrolled in a Specialist or Major program sponsored by the Department of Geography. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "GGR498H1": {
+    "code": "GGR498H1",
+    "name": "Independent Research",
+    "hours": null,
+    "description": "Independent research extension to one of the courses already completed in Physical Geography. Enrolment requires written permission from a faculty supervisor and Associate Chair, Undergraduate. Only open to students in Year 3 or higher and who are enrolled in a Specialist or Major program sponsored by the Department of Geography. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "GGR499H1": {
+    "code": "GGR499H1",
+    "name": "Independent Research",
+    "hours": null,
+    "description": "Independent research extension to one of the courses already completed in a social science or humanities branch of Geography. Enrolment requires written permission from a faculty supervisor and Associate Chair, Undergraduate. Only open to students in Year 3 or higher who are enrolled in a Specialist or Major program sponsored by the Department of Geography. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "GRK101H1": {
+    "code": "GRK101H1",
+    "name": "Introductory Ancient Greek I",
+    "hours": "48S",
+    "description": "An intensive introduction to Ancient Greek for students who have no knowledge of the language; preparation for the reading of Ancient Greek literature.",
+    "exclusions": "GRK100Y1. Students who have studied Ancient Greek previously must obtain permission from the Undergraduate Coordinator before enrolling.",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "GRK102H1": {
+    "code": "GRK102H1",
+    "name": "Introductory Ancient Greek II",
+    "hours": "48S",
+    "description": "A continuation of the intensive introduction to Ancient Greek in GRK 101H1. Also appropriate for students who have some training in Ancient Greek, but have not completed a whole credit course at University or a final-year (Grade 12) course in secondary school.",
+    "exclusions": "GRK100Y1",
+    "breadth": 1,
+    "prereq_tree": "GRK101H1"
+  },
+  "GRK201H1": {
+    "code": "GRK201H1",
+    "name": "Intermediate Ancient Greek I",
+    "hours": "48S",
+    "description": "Reading of selections of Ancient Greek prose works with systematic language study.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "GRK100Y1",
+        "GRK102H1"
+      ]
+    }
+  },
+  "GRK202H1": {
+    "code": "GRK202H1",
+    "name": "Intermediate Ancient Greek II",
+    "hours": "48S",
+    "description": "Continued language training with readings in Ancient Greek prose and verse.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "GRK201H1"
+  },
+  "GRK340H1": {
+    "code": "GRK340H1",
+    "name": "Greek Philosophy I",
+    "hours": "36S",
+    "description": "Readings from one or more philosophical texts.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "GRK202H1"
+  },
+  "GRK341H1": {
+    "code": "GRK341H1",
+    "name": "Greek Historians I",
+    "hours": "36S",
+    "description": "Readings from one or more Greek Historians.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "GRK202H1"
+  },
+  "GRK343H1": {
+    "code": "GRK343H1",
+    "name": "Greek Prose Authors I",
+    "hours": "36S",
+    "description": "Readings from Greek prose authors (e.g., biography, novels, essays, texts in koine).",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "GRK202H1"
+  },
+  "GRK350H1": {
+    "code": "GRK350H1",
+    "name": "Greek Epic I",
+    "hours": "36S",
+    "description": "Readings from Greek epics, including Homer.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "GRK202H1"
+  },
+  "GRK351H1": {
+    "code": "GRK351H1",
+    "name": "Greek Drama I",
+    "hours": "36S",
+    "description": "Readings from Greek tragedy and/or comedy.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "GRK202H1"
+  },
+  "GRK353H1": {
+    "code": "GRK353H1",
+    "name": "Greek Verse Authors I",
+    "hours": "36S",
+    "description": "Readings from Greek verse (e.g., elegy, iambics, lyric).",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "GRK202H1"
+  },
+  "GRK354H1": {
+    "code": "GRK354H1",
+    "name": "Greek of Classical Athens I",
+    "hours": "36S",
+    "description": "Readings from one or more Greek texts, in prose or poetry, from Athens of the 5th-4th centuries BCE.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "GRK202H1"
+  },
+  "GRK355H1": {
+    "code": "GRK355H1",
+    "name": "Post-Classical Greek I",
+    "hours": "36S",
+    "description": "Readings from one or more Greek texts, in prose or poetry, from the Hellenistic and/or Roman Period.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "GRK202H1"
+  },
+  "GRK428H1": {
+    "code": "GRK428H1",
+    "name": "Independent Studies",
+    "hours": null,
+    "description": "Independent Studies. Not eligible for CR/NCR option.",
+    "exclusions": "GRK428Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "GRK429H1": {
+    "code": "GRK429H1",
+    "name": "Independent Studies",
+    "hours": null,
+    "description": "Independent Studies. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "GRK440H1": {
+    "code": "GRK440H1",
+    "name": "Greek Philosophy II",
+    "hours": "48S",
+    "description": "Advanced readings from one or more philosophical texts.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "GRK"
+    }
+  },
+  "GRK441H1": {
+    "code": "GRK441H1",
+    "name": "Greek Historians II",
+    "hours": "48S",
+    "description": "Advanced readings from one or more Greek historians.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "GRK"
+    }
+  },
+  "GRK443H1": {
+    "code": "GRK443H1",
+    "name": "Greek Prose Authors II",
+    "hours": "48S",
+    "description": "Advanced readings from Greek prose authors (e.g., biography, novels, essays, texts in koine).",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "GRK"
+    }
+  },
+  "GRK450H1": {
+    "code": "GRK450H1",
+    "name": "Greek Epic II",
+    "hours": "48S",
+    "description": "Advanced readings from Greek epics, including Homer.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "GRK"
+    }
+  },
+  "GRK451H1": {
+    "code": "GRK451H1",
+    "name": "Greek Drama II",
+    "hours": "48S",
+    "description": "Advanced readings from Greek tragedy and/or comedy.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "GRK"
+    }
+  },
+  "GRK453H1": {
+    "code": "GRK453H1",
+    "name": "Greek Verse Authors II",
+    "hours": "48S",
+    "description": "Advanced readings from Greek verse (e.g., elegy, iambic, lyric).",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "GRK"
+    }
+  },
+  "GRK454H1": {
+    "code": "GRK454H1",
+    "name": "Greek of Classical Athens II",
+    "hours": "48S",
+    "description": "Advanced readings from one or more Greek texts, in prose or poetry, from Athens of the 5th-4th centuries BCE.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "GRK"
+    }
+  },
+  "GRK455H1": {
+    "code": "GRK455H1",
+    "name": "Post-Classical Greek II",
+    "hours": "48S",
+    "description": "Advanced readings from one or more Greek texts, in prose or poetry, from the Hellenistic and/or Roman Period.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "GRK"
+    }
+  },
+  "HIS100Y1": {
+    "code": "HIS100Y1",
+    "name": "History of the Arctic",
+    "hours": "48L/20T",
+    "description": "People have made the Arctic home for millennia, creating circumpolar cultures in its challenging climate. This course compares and examines connections in the contested polar region through several themes: cultures in contact, trade and exploration, environment, crime and punishment, and defense and sovereignty.",
+    "exclusions": "HIS101Y1,  HIS102Y1,  HIS103Y1,  HIS106Y1,  HIS107Y1,  HIS108Y1,  HIS109Y1,  HIS110Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS101Y1": {
+    "code": "HIS101Y1",
+    "name": "Histories of Violence",
+    "hours": "48L/20T",
+    "description": "Ranging widely chronologically and geographically, this course explores the phenomenon of violence in history. It examines the role and meanings of violence in particular societies (such as ancient Greece and samurai Japan), the ideological foundations and use of violence in the clash of cultures (as in slavery, holy wars, colonization, and genocide), and the effects and memorialization of violence.",
+    "exclusions": "HIS100Y1,  HIS102Y1,  HIS103Y1,  HIS106Y1,  HIS107Y1,  HIS108Y1,  HIS109Y1,  HIS110Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "HIS102Y1": {
+    "code": "HIS102Y1",
+    "name": "Empires, Encounters and Exchanges",
+    "hours": "48L/20T",
+    "description": "Can we speak of \u201cinternational relations\u201d before the modern concept of nation-states was established? What forms did globalization take in the pre-modern era? How did early global exchange shape our world today? Students in this course study interactions among peoples, empires, and cultures, in multiple regions of the world (specific areas and time periods will change depending on the professors teaching in any given year). Topics include the impact of new goods and technologies; dissemination of ideas and religions; voyages of migration and exploration; and episodes of conquest and colonization. Analysis of primary sources and intensive focus on becoming strong writers.",
+    "exclusions": "HIS100Y1,  HIS101Y1,  HIS103Y1,  HIS106Y1,  HIS107Y1,  HIS108Y1,  HIS109Y1,  HIS110Y1,  HISA04H3/  HISA05H3",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "HIS103Y1": {
+    "code": "HIS103Y1",
+    "name": "Strategy and Statecraft: War, Diplomacy, and the Development of the International System, 1600\u20131945",
+    "hours": "48L/20T",
+    "description": "This course explores the history of the international state system, encouraging students to consider how this system has been constantly adapting and evolving for hundreds of years as states compete for power. It examines how wars between European states, along with diplomacy, empire-building, and the quest for wealth, led\u2014unintentionally in many ways\u2014to a broader, international system not confined only to European \u201cgreat powers.\u201d Students will study themes such as strategy and war, empire and imperialism, and trade, diplomacy, and state-building to understand the rise and fall of major states and empires over the centuries. Key events include the Thirty Years War in Europe; the global implications of the Seven Years War and Napoleonic Wars; and the roles of non-European regions like China, India, Japan, and the United States in the 18th and 19th centuries. The course also considers the effects of imperial competition in Africa and Asia, both for the imperial powers and the peoples and states of those continents; the diplomacy and competition that led to the First World War; and the global impact of the Second World War, with the rise of \u201csuperpowers\u201d and the collapse of the European and Japanese empires.",
+    "exclusions": "HIS100Y1,  HIS101Y1,  HIS102Y1,  HIS106Y1,  HIS107Y1,  HIS108Y1,  HIS109Y1,  HIS110Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS106Y1": {
+    "code": "HIS106Y1",
+    "name": "The African Diaspora in the Americas, 1492-1804",
+    "hours": "48L/20T",
+    "description": "This course introduces the history of the African Diaspora in the Americas, from 1492-1804. Lectures and readings will draw from primary sources and historical scholarship to focus on a range of topics, including slavery and the slave trade, race relations, gender and sexuality, religious and cultural practices, and liberation struggles.",
+    "exclusions": "HIS100Y1,  HIS101Y1,  HIS102Y1,  HIS103Y1,  HIS107Y1,  HIS108Y1,  HIS109Y1,  HIS110Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS107Y1": {
+    "code": "HIS107Y1",
+    "name": "Approaches to East Asian History",
+    "hours": "48L/20T",
+    "description": "This course draws on the history of China, Korea and Japan between 1600 to 1950 to explore historical issues of gender, nationalism, war and relations with the West.",
+    "exclusions": "HIS100Y1,  HIS101Y1,  HIS102Y1,  HIS103Y1,  HIS106Y1,  HIS108Y1,  HIS109Y1,  HIS110Y1,  HIS284H5/ EAS204Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS108Y1": {
+    "code": "HIS108Y1",
+    "name": "What is History?",
+    "hours": "48L/20T",
+    "description": "This course offers an introduction to history as a discipline - to the history of the discipline itself, to the questions, categories, and methodologies that constitute it, to the ways these interrogations and methods have evolved in varied times and places, and to the methodologies students need to acquire to engage in historical inquiry and writing. The course will be part methodological workshop, part epistemological reflection. Designed for any students interested in the study of the past or considering the History major.",
+    "exclusions": "HIS100Y1,  HIS101Y1,  HIS102Y1,  HIS103Y1,  HIS106Y1,  HIS107Y1,  HIS109Y1,  HIS110Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS109Y1": {
+    "code": "HIS109Y1",
+    "name": "The Development of European Civilization, 1350-1945",
+    "hours": "48L/20T",
+    "description": "The shape of traditional society; the forces at work on the social, political, economic, cultural and intellectual structures of Western Europe since the high Middle Ages: the Structure of Traditional Society; the First Period of Challenges, 1350-1650; the Second Period of Challenges, 1650-1815; Confidence, Stability and Progress, 1815-1914; the Collapse of the Old Order and the Condition of Modern Europe, 1914-1945.",
+    "exclusions": "HIS100Y1,  HIS101Y1,  HIS102Y1,  HIS103Y1,  HIS106Y1,  HIS107Y1,  HIS108Y1,  HIS110Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS110Y1": {
+    "code": "HIS110Y1",
+    "name": "History of the Indian Ocean World",
+    "hours": "48L/20T",
+    "description": "This course introduces you to the connected and interdependent world people who lived between the present day cities of Dakar, in West Africa, and Jakarta, in Indonesia, from about 1000 to the present. We explore in this class the three \"C\"s which have linked human experience in Africa and Asia via routes which connected the Indian Ocean World: Connectedness, Contingency, and Cosmopolitanism. We study how people who lived more than a thousand years before our time transported ideas, products, and scripts by land and sea via routes that connected large parts of Africa, Central & South Asia, and East and Southeast Asia, and their histories. The land and sea routes connected these communities and the cosmopolitan outlook of the hosts provided the contingent conditions for a Buddhist monks to travel from all over China to Southern and Southeast Asia; Muslim scholars to travel from West Africa to Indonesia; and merchants and writers to move within these worlds. Human migration, economic trade, and religious conversion had linked the lands and the seas, making it possible for our imams, merchants, monks, and servants to traverse these territories, across the Africa and Asia. This vibrant and wealthy world of African and Asian thinkers, merchants, leaders, and communities became the envy of the world, and as late as the seventeenth century, these crazy rich Africans and Asians dominated the world as it was known. We'll see how history is contingent--and that human migration, economic exploitation, lack of reciprocity, and legacies of European colonial racism have disrupted the cosmopolitan worlds of the Indian Ocean. The world is different today, but more than three quarters of the human population still live in Africa and Asia--see the richness of their worlds as it was for thousands of years, and what will be left for the people of this world as climate change makes the seas rise.",
+    "exclusions": "HIS100Y1,  HIS101Y1,  HIS102Y1,  HIS103Y1,  HIS106Y1,  HIS107Y1,  HIS108Y1,  HIS109Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS111H1": {
+    "code": "HIS111H1",
+    "name": "Artificial Intelligence and the Fourth Industrial Revolution: Lessons from History",
+    "hours": "24L/10T",
+    "description": "The AI Age is driving a new, \u201cFourth Industrial Revolution,\u201d according to World Economic Forum founder, Klaus Schwab. Could the real histories of the first three industrial revolutions help us navigate the disinformation crisis and the social, political, economic and environmental impact of this shift? Algorithmic platforms and AI tools, like those used in Instagram, TikTok, and YouTube are relatively new, but the hidden power structures that have shaped their rise and use are not. This course explores the big histories behind algorithmic technologies in two ways. First, class discussions, workshops, and guest lectures introduce students to overlooked histories behind our present moment, from the wild history of venture capital and tech monopolies to the rise of the early internet, and the big histories behind issues like facial recognition, celebrity, militarization, and privacy. Second, we explore the human reasons behind how and why social media platforms and AI tools, have amplified and automated disinformation and historical biases online. Hands-on research and projects help students explore and develop real solutions to displace disinformation, protect democratic elections, and provide the public better access to accurate historical content on social media. Restricted to first-year students.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS112H1": {
+    "code": "HIS112H1",
+    "name": "Ten Events that Changed the World",
+    "hours": "24L/10T",
+    "description": "This course examines ten events changed the world and continue to have ramifications today. Events may change year to year, depending on the instructor. Students will learn how historians work to understand the significance of these moments, human agency, and the idea of an \u201cevent,\u201d itself.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS115H1": {
+    "code": "HIS115H1",
+    "name": "History Now: How the Past Shapes the Present",
+    "hours": "24L/20T",
+    "description": "In this introduction to the discipline of history, the instructor chooses several pressing issues facing the world today and delves into their pasts. The course helps us understand what the study of history can and cannot teach us about the present moment, and the challenges and opportunities of using history to understand our present \u2013 and potentially our future, as well. Students will assess historical \u201ctruth claims\u201d made across multiple media, how to find and make use of credible scholarship, and how historians make use of primary sources. Assignments will focus on the development of critical reading and strong writing skills. In tutorial discussions, students will practice making effective oral arguments.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS190H1": {
+    "code": "HIS190H1",
+    "name": "Freedom Schools",
+    "hours": "24S",
+    "description": "This first-year seminar explores radical traditions of education beyond and in resistance to formal schooling. Transnational in scope\u2014and journeying from the late nineteenth century to the present day\u2014we will study the pedagogical innovations and grassroots struggles of anarchic youth, guerrilla intellectuals, and feminist revolutionaries who used education broadly, and historical inquiry in particular, as tools for empowerment and collective liberation. Focusing on primary sources from archives of anticapitalist, antiracist and anticolonial movements, we will investigate traditions of self-teaching and co-learning, genealogies of critical and transformative pedagogies, the construction of decolonial survival and supplementary schools, student mobilizations within and against the university, as well as abolitionist education in our contemporary moment. This course invites participants to interrogate the relationship of education to freedom and justice through collective criticism, self-reflection and creative expression. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS191H1": {
+    "code": "HIS191H1",
+    "name": "Pandemics and Human History",
+    "hours": "24S",
+    "description": "We have all just lived through a major historical disruption caused by CoViD-19. In this course, you will be invited to use your experience of the pandemic as a tool for understanding other times, other places, and the study of history itself. We will study plagues and diseases from the ancient world to the Twentieth Century, and introduce methods from social, cultural, and economic history, as well as concepts from the histories of science and medicine. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS192H1": {
+    "code": "HIS192H1",
+    "name": "A History of Queer Asia",
+    "hours": "24S",
+    "description": "A first-year seminar on the history of queerness, in all its complexity and diversity, in the no less complex and diverse settings of East, South, and Southeast Asia. Our journey will encompass empires and Indigenous peoples, rulers and rebels, and range from early recorded history down to the twentieth century. Focus will be placed on primary sources and introducing students to the evolving definitions of \"queerness\" itself. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS193H1": {
+    "code": "HIS193H1",
+    "name": "Calls to Action: The TRC and Residential Schools in Canadian History",
+    "hours": "24S",
+    "description": "The last Indian Residential School in Canada closed in 1996. For more than a century and half before that, the Canadian state supported church-run residential schools intended to take Indigenous children away from their families, cultures, languages and traditions. Over 150,000 children passed through the doors of these different schools that operated from coast to coast. Using the formal report of the Truth and Reconciliation Commission as a central text, this course explores that history and the ongoing legacy of residential schools in Canada while introducing first year students to historical research methods and sources. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS194H1": {
+    "code": "HIS194H1",
+    "name": "Power, Resistance, and the Graphic Novel",
+    "hours": "24S",
+    "description": "This course will look broadly at the question of power and resistance in the Americas (Canada, the United States, and Latin America) through the prism of graphic novels. Each week we will read a graphic novel related to important historical moments or events, drawing on scholarly articles to help us contextualize the novel. We will discuss the medium of graphic novels, their history and place in the broader culture, as well as how they might help or hinder our ability to study and disseminate information about the past. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS195H1": {
+    "code": "HIS195H1",
+    "name": "Remembering and Forgetting",
+    "hours": "24S",
+    "description": "This course introduces students to the interdisciplinary study of history by exploring processes of remembering and forgetting intrinsic to every society. Topics include the ideas of history and memory, memory cultures and narratives and counternarratives and the study of legal trials, museums, monuments, novels and films as popular vehicles of historical knowledge. The course analyzes in particular how the experiences of war and violence have been both remembered and forgotten. The intersection, and dislocation, between trauma and remembrance is a main theme, as is the topic of collective memories in post-conflict societies. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": "AMS199H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS196H1": {
+    "code": "HIS196H1",
+    "name": "Religion and Violence",
+    "hours": "24S",
+    "description": "This seminar explores the roles of religion in extreme violence. Working backward from the 1990s (Rwanda, Yugoslavia), we will consider cases including Guatemala, Cambodia, Indonesia, the Holocaust, Armenians, German Southwest Africa, and genocide of Indigenous peoples in North America. Students will produce a final project based on original research. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS197H1": {
+    "code": "HIS197H1",
+    "name": "Medieval Medicine",
+    "hours": "24S",
+    "description": "This course focuses on the theories and practices of medicine in Europe, c.500-1500, by examining surviving evidence from the period, including (in translation) pharmaceutical recipes, diagnostic guides, doctor\u2019s records, treatises on anatomy, surgery and gynecology, commentaries on Hippocrates and Galen, laws and regulations for physicians, university lectures, disputes in court records, satirical writings against physicians, and so on, as well as visual evidence of artifacts, surgical instruments, manuscript illumination/diagrams, hospital sites and design. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS198H1": {
+    "code": "HIS198H1",
+    "name": "Decolonizing Women's History",
+    "hours": "24S",
+    "description": "This course introduces students to the historiographical and theoretical debates in women's and gender history from a global perspective, with emphasis on the local histories of women in the non-western world. Students will study the themes in women's history as articulated by first and second wave feminists. The second part of the class deconstructs the basic assumptions of Western feminism through the perspective of post-colonial feminist writings and empirical studies. The readings are structured so that you consider how examples from Asia disrupt narratives of universality in Western feminist epistemologies. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS200H1": {
+    "code": "HIS200H1",
+    "name": "Drunk History",
+    "hours": "24L/12T",
+    "description": "Histories of wine or beer or vodka often focus either on the production of these alcoholic beverages and their role in national or local economies, or on the ways that drinking is part of celebration. But drunkenness enters the historical record in other ways, too\u2014not just as a social lubricant but as a social ill, one associated with intimate violence or violence to the self and with mass protest. From worries about the Gin Craze to race-based restrictions on consumption, from tax policies to policing, this class will consider the many ways that drunkenness has been accepted, denounced, and legislated in societies around the world.",
+    "exclusions": "HIS195H1 (Drunk History), offered in Fall 2019 and Winter 2021.",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS205H1": {
+    "code": "HIS205H1",
+    "name": "From Women's History to Gender History",
+    "hours": "24L/10T",
+    "description": "This course critically examines gender in the context of politics, society, culture, and economics across a range of comparative times and spaces depending on instructor expertise. In what ways have gendered norms and transgressions been part of human societies and lived experiences? How have those norms shifted across\u00a0historical and geographical contexts? How has the\u00a0history of gender impacted gender as it is lived and made political today?\u00a0 Throughout the course, we will be querying the theoretical assumptions underlying and framing the\u00a0historical texts we are studying, as well as assessing the different kinds of primary sources used to recover women\u2019s and gender\u00a0history.",
+    "exclusions": "HIS245Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS205Y1": {
+    "code": "HIS205Y1",
+    "name": "Topics in Women's History",
+    "hours": "48L/20T",
+    "description": "This course introduces students to the diverse experiences of women from a comparative perspective. Students will study how women\u2019s strategies have shaped the major cultural, economic, political and social processes in the world and how these processes have affected women\u2019s experiences in their particular societies.\u00a0 By studying women\u2019s history from both local and global perspectives, students will engage critically with claims that women\u2019s history is universal.\u00a0 The local focus of the course will rotate between Africa, Asia, Europe, and North America, depending on the expertise of the instructors.",
+    "exclusions": "HIS245Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "HIS208Y1": {
+    "code": "HIS208Y1",
+    "name": "History of the Jewish People",
+    "hours": "48L/20T",
+    "description": "This course explores the origins of the Jewish people, beginning with the Bible and ending in the 21st Century. We will follow the development of Jewish social and cultural life across the Muslim and Christian worlds and discuss how Jews adapted to the constraints and opportunities provided by the non-Jewish majority. We will also learn about key Jewish books and concepts, including the Talmud, Kabbalah (Jewish mysticism), Halakhah (Jewish law), and Jewish philosophy. Finally, we will investigate the Jewish movements that arose in response to the challenges of modernity and new ideologies.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS218H1": {
+    "code": "HIS218H1",
+    "name": "Environmental History",
+    "hours": "24L/8T",
+    "description": "A lecture-based course designed to introduce students to key moments and concepts in the field of environmental history since c. 1400. This course will track the reciprocal influence of humans and the non-human world since the so-called \"Columbian Exchange,\" emphasizing the ways in which the non-human world-from plants, animals, and disease organisms to water, topography, and geography- have shaped human endeavours. At the same time, students will engage with many of the ways in which human beings have shaped the world around us, from empire and colonization, to industrial capitalism, nuclear power, and modern wildlife conservation.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS219Y1": {
+    "code": "HIS219Y1",
+    "name": "Medieval Mediterranean History",
+    "hours": "48L/20T",
+    "description": "A new approach to medieval history, this course focuses on the Mediterranean world as a site for the convergence of Western and Eastern Christian, Muslim, Jewish, sub-Saharan African, and East Asian peoples and cultures. It treats topics such as political and military conflict, including Muslim conquests and the Crusades; the situation of religious minorities; religious conversion; cultural exchange; commerce; slavery; aspects of material culture, such as art and architecture; and family and gender from a comparative perspective.",
+    "exclusions": "HIS303H1,  HIS308H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS220Y1": {
+    "code": "HIS220Y1",
+    "name": "The Shape of Medieval Society",
+    "hours": "48L/20T",
+    "description": "Immersion in medieval western Europe with extensive readings of primary sources from late Roman times to 1500 and use of works of art. The goal is to understand medieval society on its own terms, as much as possible.",
+    "exclusions": "HIS220Y5/  HIS220H5/  HIS221H5/  HISB60H3/  HISB61H3",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS221H1": {
+    "code": "HIS221H1",
+    "name": "African American History to 1865",
+    "hours": "24L/10T",
+    "description": "An introduction to the history of Africans and people of African descent in the Americas generally, and the United States in particular. Major themes include modernity and the transatlantic slave trade; capitalism and reparations; Atlantic crossings; African women, gender, and racial formations; representation, resistance, and rebellion; nation-building; abolitionism and civil war; historical method and the political uses of the past.",
+    "exclusions": "HIS298Y1 (2016-17)",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS222H1": {
+    "code": "HIS222H1",
+    "name": "African American History from 1865 to the Present",
+    "hours": "24L/10T",
+    "description": "This course examines the history of black people in the United States after the abolition of slavery. Major themes include the promise and tragedy of Reconstruction; gender and Jim Crow; race and respectability; migration, transnationalism, and 20th century black diasporas; black radical traditions and freedom movements; intersectionality and black feminisms; the drug war and mass incarceration; sexuality and the boundaries of blackness.",
+    "exclusions": "HIS 298Y1 (2016-17)",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS230H1": {
+    "code": "HIS230H1",
+    "name": "Indigenous and Early Colonial Caribbean History",
+    "hours": "24L/12P",
+    "description": "This course introduces students to the study of Caribbean history from first human settlement to the late 18th century. Subject matter covered includes indigenous social structures, cosmology and politics; the process of European conquest; the economics, society and political order of colonial society; the Middle Passage; the everyday lives and struggles of enslaved peoples.",
+    "exclusions": "HIS294Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS231H1": {
+    "code": "HIS231H1",
+    "name": "Revolution and Emancipation in the Colonial Caribbean",
+    "hours": "24L/12P",
+    "description": "This course explores the history of the late eighteenth and nineteenth century Caribbean, from the Haitian Revolution to the U.S. occupation of Cuba and Puerto Rico. Students learn about the first struggles for political independence; the struggle to abolish the slave trade; slave emancipation; indentureship and struggles to define freedom after emancipation.",
+    "exclusions": "HIS294Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS240H1": {
+    "code": "HIS240H1",
+    "name": "The First World War: A Global History",
+    "hours": "24L/10T",
+    "description": "This course offers an introduction to the global history of the First World War. It aims to introduce students to the different ways historians have sought to understand the war, as well as scholarly and intellectual challenges that come with studying an event of this magnitude and horror. In general, students will examine the origins and causes of the conflict, survey the factors that shaped the course of the war, and consider how and why the fighting came to an end when it did. These broad approaches will be supplemented with consideration of specific examples from around the world.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS241H1": {
+    "code": "HIS241H1",
+    "name": "Europe in the Nineteenth Century, 1815-1914",
+    "hours": "24L/10T",
+    "description": "Intellectual changes in Britain, France, Germany, Austria-Hungary, Italy, Russia and other countries are discussed. The course examines large-scale political, social and cultural changes that created today's modern world.",
+    "exclusions": "EUR200Y1/  EUR200Y5/  FGI200Y5/  HIS241H5/  HISB93H3",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS242H1": {
+    "code": "HIS242H1",
+    "name": "Europe in the 20th Century",
+    "hours": "24L/10T",
+    "description": "The evolution of European politics, culture, and society from 1914: the two world wars, Fascism and Nazism, the post-1945 reconstruction and the movement towards European integration.",
+    "exclusions": "EUR200Y1/ EUR200Y5/ FGI200Y5/ HIS242H5/ HISB94H3",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS243H1": {
+    "code": "HIS243H1",
+    "name": "Early Modern Europe (15th-17th Centuries)",
+    "hours": "24L/10T",
+    "description": "The shape of modern European society is set in the early modern period. Expansion overseas sets some European nations on a path of imperial and colonial development which shapes international relations into the twenty-first century. The revival of classical forms revolutionizes art and architecture, and provides new models for education, politics, law, science, and gender relations. The split of the Christian Church into Protestant and Catholic denominations inspires intellectual and artistic creativity, sparks violent wars, and is brought around the globe by missionaries. Modern states and our fascination with determining \u2018national identity\u2019 take shape out of the competition between dynasties, social classes, faiths and territories.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS244H1": {
+    "code": "HIS244H1",
+    "name": "Early Modern Europe, 1648-1815",
+    "hours": "24L/10T",
+    "description": "This course will survey the history of Europe from the Thirty Year\u2019s War to the Napoleonic Empire. We will explore the principal themes which transformed Europe during this period: the birth of the modern nation-state; the increasing scale of warfare; the scientific revolution and the Enlightenment; the emergence of capitalist economies; the consolidation of transatlantic colonial empires; and the French Revolution. Students will read a range of primary and secondary source materials; attendance at lectures, participation in tutorials, course reading, and writing are all required components for this course.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS245H1": {
+    "code": "HIS245H1",
+    "name": "European Colonialism, 1700- 1965",
+    "hours": "24L/10T",
+    "description": "This course will introduce students to the history of European colonialism. It will analyze the nature of colonial rule, the impact of empire on both colonies and metropoles, and delve into questions of power, gender and culture. It considers slavery and abolition, imperial networks, colonial capital, colonial competition, colonial cultures, the twilight of colonial rule, and a variety of settings.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS247H1": {
+    "code": "HIS247H1",
+    "name": "The Second World War: A Global History",
+    "hours": "24L/12T",
+    "description": "This course offers an introduction to the global history of the Second World War. It aims to expose students to historiographical debates regarding the war, the use of primary sources, and the scholarly and intellectual challenges that come with studying an event of this magnitude and horror. In general, students will examine the origins and causes of the conflict, survey the factors that shaped the course of the war, and consider how and why the fighting came to an end when it did. These broad approaches will be supplemented with consideration of specific examples from around the world.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS250Y1": {
+    "code": "HIS250Y1",
+    "name": "History of Russia",
+    "hours": "48L/20T",
+    "description": "This course introduces the history of the modern Russian Federation and its predecessor states from the founding of Moscow through the ages of the Russian Empire and of the Soviet Union to the present day. Emphasis is placed on reading primary source documents.",
+    "exclusions": "HIS250H1/ HIS250H5",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS251Y1": {
+    "code": "HIS251Y1",
+    "name": "History of East Central Europe",
+    "hours": "48L/20T",
+    "description": "The Polish, Czech, and Hungarian background; the Balkans in the late medieval and early modern periods. Renaissance, Reformation and Counter-reformation, decline and national awakening to the beginning of the 19th century. Partitioned Poland, nationalism in the 19th century; World War I, Peace Settlement, interwar years and the Communist period.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS252H1": {
+    "code": "HIS252H1",
+    "name": "Soccer: History of the World's Game",
+    "hours": "24L/10T",
+    "description": "This course examines the history of the world\u2019s most popular sport, soccer, in broader social, economic, and cultural context. We will retrace the emergence of the modern game in nineteenth-century Britain; its mobilization as a vehicle for political, social, cultural, and gendered identities; fandom and supporter culture; and the economics of soccer. Students will engage with a wide range of primary sources and scholarly literature from an array of disciplinary perspectives (including history, cultural anthropology, sociology, literature, and economics). While the course is appropriate for History majors, it is accessible to students from other units as well.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS262H1": {
+    "code": "HIS262H1",
+    "name": "Canada: A Short History of Here",
+    "hours": "24L/10T",
+    "description": "Designed for non-history students, this introductory survey fulfills the Society and Its Institutions breadth requirement.\u00a0 It is open to all who want to know more about Canada.\u00a0 Make sense of politics today and develop a deeper understanding of Canadian society and its institutions through study of the major events and demographic trends that have shaped the development of this country.\u00a0 Topics will include First Nations/newcomer relations (including treaties and the Truth & Reconciliation report), French/English relations (including Quebec separatism), regionalism, the North, economic history, constitutional developments, and the development of Canadian identity, including common symbols associated with Canada.\u00a0 No essay requirement.\u00a0 Instead, enhance your critical reading and thinking skills through short writing assignments and weekly discussions of tutorial readings.  *This course will not count towards History program requirements or as a prerequisite for upper level courses*",
+    "exclusions": "HIS263Y1,  HIS264H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS264H1": {
+    "code": "HIS264H1",
+    "name": "Critical Issues in Canadian History",
+    "hours": "24L/12T",
+    "description": "This course introduces key issues in Canadian history and foundational principles of historical analysis. It is particularly suited to potential History majors/specialists, although other students are welcome. It is not a comprehensive survey. Examples serve to deepen analysis and introduce important methods and debates, preparing students for upper year courses in Canadian history.",
+    "exclusions": "HIS262H1,  HIS263Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS265Y1": {
+    "code": "HIS265Y1",
+    "name": "Black Canadian History",
+    "hours": "48L/20T",
+    "description": "This course explores the historical experiences of persons of African descent in Canada. We begin by examining the presence of free and enslaved Africans in New France and British North America, moving into twentieth century themes exploring Black liberation, immigration and resistance in Canada. The course brings into sharp focus the historical production of racial categories and racist thought and practice in Canada and examines the experiences of Black Canadians within the context of \u2018multiculturalism.\u2019",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS266H1": {
+    "code": "HIS266H1",
+    "name": "Asian Canadian History",
+    "hours": "24L/10T",
+    "description": "The course examines the history of Asian Canadians from the mid-1800s to the present by analyzing their contributions to the socio-cultural, economic, and political development of Canada. It explores how Asian Canadian history reconfigures prevailing understanding of race, migration, multiculturalism, and national identity through intersectional, comparative, and transnational frameworks.",
+    "exclusions": "CDN230H1,  UNI230H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS267H1": {
+    "code": "HIS267H1",
+    "name": "Business History",
+    "hours": "24L/10T",
+    "description": "Business, and its history and evolution, is a fundamental aspect of understanding modernity. Capitalism and globalization, two of the most important aspect of business and its history, shape our world in profound ways. Utilizing a \u201cglocal\u201d approach that combines global and Canadian business history cases within a transnational context, this course seeks to interrogate and understand the evolution and development of modern business, capitalism and globalization from the late 19th Century into the early 21st.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS268H1": {
+    "code": "HIS268H1",
+    "name": "Law and History",
+    "hours": "24L/10T",
+    "description": "The Federal Interpretation Act of Canada states that the \u2018law is always speaking\u2019. If the law is always speaking, then it must be speaking in present tense. But if it only speaks in present tense, does it have a past? How might we consider the field of law from different historical angles? This course will introduce students to different historical approaches to and uses of law. Using examples from a wide array of legal traditions (e.g. Common Law, Civil Law, Indigenous Law, Islamic Law), the course will help students gain a greater appreciation for the function, study, and development of law across different times and places.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS271Y1": {
+    "code": "HIS271Y1",
+    "name": "American History Since 1607",
+    "hours": "48L/20T",
+    "description": "A survey of the economic, social, cultural, and political history of the United States from the colonial era to present times.",
+    "exclusions": "HIS271H5/ HIS272H5/ HISB30H3/ HISB31H3",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS280Y1": {
+    "code": "HIS280Y1",
+    "name": "History of China",
+    "hours": "48L/20T",
+    "description": "A critical history of the place we today call China from prehistoric times to the 21st century, tracing shifting borders, identities, governments, and cultures while challenging any singular definition of \"China.\"",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS282Y1": {
+    "code": "HIS282Y1",
+    "name": "History of South Asia",
+    "hours": "48L/20T",
+    "description": "A rigorous survey of major themes in the history of South Asia (mapped largely but not exclusively by India, Pakistan and Bangladesh), using primary and secondary sources and addressing historiographical debates. Delves into regional complexities and considers broad questions about political economy, colonial governing, anti-colonial nationalism, capitalism, gender and cultural politics. Emphasizes the period after 1750; begins with an overview of ancient, medieval and Mughal history before turning to the British Empire. Addresses how understandings of pre-modern worlds inform contemporary politics and cultures; contextualizes South Asia within current global formations.",
+    "exclusions": "HIS282H5/  HISB57H3",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS283Y1": {
+    "code": "HIS283Y1",
+    "name": "History of Southeast Asia: How the Lands Below the Winds Reshaped the World",
+    "hours": "48L/20T",
+    "description": "This course examines how the cultural, economic, religious, and social histories of \"Southeast Asia\" [Brunei, Cambodia, East Timor, Indonesia, Laos, Malaysia, Myanmar (Burma), the Philippines, Thailand, & Vietnam] shaped the world as we see it today. Lectures will demonstrate how the millennia-long cultural and material exchanges Southeast Asians engaged via water across the Indian and Pacific Oceans and the lands across Eurasia affected the lives of its inhabitants and the proximal and distant regions with which it had contact. In Tutorials, students will be trained to read primary sources. Themes to be explored include economic exchange, colonialism and its impact, gender and sexual diversity, and religion and society.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS285H1": {
+    "code": "HIS285H1",
+    "name": "History of Chinese Diasporas in the Americas",
+    "hours": "24L/12T",
+    "description": "Explores histories of ethnic Chinese and Chinese diasporas in the Americas, especially in Canada and the United States. Investigates events from the 19th, 20th, and 21st centuries. Topics include migrations, diasporas, transnationalism, identities, families, communities, cultures, and racialization, as well as relations with their host societies and with China.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS291H1": {
+    "code": "HIS291H1",
+    "name": "Latin America: The Colonial Period",
+    "hours": "24L/10T",
+    "description": "The evolution of Spanish and Portuguese America from pre-Columbian civilizations to the wars of independence.",
+    "exclusions": "HIS291Y1/ HIS290H5",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS292H1": {
+    "code": "HIS292H1",
+    "name": "Latin America: The National Period",
+    "hours": "24L/10T",
+    "description": "A survey of Latin American history from the wars of independence to the present day.",
+    "exclusions": "HIS292Y1/ HIS290H5",
+    "breadth": 3,
+    "prereq_tree": null
+  }
+}

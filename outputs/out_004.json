@@ -1,0 +1,1202 @@
+{
+  "CAR421H1": {
+    "code": "CAR421H1",
+    "name": "Global Perspectives on the Haitian Revolution",
+    "hours": "24S",
+    "description": "Examines the colonial pre-history of the Haitian Revolution (1791-1804). Explores how this transatlantic revolution unfolded, including the emancipation of slaves, Toussaint, Louverture, and the roles played by Spain, the United States and Britain. A reflection on the Revolution in contemporary literature and film.",
+    "exclusions": "NEW421H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS230H1",
+        "HIS231H1",
+        "CAR120Y1",
+        "CAR220H1",
+        "CAR221H1",
+        "NEW224Y1",
+        "CAR225H1",
+        "CAR226H1"
+      ]
+    }
+  },
+  "CAR422H1": {
+    "code": "CAR422H1",
+    "name": "Caribbean Regionalism",
+    "hours": "24S",
+    "description": "In a public lecture in 1958, Trinidadian CLR James described Federation as the means to \"accomplish the transition from colonialism to national independence.\" This course explores the shift from James' vision to Jamaican economist Norman Girvan's observation that contemporary \"...governments tend to perceive supranationality as less an exercise in collective sovereignty and more a diminution of national sovereignty.\" Among the topics to be considered are: histories of regionalism; formal and informal dimensions of regional identity-making practices; freedom of movement; governance mechanisms; and widening and deepening debates, with particular reference to the non-Anglophone Caribbean and Latin America.",
+    "exclusions": "NEW422H1,  NEW329H1 (Special Topics in Caribbean Studies: Caribbean Regionalism), offered in Winter 2018;  NEW423H1 (Special Topics in Caribbean Studies: Caribbean Regionalism), offered in Winter 2019",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": ""
+    }
+  },
+  "CAR426H1": {
+    "code": "CAR426H1",
+    "name": "Special Topics in Caribbean Studies",
+    "hours": "36S",
+    "description": "An upper level seminar. Topics vary from year to year, depending on the instructor.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CAR426Y1": {
+    "code": "CAR426Y1",
+    "name": "Special Topics in Caribbean Studies",
+    "hours": "72S",
+    "description": "An upper level seminar. Topics vary from year to year, depending on the instructor.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CAR427H1": {
+    "code": "CAR427H1",
+    "name": "Caribbean Diasporic Narratives: London, Paris, Toronto, Berlin, New York",
+    "hours": "24S",
+    "description": "Focusing on London, Paris, Toronto, Berlin and New York as major conduits through which the migratory flow of Caribbean literary production takes place, this course will explore both foundational and emergent works of fiction from the English, French and Spanish Caribbean.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS230H1",
+        "HIS231H1",
+        "CAR120Y1",
+        "CAR220H1",
+        "CAR221H1",
+        "NEW224Y1",
+        "CAR225H1",
+        "CAR226H1"
+      ]
+    }
+  },
+  "CAR428H1": {
+    "code": "CAR428H1",
+    "name": "Caribbean Migrations and Diasporas",
+    "hours": "24S",
+    "description": "Examines Caribbean migration in the post-slavery era. Topics include: Caribbean diasporas in the West; labour migrations such as the Panama Canal migration; Caribbean migrant communities in Central America; intra-regional migrations between the Caribbean islands; 'guest worker' programs; remittances and their impact; heritage tourism and 'return' migrations.",
+    "exclusions": "NEW428H1,  HISC70H3",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS230H1",
+        "HIS231H1",
+        "CAR120Y1",
+        "CAR220H1",
+        "CAR221H1",
+        "NEW224Y1",
+        "CAR225H1",
+        "CAR226H1"
+      ]
+    }
+  },
+  "CAR429H1": {
+    "code": "CAR429H1",
+    "name": "Caribbean Diaspora in Canada",
+    "hours": "24S",
+    "description": "Explores the transnational circuits through which the Caribbean diaspora makes a living and makes life in contemporary Canada. How do we make sense of the Caribbean experience in Canada? What might an engagement with the Caribbean teach us about Canada as a diasporic space?",
+    "exclusions": "NEW429H1,  NEW329H1 (Special Topics in Caribbean Studies: Travels and Tribulations), offered in Summer 2013 and Summer 2014",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CDN355H1",
+        "HIS230H1",
+        "HIS231H1",
+        "CAR120Y1",
+        "CAR220H1",
+        "CAR221H1",
+        "NEW224Y1",
+        "CAR225H1",
+        "CAR226H1"
+      ]
+    }
+  },
+  "CAR499H1": {
+    "code": "CAR499H1",
+    "name": "Advanced Topics in Caribbean Studies",
+    "hours": "24S",
+    "description": "A joint graduate/undergraduate upper-level seminar. Topics vary from year to year, depending on the instructor. Consult the Program Office for course enrolment procedures.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CAR120Y1",
+        {
+          "credits": 1.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "CAS100H1": {
+    "code": "CAS100H1",
+    "name": "Locating Asia: An Introduction to Contemporary Asian Studies",
+    "hours": "24L/6T",
+    "description": "This course provides an introduction to Contemporary Asian Studies, focusing on the rapid social, political, economic, and cultural changes taking place in the dynamic regions of East Asia, South Asia, and Southeast Asia.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CAS200H1": {
+    "code": "CAS200H1",
+    "name": "State Power and Social Diversity in Asia",
+    "hours": "24L",
+    "description": "This course is an introduction to Contemporary Asian Studies. It covers detailed case study material from South Asia, Southeast Asia, and East Asia. It introduces students to the interdisciplinary study of political, sociocultural and economic interactions among these regions, as well as the transnational forces shaping internal dynamics throughout Asia. In addition, it examines the ways that forces stemming from Asia are affecting global processes, pushing scholarship to engage questions about colonialism, nationalism, \"race,\" religion, markets, urbanization, migration, and mass mediated culture. This course provides preparation for more advanced courses on Asia and globalization and provides an introductory gateway for the Contemporary Asian Studies major and minor. May be taken in the first year of studies.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CAS201H1": {
+    "code": "CAS201H1",
+    "name": "Global Asian Studies: Insights and Concepts",
+    "hours": "24L",
+    "description": "This course addresses Asia empirically in contemporary global formations and as an idea in the global imagination. It introduces students to concepts and theories central to scholarship on Asia and its transnational formations. It provides foundational theoretical and conceptual material to understand global issues as they play out in the politics, economies, cultures and contemporary social worlds of contemporary Asian sites. Interdisciplinary analytical and research concepts are introduced to provide area studies grounding. This course provides preparation to delve into deeper research on Asia connected to broad questions about the natures of democracy, authoritarianism, market formation, social justice, and the media of cultural expression. It informs students aiming to take more advanced courses on Asia and globalization and provides one part of the foundation for the Contemporary Asian Studies major and minor.  CAS201H1 introduces the theoretical and conceptual frameworks that are explored through further grounded empirical case studies in upper year CAS courses.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CAS202H1": {
+    "code": "CAS202H1",
+    "name": "Asia and the World in the 21st Century",
+    "hours": "24L",
+    "description": "This interdisciplinary course explores a variety of sites and topics in South, Southeast, and East Asia. It explores themes including contemporary and historical articulations of socio-economic development, (post)colonial political formations, urbanization processes, climate change, labour struggles, gender studies, migration, citizenship, and social justice. The course examines the diversity of Asian modernities, cross-regional linkages, and changing approaches to area studies over time. It provides a foundation for the Contemporary Asian Studies major and minor, preparing students for taking more advanced courses on Asia in the global context.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CAS310H1": {
+    "code": "CAS310H1",
+    "name": "Comparative Colonialisms in Asia",
+    "hours": "24L",
+    "description": "This course analyzes the impact of colonialism in South, East, and Southeast Asia and the various ways in which pre-colonial traditions intersect with and reshape colonial and postcolonial process across the various regions of Asia. The course will examine the conjunctures of economy, politics, religion, education, ethnicity, gender, and caste, as these have played out over time in the making and re-making of Asia as both idea and place. Attention will be paid to postcolonial and indigenous theories, questions of \u2018the colonial\u2019 from the perspective of Asian Studies, and debates about the meaning of postcolonialism for the study of Asia now and in the future.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CAS320H1": {
+    "code": "CAS320H1",
+    "name": "Comparative Modernities in Asia",
+    "hours": "24L",
+    "description": "Since at least the late 1700s, the effects of capitalism across the globe have profoundly transformed the landscapes of human livelihood, consumption, production and governance in Asia. While colonial empires have declined, new empires have emerged, and a growing number of countries have witnessed the rise of nationalism and independent states, social, political and technological revolutions, and most recently neoliberal globalization. This course theorizes and explores these dramatic changes in a comparative framework. It is aimed at students wishing to better understand the great transformations of modern Asia in a global context.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CAS350H1": {
+    "code": "CAS350H1",
+    "name": "Asian Youth Cultures",
+    "hours": "24L",
+    "description": "In focusing on youth in Asia, this course brings together two disputed cultural formations of substantial contemporary importance. Both youth and Asia are increasingly invoked on the global stage in support of a wide range of interests. Examining practices of young people and the idea of youth in the context of Asia requires critical attention to the promises and fears that attach to the rise of Asian economies, international demographic transitions, the growth of a global middle-class, increasing consumption disparities, changing immigration patterns, expanding technological skills, global/local environmental concerns, and young people\u2019s shifting political priorities and loyalties. The course may feature a significant amount of social theory, with authors such as Michel Foucault, Roland Barthes, Louis Althusser, and Stuart Hall.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "CAS360H1": {
+    "code": "CAS360H1",
+    "name": "Asian Genders",
+    "hours": "24L",
+    "description": "This course will explore ways that gender is mobilized and produced in parts of Asia. It seeks to understand gender and sexuality in their diversity and in attempts to \u201cfix\u201d or locate it in various bodies and places. Attempts will be made to see how gender is made knowable in terms of sexuality, medicine, nation, class, ethnicity, religion, and other discourses. The course assumes a willingness to read challenging theory \u2013 such as the writings of Judith Butler, Michel Foucault, and Eve Sedgwick \u2013 and asks that students commit to regular attendance.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "CAS370H1": {
+    "code": "CAS370H1",
+    "name": "Asian Cities",
+    "hours": "24L",
+    "description": "This course offers a multidisciplinary perspective of urban life in Asia. The thematic focus will be on how the urban intersects with modernities and postcolonial formations. Drawing on recent scholarship in the social sciences and the humanities, we will examine the realignment of cultural, political, and economic forces associated with Asia\u2019s diverse processes of urbanization.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "CAS390H1": {
+    "code": "CAS390H1",
+    "name": "Special Topics",
+    "hours": "24L",
+    "description": "Course content varies in accordance with the interest of the instructor. Check http://munkschool.utoronto.ca/ai/cas for an updated description.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "CAS393H1": {
+    "code": "CAS393H1",
+    "name": "Independent Research",
+    "hours": null,
+    "description": "Supervised independent research on a topic agreed on by the student and a faculty supervisor before enrolment in the course. Open to advanced CAS major and minor students with a strong background in contemporary Asian studies. A maximum of one year of Independent Research courses is allowed per program. Contact hours with the supervisor may vary, but typically comprise of one hour per week. Not eligible for CR/NCR option. To enrol, please contact ai.asianstudies@utoronto.ca to request an application form, which should be filled out in consultation with the faculty supervisor and include a detailed description of the course topic, reading list, and assignments/marking scheme. Students must submit the completed form to ai.asianstudies@utoronto.ca at least one week before the start of term.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "CAS393Y1": {
+    "code": "CAS393Y1",
+    "name": "Independent Research",
+    "hours": null,
+    "description": "Supervised independent research on a topic agreed on by the student and a faculty supervisor before enrolment in the course. Open to advanced students in the CAS major and minor with a strong background in contemporary Asian studies. A maximum of one year of Independent Research courses is allowed per program. Contact hours with the supervisor may vary, but typically comprise of one hour per week. Not eligible for CR/NCR option. To enrol, please contact ai.asianstudies@utoronto.ca to request an application form, which should be filled out in consultation with the faculty supervisor and include a detailed description of the course topic, reading list, and assignments/marking scheme. Students must submit the completed form to ai.asianstudies@utoronto.ca at least one week before the start of term.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "CAS400H1": {
+    "code": "CAS400H1",
+    "name": "Advanced Seminar in Methods in Contemporary Asian Studies",
+    "hours": "24S",
+    "description": "This seminar challenges students to hone their growing mastery in Contemporary Asian Studies by engaging with advanced theory about the peoples and places of the continent. Readings address colonial history and emphasize the contemporary period throughout Asia. As the culmination of a student\u2019s studies in CAS, the course requires students to grapple with post-colonial conditions in Asia.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CAS413H1": {
+    "code": "CAS413H1",
+    "name": "Asia and Canada",
+    "hours": "24S",
+    "description": "This service-learning course partners teams of students with non-governmental organizations (NGOs) that work for the betterment of people and places in Asia. Students cultivate professional skills in project management, consulting, communications, and team-building. Projects for NGOs include components such as: research, video production, social media enhancement, website development, compiling reports, or youth outreach campaigns.",
+    "exclusions": "NEW413H1,  SAS413H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "CAS414H1": {
+    "code": "CAS414H1",
+    "name": "The Public Event in Asia",
+    "hours": "24S",
+    "description": "This upper-level seminar will introduce students to the interdisciplinary study of popular culture in Asia through a focus on public events. Readings about all kinds of performances, including ritual, popular protest, festivals, sports, cinema, television, digital media events, and the performing arts will help students learn methodological tools to interpret the politics and meanings of public culture as it articulates with class, ethnicity, religious community, gender and caste. The course will furthermore familiarize students with a range of theoretical lenses for conceptualizing the different meanings of the \u201cevent\u201d and the \u201cpublic\u201d from a perspective grounded in the histories of South Asia, Southeast Asia, East Asia, and their diasporas.",
+    "exclusions": "NEW414H1,  SAS414H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "CAS420H1": {
+    "code": "CAS420H1",
+    "name": "Asia and the New Global Economy",
+    "hours": "24S",
+    "description": "This course explores the rise of Asia and its integration into the new global economy (labour, capitalism, knowledge economy, economic nationalism, inequality, gender, the meaning of capitalism, democracy, among others), exposing students to diverse disciplinary perspectives. Geographical coverage is pan-Asian, including East, Southeast and South Asia.",
+    "exclusions": "JPA420H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "CAS430H1": {
+    "code": "CAS430H1",
+    "name": "Nationalism and Revolution in Asia",
+    "hours": "24L",
+    "description": "This course explores the far-reaching social, political, and cultural transformations in modern East, Southeast, and South Asia, focusing on the twentieth-century revolutionary histories and struggles to establish modern nation-states. The course adopts a topical approach within a chronological and comparative framework to highlight major historical movements and theoretical issues significant to the Asian experience.",
+    "exclusions": "ASI430H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "CAS450H1": {
+    "code": "CAS450H1",
+    "name": "Asian Pathways Research Practice",
+    "hours": "24S",
+    "description": "This seminar builds on the systematic overview of research methodologies of the Contemporary Asian Studies major and its capstone course,  CAS400H1.  CAS450H1 provides students with the opportunity to research questions of contemporary relevance stemming from Asia and its transnational networks and communities. Addressing a range of methodologies, including historical-archival, ethnographic, visual/media, and statistical/quantitative, the course emphasizes research experience outside the classroom, in Asia as well as locally with communities in Toronto. Students will develop their own research contributions while working collaboratively.",
+    "exclusions": "CAS400Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "CAS460H1": {
+    "code": "CAS460H1",
+    "name": "Global China and Its Growing Footprints in Asia and Around the World",
+    "hours": "24L",
+    "description": "This course traces the domestic roots of China\u2019s global expansion. The end of \u201cbide your time, hide your strength\u201d era signals a more confident China and an expansionist stance. Intense domestic competition and excess supply have pushed state-owned and private enterprises alike to seek cheaper manufacturing base and consumer markets overseas. However, increased presence of Chinese capital and people have been met with open arms, but also cynicism, and even resistance. This course will examine the rise of Global China, traces the domestic roots of its rise, the implications for its relations with host countries as well as state-society relations in host countries from Asia to elsewhere.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "CAS490H1": {
+    "code": "CAS490H1",
+    "name": "Special Topics in Contemporary Asian Studies",
+    "hours": "24S",
+    "description": "Course content varies in accordance with the interest of the instructor. Check http://munkschool.utoronto.ca/ai/cas for an updated description.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "CAS498H1": {
+    "code": "CAS498H1",
+    "name": "Independent Research",
+    "hours": null,
+    "description": "Supervised independent research on a topic agreed on by the student and a faculty supervisor before enrolment in the course. Open to advanced CAS major and minor students with a strong background in contemporary Asian studies. A maximum of one year of Independent Research courses is allowed per program. Contact hours with the supervisor may vary, but typically comprise of one hour per week. Not eligible for CR/NCR option. To enrol, please contact ai.asianstudies@utoronto.ca to request an application form, which should be filled out in consultation with the faculty supervisor and include a detailed description of the course topic, reading list, and assignments/marking scheme. Students must submit the completed form to ai.asianstudies@utoronto.ca at least one week before the start of term.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 14.0,
+              "department": ""
+            },
+            "CAS200Y1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "CAS201H1",
+            "CAS202H1",
+            "CAS310H1"
+          ]
+        }
+      ]
+    }
+  },
+  "CAS498Y1": {
+    "code": "CAS498Y1",
+    "name": "Independent Research",
+    "hours": null,
+    "description": "Supervised independent research on a topic agreed on by the student and a faculty supervisor before enrolment in the course. Open to advanced CAS major and minor students with a strong background in contemporary Asian studies. A maximum of one year of Independent Research courses is allowed per program. Contact hours with the supervisor may vary, but typically comprise of one hour per week. Not eligible for CR/NCR option. To enrol, please contact ai.asianstudies@utoronto.ca to request an application form, which should be filled out in consultation with the faculty supervisor and include a detailed description of the course topic, reading list, and assignments/marking scheme. Students must submit the completed form to ai.asianstudies@utoronto.ca at least one week before the start of term.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "CDN197H1": {
+    "code": "CDN197H1",
+    "name": "Inventing Canada",
+    "hours": "24S",
+    "description": "This course explores the ways that Canadian history and identity have been commemorated, interpreted and experienced, now and in the past. The course focuses in particular on who has been included or excluded in commemorative efforts over time. Key topics include representations of women, Indigenous peoples, and political figures on screen and through public installations like museum exhibits, plaques and statues. Case studies highlighting a range of interpretive media will encourage students to work with and discuss a range of primary and secondary sources, build critical thinking and academic writing skills. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CDN198H1": {
+    "code": "CDN198H1",
+    "name": "Canada, Colonialism and Settler Relations",
+    "hours": "24S",
+    "description": "A First Year Foundations seminar focused on exploring Canada's colonial history and recent efforts to enact appropriate settler relations through an interdisciplinary lens. Topics will include contemporary land claims and treaty-making processes, the Royal Commission on Aboriginal Peoples, governmental apologies for the mistreatment of Indigenous peoples, the Truth and Reconciliation Commission, land acknowledgements, practices of allyship through social movement such as Idle No More, and efforts to influence Canada's overseas mining practices. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CDN199H1": {
+    "code": "CDN199H1",
+    "name": "Canada- Hong Kong Migration",
+    "hours": "24S",
+    "description": "This course surveys the effects of migrations and cultural connections between Hong Kong and Canada from the 1960s. Students will discuss and analyze the impact of migrations, and study the connection between the two locations from the perspectives of history, culture and literature, politics and democracy, economic and financial development and the network of people and community. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CDN202H1": {
+    "code": "CDN202H1",
+    "name": "Aspects of Qu\u00e9bec Culture",
+    "hours": "24S",
+    "description": "An exploration of modern Qu\u00e9bec culture as expressed in literature and the performing arts. Through a selection of internationally-known entertainers, we examine form, artistic innovation, communication of information and knowledge, and spectatorship. Novels and plays provide key elements such as tradition and historical context.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CDN205H1": {
+    "code": "CDN205H1",
+    "name": "Topics in Canadian Studies I",
+    "hours": "24L",
+    "description": "A focused introduction to specific issues in Canadian culture and society. Content will vary from year to year. Specific course information will be available on the Canadian Studies website at www.uc.utoronto.ca/canadianstudies.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CDN218H1": {
+    "code": "CDN218H1",
+    "name": "Voices in Canadian Writing",
+    "hours": "24S",
+    "description": "A study of the variety of voices in Canadian fiction with a focus on contemporary writers. Issues such as marginalization, migration, diaspora and the formulation of the Canadian canon are discussed.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CDN221H1": {
+    "code": "CDN221H1",
+    "name": "Culture and the Media in Canada",
+    "hours": "24L",
+    "description": "An exploration of the encounter between culture and mass communication in Canadian society. The course considers the role of major cultural institutions such as the CBC, the NFB, and their granting bodies. The emergence of digital media and its relationship to mass media is also addressed.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CDN225H1": {
+    "code": "CDN225H1",
+    "name": "Asian Canadian Space & Place",
+    "hours": "24L",
+    "description": "A comprehensive examination of how Asian Canadian communities shape urban and suburban environments. Explore how urban planning and peoples\u2019 local decisions interact to create space, place, and culture. The course applies a multidisciplinary lens, with an emphasis on culture and heritage, place and identity formation, diasporas, multiculturalism, and nationalism.",
+    "exclusions": "CDN325H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CDN235H1": {
+    "code": "CDN235H1",
+    "name": "Learning While Black",
+    "hours": "24S",
+    "description": "This course employs Blackness as an embodied subjectivity (both individual and collective) that is central to Black learners and the Black experience in education. Using creative, critical and decolonial methods of teaching and learning, this course will engage an interdisciplinary study of what it means to learn while being Black (both historically and contemporarily) in contexts of colonialism, slavery and anti-Black racism in Canada. The course will also engage a critical interrogation of the role that education systems (can) play for Black freedom, liberation, and self-determination, both locally, in Canada and globally.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CDN240H1": {
+    "code": "CDN240H1",
+    "name": "Italian Canadian Studies",
+    "hours": "24L",
+    "description": "An interdisciplinary course that examines the social, economic, and political forces and events that have shaped the Italian Canadian experience. Topics include initial and subsequent settlement patterns including suburbanization, identity formation, education, mobility, work, media, multiculturalism, transnationalism, and political participation and representation. The course interrogates the complexities of the social and cultural interactions of Italian Canadians in the context of the changing demography of Canada.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CDN265H1": {
+    "code": "CDN265H1",
+    "name": "Race and Racialization in Canada",
+    "hours": "24S",
+    "description": "This course will address the history, theory, experience and representation of race and racialization in Canada, using both critical and creative methods. Students will also gain a critical understanding of how racialized communities resist racism. Specific topics may include social construction, phenotyping, power, privilege, intersectionality, Indigeneity, Blackness, Asianness, whiteness, decolonization, diaspora, relationality, anti-racism, solidarity, allyship, and coalitions.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CDN267H1": {
+    "code": "CDN267H1",
+    "name": "What is Canada?",
+    "hours": "24L",
+    "description": "This interdisciplinary course examines critical, cultural, and community responses to the question \u201cWhat is Canada?\u201d, past and present. Issues addressed include Indigeneity and nation to nation relations, evolving formations of identity, belonging, and citizenship, and intersections of sexuality, gender, race, ethnicity, and faith. Theoretical concepts introduced include settler colonialism and decolonization, immigration and diaspora, nationalism and multiculturalism, memory and reclamation, activism and resistance.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CDN268H1": {
+    "code": "CDN268H1",
+    "name": "Canada and Globalization",
+    "hours": "36L",
+    "description": "Students examine the impact of contemporary globalization on Canada, and for Canada\u2019s place in the world. The course is interdisciplinary in its approach and addresses globalization from a wide range of perspectives, including mobility, trade, urbanization, health, religion, environmental change, technology, communications, and the arts.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CDN280H1": {
+    "code": "CDN280H1",
+    "name": "Canadian Jewish History",
+    "hours": "24L",
+    "description": "This course focuses on initial settlement patterns of Jews in Toronto and elsewhere, community growth including suburbanization, and contemporary challenges such as anti-Semitism and assimilation.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CDN305H1": {
+    "code": "CDN305H1",
+    "name": "Topics in Canadian Studies II",
+    "hours": "24L",
+    "description": "An in-depth study of selected questions in contemporary Canadian culture and society. Content will vary from year to year. Specific course information will be available on the Canadian Studies website at www.uc.utoronto.ca/canadianstudies/.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CDN307H1": {
+    "code": "CDN307H1",
+    "name": "Asian Cultures in Canada",
+    "hours": "24S",
+    "description": "An exploration of the cultural histories and creative productions of a wide range of Asian communities in Canada. Experts in specific areas - literature, dance, drama, film - will be invited to present their work.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CDN320H1": {
+    "code": "CDN320H1",
+    "name": "Experiential Learning",
+    "hours": "12L/12P/12S",
+    "description": "This course provides students with an opportunity to participate in experiential learning. Placements are made with partners active in community-led initiatives, with an emphasis on local Canadian change-makers, grassroots, not-for profit and public initiatives. In their coursework, students will be introduced to best practices and principles for experiential learning and community-based engagement. Critical readings, hands-on research activities, and guest speakers will foreground the complexities of agency and activism. Lectures and course materials provide critical models experiential learning methods for assessing and reporting on challenges, best practices, and outcomes over the placement experience.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CDN265H1",
+        "CDN267H1",
+        "CDN268H1"
+      ]
+    }
+  },
+  "CDN335H1": {
+    "code": "CDN335H1",
+    "name": "Black Canadian Studies",
+    "hours": "24S",
+    "description": "The course introduces students to the emerging field of Black Canadian Studies, and approaches it as an intellectual, cultural and political endeavour that is steeped in a long tradition of Black resistance against colonialism, slavery and anti-Black racism. To counter the ways Black communities are all too often erased and overlooked in society, this course focuses on deepening students\u2019 knowledge and understanding of Black communities in Canada, and the historical and contemporary contributions, experiences, and social issues these communities encounter as they navigate life in what is now known as Canada. This course examines the constitution of Blackness in Canada, as it intersects with other social relations of identity and power such as gender, class and sexuality. Black intellectual traditions and cultural expressions in literature, music, media, education, social justice movements, and the workplace are also addressed as noteworthy spaces which shape, influence and represent the Black Experience in Canada.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CDN265H1",
+        "CDN267H1",
+        "CDN268H1"
+      ]
+    }
+  },
+  "CDN340H1": {
+    "code": "CDN340H1",
+    "name": "The History of Canada-U.S. Relations",
+    "hours": "24L",
+    "description": "Over time, Canadians and Americans have developed distinct identities and cultures, but their histories have always been closely linked. This course examines the complex interrelationship between Canada and the United States. from the colonial period through the present day, especially its political, cultural, and indigenous dimensions.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": "CDN"
+    }
+  },
+  "CDN355H1": {
+    "code": "CDN355H1",
+    "name": "Digital Media, Digital Makers",
+    "hours": "24S",
+    "description": "This course is an introduction to Digital Humanities interdisciplinary research and practice relevant to Canadian Studies broadly. Working with a range of digital tools and platforms for text analysis, story mapping, data visualization, and digital curation, student projects will engage critically and creatively with theoretical and practical questions encountered in digital knowledge production in different disciplines (Humanities and Social Sciences). No prior tech experience required.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": "CDN"
+    }
+  },
+  "CDN365H1": {
+    "code": "CDN365H1",
+    "name": "The Canadian Arctic",
+    "hours": "24S",
+    "description": "This course surveys topics related to the Canadian Arctic. Through a critical interdisciplinary lens, the course looks at a broad set of issues including discovery and history, the environment and climate change, economic and resource development, sovereignty and security, social conditions, governance, and First Nations, Inuit, and Metis perspectives.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": ""
+        },
+        {
+          "credits": 1.0,
+          "department": "CAN"
+        }
+      ]
+    }
+  },
+  "CDN367H1": {
+    "code": "CDN367H1",
+    "name": "Canadian Pluralism",
+    "hours": "24S",
+    "description": "Students will examine the complexities of social and cultural interaction in the context of changing Canadian demographics. This course compares and contrasts policies regarding Indigenous rights, migration, multiculturalism, and citizenship with contemporary cultural narratives in literature, painting and film.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CDN265H1",
+        "CDN267H1",
+        "CDN268H1"
+      ]
+    }
+  },
+  "CDN368H1": {
+    "code": "CDN368H1",
+    "name": "Canada's Borders",
+    "hours": "24S",
+    "description": "The Canadian border is being reshaped by the increasing transnational movement of people, goods and ideas. Students will examine border issues relating to mobility, trade, and security from a wide range of interdisciplinary perspectives, from public policy to contemporary media, such as TV, films, and novels.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CDN265H1",
+        "CDN267H1",
+        "CDN268H1"
+      ]
+    }
+  },
+  "CDN370H1": {
+    "code": "CDN370H1",
+    "name": "Special Topics in Canadian Studies",
+    "hours": "24S",
+    "description": "An in-depth study of selected questions in contemporary Canadian culture and society. Content will vary from year to year. Specific course information will be available on the Canadian Studies website at www.uc.utoronto.ca/canadianstudies/.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 8.0,
+      "department": ""
+    }
+  },
+  "CDN380H1": {
+    "code": "CDN380H1",
+    "name": "Contemporary Jewish Canadian Communities",
+    "hours": "24L",
+    "description": "This course examines: the relationship between prominent Canadians who happen to be Jews and those whose works are founded in Jewish identity; the diversity of the community on the basis of religion, language, class, ideology, etc.; contributions to the arts and scholarship; and the role and contribution of Jewish women.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CDN385H1": {
+    "code": "CDN385H1",
+    "name": "Re-Imagining Canada: Creative Visions of Our Past, Present, and Futures",
+    "hours": "24S",
+    "description": "Artists and writers are re-imagining Canada, exploring alternate pasts, presents, and futures, often critiquing systemic inequities by positing \u201cwhat ifs\u201d of resistance and renewal, while reclaiming agency, voice, and power for those who are disadvantaged in society. This course will examine these re-imaginings across various media such as fiction, poetry, graphic novels, films, multimedia installations, performance art, paintings, virtual reality works, and video games. Examples will be drawn from a wide variety of genres such as speculative fiction, Afrofuturism, Indigenous arctic horror, trans, queer, Indigenous and Indigiqueer perspectives.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CDN390H1": {
+    "code": "CDN390H1",
+    "name": "Chinese Canadian Studies",
+    "hours": "24S",
+    "description": "This course examines socio-cultural, political and economic aspects of Chinese communities in Canada. It explores how the study of Chinese Canadians challenges and augments our understanding of issues such as immigration and diaspora, multiculturalism, and race and ethnicity.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CDN395H1": {
+    "code": "CDN395H1",
+    "name": "Independent Study in Asian Canadian Studies",
+    "hours": null,
+    "description": "An opportunity to write an independent research paper in Asian Canadian Studies under direction of a faculty member. Students wishing to take this course must have their essay proposal and supervisor approved by the Canadian Studies Program Director. Students must submit an application form that includes a written proposal and confirms that a faculty member has agreed to supervise. Applications must be submitted to the UC Programs Office (UC 173) for approval by the Program Director. Applications are due before the first day of course enrolment. Application form is available at the University College website at https://www.uc.utoronto.ca/canadian-studies/courses. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "CDN405H1": {
+    "code": "CDN405H1",
+    "name": "The University in Canada",
+    "hours": "24S",
+    "description": "This seminar course will address the role of universities in Canadian society and in the lives of Canadians. Students will explore both contemporary issues in Canadian higher education and consider the historical contexts from which they emerged.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CDN406H1": {
+    "code": "CDN406H1",
+    "name": "Topics in Canadian Studies III",
+    "hours": "24S",
+    "description": "An in-depth study of selected questions in contemporary Canadian culture and society. Content will vary from year to year. Specific course information will be available on the Canadian Studies website at www.uc.utoronto.ca/canadianstudies.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": ""
+        },
+        {
+          "credits": 1.0,
+          "department": "CAN"
+        }
+      ]
+    }
+  },
+  "CDN420Y1": {
+    "code": "CDN420Y1",
+    "name": "Senior Essay",
+    "hours": "48S",
+    "description": "Students select an appropriate research topic and, in consultation with the Program Director, make arrangements with a suitable supervisor. Preferably, research projects must be approved by the supervisor and by the Director of the Canadian Studies Program by April of the preceding academic year. Students meet periodically during the year in seminar to participate in peer evaluations of: statement of research, literature review, methods of analysis, and to share reports of progress in research. Normally open only to Majors and Specialists in the Canadian Studies program. Not eligible for CR/NCR option. Students must submit an application form that includes a written proposal and confirms that a faculty member has agreed to supervise. Applications must be submitted to the UC Programs Office (UC 173) for approval by the Program Director. Applications are due before the first day of course enrolment. Application form is available at the University College website at https://www.uc.utoronto.ca/canadian-studies/courses.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 15.0,
+      "department": ""
+    }
+  },
+  "CDN425H1": {
+    "code": "CDN425H1",
+    "name": "Independent Research in Canadian Studies",
+    "hours": null,
+    "description": "An opportunity to write a substantial research paper in Canadian Studies that integrates research methodologies and conceptual frameworks developed over the student\u2019s course of study. Students must have their topic and supervisor approved by the Canadian Studies program director. Not eligible for CR/NCR option. Students must submit an application form that includes a written proposal and confirms that a faculty member has agreed to supervise. Applications must be submitted to the UC Programs Office (UC 173) for approval by the Program Director. Applications are due before the first day of course enrolment. Application form is available at the University College website at https://www.uc.utoronto.ca/canadian-studies/courses.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 15.0,
+      "department": ""
+    }
+  },
+  "CDN430Y1": {
+    "code": "CDN430Y1",
+    "name": "Senior Seminar: Special Topics in Canadian Studies",
+    "hours": "48S",
+    "description": "An upper level seminar. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CDN435Y1": {
+    "code": "CDN435Y1",
+    "name": "Active Citizenship in a Canadian Context",
+    "hours": "48S",
+    "description": "This course draws from theoretical works to critically examine the experiences of citizenship of various communities in Canada. A service learning component is incorporated so that students can themselves engage in active citizenship. The course develops extra-curricular expertise that can contribute to a student\u2019s professional CV.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "CDN440H1": {
+    "code": "CDN440H1",
+    "name": "Afrofuturisms: Black Canadian Perspectives",
+    "hours": "24S",
+    "description": "This course explores Afrofuturism through Black Canadian perspectives and experiences. As an interdisciplinary course, it draws on both critical and creative methods from Black feminist, decolonial, critical race and critical sociological theories, as well as Black cultural traditions and expressions in music, literature, social movements and the arts as pivotal spaces of possibility and resistance, where alternative futures are both imagined and realized for Black people in Canada. Topics to be explored include Black freedom and resistance, and the roles that speculative fiction, the arts, education, technology and African Indigenous spiritual traditions play in Black Canadian framings and approaches to Afrofuturism.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "CDN450H1": {
+    "code": "CDN450H1",
+    "name": "Asian Canadian Memory and Practice",
+    "hours": "24S",
+    "description": "A study of Asian Canadian cultural history and practice with a focus fiction, poetry, film and media, and the communities that have formed around them. The course focusses on the evolution of key practices, community formations, frames, debates, themes and issues.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CDN265H1",
+        "CDN307H1"
+      ]
+    }
+  },
+  "CDN455H1": {
+    "code": "CDN455H1",
+    "name": "Asian Canadian Ecologies and Futurities",
+    "hours": "24S",
+    "description": "A study of Asian Canadian ecological writing and speculative fiction. This course focuses on Asian Canadian critical and imaginative contributions to a better world. By the end of this course, students will understand some frames and contents of Asian traditional knowledge and will be able to explain how such knowledges are carried into the present. They will understand how some Asian Canadian writers already do this. They will be able to imagine how such knowledges might be carried into the future.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CDN265H1",
+        "CDN307H1"
+      ]
+    }
+  },
+  "CDN470H1": {
+    "code": "CDN470H1",
+    "name": "Special Topics in Canadian Studies",
+    "hours": "24S",
+    "description": "An in-depth study of selected questions in contemporary Canadian culture and society. Content will vary from year to year. Specific course information will be available on the Canadian Studies website at www.uc.utoronto.ca/canadianstudies/.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 12.0,
+      "department": ""
+    }
+  },
+  "CHC120H1": {
+    "code": "CHC120H1",
+    "name": "Catholicism in Conversation",
+    "hours": "24L/12T",
+    "description": "What is Catholicism, as an idea, as a social movement, as an object of scorn, devotion or delight? What meaning does Catholic tradition have in the contemporary world? This seminar explores these and similar questions through lectures and conversations with diverse scholars\u2014faculty, fellows and friends\u2014of the St. Michael\u2019s College community.",
+    "exclusions": "SMC103Y1,  SMC120H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CHC130H1": {
+    "code": "CHC130H1",
+    "name": "Playing with Fire: Alchemy, Astrology, and Magic",
+    "hours": "24L/12T",
+    "description": "This course offers an historical introduction to alchemy, astrology, and magic, with a focus on the development, defence, condemnation, and progressive marginalization of these controversial pursuits in and around the Christian world(s). Students will learn about such topics as the search for the philosopher's stone, the casting of horoscopes, the design of wondrous machines\u2026 and the risks associated with meddling with spirits! Lectures will examine these learned traditions on their own terms, while inviting discussions about their enduring popularity, their connections with the rise of modern science and their reception in popular culture.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CHC200H1": {
+    "code": "CHC200H1",
+    "name": "Christianity and the Arts",
+    "hours": "24L/12T",
+    "description": "This course introduces students to creative works from throughout the global Christian tradition. The course explores the complex relationships that exist between religious and aesthetic imperatives, between theological and material sources, between beauty and suffering, and between artists and their patrons and audiences.",
+    "exclusions": "SMC200H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CHC203Y1": {
+    "code": "CHC203Y1",
+    "name": "Christianity and Society Through the Ages",
+    "hours": "48L/24T",
+    "description": "This course explores the historical engagement of various Christian traditions with the prevailing political, social, and ethnic cultures in the western world and beyond. Students will also examine the development of Christianity as it confronts changes in the symbolic and intellectual universes from antiquity to post-modernity.",
+    "exclusions": "SMC203Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CHC215H1": {
+    "code": "CHC215H1",
+    "name": "Varieties of Christian Community",
+    "hours": "24S",
+    "description": "Christian history has been characterized by an enduring and fruitful search for forms of religious community. This course surveys some communal attempts to express Christianity, monasticism, forms of common life for clerics, the Mendicants, lay confraternities, religious orders, and contemporary lay movements.",
+    "exclusions": "SMC215H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CHC218H1": {
+    "code": "CHC218H1",
+    "name": "Christianity and Education",
+    "hours": "24L",
+    "description": "An exploration of pedagogy and child development theory, with a particular focus on the way Christians have employed these educational techniques historically. Attention will be given to the diversity of institutions and approaches to curriculum development across Christian history.",
+    "exclusions": "SMC218H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CHC232H1": {
+    "code": "CHC232H1",
+    "name": "Christianity and Science",
+    "hours": "24L",
+    "description": "This course examines different models of relating Christianity and Science. Beginning with the biblical view on the natural world and moving to the present, the lectures develop a wide range of approaches.",
+    "exclusions": "SMC232H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CHC300H1": {
+    "code": "CHC300H1",
+    "name": "Special Topics in Christianity and Culture I",
+    "hours": "24L",
+    "description": "An advanced seminar in Christianity and Culture as determined by the instructor. In some terms this course may require an application. This will be clearly noted in the Timetable.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC304H1": {
+    "code": "CHC304H1",
+    "name": "Christianity, Law and Society",
+    "hours": "24L",
+    "description": "An examination of Canon Law; the process by which it came into being, and its impact on contemporary culture. Premises and techniques of ecclesial law-making are compared to those of other systems of legislation. Specific sections of the Code of Canon Law are examined.",
+    "exclusions": "SMC304H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC305H1": {
+    "code": "CHC305H1",
+    "name": "Christianity and Popular Culture",
+    "hours": "36L",
+    "description": "An examination of both overt and covert representations of Christian ideas in contemporary popular media. We examine the ways in which Christian themes have been appropriated and subverted in mass media, while also examining the innovative ways these themes, such as redemption, sacrifice, vocation, and hope, are presented anew.",
+    "exclusions": "SMC305H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC306H1": {
+    "code": "CHC306H1",
+    "name": "The Catechism of the Catholic Church",
+    "hours": "24L",
+    "description": "Introduces students to the Catechism of the Catholic Church (1994) and its antecedents. After an historical survey of religious instruction in the Church, the students will engage in a close reading of selected sections of the Catechism of the Catholic Church.",
+    "exclusions": "SMC310H1,  SMC306H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC307H1": {
+    "code": "CHC307H1",
+    "name": "Scripture in Christian Tradition",
+    "hours": "24L/12T",
+    "description": "The formation and content of the Christian Bible; an introduction to the history of its interpretation and of the role it has played and continues to play in Christian life and culture.",
+    "exclusions": "SMC307Y1,  SMC307H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC308H1": {
+    "code": "CHC308H1",
+    "name": "Marriage and the Family in the Catholic Tradition",
+    "hours": "24L",
+    "description": "A close reading of the Code of Canon Law touching on the themes of marriage and the family; relationship to other fundamental Church statements (e.g. Familiaris Consortio); examination of issues raised by opposition between church teaching and other views.",
+    "exclusions": "SMC308H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC309H1": {
+    "code": "CHC309H1",
+    "name": "Christianity and Politics",
+    "hours": "24L/12T",
+    "description": "This course explores developments in the relations between the Catholic Church and the states of Western Europe and America from the Enlightenment to the present. Of particular concern is Catholicism's response to the political theories of the Enlightenment, the secularization of the state and social justice issues.",
+    "exclusions": "SMC309H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC311H1": {
+    "code": "CHC311H1",
+    "name": "Why the Church",
+    "hours": "24S",
+    "description": "The Catholic Church claims to be the continuation of the event of Christ in history, the guarantor of the authenticity of each person's encounter with Christ, and the means by which His memory may be cultivated. The course examines the reasons for these claims and the forms they have taken.",
+    "exclusions": "SMC311H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC312H1": {
+    "code": "CHC312H1",
+    "name": "Catholicism and Education",
+    "hours": "24S",
+    "description": "The Catholic Church has developed a distinctive approach to the pedagogical enterprise. This course explores aspects of this approach by an examination of canonical legislation and other texts published by ecclesiastical authorities and their application in Canada.",
+    "exclusions": "SMC312H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC313H1": {
+    "code": "CHC313H1",
+    "name": "Catholic Education in Ontario",
+    "hours": "24L",
+    "description": "An historical appraisal of the evolution of Catholic schools, universities, and catechetical education in Ontario. Special emphasis is placed on the evolution of Ontario's separate school system.",
+    "exclusions": "SMC313H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC322H1": {
+    "code": "CHC322H1",
+    "name": "Women and Christianity",
+    "hours": "24S",
+    "description": "An exploration of what Pope John Paul II, among others, called the \"feminine tradition\" in Christian life and thought. Possible topics include women's roles in the early church, Marian dogmas and devotions, women mystics and Doctors of the Church, and Christian feminisms and New Feminisms in the contemporary period.",
+    "exclusions": "SMC322H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC327H1": {
+    "code": "CHC327H1",
+    "name": "Ritual and Worship",
+    "hours": "24L/12T",
+    "description": "An introduction to Christian ritual and worship, in cross-cultural and ecumenical perspective. Biblical roots, historical development and diverse adaptions of Christian worship in Europe, North America and the global South.",
+    "exclusions": "SMC216Y1,  SMC327H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC330H1": {
+    "code": "CHC330H1",
+    "name": "Christ in Christian Tradition",
+    "hours": "24L/12T",
+    "description": "Faith in Christ is central to Christianity. This course offers an advanced introduction to classical debates about the person and work of Christ, the modern Quest of the Historical Jesus, and selected feminist, liberationist and indigenized perspectives on Christ from Asia, Africa and Latin America.",
+    "exclusions": "SMC330Y1,  SMC330H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC364H1": {
+    "code": "CHC364H1",
+    "name": "The Christian Book",
+    "hours": "24L",
+    "description": "An interdisciplinary examination of the Bible as artifact and as an index of culture, art, and language. Topics include: the mediaeval giant Bibles, illuminated and illustrated Bibles, the Gutenberg Bible, The King James Bible, the Bible industry, the Bible online, the Bible as sacred object, sacred language and vernacular.",
+    "exclusions": "SMC364H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC365H1": {
+    "code": "CHC365H1",
+    "name": "Christianity, Art, and Architecture",
+    "hours": "24L/12T",
+    "description": "An exploration of visual arts and architecture as mediums for expressing Christian faith. The course will examine notable developments in Christian history, the proliferation of new forms in the contemporary period, and important local works, such as the Donovan Collection and/or the rich legacy of church architecture in the GTA.",
+    "exclusions": "SMC365H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC367H1": {
+    "code": "CHC367H1",
+    "name": "Christianity, Literature, and Theatre",
+    "hours": "24L",
+    "description": "This course introduces students to works of literary and dramatic arts from throughout the global Christian tradition. The course explores the complex relationships that exist between religious, narrative, and performative imperatives; between theological and cultural sources; between authority and experience; and between writers, playwrights, and their readerships and audiences.",
+    "exclusions": "SMC201H1,  SMC367H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC368H1": {
+    "code": "CHC368H1",
+    "name": "Varieties of Christian Experience",
+    "hours": "24L",
+    "description": "Exploration of the variety of forms which Christian personal experience has taken in the course of history (martyrdom, mysticism, monasticism, sanctification of ordinary life, etc.) in order to appreciate their variety, complexity, and deep unity.",
+    "exclusions": "SMC205H1,  SMC368H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC369H1": {
+    "code": "CHC369H1",
+    "name": "Christianity and Music",
+    "hours": "24L",
+    "description": "The various roles given music in Christian tradition and the impact of Christianity on Western music. Case studies from Gregorian chant to the present illustrate major issues (sacred vs. profane, acceptable styles or instruments, text and music, emotion and rationalism) to provide a critical vocabulary applicable to present works. Some background in music is required.",
+    "exclusions": "SMC206H1,  SMC369H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC370H1": {
+    "code": "CHC370H1",
+    "name": "The Bible and Biology",
+    "hours": "24L/12T",
+    "description": "Episodes and issues in the development of biology, genetics and evolutionary theory in relation to Christian understandings of the natural world, the human person, and God. Possible topics include genetic determinism, mind and intelligence, gender, reproductive technologies, cosmology and ecology.",
+    "exclusions": "SMC370H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC371H1": {
+    "code": "CHC371H1",
+    "name": "Faith and Physics",
+    "hours": "24L",
+    "description": "The complex interplay between religious belief, culture, and the emergence of modern physical theory: rise and fall of mechanistic theories, relativity, particle physics and models of the Universe, Big Bang theory and Black Holes, etc.",
+    "exclusions": "SMC371H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC372H1": {
+    "code": "CHC372H1",
+    "name": "The Catholic Church in Canada",
+    "hours": "24L",
+    "description": "An exploration of the historical development of Catholic communities and institutions in all regions of Canada since the 16th century. Emphasis placed on themes of mission, church-state relations, ethnicity, belief and practice, social justice, gender, and secularization.",
+    "exclusions": "SMC320H1,  SMC372H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC378H1": {
+    "code": "CHC378H1",
+    "name": "Major Christian Thinkers, up to 1300",
+    "hours": "24L",
+    "description": "An advanced introduction to the Christian intellectual tradition through a study of key texts from before 1300. Selected authors discuss a range of religious, intellectual, and cultural issues, from foundational Christian beliefs to the challenges of integrating non-Christian learning into Christian societies, institutions, scholarship, and literature.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC379H1": {
+    "code": "CHC379H1",
+    "name": "Major Christian Thinkers, 1300 to present",
+    "hours": "24L",
+    "description": "An advanced introduction to the Christian intellectual tradition through a study of key texts from around the year 1300 to the present. Selected authors discuss a range of religious, intellectual, and cultural issues, from their role in the shaping of early modern and modern institutions to the challenge of integrating Christian values and ideals into our postmodern, plural, and global society.",
+    "exclusions": "SMC208Y1,  SMC379H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC382H1": {
+    "code": "CHC382H1",
+    "name": "Literature and the Christian Child",
+    "hours": "24L/12T",
+    "description": "An exploration of connections between a child's moral development and literature in Christian traditions. We examine literary, historical and philosophical developments appropriate to the child's imagination. The course will include the study of poems, catechetical materials, novels and other texts written for children.",
+    "exclusions": "SMC217H1,  SMC382H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CHC383H1": {
+    "code": "CHC383H1",
+    "name": "God and Geometry",
+    "hours": "24L",
+    "description": "This course engages controversial issues in the natural sciences of importance to Christian faith, with particular emphases on their ancient and the medieval origins and enactments. Examples include: Harmony vs. Chaos, Creation vs. Evolution, Free Will vs. Determinism, Reason vs. Revelation, Miraculous vs. Natural Causation.",
+    "exclusions": "SMC233H1,  SMC383H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  }
+}

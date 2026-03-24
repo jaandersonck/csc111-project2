@@ -1,0 +1,1284 @@
+{
+  "ABP100Y1": {
+    "code": "ABP100Y1",
+    "name": "Introduction to Academic Studies",
+    "hours": "72S",
+    "description": "This interdisciplinary, skills-focused course parallels the other component courses of the full-time Academic Bridging Program, supplementing those courses and helping students integrate their entire Academic Bridging experience, while providing intensive, workshop-style training in the fundamental skills needed for success in further university studies in the Humanities and Social Sciences. The course will also provide academic advising and planning, to help students understand and navigate university culture. Open only to Academic Bridging Program students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ABP101Y1": {
+    "code": "ABP101Y1",
+    "name": "Introduction to Academic Studies in the Sciences",
+    "hours": "72S",
+    "description": "This interdisciplinary, skills-focused course parallels the other component courses of the full-time ABP Science Option, supplementing those courses and helping students integrate their entire Academic Bridging experience, while providing intensive, workshop-style training in the fundamental skills needed for success in further university studies in Mathematics and the Sciences. The course will also provide academic advising and planning, to help students understand and navigate university culture. Open only to Academic Bridging Program students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "ABP102Y1": {
+    "code": "ABP102Y1",
+    "name": "Diversity and Social Justice in Canada",
+    "hours": "72L",
+    "description": "Despite its image as a multicultural nation, non-dominant groups have often experienced discrimination and injustice within Canada. The course examines experiences of injustice in Canada from diverse perspectives, amplifying voices of marginalized communities (e.g., Indigenous and other racialized peoples, LGBTQ2S+) and providing a more nuanced and critical view of diversity in Canada, historically and in the present. The course will also highlight the ways diverse communities have resisted injustices and have worked towards the creation of more just futures in Canada. Open only to Academic Bridging Program students. Not eligible for CR/NCR option.",
+    "exclusions": "WDW102Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ABP103Y1": {
+    "code": "ABP103Y1",
+    "name": "Exploring Literature: From Conventional to Cutting Edge",
+    "hours": "72L",
+    "description": "This course introduces students to the study of literature through an exploration of the conventional to the cutting edge, in terms of literary content, genre, and form. Students will learn to identify and challenge literary conventions and structures while exploring new formats and media. Open only to Academic Bridging Program students. Not eligible for CR/NCR option.",
+    "exclusions": "ENG185Y1,  WDW103Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "ABP104Y1": {
+    "code": "ABP104Y1",
+    "name": "Environmental Issues Today",
+    "hours": "72L",
+    "description": "This interdisciplinary course introduces the major issues regarding the sustainability of the global environment in the face of human development by integrating humanities and social science with the fundamental concept of environmental science. It examines major environmental problems, such as rapid climate change and land degradation as well as the role and impact of government, economics, and ethics on environmental issues. Open only to Academic Bridging Program students. Not eligible for CR/NCR option.",
+    "exclusions": "WDW104Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ABP105Y1": {
+    "code": "ABP105Y1",
+    "name": "Indigenous Cultures and Societies",
+    "hours": "72L",
+    "description": "This course provides an interdisciplinary focus on key topics relevant to Indigenous communities, historically and in the present. Students will be introduced to diverse cultures, communities, and worldviews of Indigenous peoples of Turtle Island (particularly Canada) and how they have been affected by colonialism. Emphasis will be placed on the ways Indigenous peoples are resisting social, economic, political, and environmental injustices, while revitalizing their identities, knowledges, and communities and creating space for the expression of Indigenous voices. Storytelling that prioritizes the perspectives and worldviews of Indigenous peoples will guide students\u2019 learning about course topics, issues, and concepts. Students will be encouraged to connect their own storied identities and perspectives to course themes and issues. Classes will involve a mix of interactive lectures, class discussion, student-led learning opportunities, and field trips. Class time and assignments will also be devoted to helping students build their critical thinking, reading, and writing skills towards the completion of a research-based essay due at the end of the year. Open only to Academic Bridging Program students. Not eligible for CR/NCR option.",
+    "exclusions": "WDW105Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ABP106Y1": {
+    "code": "ABP106Y1",
+    "name": "Media, Culture, and Society",
+    "hours": "72L",
+    "description": "This interdisciplinary course provides an introduction to the cultural and social impacts of present-day popular mass media. Themes explored include the economic and political forces that shape the media world, the role of technology, and issues of representation, gender, and social justice. The course examines a wide range of texts, emphasizing popular culture produced in Canada, and students will have the opportunity to draw extensively on their own interactions with popular media. Open only to Academic Bridging Program students. Not eligible for CR/NCR option.",
+    "exclusions": "WDW106Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "ABP107Y1": {
+    "code": "ABP107Y1",
+    "name": "Introduction to University Studies in Mathematics",
+    "hours": "72L",
+    "description": "This course focuses on mathematical concepts and skills needed for success in First Year university Math and Science courses. Students will develop quantitative reasoning abilities required to critique arguments and make decisions, and will gain a deep understanding of functions modeling relationships. The course highlights multiple representations of each topic, emphasizing connections, and workshop-style sessions enable students to strengthen the skills they learn. Open only to Academic Bridging Program students. Not eligible for CR/NCR option.",
+    "exclusions": "WDW107Y1",
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "ABP108Y1": {
+    "code": "ABP108Y1",
+    "name": "Introduction to University Studies in Chemistry",
+    "hours": "72L",
+    "description": "This course covers the fundamental knowledge and skills needed for success in First Year university Chemistry and other Sciences such as Biology. Topics include atoms, elements, and compounds; the chemical and physical properties of gases, liquids, and solids; chemical reactions; and the importance of chemistry in understanding the world around us, with attention to how it can address issues in medicine, the environment, and sustainability. Open only to Academic Bridging Program students. Not eligible for CR/NCR option.",
+    "exclusions": "WDW108Y1",
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "ABP109Y1": {
+    "code": "ABP109Y1",
+    "name": "Diverse Histories of Canada",
+    "hours": "72L",
+    "description": "This course explores diverse, under-acknowledged narratives of people, such as Indigenous and racialized peoples, within the territories currently known as Canada to challenge monolithic, linear, and uncritical representations of this country's past and future. Archival materials, maps, place names, art, literature, film, and other texts will be approached from interdisciplinary perspectives to reveal different orientations to historical events, social injustices, and futures of this territory. Open only to Academic Bridging Program students. Not eligible for CR/NCR option.",
+    "exclusions": "WDW101Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ACT100H1": {
+    "code": "ACT100H1",
+    "name": "Wizard Managers of Risks: Exploring Actuarial Science",
+    "hours": "24L/12T",
+    "description": "Are you curious about the world of risk and insurance? This first-year introduction to Actuarial Science course takes you on a journey through the fascinating intersection of mathematics, finance, and risk management. This course will equip you with the foundational knowledge of actuarial principles while exploring real-world applications through engaging case studies. Whether you're aiming for a future career as an actuary or simply looking to enhance your analytical skills, this course is your gateway to understanding how actuaries shape the financial stability of our world.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "ACT199H1": {
+    "code": "ACT199H1",
+    "name": "Decipher Financial Puzzles in the Media and Pop Culture",
+    "hours": "24L",
+    "description": "Have you ever watched a pundit\u2019s passionate rant over financial crisis on TV and wondered whether he was right or wrong? Did you get the full story after watching movies like Margin Call or The Big Short? What was the efficiency market versus behavioral finance debate all about? Did you wonder why everyone in the financial press seem to be calling for a lower debt/equity ratio on banks in the post-crisis era? If you find yourself think about those questions, this is the course for you. We will start from some basic building blocks of finance, such as time value of money and discounting, and proceed to look at some of the important financial controversies you have read or heard in the pop culture or media. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "ACT230H1": {
+    "code": "ACT230H1",
+    "name": "Mathematics of Finance for Non-Actuaries",
+    "hours": "24L/12T",
+    "description": "Introduction to financial mathematics, interest measurement, present value calculation, annuity valuation, loan amortization, consumer financing arrangements, bond valuation. The course is aimed at a general audience who will not be continuing in the actuarial science program. Course manuals fee: $30.",
+    "exclusions": "ACT240H1",
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "ACT240H1": {
+    "code": "ACT240H1",
+    "name": "Mathematics of Investment & Credit",
+    "hours": "24L/12T",
+    "description": "Interest, discount and present values, as applied to determine prices and values of annuities, mortgages, bonds, equities; loan repayment schedules and consumer finance payments in general; yield rates on investments given the costs on investments. Course manuals fee: $45.",
+    "exclusions": "ACT230H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "ACT245H1": {
+    "code": "ACT245H1",
+    "name": "Financial Principles for Actuarial Science I",
+    "hours": "24L/12T",
+    "description": "Term structure of interest rates, cashflow duration, convexity and immunization, forward and futures contracts, interest rate swaps, introduction to investment derivatives and hedging strategies.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ACT240H1",
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "ACT247H1": {
+    "code": "ACT247H1",
+    "name": "Introductory Life Contingencies",
+    "hours": "36L",
+    "description": "Probability theory applied to survival and to costs and risks of life assurances, life annuities, and pensions; analysis of survival distributions; international actuarial notation. Course manuals fee: $35.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ACT240H1",
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "ACT348H1": {
+    "code": "ACT348H1",
+    "name": "Life Contingencies II",
+    "hours": "36L",
+    "description": "Determination of benefit premium and benefit reserves for life insurance and annuities; analysis of insurance loss random variables; theory of life contingencies for multiple lives. This is the second course in the life contingencies series, following  ACT247H1. Course manuals fee: $40.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "ACT240H1",
+        "ACT245H1",
+        "ACT247H1"
+      ]
+    }
+  },
+  "ACT349H1": {
+    "code": "ACT349H1",
+    "name": "Corporate Finance for Actuarial Science",
+    "hours": "24L/12T",
+    "description": "Corporate finance for actuarial science students.",
+    "exclusions": "ECO358H1,  ECO359H1,  RSM332H1,  RSM333H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "ACT240H1",
+        "ACT245H1",
+        "ACT247H1"
+      ]
+    }
+  },
+  "ACT350H1": {
+    "code": "ACT350H1",
+    "name": "Applied Probability for Actuarial Science",
+    "hours": "24L/12T",
+    "description": "The course offers an introduction to elementary probability theory and stochastic processes. The main goal of the course is to help actuarial students understand the concept of stochastic processes with particular emphasis on Markov chains that are of great importance in Life Contingencies and Property and Casualty insurance. The course will cover the following topics: a basic review of probabilities with emphasis on conditional probabilities and expectations, discrete time Markov chains, Poisson processes, continuous time Markov chains, renewal theory and some applications, queueing theory.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ACT240H1",
+            "ACT245H1",
+            "ACT247H1",
+            "STA257H1"
+          ]
+        },
+        "STA237H1"
+      ]
+    }
+  },
+  "ACT351H1": {
+    "code": "ACT351H1",
+    "name": "Loss Models: From Data to Decisions",
+    "hours": "36L",
+    "description": "This course\u00a0will introduce\u00a0the probability models central to actuarial loss\u00a0analysis. We will explore frequency and severity models, compound distributions, and the transformations of random variables to account for policy adjustments, such as deductibles, policy limits, and reinsurance structures. We will also discuss simulation techniques to estimate the distribution of aggregate losses and risk measures associated with these distributions.",
+    "exclusions": "ACT451H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "ACT240H1",
+        "ACT245H1",
+        "ACT247H1"
+      ]
+    }
+  },
+  "ACT352H1": {
+    "code": "ACT352H1",
+    "name": "Statistical Methods for Actuarial Loss Models",
+    "hours": "36L",
+    "description": "Insurance data often exhibits unique characteristics such as deductibles, policy limits, and truncation, requiring specialized statistical methods to model and analyze losses and survival outcomes. This course introduces statistical methods for modelling and analyzing loss and survival data in actuarial science. Key topics include product-limit estimation, empirical estimation methods, moment and percentile estimation, maximum likelihood estimation, and simulation techniques. Emphasis is placed on understanding the theoretical foundations of these methods and applying them to real loss data using R.",
+    "exclusions": "ACT452H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ACT240H1",
+            "ACT245H1",
+            "ACT247H1",
+            "ACT351H1"
+          ]
+        },
+        "ACT451H1"
+      ]
+    }
+  },
+  "ACT370H1": {
+    "code": "ACT370H1",
+    "name": "Financial Principles for Actuarial Science II",
+    "hours": "36L",
+    "description": "Mathematical theory of financial derivatives, discrete and continuous option pricing models, hedging strategies and exotic option valuation. Arts and Science students must be enrolled in the Actuarial Science Major or Specialist, the Data Science Specialist, or the Specialist in Statistical Science: Theory and Methods.",
+    "exclusions": "RSM435H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ACT240H1",
+            "ACT245H1",
+            "ACT247H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA261H1",
+            "MAT237Y1"
+          ]
+        },
+        "MAT257Y1"
+      ]
+    }
+  },
+  "ACT371H1": {
+    "code": "ACT371H1",
+    "name": "Reserving Methods For Property & Casualty Insurance",
+    "hours": "24L/12T",
+    "description": "Topics covered include reserving data and triangles, diagnoses methods that range from triangle of ratios of paid claims to reported claims to triangle of reported claim ratios. The syllabus also includes projection techniques. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ACT240H1",
+            "STA257H1"
+          ]
+        },
+        "STA237H1"
+      ]
+    }
+  },
+  "ACT372H1": {
+    "code": "ACT372H1",
+    "name": "Ratemaking Methods For Property & Casualty Insurance",
+    "hours": "24L/12T",
+    "description": "This course covers the basic ratemaking methods for P&C insurance. It assumes that students are familiar with traditional reserving diagnoses and projection methods. The syllabus would introduce concepts related to earning of exposures, on-level factors, catastrophe loading, large loss loading and credibility. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": "ACT371H1"
+  },
+  "ACT390H1": {
+    "code": "ACT390H1",
+    "name": "Professional Experience in Actuarial Science",
+    "hours": "24S",
+    "description": "This course is preparation for an internship work term. It includes various professional skill workshops, networking activities and an invited speaker series. The course is mandatory for students in the Actuarial Science Specialist program. A limited number of spots in the course are open for students in the Actuarial Science Major program. Students in the major program must apply to the department for permission to take the course. This course does not carry credit weight and is evaluated as Credit/No Credit. No tuition fee is associated, however a $651 ancillary fee will be assessed towards Professional Experience preparatory program costs.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ACT391H1": {
+    "code": "ACT391H1",
+    "name": "Professional Internship",
+    "hours": null,
+    "description": "Internship course for students enrolled in the Actuarial Science Specialist, fulfilled as a 420-hour work term at a minimum (maybe longer based on professional and academic needs) in a workplace related to actuarial science in third or fourth year.  ACT390H1 must be completed first in preparation. Contact Department for more information. This course does not carry credit weight and is evaluated as Credit/No Credit. No tuition fee is associated, however an ancillary fee of $822 will be assessed towards Professional Experience placement.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": "ACT390H1"
+  },
+  "ACT398H0": {
+    "code": "ACT398H0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "ACT398Y0": {
+    "code": "ACT398Y0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "ACT455H1": {
+    "code": "ACT455H1",
+    "name": "Advanced Life Contingencies - Modeling and Applications",
+    "hours": "36L",
+    "description": "The course explores advanced actuarial topics such as multi-decrement theory, multi-state transition models, profit testing, pension mathematics, and retirement benefits. It places a strong emphasis on practical applications within the life insurance industry, examining areas such as disability income insurance, long-term care, critical illness insurance, workers' compensation, continuing care insurance, and universal life insurance. Additionally, the course delves into the complexities of embedded options in life insurance and annuity products, providing students with in-depth knowledge of how these concepts are applied in real-world scenarios. This course is the last in the three-course series for life contingencies, following  ACT247H1 and  ACT348H1.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "ACT240H1",
+        "ACT245H1",
+        "ACT247H1",
+        "ACT348H1"
+      ]
+    }
+  },
+  "ACT460H1": {
+    "code": "ACT460H1",
+    "name": "Stochastic Methods for Finance",
+    "hours": "36L",
+    "description": "Applications of the lognormal distribution, Brownian motion, geometric Brownian motion, martingales, Ito's lemma, stochastic differential equations, interest rate models, the Black-Scholes model, volatility, value at risk, conditional tail expectation. Topics in advanced financial mathematics. Arts and Science students must be enrolled in the Actuarial Science Major or Specialist, the Data Science Specialist, or the Specialist in Statistical Science: Theory and Methods.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ACT240H1",
+            "ACT245H1",
+            "ACT247H1",
+            "ACT350H1"
+          ]
+        },
+        "STA347H1",
+        "ACT350H1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA347H1",
+            "MAT237Y1"
+          ]
+        },
+        "MAT257Y1"
+      ]
+    }
+  },
+  "ACT466H1": {
+    "code": "ACT466H1",
+    "name": "Advanced Statistical Modeling in Property & Casualty Insurance",
+    "hours": "36L",
+    "description": "This course provides an in-depth exploration of advanced pricing and reserving techniques in Property and Casualty (P&C) insurance, with a strong focus on methodologies. It covers fundamental topics in P&C insurance ratemaking and reserving, such as Bayes credibility, Bulhmann credibility, nonparametric Bayes credibility, deterministic and stochastic Chain Ladder, Bornhuetter-Ferguson, over-dispersed Poisson model, as well as a brief introduction to modern micro level reserving approaches. Through numerous examples, case studies, and applied models, the course emphasizes the practical application of these mathematical concepts in real-world insurance scenarios.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "ACT240H1",
+        "ACT245H1",
+        "ACT247H1",
+        "ACT351H1"
+      ]
+    }
+  },
+  "ACT470H1": {
+    "code": "ACT470H1",
+    "name": "Advanced Pension Mathematics",
+    "hours": "36L",
+    "description": "Topics in pension mathematics; funding methods for pension plans. (Offered in alternate years)",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": "ACT348H1"
+  },
+  "ACT473H1": {
+    "code": "ACT473H1",
+    "name": "Issues In Actuarial Practice",
+    "hours": "24L/24T",
+    "description": "Case study approach to current issues in life insurance, pension consulting and casualty actuarial practice. The focus of the course will be on communication and presentation. This course is Pass/Fail. Not eligible for Credit/No Credit.\u00a0 The course is open to students in the specialist program in actuarial science. Students in the major program in actuarial science can enrol into the course with permission of the department.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "ACT348H1",
+        "ACT349H1"
+      ]
+    }
+  },
+  "ACT475H1": {
+    "code": "ACT475H1",
+    "name": "Insurance Products and Regulation with AXIS",
+    "hours": "36L",
+    "description": "Case studies using leading actuarial application AXIS.\u00a0Examine key types of insurance products and their pricing and valuation. Review representative developments in insurance regulations in US, Europe and Canada.\u00a0Other\u00a0topics\u00a0include\u00a0a brief\u00a0introduction\u00a0of\u00a0the use of AI in life insurance.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "ACT240H1",
+        "ACT245H1",
+        "ACT247H1"
+      ]
+    }
+  },
+  "ACT496H1": {
+    "code": "ACT496H1",
+    "name": "Readings in Actuarial Science",
+    "hours": null,
+    "description": "Independent study under the direction of a faculty member. Persons wishing to take this course must have the permission of the Undergraduate Secretary and of the prospective supervisor. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "ACT497H1": {
+    "code": "ACT497H1",
+    "name": "Readings in Actuarial Science",
+    "hours": null,
+    "description": "Independent study under the direction of a faculty member. Persons wishing to take this course must have the permission of the Undergraduate Secretary and of the prospective supervisor. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "ACT498Y1": {
+    "code": "ACT498Y1",
+    "name": "Readings in Actuarial Science",
+    "hours": null,
+    "description": "Independent study under the direction of a faculty member. Persons wishing to take this course must have the permission of the Undergraduate Secretary and of the prospective supervisor. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "ACT499Y1": {
+    "code": "ACT499Y1",
+    "name": "Readings in Actuarial Science",
+    "hours": null,
+    "description": "Independent study under the direction of a faculty member. Persons wishing to take this course must have the permission of the Undergraduate Secretary and of the prospective supervisor. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "AFR150Y1": {
+    "code": "AFR150Y1",
+    "name": "Africa: A Critical Introduction",
+    "hours": "48L/24T",
+    "description": "A multi-disciplinary study of Africa, emphasizing critical inquiry and analysis of Africa, the cradle of humanity and the most diverse and second largest continent in the world. Topics that will be explored include: pre-colonial, colonial and contemporary African history, cultures, economies, geographies, Africa\u2019s place in the world, politics, religions, spirituality, art, literature, music, race, resistance, gender, sexuality, futurism, environment, Afrofuturism, anticolonial worldmaking, and Pan-Africanism. The course provides a unique opportunity to learn from the African Studies faculty representing diverse geographical and disciplinary backgrounds who will share their cutting-edge research and unique experiences, reading and writing practices.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "AFR199H1": {
+    "code": "AFR199H1",
+    "name": "Africa in Toronto",
+    "hours": "24L",
+    "description": "Africa in Toronto offers students the unique opportunity to trace, map and document sites and encounters with \u201cAfrica\u201d in Toronto across diverse social, political, economic, linguistic and cultural communities in the GTA. What are the diasporic lives of diverse African communities in the GTA? How does Toronto become home for them? Students will get the chance to learn about, reflect on and reimagine global Africa in the GTA by exploring topics such as placemaking, community-building, the politics of belonging, organizing and activism, economic hubs, artistic creation and expressive cultures, foodways and the epic battle over jollof rice. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "AFR250Y1": {
+    "code": "AFR250Y1",
+    "name": "Africa in the 21st Century: Challenges and Opportunities",
+    "hours": "48L",
+    "description": "A critical examination of Africa as a living space rather than merely a site of intellectual speculation and study. Uses scholarly and popular literature to explore the issues that engage the attention of ordinary Africans, ranging from the dramatic to the seemingly trivial, as they struggle to fashion meaningful lives in fast-changing societies. Topics include urban transition and city life; economic, political and cultural impacts of globalization; new religious movements and changing conceptions of selfhood; new African diasporas in the West; dynamics of gender relations, kinships and identities; and the politics of liberalization. Materials studied will include print and electronic news media and other mass media resources from Africa and across the world.",
+    "exclusions": "NEW250Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "AFR251H1": {
+    "code": "AFR251H1",
+    "name": "Language, Freedom and Linguistic Human Rights in Africa",
+    "hours": "24L",
+    "description": "Examines the language situation in Africa and the extent to which freedom and linguistic human rights are enabled, granted, nurtured, achieved or protected by post-colonial African states. Using linguistic diversity in Africa as a backdrop, presents, discusses and assesses language policies that were adopted by post-colonial African states, particularly in education, and the implications that these policies have for the rights, freedom and empowerment of citizens of African states. Changes and evolving trends in language use and language planning are also discussed.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "AFR260H1": {
+    "code": "AFR260H1",
+    "name": "Land, Life, and Livelihoods",
+    "hours": "24L",
+    "description": "This course aims to challenge the often-uncritical understanding of land as a thing, object, or a commodity by engaging with land as a bricolage of multiple, dynamic assemblages. Land attracts manifold meanings in different cultural contexts and engenders vibrant discourses around identity, place, and belonging. The materiality of land, fixed in place as to not be \u2018rolled up like a mat and taken away\u2019, accords human and other-than-human life affordances that are vital to sustenance of life, and provides a fabric on which stories and histories are deeply embedded. In the African context, land constitutes a site where key political struggles transpire, key amongst them struggles against colonialism, and where African futures obtain form and meaning. It is on land that global interests have hugely converged as characterized by global land grabbing and quests for minerals and resources that offer hope to world\u2019s future(s). These features of land impel us to discuss the institutions that govern land and related inscription devices such as maps and boundaries; technologies and techniques that seek to \u2018improve\u2019 agricultural productivity and biodiversity conservation; and the impacts of climate change on life and livelihoods in Africa.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "credits": 2.0,
+      "department": ""
+    }
+  },
+  "AFR270H1": {
+    "code": "AFR270H1",
+    "name": "African Literature and the Politics of Storytelling",
+    "hours": "24L",
+    "description": "Focuses on the art and politics of storytelling across the continent. Students will engage with various kinds of narrative genres from great African novels to short stories, folktales, popular African films from Nollywood and other industries, as well as more recent forms of storytelling from social media. Topics of discussion will include globalization, colonialism, post-coloniality, neo-imperialism, environmental justice, ecocriticism, artistic expression and African identities. This novel course offers a combination of a wide range of literary and non-literary narrative genres as well as a variety of theoretical and methodological approaches to textual analysis from decolonial theories to ecocriticism, postcolonial environmentalisms, narrative theory, as well as more traditional methods of literary criticism and analysis.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "AFR280Y1": {
+    "code": "AFR280Y1",
+    "name": "Introductory Swahili",
+    "hours": "24L/72T",
+    "description": "Introduction to grammar and basic vocabulary of Swahili. Emphasis on comprehension and oral practice. Reading of selected texts. Relation of the language to its East African cultural context.",
+    "exclusions": "NEW280Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "AFR290H1": {
+    "code": "AFR290H1",
+    "name": "The Idea of Africa",
+    "hours": "24L/12T",
+    "description": "An historical examination of Africa as a conceptual category, exploring discourses and representations - both African and non-African - that have produced our understandings of the meanings of Africa and Africanness.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "AFR298H1": {
+    "code": "AFR298H1",
+    "name": "Popular Uprisings in Africa",
+    "hours": "24L",
+    "description": "In recent years, popular uprisings have mobilized thousands in over 40 African countries, to demand a radical overhauling of existing economic and political systems. This course asks: What are the catalysts, underlying causes and demands of these protest movements? What can we learn from the grassroots organizing that allowed these movements to gain momentum? How might scholars and activists analyzing the popular uprisings in their countries, allow us to develop new vocabularies and frameworks for understanding popular protests and theories of revolution? Case Studies will include popular uprisings in Sudan, Burkina Faso, Algeria, Senegal, Cameroon, Djibouti, DRC, Eswatini and Nigeria and reflect on similar movements around the world.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "AFR299H1": {
+    "code": "AFR299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities\u2026. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "AFR299Y1": {
+    "code": "AFR299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities\u2026. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "AFR322H1": {
+    "code": "AFR322H1",
+    "name": "The Contemporary African Novel",
+    "hours": "24S",
+    "description": "Novels written in the last forty years by English, French and Portuguese-speaking Africans. Ideological views concerning colonialism and neo-colonialism. Tradition, religious and secular; the use of African symbolism. A small number of historical and sociological texts are recommended as essential background reading. Works not written in English are read in translation. (Offered in alternate years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "AFR340H1": {
+    "code": "AFR340H1",
+    "name": "The Literary Lives of African Women",
+    "hours": "24L",
+    "description": "This course will track the literary history of African women through their writings. Students will study a variety of texts including memoirs, novels, short stories, creative non-fiction, drama, and poetry produced by African women with an eye to the politics of representation and legibility in these texts. This course will ask, how have African women written about their relationships to colonization, domesticity, citizenship, and national politics? It will also engage questions about the varieties of their experiences with motherhood, knowledge-making, displacement, citizenship, and belonging.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "AFR351Y1": {
+    "code": "AFR351Y1",
+    "name": "African Systems of Thought",
+    "hours": "48L",
+    "description": "The exploration of a range of African cosmologies, epistemologies, and theologies, as well as specific case studies on justice, the moral order, and gender relations. The influence of these richly diverse traditions is traced as well in the writings of African thinkers in the Diaspora.",
+    "exclusions": "NEW351Y1,  NEW252Y1,  JAP256H1/ JAP356H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "AFR352H1": {
+    "code": "AFR352H1",
+    "name": "International Organizations, NGOs, Development and Change in Africa",
+    "hours": "24L",
+    "description": "Critically explores the role of international organizations such as the World Bank Group, the UN and NGOs in the economic development of Africa.",
+    "exclusions": "NEW352H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "AFR150Y1",
+        "AFR250Y1"
+      ]
+    }
+  },
+  "AFR353H1": {
+    "code": "AFR353H1",
+    "name": "International Relations of Africa",
+    "hours": "24L",
+    "description": "Explores inter-state relations in Africa, African states\u2019 relations with the West, China, India, Brazil, and international political, economic and financial institutions.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "AFR150Y1"
+  },
+  "AFR354H1": {
+    "code": "AFR354H1",
+    "name": "African Cultures and Development",
+    "hours": "24L",
+    "description": "Critically examines scholarly debates on the relationships between African cultures and development in various regions of the continent. Draws on interdisciplinary scholarship and development discourses to enhance students' understanding of African conditions and cultures in the context of development thinking.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AFR355H1": {
+    "code": "AFR355H1",
+    "name": "African Youth Languages and Cultures",
+    "hours": "24L",
+    "description": "Examines the nature of youth languages and cultures in contemporary Africa with a focus on their characteristics and the conditions under which they develop. Also considers similarities and/or differences between youth languages and cultures in different regions of Africa and the general youth condition. Includes urban youth languages such as Sheng, Engsh, Tsotsitaal, etc. and music genres associated with youth such as hip hop, Bongo flava, etc. Discusses challenges and opportunities associated with African youth languages as they relate to questions of identity, national integration, regional integration, and development.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AFR357H1": {
+    "code": "AFR357H1",
+    "name": "Special Topics in African Studies",
+    "hours": "24L",
+    "description": "An upper level course. Topics of study vary from year to year.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AFR358H1": {
+    "code": "AFR358H1",
+    "name": "Special Topics in African Studies",
+    "hours": "24L",
+    "description": "An upper level course. Topics of study vary from year to year.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AFR359H1": {
+    "code": "AFR359H1",
+    "name": "The Horn of Africa - Critical Perspectives",
+    "hours": "24L",
+    "description": "Examines the Horn of Africa, its diversity, geopolitics, cultural politics, present conditions and current debates through a critical and comparative lens. Considers social forces in contemporary politics within the region including competing claims, explanations of the underpinnings of the Horn's conflict, and the promise of peace. Draws upon interdisciplinary scholarship, public discourse, texts and media to reflect on the future of the Horn of Africa at this historical moment.",
+    "exclusions": "NEW359H1,  NEW357H1 (Special Topics in African Studies: The Horn of Africa: Critical Perspectives) offered in Fall 2018, Fall 2019",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "AFR365H1": {
+    "code": "AFR365H1",
+    "name": "Art, Media and Politics in Africa and the African Diaspora",
+    "hours": "24L",
+    "description": "Explores the critical intersections between art, media and politics by analyzing the making and circulation of various indigenous and modern art forms and their use as creative and radical strategies for creative expression, dissent, citizenship, and alternative forms of representation, reimaginings, transcendence and agency in African post-colonial contexts, and interconnected with the African Diaspora.",
+    "exclusions": "NEW357H1 (Special Topics in African Studies: Art, Media and Politics in Africa and the African Diaspora), offered in Winter 2019 and Fall 2019",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "AFR370H1": {
+    "code": "AFR370H1",
+    "name": "Anticolonialism, Radicalism and Revolutions in Africa",
+    "hours": "24L",
+    "description": "An interdisciplinary exploration of the histories of nationalist and revolutionary movements, ideologies, and regimes in twentieth and twenty-first century Africa, examining the various ways that Africans imagined, actively shaped, and continue to demand freedom and political modernity. Emphasis will be placed on African history methodology (including oral history) and historiography to encourage students to apply a historical lens to approaching key themes and concepts in African Studies such as nationalism, decolonization, the state, politics, citizenship, labour movements, and pro-democracy movements.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "AFR380Y1": {
+    "code": "AFR380Y1",
+    "name": "Intermediate Swahili",
+    "hours": "24L/72T",
+    "description": "Grammar and syntax. Conversation and written composition. Reading of texts: literary, journalistic. Relation of the language to its East African context.",
+    "exclusions": "NEW380Y1",
+    "breadth": 1,
+    "prereq_tree": "AFR280Y1"
+  },
+  "AFR389H1": {
+    "code": "AFR389H1",
+    "name": "The Geopolitics and Debates on Africa-China Economic Relations",
+    "hours": "24L",
+    "description": "Explores the geopolitics of Africa-Asia relations, in particular, the unabated and polarized debates and narratives on China\u2019s engagement across sectors in Africa, \u2018Africa-China\u2019 multifaceted trade relations, strategies and interests, and economic diplomacy. Critically examines the changing landscape of economic cooperation and development financing in contemporary Africa, their underlying impulses and their broader implications.",
+    "exclusions": "NEW357H1/ AFR357H1 (Special Topics in African Studies: The Geopolitics and Debates on Africa-China Economic Relations), offered in Fall 2020 and Fall 2021",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "AFR391H1": {
+    "code": "AFR391H1",
+    "name": "African Studies Independent Study Course",
+    "hours": "24S",
+    "description": "The African Studies Independent Study course is designed both to complement regular offerings in African Studies and to provide an opportunity for African Studies students to enrich their studies. Aided and advised by a faculty supervisor, students will conduct extensive research, read relevant literature, and plan, execute, analyze and report on an original and independent investigation of an appropriate topic.",
+    "exclusions": "NEW391H1 (New College Independent Studies), offered between Winter 2020 to Winter 2023",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AFR398H0": {
+    "code": "AFR398H0",
+    "name": "Research Excursion Program",
+    "hours": "48S",
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/faculty-staff/experiential-learning/international-indigenous/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AFR398Y0": {
+    "code": "AFR398Y0",
+    "name": "Research Excursion Program",
+    "hours": "48S",
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/faculty-staff/experiential-learning/international-indigenous/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": "NEW398Y0",
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AFR450Y1": {
+    "code": "AFR450Y1",
+    "name": "African Studies Honours Research Seminar",
+    "hours": "24S",
+    "description": "This honours research seminar required of all specialists and majors in African Studies offers critical explorations of the genealogy of African Studies, the transnational study of Africa, Africa\u2019s place in a globalized world, the historical, intellectual and institutional contexts of Africanist knowledge production, its dissemination and consumption in Africa, Europe, the Americas and emerging academic sites in Asia. It engages with the paradigm shifts and vibrant scholarly and epistemic debates across disciplines and geographies as well as unfolding events, public discourses, geopolitics, African popular cultures and the reimagining of African futures through canonical, emergent scholarship and creative media. It emphasizes students\u2019 original and creative research explorations, engaged praxis and search for alternative theorizing and decolonial epistemologies. It is also open to upper level students interested in African Studies and/or research in and on Africa.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "AFR150Y1"
+  },
+  "AFR451H1": {
+    "code": "AFR451H1",
+    "name": "Special Topics in African Studies",
+    "hours": "24L",
+    "description": "An upper level course. Topics of study vary from year to year.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AFR452H1": {
+    "code": "AFR452H1",
+    "name": "Kiswahili in a Globalized World",
+    "hours": "24L",
+    "description": "Examines the state and role of Kiswahili in the globalized world of the 21st century. Traces the changes in the roles of Kiswahili over time from its beginnings as a local East African coastal language to its current status as a regional and international lingua franca, and gives students an opportunity to interact with Kiswahili speakers in Toronto. Explores the challenges and opportunities arising from contact with other cultures and languages through globalization. Globalization as a potent force and its effects on Kiswahili are discussed in detail.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AFR454H1": {
+    "code": "AFR454H1",
+    "name": "Migration, Mobility, and Displacement in Contemporary Africa",
+    "hours": "24S",
+    "description": "Why do people move voluntarily or involuntarily? What are the causes and consequences of migration and displacement in Africa? This course critically examines the multifaceted dimensions of migration, mobility, and displacement, with a specific focus on communities and populations displaced by war, environmental destruction and disaster, economic failings, and the quest for economic opportunities, love, education, or individual freedom.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AFR455H1": {
+    "code": "AFR455H1",
+    "name": "Conflicts, Negotiations and Peacebuilding in Africa",
+    "hours": "24S",
+    "description": "Examines conflicts and peace negotiations in African contexts such as Somalia, Sudan, the Democratic Republic of Congo, and North Africa through public discourse, citizen actions, policy debates and mobilizations. Explores formal, informal, indigenous and institutional mediation and peace negotiation platforms, strategies, and impulses. Analyzes various conflict zones, case studies and intervention strategies for negotiating and sustaining peace in Africa in the broader context of the war on terror, increasing militarism, and securitization in peacebuilding.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AFR459H1": {
+    "code": "AFR459H1",
+    "name": "Advanced Special Topics in African Studies",
+    "hours": "24L",
+    "description": "An upper-level course. Topics of study vary from year to year.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AFR460H1": {
+    "code": "AFR460H1",
+    "name": "Climate Change, Food Security, and Sustainability in Africa",
+    "hours": "24L",
+    "description": "Food security is a critical challenge for many African countries and, in the past decades, has been exacerbated by climate change. To understand the complexities of food insecurity and to explore possible pathways for a food-secure Africa, we ask: what is the nexus between food security, climate change, and sustainability in Africa? How is food security intertwined with livelihood security, rights, justice, resource governance, conflicts, natural disasters, uncertainties, and risks and vulnerabilities? What are the challenges and opportunities for sustainable futures in Africa? Which theoretical frameworks illuminate these complexities? Students will learn through case study analyses, guest lectures, modeling and scenario-building exercises, and engagement with indigenous knowledge systems, canonical and emergent interdisciplinary scholarship on the topic.",
+    "exclusions": "AFR459H1 (Topic: Climate Change, Food Security and Sustainability in Africa), offered in Winter 2022 and Winter 2024",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AFR465H1": {
+    "code": "AFR465H1",
+    "name": "African Cities and Urban Futures",
+    "hours": "24L",
+    "description": "From slums, bustling cultural scenes and cityscapes, to diaspora lanes, African cities show diverse trajectories, inequalities and uneven pace of urbanization. Challenging clich\u00e9s of African cities as \u2018dystopian\u2019 and \u2018off the map\u2019, this course critically examines the processes and dynamics of urban transformation and rapid urbanization of African cities and their socio-cultural, ecological, political and economic implications. It interrogates key drivers of urbanization, sustainable urban development, livelihoods, inclusive and just urbanism challenges, urban policies and governance, and the reimagining of African urban futures. Students will learn from cutting edge scholarship and engage with speakers and Africa-based city-builders, policy makers, artists, activists, and social entrepreneurs.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AFR490Y1": {
+    "code": "AFR490Y1",
+    "name": "African Studies Independent Study Course",
+    "hours": "48S",
+    "description": "The African Studies Independent Study course is designed both to complement regular offerings in African Studies and to provide an opportunity for African Studies students to enrich their studies. Aided and advised by a faculty supervisor, students will conduct extensive research, read relevant literature, and plan, execute, analyze and report on an original and independent investigation of an appropriate topic. The exact Breadth Requirement category to be assigned to this course is based on the topic chosen by the student and approved by their faculty supervisor.",
+    "exclusions": "NEW490Y1 (if taken before 2025)",
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AFR491H1": {
+    "code": "AFR491H1",
+    "name": "African Studies Independent Study Course",
+    "hours": "48S",
+    "description": "The African Studies Independent study course is designed both to complement regular offerings in African Studies and to provide an opportunity for African Studies students to enrich their studies. Students, aided and advised by a faculty supervisor, will conduct extensive research, read relevant literature, and plan, execute, analyze and report on an original and independent investigation of an appropriate topic. The exact Breadth Requirement category to be assigned to this course is based on the topic chosen by the student and approved by their faculty supervisor.",
+    "exclusions": "NEW490H1 [If taken before 2025]",
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AFR499H1": {
+    "code": "AFR499H1",
+    "name": "Advanced Topics in African Studies",
+    "hours": "24S",
+    "description": "A joint graduate/undergraduate upper-level seminar. Topics vary from year to year, depending on the instructor. Consult the Program Office for course enrolment procedures.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "AMS100H1": {
+    "code": "AMS100H1",
+    "name": "Global Capitalism",
+    "hours": "24L/8T",
+    "description": "This course explores the rise of capitalism \u2013 understood not simply as an economic system but as a political and cultural one as well. It aims to acquaint students with the more important socio-economic changes of the past 600 years with an eye towards informing the way they think about problems of the present time: globalization, growing disparities of wealth, and the exploitation of natural resources. It seeks to foster a critical approach to the way in which the world is organized. A dual mission stands at its centre: it utilizes a focus on capitalism as a tool of scholarly understanding of the way the world has evolved, and it assists students in developing a critique of capitalism as a system.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "AMS200H1": {
+    "code": "AMS200H1",
+    "name": "Introduction to American Studies",
+    "hours": "24L",
+    "description": "A formal introduction to the interdisciplinary study of the United States and to the field of American Studies. Drawing from a variety of source materials ranging from political and literary to visual culture and material artifacts, this course examines the politics, history and culture of the U.S. A major emphasis will be learning to analyze primary sources.",
+    "exclusions": "USA200H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "AMS210H1": {
+    "code": "AMS210H1",
+    "name": "Concepts in American Studies",
+    "hours": "24L",
+    "description": "An interdisciplinary introduction to concepts key to the study of the United States in the world. Course materials will range from political, cultural, and literary theory to visual and material artifacts. Examining issues in the politics, history, and culture of the U.S., the course will give a grounding in the methods and ideas that make up the practice of American Studies.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "AMS220H1": {
+    "code": "AMS220H1",
+    "name": "Depression Era America: History, Politics, Culture",
+    "hours": "24S",
+    "description": "This course explores the 1930s on a number of interconnected levels, prompting students to link the economic, political, and cultural planes of Americans\u2019 lived experience in an informed way. It starts with the impact of the 1929 Crash, looking at the ways this reshaped values, and conceptions of race and gender, and also allowed unprecedented critiques and organizational forms to emerge. It then considers local and federal responses to economic catastrophe, emphasizing the emergence of regulatory mechanisms that further reshaped social relations. With this foundation in place, the course turns to consider three forms of artistic production in which the social dynamics of the age found powerful echo: FSA photography and WPA murals; experimental literature; and cinema.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "AMS300H1": {
+    "code": "AMS300H1",
+    "name": "Theories and Methods in American Studies",
+    "hours": "24L",
+    "description": "This course, required for majors and minors but open to all who have met the pre-requisites, explores a range of approaches to the field of American Studies. Students will be introduced to some of the many \u2018theories and methods\u2019 that have animated the field of American Studies, including historical methods; formal analysis of visual and literary texts; and key concepts, such as commodity chain analysis; \u2018race,\u2019 \u2018commodity,\u2019 \u2018gender,\u2019 \u2018diaspora,\u2019 and \u2018affect.\u2019",
+    "exclusions": "USA300H1,  USA300Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS271Y1",
+        "ENG250Y1",
+        "GGR240H1",
+        "GGR254H1",
+        "POL203Y1",
+        "POL386Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "POL347H1",
+            "POL386H1"
+          ]
+        }
+      ]
+    }
+  },
+  "AMS310H1": {
+    "code": "AMS310H1",
+    "name": "Approaches to American Studies",
+    "hours": "24L",
+    "description": "An in-depth, interdisciplinary examination of a specific question concerning U.S. history, politics, and/or culture. Focus varies depending on instructor. Major emphases include reading critically and the initial steps of conducting original research.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "AMS300H1",
+        "USA300H1",
+        {
+          "credits": 1.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "AMS311H1": {
+    "code": "AMS311H1",
+    "name": "Approaches to American Studies",
+    "hours": "24L",
+    "description": "An in-depth, interdisciplinary examination of a specific question concerning U.S. history, politics, and/or culture. Focus varies depending on instructor. Major emphases include reading critically and the initial steps of conducting original research.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "AMS300H1",
+        "USA300H1",
+        {
+          "credits": 1.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "AMS312H1": {
+    "code": "AMS312H1",
+    "name": "Approaches to American Studies",
+    "hours": "24L",
+    "description": "An in-depth, interdisciplinary examination of a specific question concerning U.S. history, politics, and/or culture. Focus varies depending on instructor. Major emphases include reading critically and the initial steps of conducting original research.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "AMS300H1",
+        "USA300H1",
+        {
+          "credits": 1.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "AMS313H1": {
+    "code": "AMS313H1",
+    "name": "Approaches to American Studies",
+    "hours": "24L",
+    "description": "An in-depth, interdisciplinary examination of a specific question concerning U.S. history, politics, and/or culture. Focus varies depending on instructor. Major emphases include reading critically and the initial steps of conducting original research.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "AMS300H1",
+        "USA300H1",
+        {
+          "credits": 1.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "AMS320H1": {
+    "code": "AMS320H1",
+    "name": "Tearing Down Monuments: Controversies in Public Memory",
+    "hours": "24L",
+    "description": "As statues are kicked off their pedestals all around the world, this class reckons with the legacy and future of public memory cultures. We\u2019ll consider the history, geography, aesthetics, bureaucracy, ecologies, and ideologies of both local and U.S. American memorials. And we\u2019ll examine the birth, life, death, and afterlives of both conventional monuments and emerging forms of material and digital alt-memorialization.",
+    "exclusions": "AMS199H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "AMS200H1",
+        {
+          "credits": 1.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "AMS330H1": {
+    "code": "AMS330H1",
+    "name": "Transnational America",
+    "hours": "24S",
+    "description": "The United States -- as a global military, cultural, and economic power -- has always been a transnational space. In this course, students will read texts that emphasize the transnational dimensions of the US, learning about a range of topics that may include borders, global supply chains, immigration, food cultures, media, and the reach of the US military. In what ways do the United States and its people exceed their national boundaries? And in what ways are the United States and its people shaped by \u201celsewhere\u201d?",
+    "exclusions": "AMS313H1 (Approaches to American Studies: Transnational America) offered in Winter 2024",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "AMS400H1": {
+    "code": "AMS400H1",
+    "name": "Topics in American Studies",
+    "hours": "24S",
+    "description": "In-depth examination of specific themes relating to American Studies.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 2.0,
+      "department": ""
+    }
+  },
+  "AMS401H1": {
+    "code": "AMS401H1",
+    "name": "Topics in American Studies",
+    "hours": "24S",
+    "description": "In-depth examination of specific themes relating to American Studies.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 2.0,
+      "department": ""
+    }
+  },
+  "AMS402H1": {
+    "code": "AMS402H1",
+    "name": "Topics in American Studies",
+    "hours": "24S",
+    "description": "In-depth examination of specific themes relating to American Studies.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 2.0,
+      "department": ""
+    }
+  },
+  "AMS403H1": {
+    "code": "AMS403H1",
+    "name": "Topics in American Studies",
+    "hours": "24S",
+    "description": "In-depth examination of specific themes relating to American Studies.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 2.0,
+      "department": ""
+    }
+  },
+  "AMS494H1": {
+    "code": "AMS494H1",
+    "name": "Independent Studies",
+    "hours": null,
+    "description": "Independent Studies. Not eligible for CR/NCR option.",
+    "exclusions": "USA494H1",
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "AMS495Y1": {
+    "code": "AMS495Y1",
+    "name": "Independent Studies",
+    "hours": null,
+    "description": "Independent Studies. Not eligible for CR/NCR option.",
+    "exclusions": "USA495Y1",
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ANA200H1": {
+    "code": "ANA200H1",
+    "name": "Human Visceral Anatomy",
+    "hours": "36L/12P",
+    "description": "This course introduces students to the gross anatomy of human visceral systems.",
+    "exclusions": "ANA300Y1,  ANA126Y1",
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "ANA300Y1": {
+    "code": "ANA300Y1",
+    "name": "Human Anatomy and Histology",
+    "hours": "86L/18P",
+    "description": "Structure of the human body and its relationship to function. Basic human histology, gross anatomy and neuroanatomy.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO130H1",
+        "BIO152H5",
+        "ANA126Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "ANA124H1",
+            "ANA125H1"
+          ]
+        },
+        "ANA200H1"
+      ]
+    }
+  },
+  "ANA301H1": {
+    "code": "ANA301H1",
+    "name": "Human Embryology",
+    "hours": "48L",
+    "description": "Human embryology from fertilization to the end of the fetal period. Current concepts in mammalian morphogenesis applied to the development of the various organ systems; etiologies and pathogenesis of some of the more common human congenital abnormalities.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": "BIO130H1"
+  },
+  "ANA400H1": {
+    "code": "ANA400H1",
+    "name": "Anatomy Dissection",
+    "hours": "24P/24S",
+    "description": "A focused series of Anatomical dissections will be made and the surgical implications of the findings will be the subject of seminars. Attitudes to dissection of the human body, complications of surgery and other relevant issues will be discussed.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ANA300Y1",
+        "ANA126Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "ANA124H1",
+            "ANA125H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ANA411H1": {
+    "code": "ANA411H1",
+    "name": "Anatomy in Application: Exercise & Biomechanics",
+    "hours": "30P/30S",
+    "description": "This course will cover musculoskeletal anatomy (both upper and lower limb) topics with an emphasis on applying detailed anatomical review, biomechanical principles and research evidence to explain or clarify exercise principles and myths. This course is offered every other year.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "ANA124H1",
+        "ANA125H1",
+        "ANA126Y1",
+        "ANA300Y1"
+      ]
+    }
+  },
+  "ANA420H1": {
+    "code": "ANA420H1",
+    "name": "Anatomy of the Stem Cell Niche",
+    "hours": "24L/12T/2P",
+    "description": "This course introduces the anatomy and histology of stem cell niches in the adult and relates adult stem cells to organ function throughout the body. It is designed to build upon students\u2019 knowledge of basic human anatomy and histology.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": ""
+            },
+            "BIO230H1"
+          ]
+        },
+        "PSL201Y1",
+        "PSL300H1",
+        "ANA301H1",
+        "ANA300Y1",
+        "HMB302H1"
+      ]
+    }
+  }
+}

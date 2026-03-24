@@ -1,0 +1,1153 @@
+{
+  "NFS481H1": {
+    "code": "NFS481H1",
+    "name": "Advanced Food Science",
+    "hours": "24L/36P",
+    "description": "This course provides an in-depth exploration of food microbiology, safety, and preservation, emphasizing the role of microorganisms in foodborne illnesses, fermentation, and spoilage. Students will gain foundational knowledge in food safety systems, including Hazard Analysis of Critical Control Points (HACCP), and learn preservation techniques such as freezing, canning, pickling, and irradiation. The course also examines the chemical and functional properties of carbohydrates, fats, and proteins, with a focus on their roles in food processing, preservation, and quality enhancement. Topics include microbial growth, classification of foodborne diseases, principles of food chemistry, and innovative processing methods used in the food industry, such as flash freezing and enzymatic applications. The lab component provides hands-on experience in food safety and processing techniques. Students will conduct experiments on microbial growth, food preservation methods, and chemical modifications of food components. Activities include freezing, canning, pickling, blanching, and dehydration experiments, as well as protein denaturation and fat emulsification studies. Emphasis is placed on applying theoretical knowledge to real-world scenarios, such as determining critical control points in food processing, understanding D, F, and Z values, and optimizing preservation methods to ensure food safety and quality. The lab also covers innovative techniques like nitrogen freezing and UV irradiation to prepare students for advancements in the food industry.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "NFS284H1",
+        "NFS386H1"
+      ]
+    }
+  },
+  "NFS482H1": {
+    "code": "NFS482H1",
+    "name": "Food Systems Management",
+    "hours": "24L/24P",
+    "description": "This course explores the operational planning and management of food service systems, emphasizing quality control, regulatory compliance, and sustainability. Students will gain a comprehensive understanding of menu planning, workflow optimization, and risk management across various settings, including daycare facilities, hospitals, and long-term care institutions. The course incorporates cultural inclusivity, addressing the dietary needs of Indigenous and immigrant communities, while promoting environmentally sustainable practices. Topics include food safety, sanitation, equipment usage, procurement, waste management, and employee safety, with a focus on real-world applications in institutional and commercial food service operations. The lab component provides hands-on experience in food service operations, allowing students to apply theoretical concepts to practical scenarios. Activities include designing workflows, conducting facility audits, and modifying menus to meet therapeutic, cultural, and regulatory requirements. Students will gain proficiency in menu preparation, food assembly, and distribution while practicing risk management and safety standards. Emphasis will be placed on incorporating sustainable practices and culturally appropriate food choices for diverse populations, including Indigenous and immigrant groups. Lab projects will culminate in real-world applications, such as facility audits, food safety planning, and menu modifications for institutional settings.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "NFS284H1",
+        "NFS386H1"
+      ]
+    }
+  },
+  "NFS484H1": {
+    "code": "NFS484H1",
+    "name": "Advanced Nutrition",
+    "hours": "24L/12T",
+    "description": "Physiological and biochemical features of nutrient needs. The roles of nutrients in the development and adaptability of the whole body, organs and cells. Interpretation of current research data.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BCH210H1",
+            "CSB349H1"
+          ]
+        },
+        "PSL350H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BCH311H1",
+            "NFS284H1",
+            "PSL300H1",
+            "PSL301H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PSL302Y1",
+            "STA220H1",
+            "STA221H1"
+          ]
+        },
+        "JBS229H1"
+      ]
+    }
+  },
+  "NFS485H1": {
+    "code": "NFS485H1",
+    "name": "Diet, Microbiome & Health",
+    "hours": "36L",
+    "description": "Provides an integrated approach to how prokaryotes modulate nutrient availability and how they interact with the host to impact human health from a molecular perspective.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BCH210H1",
+            "CSB349H1"
+          ]
+        },
+        "PSL350H1",
+        "BCH311H1",
+        {
+          "operator": "AND",
+          "items": [
+            "MGY311Y1",
+            "NFS284H1",
+            "PSL300H1",
+            "PSL301H1"
+          ]
+        },
+        "PSL302Y1"
+      ]
+    }
+  },
+  "NFS486H1": {
+    "code": "NFS486H1",
+    "name": "Obesity: Metabolic and Clinical Aspects",
+    "hours": "36L",
+    "description": "Obesity and its co-morbidities illustrated with pathophysiological and biochemical principles and clinical case studies.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BCH210H1",
+            "NFS284H1",
+            "PSL300H1",
+            "PSL301H1"
+          ]
+        },
+        "PSL302Y1"
+      ]
+    }
+  },
+  "NFS487H1": {
+    "code": "NFS487H1",
+    "name": "Nutrigenomics and Personalized Nutrition",
+    "hours": "36L",
+    "description": "The impact of the human genome on nutrition research. Experimental approaches to investigating gene-diet interactions. Understanding how genetic variability affects nutrient response, and how dietary factors regulate gene expression. Application of the various \u2018omics\u2019 technologies to nutrition research as well as exploring the social, legal and ethical issues associated with direct-to-consumer marketing of genetic tests for personalized nutrition.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "NFS284H1",
+            "CSB349H1"
+          ]
+        },
+        "PSL350H1",
+        "BCH311H1"
+      ]
+    }
+  },
+  "NFS488H1": {
+    "code": "NFS488H1",
+    "name": "Nutritional Toxicology",
+    "hours": "36L",
+    "description": "Occurrence, mechanism of action, safety and health implications of chemicals naturally present in or added to foods. Interactions of nutrients and toxicants and the effects on their metabolism and utilization. Food safety evaluation and regulatory control.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "BCH210H1",
+        "NFS284H1"
+      ]
+    }
+  },
+  "NFS489H1": {
+    "code": "NFS489H1",
+    "name": "Nutritional Neurosciences",
+    "hours": "36L",
+    "description": "This course provides an integrated approach to how brain function regulates and in turn is regulated by nutrition from a biochemical perspective.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BCH210H1",
+            "BCH311H1"
+          ]
+        },
+        "CSB349H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PSL350H1",
+            "NFS284H1",
+            "PSL302Y1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PSL300H1",
+            "PSL301H1"
+          ]
+        }
+      ]
+    }
+  },
+  "NFS490H1": {
+    "code": "NFS490H1",
+    "name": "International and Community Nutrition",
+    "hours": "36L",
+    "description": "This course focuses on current issues in international and community nutrition including global and domestic food security, micronutrient deficiencies and other forms of undernutrition, maternal and infant/child nutrition, dietary guidance, and food and nutrition policy. The course will consider the environmental, sociopolitical, cultural and biosocial contexts of nutrition.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "NFS284H1"
+  },
+  "NFS494Y1": {
+    "code": "NFS494Y1",
+    "name": "Research Projects in Nutritional Sciences",
+    "hours": "144P",
+    "description": "Research experience under the supervision of a Departmental staff member. The course entails designing and carrying out a small research project and the preparation and presentation of both a research proposal and a final report. Note that the research project  NFS494Y1 requires the prior consent of a staff member who will supervise the project and departmental approval before enrolment. The student is responsible for locating a supervisor. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": "NFS284H1"
+  },
+  "NMC101H1": {
+    "code": "NMC101H1",
+    "name": "Land of the Pharaohs",
+    "hours": "24L/12T",
+    "description": "Egypt is one of the oldest known civilizations on the African continent. Deeply embedded within early African history, Egypt was also inextricably linked with the history of many civilizations in the Ancient Near East. From pyramids to mummies and from King Tut to the Hanging Gardens of Babylon, the course will trace the history of ancient Egypt from its foundation around 3050 BCE to its incorporation into the Roman Empire in the 1st Century BCE. The focus will be on various aspects of Egyptian culture, including the institution of kingship, the role of women, and the characteristic features of Egyptian art, literature, and religion. Emphasis will be placed on the methods by which knowledge about this ancient civilization can be obtained.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC102H1": {
+    "code": "NMC102H1",
+    "name": "Heartland of Ancient Empires",
+    "hours": "24L/12T",
+    "description": "Mesopotamia and the ancient Near East\u2014the area of modern Iraq and adjacent regions\u2014witnessed the rise of the first cities in the fourth millennium BC and the emergence of the world\u2019s first empires in the first millennium BC. This course traces Mesopotamian history from the beginnings of agriculture through to the earliest cities, following the trajectory of political development from city states, to territorial states, and finally to the great empires of Assyria, Babylonia, and Achaemenid Persia and their aftermath. It studies the peoples and polities of the ancient Near East, including the Sumerians, Assyrians, Babylonians, and Persians. It also examines their cultural contributions, from the development of cuneiform writing to their achievements in law, administration, science, art and architecture, religion, and literature.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC103H1": {
+    "code": "NMC103H1",
+    "name": "The Islamic World",
+    "hours": "24L/12T",
+    "description": "A broad introduction to Islam, including the history, culture, and religion of the people and places that came to be influenced by Islam and that constitute a world civilization. What makes something (an empire or state, or a work of art or music) Islamic? When and how did that which we think of today as Islamic come about? How has \u201cthe Islamic\u201d changed over time? With these questions in mind, this course introduces students to major figures, events, themes, institutions, and intellectual currents in Islamic history, from its beginnings in the 7th century to the modern period. Key topics to be covered include the rise and spread of Islam, the Qur\u2019an and the role of Arabic, political thought, law and society, and literary and artistic expressions. Attention is paid to the geographical and ethno-linguistic scope of the Muslim world, demonstrating the diversity of peoples and traditions that make up Islamic civilizations.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC104H1": {
+    "code": "NMC104H1",
+    "name": "The Biblical World",
+    "hours": "24L/12T",
+    "description": "Examine the history, lands, peoples, religions, literatures and cultures that produced the Hebrew Bible/Old Testament. Topics to be covered include an overview of the geography and history of Ancient Israel and Judea, the role of the Hebrew, Aramaic, and Greek languages, the literary genres reflected in biblical and some contemporary non-biblical texts, and the scholarly methods by which the Bible is studied.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC195H1": {
+    "code": "NMC195H1",
+    "name": "Rebels, Misfits, and Outcasts in Modern Arabic Literature",
+    "hours": "36S",
+    "description": "This course examines modern Arabic literary texts that portray marginalized social figures and groups who have been excluded from a protective system of resources and privileges. Students will read novels and short stories by prominent Arab authors who have represented marginal social groups in their fiction, including representations of the urban poor, the peasantry, the delinquent, the prostitute, sexual minorities, women who reject normative roles, and the political rebel. These fictional texts address issues such as political resistance and rebellion, economic precarity, and social exclusion. Students will engage with these texts by critically examining the role of literature in narrating unspoken and suppressed histories. The class will also introduce students to theoretical modes of literary analysis and interpretation. All texts will be read in English translation. Authors include Mohamed Choukri, Hanan al-Shaykh, Alifa Rifaat, Sonallah Ibrahim, and Arwa Salih. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": "NMC242H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC196H1": {
+    "code": "NMC196H1",
+    "name": "Law and Order in the Ancient Near East",
+    "hours": "24S",
+    "description": "Are human beings basically evil or good? What creates order in society? Coercion? Religion? Can societies operate without law? This course explores different systems of authority and control through ancient texts, focusing on the very first ideas of law in human history. We examine actual law codes, court cases on real estate disputes and conspiracy to commit murder and rape, as well as alternative means of regulating communities such as ideology, ritual and magic. While most courses on ancient law approach the topic from the perspective of modern concerns, this course situates the first law in its own historical, social and political context. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC197H1": {
+    "code": "NMC197H1",
+    "name": "Myth and History in the Bible",
+    "hours": "24S",
+    "description": "Reading the Bible is easy, but reading it well isn\u2019t. Should we read its stories as history? All of it? Or perhaps only part of it? If so, which parts? And if some parts aren\u2019t meant to be read as history, then what are they? Was Jonah really swallowed by a large fish? Did the sun and moon stand still for Joshua? Did Moses really part the Red Sea? Did Jesus really raise Lazarus from the dead? Are miracles necessarily fiction? In this seminar, we will read together many of the most colourful stories of the Bible, sometimes alongside similar stories from the cultural context of ancient Israel, and discuss what genre (history, myth, legend, folktale) they belong to and how this affects our reading of these texts. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC198H1": {
+    "code": "NMC198H1",
+    "name": "Iranian Women Reveal Their Lives: The First Generation",
+    "hours": "24S",
+    "description": "Persian women born in the late 19th century and early decades of the 20th century grew up in a period of major political, social, and cultural change that impacted women. A course reading, Memories of a Persian Childhood, illustrates the important role of the family and childhood experiences in the lives of a first generation of women to have access to a modern education, and step beyond traditional boundaries. Women\u2019s personal writings are the main sources we use to learn about female aspirations, hopes and disappointments as well as the challenge of living in a patriarchal society that took for granted that a woman would devote her life to caring for home and family. We will explore how this generation navigated restraints on women in the years of Pahlavi rule (1925-1979) and served as a model of female contribution for a young generation following the 1979 Islamic Revolution. Each seminar will consist of the instructor\u2019s introductory comments, a discussion of the assigned readings and an exchange of opinions about the life of women in different environments. The final mark is based on the readings in the course syllabus, the instructor\u2019s lectures, and class discussions of assigned topics. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC199H1": {
+    "code": "NMC199H1",
+    "name": "Babylon: Fact vs. Fiction",
+    "hours": "24S",
+    "description": "The ancient city of Babylon, now a vast archaeological site in Iraq about 100km south of Baghdad, has captured people\u2019s imagination up to this day. Who has not heard of the Hanging Gardens of Babylon, the Biblical Tower of Babel, or the sci-fi TV series Babylon 5? Yet, how much of that reflects the reality of ancient Babylon? This course will explore the city of Babylon through its texts and archaeology and contrast this data with the way the city has been remembered over the past two thousand years. However, the goal of the course is not only to investigate how myths about Babylon have been constructed throughout the centuries. It will also look at the shortcomings of contemporary academic research on Babylon, and how difficult it is to reconstruct humankind's distant past. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC230H1": {
+    "code": "NMC230H1",
+    "name": "Ancient Egypt in Popular Media",
+    "hours": "24L",
+    "description": "This course will examine the use of ancient Egypt in a variety of films. Genres will include horror, sci-fi, and epics. Topics will include the depiction of ancient Egyptian themes, such as religion and historical, images, and values in motion pictures, as well as their transformation. Students will be required to watch a variety of movies dealing with ancient Egypt and analyse and engage in the material, as it relates to ancient Egyptian narratives and themes. Students will also examine how the ancient Egyptian themes depicted in the films may reinforce or challenge the cultural norms of this ancient society.",
+    "exclusions": "NMC277H1 (Ancient Egypt in Film) offered in Summer 2024.",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC238H1": {
+    "code": "NMC238H1",
+    "name": "The Persian Empire: Superpower of the Ancient World",
+    "hours": "12L/12S",
+    "description": "The Achaemenid Persian Empire (550-323 BCE) ruled communities stretching from Egypt and Greece to Central Asia and the Indus River. Persian rule transformed the eastern Mediterranean and Middle East: the Persians conquered the great civilizations of Mesopotamia and Egypt, they were the first rivals of the Greek world, and they impacted the formation of Judaism. This course will survey the political, cultural, religious, social, and economic history of the Persian Empire. Students will read primary written sources in translation such as Greek historical texts, Egyptian papyri, and cuneiform tablets. Students will also learn about the archaeology of the Persian heartland in Iran, as well as the Persian impact in places like Turkey, Israel, and Afghanistan.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "NMC239H1": {
+    "code": "NMC239H1",
+    "name": "Women and Gender in the Near and Middle East",
+    "hours": "24L",
+    "description": "A team-taught survey course that explores the lives and societal roles of women in various cultures of the ancient, medieval, and modern Near and Middle East, including ancient Egypt and Mesopotamia, ancient and medieval Zoroastrianism, ancient Judaism, late antique Christianity, medieval Islam, and the modern Middle East. The course is co-taught by different specialists in these various fields. By tracing continuities and differences across regions, religions, and cultures, as well as changes over time, it seeks to enhance students\u2019 understanding of women\u2019s history and gender construction by exposing them to a variety of sources and methodological approaches. Textual as well as material culture evidence stemming from various backgrounds is considered. The aim of the course is to reflect critically on what is possible to know about women\u2019s lives across history and on what insights may be gained through a comparative perspective.",
+    "exclusions": "NMC 277H1 (Women and Gender in the ancient and modern Near and Middle East) offered in Fall 2024",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "NMC240H1": {
+    "code": "NMC240H1",
+    "name": "For the Love of the Prophet: Muhammad in the Islamic Tradition",
+    "hours": "24L",
+    "description": "The Prophet Muhammad became a focal point of the Islamic tradition. This course covers the development of this relationship with Muhammad, through various forms of expressions, from poetic to religious to artistic. Various emotional rubrics were given to the relationship to Muhammad: from honoring him, to emulating him to loving him. The course covers the theological debates about the status of Muhammad (his nature, his relationship to God, his powers to intercede). The course includes the Sufi movement relationship to Muhammad and culminates in the study of the poetic corpus that Muslims call madih.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "NMC241H1": {
+    "code": "NMC241H1",
+    "name": "Anthropology of the Middle East",
+    "hours": "24L",
+    "description": "This course aims to familiarize students with the anthropological study of the contemporary Middle East. It introduces key questions and concepts for anthropological study: who speaks for the Middle East? What is culture? What is ethnography? It analyzes systems of power and exclusion, and everyday life and relations in countries like Egypt, Turkey, Iran, Iraq, Syria, Lebanon, Palestine, Israel, and Kuwait. The course will provide critical perspectives on gender, religion, family relations, national belonging, migrant workers, and refugees. Students will apply anthropological methods learned in class to do an independent project.",
+    "exclusions": "RLG355H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC242H1": {
+    "code": "NMC242H1",
+    "name": "Women and Money in the Medieval Middle East",
+    "hours": "24S",
+    "description": "Money can be a source of power, a way of building and affirming relationships, and a means of demonstrating a person's values and commitments. In this course, we will explore women's social roles, power, vulnerabilities, choices, fears, and desires by examining how they gained and spent their money. We will be looking at the experiences of royal women and enslaved women; Muslims, Christians, and Jews; conservative and rebellious; married and single; those who worked within the home, and those who worked outside of it. The course is centered primarily on texts originally written in Arabic between the 9th and 14th centuries, but all sources will be offered in English translation.",
+    "exclusions": "NMC277H1 (Topics in Near & Middle Eastern Civilizations:\u00a0Women and Money in the Medieval Middle East) offered in Fall 2023",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 2.0,
+      "department": ""
+    }
+  },
+  "NMC243H1": {
+    "code": "NMC243H1",
+    "name": "The Arabic Novel",
+    "hours": "24L",
+    "description": "This course focuses on the origins and development of the novel genre in the modern Arabic literary tradition. The course examines the aesthetic qualities of the novel as an artistic form as well as the ways it has represented and intervened in the modern social, political, and cultural upheavals that have shaped the Arabic-speaking world from the mid 19th century to the 21st century. Students will read literary criticism that addresses the Arabic novel\u2019s emergence and consolidation as a major literary form and will engage with contemporary methods of literary analysis and interpretation. Topics addressed in the course include textual representations of colonialism and post-colonialism, gender and sexuality, representations of the peasantry, the nation-state and Arab nationalism, and discourses of progress and modernity. Authors include Ahmad Faris al-Shidyaq, Yahya Haqqi, Naguib Mahfouz, Tayeb Salih, Latifa al-Zayyat, Mohamad Choukri, and Hanan al-Shaykh. Readings of novels and criticism in English translation.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC244H1": {
+    "code": "NMC244H1",
+    "name": "The Arab Spring and Cultural Production",
+    "hours": "24L",
+    "description": "This course examines the Arab revolutions that began in 2011 and their ongoing repercussions through the lens of cultural production. How have Arab writers and artists contributed to and reflected upon the Arab revolutions known as the Arab Spring? How has cultural production mediated the demands, aspirations, and struggles of the Arab peoples during and after these transformative revolutionary struggles? The cultural texts examined in this course range from those that mediate the euphoric optimism heralded by the revolutions to those that narrate and reflect upon the dystopian aftermath after revolutionary failure, including fiction and art that considers the reassertion of authoritarian rule, the violence of civil war, and the homelessness of exile. Through novels, poetry, music, art, and film, the course will broadly consider the role of culture as an alternative mode of narrating and historicizing the Arab revolutions.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 3.0,
+      "department": ""
+    }
+  },
+  "NMC245H1": {
+    "code": "NMC245H1",
+    "name": "Women in the Ancient Near East",
+    "hours": "24L",
+    "description": "The course examines written and archaeological sources to discuss the status and role of women in the ancient Near East, focusing in particular on the first millennium BCE.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC246H1": {
+    "code": "NMC246H1",
+    "name": "Sumerian and Babylonian Literature in Translation",
+    "hours": "24L",
+    "description": "This course explores some of the world\u2019s oldest literature, including the Epic of Gilgamesh and the Babylonian Epic of Creation. It surveys the major literary genres from ancient Mesopotamia, including epics, myths, lyrical poetry, wisdom literature, and humorous tales. It covers literary compositions written in the Sumerian and Babylonian languages using the cuneiform script, ranging in date from the third millennium BC through to the first millennium BC. The course also examines the scholarly and cultural context in which these works were created and preserved for posterity, including the role of scribal training, the nature of Mesopotamian scholarship, royal sponsorship, and the formation of ancient libraries.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC247H1": {
+    "code": "NMC247H1",
+    "name": "The Intellectual History of the Ancient Near East",
+    "hours": "24L",
+    "description": "Survey of the intellectual life in the Ancient Near East from the emergence of writing in Mesopotamia and Egypt at the end of the third millennium BCE until the Hellenistic and Roman periods. Covers issues of orality vs. literacy, state and scribal control, notions of progress, origins and purpose of knowledge, as well as areas such as taxonomy of the natural world, astronomy, mathematics, medicine, divination.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC248H1": {
+    "code": "NMC248H1",
+    "name": "Ancient Bureaucracies",
+    "hours": "24L",
+    "description": "Where were taxes first collected? When was the first receipt issued? What did the first account ledgers look like? This course offers an introduction to the development of early bureaucracies in ancient Mesopotamia (Iraq), Iran and Syria. Find out how accounting procedures evolved after 6,500 BC, from closing storage containers in Neolithic villages with seals and sealings to complex recording procedures in urban settings that ultimately led to the development of writing on clay tablets around 3,100 BC. Learn how different patterns of irrigation in river-based agricultural societies such as Mesopotamia, Egypt, and China led to similar yet distinct systems of resource management and administration, using different writing materials (e.g. clay tablets, papyrus) based on available raw materials. And see how bureaucratic procedures, while helping to maximize efficiency in an ancient society, could also create a lack of flexibility, ultimately leading to political decline or collapse.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC249H1": {
+    "code": "NMC249H1",
+    "name": "Health and Healing on the Nile: Ancient Egyptian Medicine",
+    "hours": "24L",
+    "description": "The course provides an overview of medicine and medical practices from ancient Egypt between the 3rd millennium BCE to first millennium CE, primarily drawing on Egyptian evidence. Materials from neighbouring cultures are also included for comparative reasons. The focus of the class is on interpreting and reconstructing ancient healing practices and theories based on original sources (in translation) through a modern methodological approach, combining perspectives from both the humanities and the medical sciences. Both written and material sources are examined and discussed. One of the main objectives of the module is to make students aware of the importance of culture in interpreting ancient medicine.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "NMC250H1": {
+    "code": "NMC250H1",
+    "name": "Pyramids, Temples, and Tombs: An Introduction to Ancient Egyptian Architecture",
+    "hours": "24L",
+    "description": "Monuments like the Great Pyramid of Giza or the incredible temple at Karnak are some of the defining elements of Pharaonic civilization. This course will introduce students to ancient Egyptian architecture and trace its development from the Predynastic through the New Kingdom. Using textual, archaeological, and pictorial evidence, this course will investigate the emergence of mudbrick and stone architecture, how the construction of pyramids and other monuments was organized, and changes in tomb and temple construction over time.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": ""
+    }
+  },
+  "NMC251H1": {
+    "code": "NMC251H1",
+    "name": "Voices from Ancient Egypt",
+    "hours": "24L",
+    "description": "This course introduces students to the culture of ancient Egypt through the study of \u201cfunctional\u201d textual materials. After a brief introduction to the Ancient Egyptian language and writing system, we will read texts from domestic, religious (comprising funerary and ritual), historical, and scientific backgrounds to paint a rich picture of the daily life and experiences of the ancient Egyptians. By way of example, we will illustrate Egyptian funerary beliefs on the basis of texts found in tombs, such as autobiographies, offering formulae, and letters left there for the dead by their families; or the role of the pharaoh for the Egyptian state by studying monumental inscriptions left on temple walls, boundary stelae, and in the tombs of the Egyptian elite. No knowledge of Ancient Egyptian required; all texts read in translation.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC252H1": {
+    "code": "NMC252H1",
+    "name": "Hebrew Bible",
+    "hours": "24L",
+    "description": "An introduction to the critical study of the Hebrew Bible/Old Testament and the related literature of ancient Jewish communities (Apocrypha, Pseudepigrapha, Dead Sea Scrolls). English translations used; no knowledge of Hebrew is required.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC253H1": {
+    "code": "NMC253H1",
+    "name": "Egyptian Myths",
+    "hours": "24L",
+    "description": "This course explores ancient Egyptian mythical writings and representations, starting with the myths contained in the Pyramid Texts of the 3rd millennium BCE and ending with the narrative mythical tales of the 1st millennium BCE and beyond. Definitions and theories of ancient Egyptian myth as well as historical developments will be discussed, and we will attempt to explain why religious beliefs and stories changed. The course is structured systematically, focusing in particular on mythical accounts that elucidate Egyptian cosmic, royal, and funerary beliefs as well as the intersection of these domains. All texts read in translation.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC254H1": {
+    "code": "NMC254H1",
+    "name": "The Mummy: Technology and Transformation",
+    "hours": "24L",
+    "description": "This course explores the significance of mummies in contexts ranging from ancient Egyptian to modern, tracing the development of Egyptian mummification techniques and the roles and uses of mummies as transformative elements allowing access to the afterlife, sources of information about ancient individuals, characters in literature and film, and objects for display in museums.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "NMC255H1": {
+    "code": "NMC255H1",
+    "name": "Love, Battle, and Wit: Classics of Premodern Arabic Literature",
+    "hours": "24L",
+    "description": "This course surveys the premodern Arabic literary heritage, from pre-Islamic poetry to literature of the Mamluk period, focusing on texts that remained influential sometimes until the present day. Students read classic works in translation each week, while discussion focuses on social context and close reading. Throughout, we note the development of literary forms over time, and the way authors reference previous works. Readings include: the animal fable book Kalila wa Dimna, excerpts from anecdote collections (adab), multilingual Andalusi songs (muwashshah), the linguistically playful trickster tales called maqamat, an obscene shadow play by Ibn Daniyal, popular epic, and some of the most famous poems by Labid, Jarir, Abu Nuwas, Abu Tammam, al-Mutanabbi, and Ibn Nubata.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC256H1": {
+    "code": "NMC256H1",
+    "name": "1001 Nights Around the World",
+    "hours": "24L",
+    "description": "The 1001 Nights has had many lives, in many languages, and across many media. This course starts off with a detailed reading, in translation, of one of the oldest surviving Arabic versions of the text, with consideration of its literary and social context, and its sources. We then move forward in time to examine how the 1001 Nights was expanded, adapted, and disseminated from then until today. A key transformation moment occurred between 1704-1717 with the publication of Antoine Galland\u2019s French version, composed with the input of Syrian storyteller Hanna Diab. This version was widely disseminated and became a basis for most subsequent modern adaptations. We consider adaptations both before and after this turning point, including manuscripts, translations, novels, ballets, short stories, and films produced around the world. Throughout, we consider the politics and aesthetics of these historical translations, adaptations, and transformations.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC257H1": {
+    "code": "NMC257H1",
+    "name": "Vice and Virtue in Biblical Traditions",
+    "hours": "24L",
+    "description": "This course examines the formation and development of ancient Jewish literary traditions, centering around complex narrative and poetic figures such as Eve, Abraham, Moses, David, Esther, Job, and Lady Wisdom. Traditions to be studied will be selected from the Hebrew Bible (Old Testament) and from early Jewish interpretive writings: the apocrypha, pseudepigrapha, and Dead Sea Scrolls.",
+    "exclusions": "NMC277H1 (Topics in Near & Middle Eastern Civilizations: Valor and Failure in Biblical Traditions), offered in Fall 2019",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "NMC258H1": {
+    "code": "NMC258H1",
+    "name": "The Book of Kings: Persian Myth, History, and Art",
+    "hours": "24L",
+    "description": "The Shahnameh, or Book of Kings, is the single most important book in Iranian national culture and one of the great epics of world literature. Composed in Persian by the poet Ferdowsi in the late 10th\u2013early 11th centuries, it had a deep and lasting impact not only on Iran, but also on those cultures that came under the influence of Persian language, literature, and courtly traditions. The course examines, in English translation, the Shahnameh\u2019s presentation of the history of the mythical dynasties of the ancient kings of Iran from the creation of the world to the Sasanians, the last historical dynasty to rule Iran before the Muslim Arab conquests. As the Shahnameh was frequently illustrated, attention will also be devoted to the manuscript tradition, which exhibits some of the finest examples of medieval Persian painting.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC259H1": {
+    "code": "NMC259H1",
+    "name": "Literature of Ancient and Late Antique Iran",
+    "hours": "24L",
+    "description": "This course explores the most important texts of the Zoroastrian literature of ancient and late antique Iran and serves as a broad introduction to the mythical and ritual world of Zoroastrianism and the contours of pre-Islamic Iranian thought. The course is divided into two parts: a) Old Iranian literature, such as the Avestan religious literature and the Old Persian inscriptions, and b) Middle Persian (Pahlavi) literature, including epic poetry (Chronicle of Ardakhshir, narrating the deeds of the first Sasanian king), didactic and wisdom literature (Memorial of the Vizier Wuzurgmihr; Explanation of Chess and Backgammon), apocalyptic and visionary literature (Book of the Righteous Wiraz, describing his journey to heaven and hell), texts on cosmology (Primordial Creation), and encyclopaedic works (Acts of the Zoroastrian Religion), as well as specimens of Manichaean literature in Middle Iranian languages. All readings are in English translation.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC260H1": {
+    "code": "NMC260H1",
+    "name": "From Agriculture to Urbanism: The Archaeology of the Pre- and Proto-historic Near East",
+    "hours": "48L",
+    "description": "The ancient Near East was the birthplace of the world\u2019s first complex societies. Between 10,000 BCE and 2,000 BCE, Near Eastern societies shifted away from mobile lifestyles to form sedentary villages and eventually cities, developing agriculture, writing systems and bureaucracies, and commercial and political networks. This course explores the archaeological evidence for these transformations, asking what it would have been like for people in the ancient Near East as their world underwent the profound changes wrought by domestication, farming, urbanism, and state formation.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC262H1": {
+    "code": "NMC262H1",
+    "name": "Empires and Internationalism: The Archaeology of the Historic Near East",
+    "hours": "48L",
+    "description": "From 2000 to 333 BCE, the ancient Near East saw the growth and expansion of the world\u2019s first empires, the birth of international diplomacy, burgeoning land- and sea-trade and the emergence of languages and cultures that would go on to shape the Mediterranean world for centuries. This course will explore the archaeological evidence for these developments in Mesopotamia, Egypt, Anatolia and the Levant.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC263H1": {
+    "code": "NMC263H1",
+    "name": "The Archaeology of Gods, Ghosts, Witches and Demons",
+    "hours": "24L",
+    "description": "This class investigates archaeological traces of human interaction with the supernatural world in the ancient Near East, including figurines, temples, skulls, statues, and cylinder seals. In order to contextualize different ways of thinking about other worlds, we also look at cross-cultural comparisons ranging from Africa to the Americas.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "NMC264H1": {
+    "code": "NMC264H1",
+    "name": "The Archaeology of Stuff",
+    "hours": "24L",
+    "description": "Discover how the structure of animal skin enables the making of leather and tattoos; why mighty kings boasted about tree-cutting expeditions; how chariots, stirrups, and gunpowder changed the very structure of contemporary societies; why spears are better than swords. Understand and appreciate the materials in the world around you.",
+    "exclusions": "NMC369Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC265H1": {
+    "code": "NMC265H1",
+    "name": "Archaeology in War Zones: Syria, Iraq, Afghanistan",
+    "hours": "24L",
+    "description": "This course addresses difficult questions about how we value cultural heritage, who it belongs to, and how we should protect it during times of crisis. Focusing on the conflicts in Syria, Iraq and Afghanistan, we examine what went wrong, and discuss the role of cultural heritage in nationalistic discourses, ideologically motivated performative heritage destruction, and the contribution that cultural heritage can make to post-conflict peacebuilding. We will also cover such issues as the limitations of current cultural heritage protection laws, methods for threat monitoring and assessment, and the role of the illicit antiquities trade in the ongoing destruction of cultural heritage.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC266H1": {
+    "code": "NMC266H1",
+    "name": "Archaeologies of Power",
+    "hours": "36L",
+    "description": "Who were the first powerful leaders? How did they portray themselves, and what was the source and basis of their power? This course provides a comprehensive survey of the origins and rise of political leadership in the Near East from its beginnings in the Neolithic period to the famous kings and military leaders of Sumer, Assyria, and Babylon. Sources consulted include archaeological data (architecture, monuments, narrative art) as well as historical sources. The course is intended as an introduction to a broader understanding of the mechanisms that result in the formation of political power structures. Although it focuses on the ancient Near East, the course will discuss parallels from other parts of the world, both ancient and modern, that are relevant to understanding manifestations of political power in our present-day world.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC267H1": {
+    "code": "NMC267H1",
+    "name": "Everyday Life in Ancient Egypt",
+    "hours": "24L/12T",
+    "description": "The course focuses on lived experience for people from many different socio-economic levels in ancient Egypt. Through the analysis of archaeological and mortuary evidence, artifacts, and human, animal, and plant remains we will explore the daily lives of Egyptians over time as the natural, social and technological landscape changed, posing questions such as what they ate, how they made things, what kinds of social connections they formed, how they defined their identities, what kind of houses and village, town, or urban settings they lived in, what things they feared, how they died, and what they might have believed. We will look at remains from settlements like Hierakonpolis, Abydos, Giza, Kahun, Tell el-Dab'a, Amarna, Deir el-Medina, and Thebes in detail to understand aspects of the lives of the people who inhabited them.",
+    "exclusions": "NMC362Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC268H1": {
+    "code": "NMC268H1",
+    "name": "Data Science Applications in Archaeology",
+    "hours": "12L/12P/12S",
+    "description": "Digital technology and the growth of \u201cbig data\u201d are transforming not only the ways in which archaeologists present and communicate their research, but also increasingly the ways they collect and analyze data. This course uses underlying concepts from the emerging field of data science and helps students develop hands-on skills in various critical techniques in archaeological data analysis and modelling, focusing on case studies from the Near East.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 3.0,
+      "department": ""
+    }
+  },
+  "NMC269H1": {
+    "code": "NMC269H1",
+    "name": "Ancient Egyptian Science",
+    "hours": "24L",
+    "description": "The course introduces the history of knowledge and science in ancient Egypt by providing overviews of topics such as biology, astronomy, calendars, and mathematics, but also magic, divination, and alchemy are considered as part of the ancient scientific curriculum focusing on the period from the 3rd millennium BCE to the 1st millennium CE, drawing primarily on Egyptian evidence, including both written sources and material culture, including those from contemporary neighbouring cultures as comparanda. The focus of the course is on the interpretation and reconstruction of ancient practices and theories based on original sources (in translation) using a modern methodological approach, combining perspectives from philology, archaeology, and the history of science. One of the main aims of the class is to make students aware of the importance of culture and society in interpreting and understanding ancient cultures of science and knowledge and the practices associated with them.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "NMC270H1": {
+    "code": "NMC270H1",
+    "name": "Christians of the Middle East",
+    "hours": "24L",
+    "description": "The course will introduce students to the Christian communities living in the Middle East since the distant past, identified by ecclesiastical and or ethnic terms, including Armenian, Copt, Greek-Melkite, Maronite, and Syriac. The course will discuss the plurality of their cultural, literary, and theological traditions, the social and intellectual roles of their monasteries, the contributions of their top religious authorities in diplomacy between Byzantium and the Sassanians, their position in the Islamic world and contributions to Islamic culture, philosophy, sciences, and theology, interreligious dialogues and polemics with Islam.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC271H1": {
+    "code": "NMC271H1",
+    "name": "The Sufi Tradition in Islam",
+    "hours": "24L",
+    "description": "The history of asceticism and mysticism in the Islamic tradition, with particular attention to the formative period as well as the breadth and diversity of Sufism across the Islamic world, from West Africa and Spain, to the Balkans and Central Asia, to China and Southeast Asia. We begin with the origins of the piety movement in early Islam, and the ways in which it responded to late antique Christian monasticism. We then examine the emergence of classical Sufism in the 9th century, its basic concepts and practices, the rise of saints, the formation of Sufi orders, the social and cultural context for key developments, as well as the reasons for the contested legacy of Sufism in the modern world. Major figures for discussion include Rabi'a, Junayd, Hallaj, Ghazali, Ibn Arabi, and Rumi.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "NMC272H1": {
+    "code": "NMC272H1",
+    "name": "Hajj and History",
+    "hours": "12L/12S",
+    "description": "The history of the hajj (Muslim pilgrimage to Mecca) reflects important political, theological, social, artistic, and technological developments in Middle Eastern and Islamic history. This course begins with an exploration of Mecca as a pilgrimage site before the Islamic era and continues with an examination of how the history of the hajj reflects and intersects with important moments and trends in the history of Muslims around the world from medieval times to the 21st century. We will discuss the significance of the pilgrimage especially during periods of transformation such as the fitna (civil wars) of early Islamic history, the rise of hadith scholars and the ulama as religious leaders in the Abbasid era, the aesthetic and political Ottomanization of the Arab world, British naval domination over the Indian ocean and colonization of India, the evolution the Saudi state and its religious program, pan-Islamic movement in the post-colonial era, and the growth of Muslim minority communities around the world in the 21st century.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "NMC274H1": {
+    "code": "NMC274H1",
+    "name": "The Turks in History: From Nomads of the Steppe Frontier to Islamic Rulers",
+    "hours": "24L",
+    "description": "The course examines the roles of Turks and other primarily nomadic peoples as raiders, migrants, slave-soldiers, and empire-builders in the ancient and medieval history of Eurasia (including Central Asia, the Middle East, and Eastern Europe) and in the formation of the Islamic world. Topics covered include long-distance economic and cultural contacts (\u201csilk roads\u201d) facilitated by \u201csteppe empires\u201d; the Islamization of the Turks and their gradual takeover of Iranian, Arab, and other Muslim lands; lifeways (especially pastoral nomadism); the relationship between nomadic and sedentary societies; political structures; steppe warfare; the role of physical geography and the environment. Students explore the histories and landscape geographies of Turks through fascinating primary sources and internet resources. The course illustrates the key role that Turks played in the formation of the modern world on the Eurasian continent.",
+    "exclusions": "NMC274Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC275H1": {
+    "code": "NMC275H1",
+    "name": "The Mongol Empire and the World It Made",
+    "hours": "24L",
+    "description": "Most of Eurasia (the Middle East, East and South Asia, Eastern Europe) was once incorporated into the Mongol Empire and greatly influenced by Mongol rule. It may be said that the beginnings of modern history on the Eurasian continent were shaped by the impact of the Mongols and their non-Mongol (mainly Turkic) partners. This course explores the history of the pan-Eurasian empire founded by Chinggis Khan (Genghis Khan) in the 13th century and the smaller empires into which it devolved: Yuan China-Mongolia, Chaghatayid Mongolia-Central Asia, Ilkhanid Iran-Anatolia, and the Golden Horde Eastern Europe-Western Siberia. The course also surveys various post-Mongol successor states, such as the Timurid and Mughal Empires, and the Kazakh, Uzbek, and Crimean Tatar Khanates, as well as touches upon important non-Chinggisid successor polities, such as Muscovy-Russia and Slavic Cossacks. Students explore the history and landscape geographies of the Mongol venture through fascinating primary sources and internet resources.",
+    "exclusions": "NMC274Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC276H1": {
+    "code": "NMC276H1",
+    "name": "Topics in Near & Middle Eastern Civilizations",
+    "hours": null,
+    "description": "Topics vary from year to year, depending on instructor.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "NMC277H1": {
+    "code": "NMC277H1",
+    "name": "Topics in Near & Middle Eastern Civilizations",
+    "hours": null,
+    "description": "Topics vary from year to year, depending on instructor.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "NMC278H1": {
+    "code": "NMC278H1",
+    "name": "Introduction to the Modern Middle East",
+    "hours": "24L/12T",
+    "description": "This course is an introduction to the modern history of the region commonly known as the Middle East, from the early-19th-century until the present. The course is designed to be an in-depth \"overview\" of central questions of geography itself: What is the region? How might we rethink its history through a focus on forms of sociality, economy, culture, and violence that extend well-beyond the limits of the \"Middle East\"? The course begins in the 19th-century, a period of state-building, intellectual revival, and global imperialism. We will focus on the Arab, Ottoman and Persian worlds to follow the processes of social and institutional reforms, militarization, capital expansion, and the refashioning of divine authority. Each week, we will focus on a particular theme such as imperial reform, sectarianism, colonialism, expert practices, resistance, the making of citizens, publics, subjects and cultural politics. The questions that frame the course, which proceeds chronologically, include: How did global forces and local dynamics coalesce to shape the politics of the modern Middle East? How might we understand the region\u2019s history from the 19th-century onward while integrating institutional, political, social, and cultural currents? How were global ideological trends woven together with local ideas about authority, identity, community and the state?",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC280H1": {
+    "code": "NMC280H1",
+    "name": "The Caliphate: Early Islamic History from Ancient Arabia to the Abbasid Empire",
+    "hours": "24L/12T",
+    "description": "The formative period of Islam, including the Prophet and origins of the caliphate. This course surveys the history of the Middle East and its religious, social, and political transformations between late antiquity and the medieval period, from roughly the 6th to the 10th century CE. Starting with the available evidence on pre-Islamic Arabs, we study the making of the Islamic empire from Spain to Central Asia, the early caliphates (Umayyads, Abbasids, and Fatimids), the emergence of competing traditions in Islam (Sunnis, Shi\u2018is, and Ibadis), and other developments of enduring significance. Particular attention is paid to primary sources and scholarly debates on the challenges of early Islamic historiography.",
+    "exclusions": "NMC273Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC281H1": {
+    "code": "NMC281H1",
+    "name": "Islamic History from the Crusades to Slave Sultans",
+    "hours": "24L/12T",
+    "description": "The medieval Islamic world from the decline of the early empire and the fall of Baghdad to the flourishing commonwealth during the lifetime of Ibn Khaldun. This course surveys key developments in religion, politics, and society across the Middle East from the 11th century up to the 15th century CE. Starting with the situation on the eve of the Crusades, we trace broader patterns in Islamic history through the emergence of various sultanates (including the dynasty of Salah al-Din Ayyubi and the Mamluks) as well as regional dynamics from North Africa and Spain in the West to Iran and India in the East.",
+    "exclusions": "NMC273Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC282H1": {
+    "code": "NMC282H1",
+    "name": "Medicine in the Medieval Islamic World",
+    "hours": "24S",
+    "description": "The course examines both the scientific and social history of medicine in the medieval Middle East. We will examine the history of Arabic medicine and its relation to Greek and Sanskrit traditions of medicine and pharmacology. We will also look at \u201cProphetic medicine,\u201d medical magic, pilgrimage healing sites, and folk practices, and how they interacted with the so-called \u201cmedicine of the physicians.\u201d We will consider how doctors from different religious groups perceived each other and were perceived by their patients, and how desperation for healing made people willing to cross social boundaries and seek out help from people of different religions, ethnicities, and genders. We will also examine the lives of some of the great physicians of medieval history.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 2.0,
+      "department": ""
+    }
+  },
+  "NMC284H1": {
+    "code": "NMC284H1",
+    "name": "Judaism and Feminism: Legal Issues from Menstruation to Ordination",
+    "hours": "24L",
+    "description": "Agitation for change exists in religious practice worldwide in areas of access, status, inclusion, and egalitarianism. Traditional religion is often in conflict with egalitarian modernity. This sometimes results in difficulties with religious identification. This course will explore the interaction between feminism and Judaism. We will examine how Jewish law (halakhah) sometimes conflicts with ideas of egalitarianism particularly in legal disabilities for women such as divorce, lack of access to high-level Torah study, and discrimination in public religious roles. The traditional exemption of women from the obligation of Torah study had great impact on women\u2019s religious responsibility and status. Various movements within Judaism competed in efforts to resolve these difficulties. In this course we will consider to what extent inclusion and egalitarianism have become complementary to traditional Judaism.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "NMC289H1": {
+    "code": "NMC289H1",
+    "name": "Introduction to Coptic Studies",
+    "hours": "24L",
+    "description": "Overview of the history of the Copts from political, religious, social and economic perspectives. Literary and documentary sources will illustrate these different aspects of Coptic Civilization. The focus on Coptic Monasticism will underline the role of monasteries as conservers of the Coptic Orthodox Church tradition.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "NMC290H0": {
+    "code": "NMC290H0",
+    "name": "Field Archaeology 1",
+    "hours": "24L/48P",
+    "description": "This course is designed as a general practicum in archaeological field methods. As a field course, emphasis will be placed on active participation in the ongoing research of the Gadachrili Gora Regional Archaeological Project Expedition (G.R.A.P.E.) in the Republic of Georgia or Life by the Imperial Roads Project in Romania. Students will receive extensive training in excavation methods, recording procedures, and the preliminary processing of artifacts. Lectures exploring the archaeology and culture of the region will supplement the primary focus on field experience. All students are eligible to participate. No prior field experience is necessary. Not eligible for CR/NCR option.",
+    "exclusions": "NMC261Y0",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "NMC291H0": {
+    "code": "NMC291H0",
+    "name": "Field Archaeology 2",
+    "hours": "24L/48P",
+    "description": "This course is designed as a continued practicum in archaeological field methods from NMC 290. As a second-level field course, continued emphasis will be placed on active participation in the ongoing research programs of the Gadachrili Gora Regional Archaeological Project Expedition (G.R.A.P.E.) in the Republic of Georgia or Life by the Imperial Roads Project in Romania. Students will receive additional training in archaeological excavation methodology, recording procedures, and the processing of samples and artifacts. Detailed lectures and presentations on archaeological method and theory as well as the archaeology and culture of the region will supplement the primary focus on field experience. All students are eligible to participate. No prior field experience is necessary. Not eligible for CR/NCR option.",
+    "exclusions": "NMC261Y0",
+    "breadth": 1,
+    "prereq_tree": "NMC290H0"
+  },
+  "NMC299H1": {
+    "code": "NMC299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "NMC299Y1": {
+    "code": "NMC299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "NMC308H1": {
+    "code": "NMC308H1",
+    "name": "Getting Justice: Women, Slaves, and Religious Minorities in the Courts in the Pre-modern Middle East",
+    "hours": "12L/12S",
+    "description": "Legal systems play an important role in the lives of vulnerable people. Courts both enforce laws which render people vulnerable in the first place and also help protect those same people from further harm. Because legal documents constitute our main source of information about the experiences of lower-status people, they are also important for historians of the Middle East. In this course, we use legal documents to learn about women, slaves, and non-Muslims. Students learn about women\u2019s personal and property rights, their roles as petitioners and witnesses, and the intersection of public legal appearances with modesty concerns. We examine how enslaved people accessed court systems, and how the law treated those who were considered both possessions of others and, at the same time, possessors of free will. Finally, we explore the dhimma system; the existence of separate, non-Muslim laws and courts; and the experiences of non-Muslims in Islamic courtrooms.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "NMC315H1": {
+    "code": "NMC315H1",
+    "name": "The Structure of Arabic Language",
+    "hours": "24L",
+    "description": "This course investigates formal properties of Arabic language. It provides students with an in-depth knowledge of the grammar of the language focussing on the areas of phonetics, phonology, morphology, syntax, and the interaction between phonology and morphology.",
+    "exclusions": "NML315H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "NML210Y1",
+        "LIN100Y1"
+      ]
+    }
+  },
+  "NMC316H1": {
+    "code": "NMC316H1",
+    "name": "Cultural Encounter in Arabic Narrative",
+    "hours": "36S",
+    "description": "This course examines historical and literary texts that narrate Muslim and Arab encounters with cultural difference. Students will read travel narratives, autobiographies, and fictional texts that chronicle encounters with the Arab-Islamic world\u2019s cultural \u201cothers.\u201d The course first examines travel narratives from the medieval Islamic period, including al-Sirafi\u2019s travels to India and China, and Ibn Fadlan\u2019s encounters with peoples inhabiting lands north of the Abbasid Empire, such as the Vikings. Students then consider how travel narratives in the modern period are transformed due to radical changes in the balance of power between Europe and the Middle East, first reading 19th-century travel narratives to Paris (al-Tahtawi), and then focusing on 20th-century texts that narrate the travels of Arab men and women to Europe and North America (Leila Ahmed, Sayyid Qutb, Nawal El Saadawi). Students will also read texts that depict encounters with non-Arabs within the modern Arab world, such as literary depictions of American oil workers in the Arab Gulf (Munif). All readings are in English translation.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 3.0,
+      "department": ""
+    }
+  },
+  "NMC330H1": {
+    "code": "NMC330H1",
+    "name": "King David: Musician, Monarch, or Murderer?",
+    "hours": "24L",
+    "description": "For many people, King David is one of the most beloved characters in the Bible. But where did our ideas about David come from? Was he a brilliant poet who wrote many of the Psalms, a youthful champion who defeated the giant Goliath or as a ruthless monarch capable of killing his political opponents? This course will explore attempts to reconstruct the historical David from various biblical texts, comparable ancient literature, and what historians know (and don\u2019t know) about the time in which his story is set. All readings will be in English. No knowledge of Hebrew is required.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "NMC331H1": {
+    "code": "NMC331H1",
+    "name": "Samson: Lover, Liar, lion-slayer",
+    "hours": "24L",
+    "description": "Over the centuries, Samson has captured the imagination of countless scholars, artists, and poets. Although often stereotyped as little more than a thoughtless strong man prone to violent outbursts, he is actually one of the most complex and enigmatic characters in the Bible. This course will explore biblical depictions of this often misunderstood figure and his complicated relationships with his family, his lovers, and his enemies. We will analyze his story within its ancient historical context and in some more recent interpretations. All readings will be in English. No knowledge of Hebrew is required.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "NMC340H1": {
+    "code": "NMC340H1",
+    "name": "History of Late Antique & Early Islamic Iran",
+    "hours": "24L",
+    "description": "The political, religious, and cultural history of greater Iran from Late Antiquity to the Mongol invasions in the early 13th century. The course surveys the reigns of the kings of the Sasanian empire (3rd\u20137th centuries); traces the progress of the Muslim Arab conquests in the mid-7th century that resulted in the Persian empire\u2019s collapse and the gradual Islamization of its population; and examines the subsequent formation of regional Iranian dynasties that were instrumental in the creation of a new Perso-Islamic cultural identity.",
+    "exclusions": "NMC348Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC341H1": {
+    "code": "NMC341H1",
+    "name": "Safavid Iran: Reign of the Shahs",
+    "hours": "24L",
+    "description": "The course focuses on the period of the Safavid dynasty (16th\u201318th centuries) which represented a watershed in the history of Iran not only because of its adoption and promotion of Shi\u2018ism as the state religion, but also on account of its fostering an imperial court culture that patronized the arts and architecture. The reigns of the Safavid shahs will be examined from the point of view of their political, religious, economic, and cultural history, as well as their relationship to the polities that immediately preceded them and their interactions with the contemporary Muslim states they neighboured, in particular, the Ottomans in the west and the Mughals in the east.",
+    "exclusions": "NMC348Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC342H1": {
+    "code": "NMC342H1",
+    "name": "History & Sources of Egyptian Monasticism",
+    "hours": "24L",
+    "description": "Presents an historical overview on the origins of Egyptian monasticism based on written sources. Comparison of written sources with archaeological artifacts reveals the relation between spiritual and material aspects of monastic life. Literary sources produced for different monastic orders -- such as sermons, canons and biographies -- will be studied.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC343H1": {
+    "code": "NMC343H1",
+    "name": "Farmers to Pyramid Builders: Cultural and Political History of Ancient Egypt I",
+    "hours": "24L/12T",
+    "description": "Exploration of the primary archaeological, architectural, and inscriptional sources, questioning and analyzing ideas about Egypt's development from farming communities at the dawn of history to an early state that built great pyramids for its kings, collapsed into civil war, and grew to become a colonizing power in the Middle Kingdom.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "credits": 5.0,
+          "department": "ANY"
+        },
+        {
+          "credits": 1.0,
+          "department": "NMC"
+        }
+      ]
+    }
+  },
+  "NMC344H1": {
+    "code": "NMC344H1",
+    "name": "Hyksos Subjects to Empire Builders: Cultural and Political History of Ancient Egypt II",
+    "hours": "24L/12T",
+    "description": "Exploration of the primary archaeological, architectural, and inscriptional sources, questioning interpretations and analyzing how Egypt confronted foreign domination and developed into a major empire in the New Kingdom under Thutmose III, Hatshepsut, Akhenaten, and Ramesses II, then fragmented politically in the Third Intermediate Period and ultimately became a colony itself.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "credits": 5.0,
+          "department": "ANY"
+        },
+        {
+          "credits": 1.0,
+          "department": "NMC"
+        }
+      ]
+    }
+  },
+  "NMC345H1": {
+    "code": "NMC345H1",
+    "name": "Nubian Archaeology",
+    "hours": "24S",
+    "description": "This course introduces students to the archaeology of ancient Nubia. For far too long, Nubia\u2019s rich archaeological past has been overlooked or interpreted through the lens of Egyptian sources. This course seeks to understand the archaeological past of the Nubian Nile Valley (and deserts) on its own terms. This course will proceed chronologically from the Neolithic through to the end of the Napatan period. Beyond learning about the development of Nubian archaeological cultures, this seminar will also introduce students to some of the most dynamic current scholarly debates in this vibrant field.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 2.0,
+      "department": ""
+    }
+  },
+  "NMC346H1": {
+    "code": "NMC346H1",
+    "name": "Ancient Mesopotamia I: Sumerians and Akkadians",
+    "hours": "24L",
+    "description": "The political and cultural history of the peoples of ancient South-Western Asia from 3000 BCE to the destruction of Babylon by the Hittites ca. 1600 BCE. (Offered in alternate years)",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 3.0,
+      "department": "HUM"
+    }
+  },
+  "NMC347H1": {
+    "code": "NMC347H1",
+    "name": "Ancient Mesopotamia II: Assyrians and Babylonians",
+    "hours": "24L",
+    "description": "This course traces the political development and cultural history of Mesopotamia, from the territorial states of the Late Bronze Age to the world\u2019s first empires in the 1st millennium BC, those of Assyria, Babylonia, and Achaemenid Persia. It also traces the subsequent history of Mesopotamia through the Seleucid and early Parthian eras, down to the end of cuneiform writing around the end of the 1st millennium BC. The course emphasizes the critical analysis of primary written sources (in translation) for reconstructing the history of the peoples of Mesopotamia. It also examines their achievements in literature, science and scholarship, and art and architecture.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 3.0,
+      "department": "HUM"
+    }
+  },
+  "NMC348H1": {
+    "code": "NMC348H1",
+    "name": "Kurdish Studies: A Critical Introduction",
+    "hours": "24S",
+    "description": "This is a 300-level course that will provide a holistic exploration of the multifaceted aspects of Kurdish life, delving deep into the vibrant traditions, struggles, and achievements of the Kurdish people. As we traverse through the diverse regions of Kurdistan and its diasporas, we will critically examine the current situations, challenges, and triumphs, offering an insightful perspective on a community that has played a significant role in the socio-political landscape of the Middle East. We will critically engage with classic and modern texts in Kurdish studies and examine them in the context of modern Middle East studies. We will aim to foster a deep understanding of the Kurdish identity and the complex forces that have shaped it.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.5,
+      "department": "NMC"
+    }
+  },
+  "NMC349H1": {
+    "code": "NMC349H1",
+    "name": "Climate and Collapse in the Ancient Near East",
+    "hours": "36S",
+    "description": "Discussions of climate change and its repercussions for modern society have become pervasive in the media and in general social discourse. The past offers a deep timescale within which to examine the plethora of ways in which humans have interacted with their environment and responded and adapted to climate variability in various periods. However, when we find stories about past civilizations and their relationship with their environment in the media, these are almost exclusively framed as stories of unavoidable collapse. Is this legitimate, or over-dramatic? What can we learn from past societies and how they adapted to ancient climate change\u2014or perhaps failed to do so? This course addresses the methods used to reconstruct past climate, the details of what we know about Near Eastern palaeoclimate, and the frameworks of collapse and resilience that are frequently employed in explaining episodes of rapid climate change in the Near East.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        "ARH100Y1",
+        "ARH205H1",
+        "NMC260H1",
+        "NMC262H1"
+      ]
+    }
+  },
+  "NMC350H1": {
+    "code": "NMC350H1",
+    "name": "Christian Literature from the Middle East in Translation",
+    "hours": "24L",
+    "description": "Survey of various literary genres from works produced by Armenian, Coptic, Maronite, Melkite, and Syriac authors between the 3rd and the 19th centuries CE. Genres include theology in poetry, biblical commentaries, historiography and chronicles, hagiography, songs and epics, apologetics, and travel accounts.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NMC270H1"
+  },
+  "NMC351H1": {
+    "code": "NMC351H1",
+    "name": "Dead Sea Scrolls",
+    "hours": "24L",
+    "description": "This course provides an examination of the historical and cultural context in which the Dead Sea Scrolls were authored and copied, the types of writings included in the Scrolls, and the ancient Jewish groups behind these texts. It also discusses the significance of the Scrolls for understanding the textual development of the Hebrew Bible, ancient scriptural interpretation, and the thought world of the Jews during the period that gave birth to both Rabbinic Judaism and early Christianity. No knowledge of Hebrew or Aramaic is required. (Offered alternate years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "NMC352H1": {
+    "code": "NMC352H1",
+    "name": "Ancient Egyptian Literature",
+    "hours": "24L",
+    "description": "This course focuses on the analysis of Ancient Egyptian literary texts from a variety of different genres. We will read examples of instructional and wisdom literature, poetry, literary narratives, and mythical tales. Issues such as how to best define terms like \u201cliterature\u201d or \u201cgenre\u201d for such an ancient culture will be discussed, and we will try to trace the development of literary texts in pharaonic Egypt\u2013from the earliest attestations of coherent prose in the tombs of the Egyptian Old Kingdom (around 2500 BCE), via the full-blown Late Egyptian narratives of the Ramesside Period (around 1200 BCE), to instances of reiterations of the older genres in the Late and Ptolemaic Periods (to about 300 BCE). No knowledge of Ancient Egyptian is required; all texts will be read in translation",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": ""
+    }
+  },
+  "NMC353H1": {
+    "code": "NMC353H1",
+    "name": "Possible Worlds: Arabic Speculative Fiction",
+    "hours": "24S",
+    "description": "This course examines the relationship between political critique and the textual production of \u201cpossible worlds\u201d distinct from the familiar, tangible world around us, taking the premodern Arabic literary canon as our example. We will read a variety of modern critical theorists in connection with premodern Arabic texts including: Qur\u2019anic apocalyptic suras, the philosophical novel Hayy ibn Yaqzan, Sindbad the Sailor and other travel narratives, al-Ma\u02bfarri\u2019s satirical narrative of a visit to the afterlife, and trickster tales of the maqama genre. We then turn to early modern popular narratives, concluding with a discussion of how the 19th-century novels by al-Muwaylihi and al-Shidyaq merged novelistic forms, selfhoods, and conceptions of political organization with those of the classical maqama.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": "HUM"
+    }
+  },
+  "NMC354H1": {
+    "code": "NMC354H1",
+    "name": "Abbasid Literature and the Sciences",
+    "hours": "24S",
+    "description": "This course examines Arabic literary works of the Abbasid empire (750-1258 CE) that engaged with the flourishing study of natural sciences, Greek philosophy, and the philosophies of language and knowledge in the Islamic sciences. Students will read narrative works by Ibn al-Muqaffa\u02bf, al-Jahiz, Ibn Qutayba, al-Tanukhi, al-Tawhidi, \u02bfAbd al-Latif al-Baghdadi, as well as poetry dealing with scientific and philosophical concepts. Students will ask how (and whether) Abbasid authors differentiated between the categories of literature, science, beauty, knowledge, and narrative, and how they imagined interactions between them. All readings are in English translation.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 2.0,
+      "department": ""
+    }
+  },
+  "NMC355H1": {
+    "code": "NMC355H1",
+    "name": "Ottoman Empire: The Age of Reform",
+    "hours": "24L",
+    "description": "The course examines the history of the Ottoman Empire beginning with the inauguration of the first Western-inspired reforms at the end of the 18th century until the empire\u2019s dissolution over the course of World War I. It explores the transformation of Ottoman politics, society, and intellectual and cultural life during a period marked by active reform efforts and increasing contacts with the West, which had an impact on the empire\u2019s diverse populations. Topics include the Nizam-i Cedid (New Order), the Tanzimat, the Hamidian era, the Young Turk revolution, constitutionalism, women, and the emergence of artistic expressions of modernity, such as theatre and painting. The course also provides insights into the Ottoman legacy in modern Turkey, the Middle East, and the Balkans, and seeks to situate the Ottoman experience in a global context.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "NMC356H1": {
+    "code": "NMC356H1",
+    "name": "Anthropology of Islam",
+    "hours": "24L",
+    "description": "This course introduces students to studies of contemporary Islam that are based on extensive periods of research with Muslim communities in their own languages using anthropological methods. What do such studies teach us about the varied ways Muslims engage with their religious tradition in the modern world? And how can such studies make us think differently about gender, economy, science, and secularism? We will discuss examples from Nigeria to Somalia, Egypt, Turkey, and Iran, to India, Pakistan, and Indonesia, to Canada, the US, and Europe. Students will apply anthropological methods learned in class to do research among a Muslim community in Toronto or online.",
+    "exclusions": "RLG355H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC357H1": {
+    "code": "NMC357H1",
+    "name": "Gender and Sexuality in Premodern Arabic Literature",
+    "hours": "24S",
+    "description": "Students read translations of Arabic literary texts composed by women or dealing with gender and sexuality. Class discussion considers debates in the field about how to analyze these texts in their historical context and in a theoretically grounded manner. Topics addressed include: popular and elite narrative representations of gender and sexuality; pre-Islamic and Abbasid poetry and remarks composed by women, and their transmission in male-authored anthologies; hetero- and homoerotic obscenity and eroticism in Arabic poetry, epistles, and scientific texts; and literary representations of sexual minorities like eunuchs, intersex people, and mukhannath\u016bn (people with apparently male biology who dressed and behaved as women, and had a specific social position at certain times).",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC358H1": {
+    "code": "NMC358H1",
+    "name": "Gender and Sexuality in Modern Middle Eastern Cultures",
+    "hours": "24L",
+    "description": "This course examines questions of gender and sexuality in the broader Middle East (Iran, Turkey, and the Arab world) from the colonial period (19th to early 20th centuries) to the present through readings of religious, cultural, historical, visual, and literary texts. We will begin the course by thinking critically about colonial and Orientalist legacies that continue to structure contemporary debates on representations of women, gender, and sexuality in the Middle East and North Africa. Students will read and analyze a range of primary historical texts written by Middle Eastern women reflecting the ways in which women of different backgrounds (religious, class, urban/rural) and generations have conceptualized and inhabited their gendered and sexual identities. Topics students will explore include the development of modern secular and religious feminist thought; cultural representations of gender, sexuality, and queerness; fictional texts that represent non-normative expressions of gender and sexuality; and critical approaches to theorizing gender and sexuality in the Middle East. All readings are in English translation.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 3.0,
+      "department": "HUM"
+    }
+  },
+  "NMC359H1": {
+    "code": "NMC359H1",
+    "name": "Nomads in the Ancient Near East",
+    "hours": "24L",
+    "description": "Using ancient archaeological and textual sources as well as modern ethnographies and political theories, this class takes a critical look at the role of mobile populations in Near Eastern history from the fourth to first millennium BCE, assessing modern perspectives as well as the ancient evidence.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC360H1": {
+    "code": "NMC360H1",
+    "name": "The Archaeology of the Biblical World I: The Bronze Age",
+    "hours": "24L",
+    "description": "The archaeology of Syria-Palestine from prehistoric times until the end of the Late Bronze Age (ca. 1200 BCE), with a special emphasis on the development of complex society, and inter-relations with the neighboring regions of Egypt and Syro-Mesopotamia. Attention will also be given to the history of archaeological research in the region, current field techniques and methods of archaeological analysis, and the relationship between archaeological evidence and contemporary written records, including the Hebrew Bible.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "HUM"
+    }
+  },
+  "NMC361H1": {
+    "code": "NMC361H1",
+    "name": "The Archaeology of the Biblical World II: The Iron Age",
+    "hours": "24L",
+    "description": "The archaeology of Syria-Palestine from the collapse of the Late Bronze Age until the Persian Period, with a special emphasis on the emergence of Israel and the small territorial nation-states of the eastern Mediterranean seaboard. Particular attention will be given to the relationship between the archaeological evidence and contemporary written records, including the Hebrew Bible.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "HUM"
+    }
+  },
+  "NMC362H1": {
+    "code": "NMC362H1",
+    "name": "The World of the Last Pharaohs: History, Culture, and Society in Graeco-Roman Egypt",
+    "hours": "24L/12T",
+    "description": "Graeco-Roman Egypt is one of the best-documented ancient societies, affording us unparalleled opportunities to reconstruct the lives and thoughts of the people living along the two banks of the Nile at the time. The course provides a holistic view of Egypt from the conquest of Alexander in the 4th century BCE, until the 3rd century CE. In addition to a chronological overview of the region\u2019s political history, topics include religion and religious change, multiculturalism, intellectual, social and economic history, and the impact of foreign domination on everyday life. The course also examines how Egypt\u2019s incorporation into ancient Mediterranean empires affected these realms. Both written sources in Greek and Egyptian (in translation) and material culture \u2013 archaeology, art, and architecture \u2013 are studied to understand Egyptian society in the Graeco-Roman period. One of the goals of the course is to provide students with a foundational understanding of historiographical practices. This includes how combining critical thinking and different approaches to writing history with various sources can yield a more nuanced and balanced view of one of the most significant and richly recorded regions of the ancient world.",
+    "exclusions": "CLAC05H3 and  HISC10H3",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 2.0,
+      "department": ""
+    }
+  },
+  "NMC364H1": {
+    "code": "NMC364H1",
+    "name": "Art and Archaeology of Syria",
+    "hours": "36S",
+    "description": "Discover the wonders of Syria\u2019s past, from 10,000 year-old burials to the world heritage sites of Palmyra and the Citadel of Aleppo. Explore headless skeletons, royal marriages, desert castles and Roman streetscapes.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 3.0,
+      "department": "ANY"
+    }
+  },
+  "NMC365H1": {
+    "code": "NMC365H1",
+    "name": "Women and Gender in Egyptian Archaeology",
+    "hours": "36S",
+    "description": "The course explores issues related to gender within the ancient Egyptian context and investigates the activities of women through the study of many different kinds of archaeological and material evidence. We'll build a foundation for this work with an overview of current developments in gender theory and consider their applications for research on ancient Egyptian society and culture. No prior knowledge of theoretical approaches is expected. From this basis, we'll go on to consider how archaeological material can contribute to the understanding of gender roles and examine how excavators may unconsciously impose their own gender perspectives on ancient contexts, creating biased views of ancient societies that become entrenched in scholarly tradition. The same methods of critical analysis will inform our study of women in ancient Egypt, incorporating archaeological data and artifactual material that can inform our understanding of the complex roles that women played in Egyptian culture, society, and religious practice.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 3.0,
+      "department": ""
+    }
+  },
+  "NMC366H1": {
+    "code": "NMC366H1",
+    "name": "Archaeology of Mesopotamia I: Rise of Civilization",
+    "hours": "36L",
+    "description": "A comprehensive survey class on the archaeology of Mesopotamia during prehistoric periods (10,000 \u2013 2300 BC), covering the rise of villages, the Agricultural Revolution, the development of cities, cultic centers, and complex bureaucracy, and the rise of state entities during the Neolithic, Chalcolithic and Early Bronze Ages. This class will focus on the area of modern-day Iraq but will also consult materials from western Iran, eastern Syria, and southeastern Turkey.",
+    "exclusions": "NMC363H1",
+    "breadth": 3,
+    "prereq_tree": "NMC102H1"
+  },
+  "NMC367H1": {
+    "code": "NMC367H1",
+    "name": "Archaeology & Architecture of Egyptian Monasticism",
+    "hours": "24L",
+    "description": "Underlines the role of some Egyptian monasteries as active institutions carrying out numerous economic activities, and reveals the forces that enabled their survival and changing function. Exploration of these rich sites of cultural exchange, as manifested in their architecture and religious art and written material.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  }
+}

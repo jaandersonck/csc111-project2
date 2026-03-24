@@ -1,0 +1,1035 @@
+{
+  "SAS318H1": {
+    "code": "SAS318H1",
+    "name": "Colonialism and Tradition",
+    "hours": "24L",
+    "description": "This course analyzes the impact of colonialism in South Asia and the various ways in which tradition intersects with and has reshaped colonialism in postcolonial South Asia. The course will examine the role of religion, education, ethnicity, gender, and caste. Some attention will be paid to postcolonial and indigenous theory.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "SAS390H1": {
+    "code": "SAS390H1",
+    "name": "Special Topics in South Asian Studies",
+    "hours": "24L",
+    "description": "Course content varies in accordance with the interest of the instructor.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "SAS114H1",
+        {
+          "credits": 9.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "SAS490H1": {
+    "code": "SAS490H1",
+    "name": "Special Topics in South Asian Studies",
+    "hours": "24S",
+    "description": "Course content varies in accordance with the interest of the instructor. Please check the Arts & Science timetable for an updated title and description.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "SDS199H1": {
+    "code": "SDS199H1",
+    "name": "Sexuality at the Intersections",
+    "hours": "24L",
+    "description": "This First-Year Foundations seminar will explore sexuality at the intersections of race, gender, class, disability, citizenship status, and geography, among other social relations and processes as a foundational practice in Sexual Diversity Studies. In an intimate seminar setting, students will develop reading, writing, and presentation skills necessary for engaging in Sexual Diversity Studies across a wide array of disciplinary traditions.\u00a0Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "SDS246H1": {
+    "code": "SDS246H1",
+    "name": "Queer Digital Media Studies",
+    "hours": "24L",
+    "description": "What does sexuality have to do with digital technologies and cultures? What could queer theory tell us about digital archives, data infrastructure, and histories of technology? How do race and sexuality shape our experiences of digital cultures and what do the histories of colonialism have to do with digital design and networks? This course considers queer and feminist perspectives and approaches to the study of digital media including social networks, digital archives, data infrastructures, participatory media, and digital activism. Drawing from queer digital studies, feminist media studies, digital humanities, Indigenous and postcolonial data studies, this course asks how the politics of sexuality, race, and gender shape our digital lives in the 21st century.",
+    "exclusions": "SDS346H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SDS255H1": {
+    "code": "SDS255H1",
+    "name": "Histories of Sexuality",
+    "hours": "24L/12T",
+    "description": "An interdisciplinary examination of sexuality across cultures and periods. How are sexualities represented? How are they suppressed or celebrated? How and why are they labeled as straight, gay, lesbian, bisexual, queer, or perverse? How do sexualities change with race/ethnicity, class, gender, and geographies?",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "SDS256H1": {
+    "code": "SDS256H1",
+    "name": "Methods in Queer and Trans Studies",
+    "hours": "36L",
+    "description": "This course examines a variety of methodological approaches used in humanities and humanist social sciences concerning sexuality and gendered diversity. Students will explore some of the popular methods in sexuality studies including ethnography, archival research, visual cultural studies, oral history, and media and discourse analysis.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "SDS279H1": {
+    "code": "SDS279H1",
+    "name": "Queer Popular Culture",
+    "hours": "24L",
+    "description": "This introductory course examines the critical relationship between popular culture and queer sexualities in historical and contemporary contexts. The course will draw upon literature from performance studies, media studies, and queer of colour cultural productions. Students will engage with a range of queer public cultures and arts, including drag performance, queer musics, social media networks, and popular media.",
+    "exclusions": "SDS379H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SDS345H1": {
+    "code": "SDS345H1",
+    "name": "Sex and the Epidemic: Social Work, HIV, and Human Sexuality",
+    "hours": "36L",
+    "description": "HIV has forever changed the way human beings understand sexuality. Through a social justice lens, this course examines the nature of community norms, laws, popular media, and the academy to explore how the epidemic has impacted the provision of social services in relation to the diversity of human sexuality.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": "SDS"
+    }
+  },
+  "SDS355H1": {
+    "code": "SDS355H1",
+    "name": "Theories of Sexuality",
+    "hours": "24L",
+    "description": "This course introduces students to key theories of sexuality and sexual diversity. The main goal is to create a framework for understanding sexuality at its intersections with race, gender, class, disability, citizenship status, and geography among other social relations and processes at an advanced level. Closely tracing sexuality\u2019s intersections, course readings will draw upon critical race theory, postcolonial critique and decolonizing movements, women of colour feminisms, trans studies, and transnational sexuality and gender studies.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "SDS365H1": {
+    "code": "SDS365H1",
+    "name": "Sexuality and Law",
+    "hours": "24L",
+    "description": "The course explores the legal regulation of sexuality. How does law understand, constitute and regulate sex, sexuality and sexual diversity? It will consider the role of different types of regulation, including criminal law, family law and constitutional law, and explore issues ranging from sex work and pornography to same sex marriage to transgender discrimination.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": "SDS"
+    }
+  },
+  "SDS375H1": {
+    "code": "SDS375H1",
+    "name": "Special Topics in Sexual Diversity Studies A",
+    "hours": "24L",
+    "description": "Topics vary from year to year depending on instructor. This seminar is intended to expose students in the Sexual Diversity Studies program to topics that may not be covered by permanent university courses.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": "SDS"
+    }
+  },
+  "SDS376H1": {
+    "code": "SDS376H1",
+    "name": "Special Topics in Sexual Diversity Studies B",
+    "hours": "24L",
+    "description": "Topics vary from year to year depending on instructor. This seminar is intended to expose students in the Sexual Diversity Studies program to topics that may not be covered by permanent university courses.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": "SDS"
+    }
+  },
+  "SDS377H1": {
+    "code": "SDS377H1",
+    "name": "Lesbian Studies: Identity/Theory/Culture",
+    "hours": "36L",
+    "description": "This multidisciplinary course examines multiple lesbian identities that have varied in time and place. The course will pose such questions as: What does lesbian mean? Why have changes occurred in meaning? How has the identity of lesbian been culturally represented and politically expressed in various social and political contexts? It will also take up contemporary theoretical, cultural, and political understandings of lesbianism.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": "SDS"
+    }
+  },
+  "SDS378H1": {
+    "code": "SDS378H1",
+    "name": "Queer Youth Studies in Education",
+    "hours": "24L",
+    "description": "Experiences of queer youth are explored in various education settings through academic research, personal essays, and visual and performing arts to investigate how queer youth define themselves, what they are learning, the curriculum and pedagogy used in the learning process and the possibilities of said learning for social change, individual and community well-being.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": "SDS"
+    }
+  },
+  "SDS380H1": {
+    "code": "SDS380H1",
+    "name": "Sexual Diversity in Transnational Perspective",
+    "hours": "24L",
+    "description": "An exploration of LGBTQ rights and changes in social and cultural responses to sexual diversity in varied regional, national, and cultural contexts, potentially including Africa, Latin America, South and East Asia, and Eastern Europe. The role of transnational linkages and networks will also be considered in effecting change.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": "SDS"
+    }
+  },
+  "SDS381H1": {
+    "code": "SDS381H1",
+    "name": "Intro to Trans Studies",
+    "hours": "24L",
+    "description": "This course examines current and historical transgender issues by exploring legal and health care issues, politics, mainstream and other media representations (including films, interviews, and other genres), as well as current and historical advocacy and community work in relation to power structures such as the nation-state, race, disability, and sexuality.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": ""
+    }
+  },
+  "SDS382H1": {
+    "code": "SDS382H1",
+    "name": "Intro to Queer of Colour Critique",
+    "hours": "24L",
+    "description": "This course provides an introduction to the intersections between race, gender and sexuality through an exploration of the political theories, activisms and cultural forms of LGBTQ people of colour. It examines the emergence of queer of colour theory and critiques, and the ways in which the intersections of race, gender and sexuality figure in national, global, economic, & cultural structures.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": "SDS"
+    }
+  },
+  "SDS385H1": {
+    "code": "SDS385H1",
+    "name": "Queer Indigenous Politics and Cultures",
+    "hours": "24L",
+    "description": "This upper level course introduces students to questions of gender, sexuality, two-spirit, and same-sex desire at the intersections of race, indigeneity, and the violences of settler colonialism. Students will engage with work by scholars, activists, and artists in the fields of indigenous and queer studies, decolonizing activism, and cultural production.",
+    "exclusions": "SDS375H1 (Special Topics in Sexual Diversity Studies A: Indigeneity & Sexuality), offered in Winter 2019",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": "SDS"
+    }
+  },
+  "SDS425H1": {
+    "code": "SDS425H1",
+    "name": "Sexuality & Health",
+    "hours": "24S",
+    "description": "How is the idea of \u201cethics\u201d understood and deployed in research on sexuality and health? What are the ways that discourses of \u201crisk,\u201d \u201cprecarity,\u201d and \u201ccure\u201d become regulative frameworks? How do racialization, colonialism and nation-\u00adbuilding participate in the biopolitics of sexuality and health? With these questions in mind, this interdisciplinary course will discuss various scholarly and activist literatures, including Youth Studies, Critical Disability Studies, Environmental Justice scholarship, Sex Education and Public Health Research, Critical Development Studies, and Queer and Feminist Studies to explore the cultural, social and political dimensions of ethics, health, and sexuality historically, and at the present moment.",
+    "exclusions": "SDS375H1 (Special Topics in Sexual Diversity Studies A: Sexuality & Health), offered in Winter 2018;  SDS455H1 (Special Topics in Sexual Diversity Studies: Sexuality & Health), offered in Winter 2019",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SDS"
+    }
+  },
+  "SDS455H1": {
+    "code": "SDS455H1",
+    "name": "Special Topics in Sexual Diversity Studies",
+    "hours": "24S",
+    "description": "Topics vary from year to year depending on instructor. This seminar is intended to expose students in the Sexual Diversity Studies program to topics that may not be covered by permanent university courses.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SDS"
+    }
+  },
+  "SDS458H1": {
+    "code": "SDS458H1",
+    "name": "Research Essay in Sexual Diversity",
+    "hours": "24S",
+    "description": "A research essay under the supervision of a faculty member with knowledge of sexual diversity, the proposal and supervisor subject to the approval of the SDS Undergraduate Coordinator. This course is available to students enrolled in Sexual Diversity Studies programs (Specialists, Majors, and Minors). Not eligible for CR/NCR option. Students must submit a supplemental application one month prior to the start of term: August 01 for courses starting in the Fall term, December 01 for courses starting in the Winter term, and April 01 for courses in the Summer term. The application must describe the student's planned independent research project, supervisor, prospective readings, timeline, and method(s) of assessment. Students are responsible for finding their own supervisor. Both the supervisor and SDS Undergraduate Coordinator or Director must approve the application. Applications will be reviewed to assess the intended research plan and timeline, and the suitability of the project for SDS credit. Please visit https://sds.utoronto.ca/courses/ and email sexual.diversity@utoronto.ca for application materials and more information.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "SDS255H1",
+        "SDS256H1"
+      ]
+    }
+  },
+  "SDS459Y1": {
+    "code": "SDS459Y1",
+    "name": "Honours Essay in Sexual Diversity",
+    "hours": "48S",
+    "description": "A major research essay under the supervision of a faculty member with knowledge of sexual diversity, the proposal and supervisor subject to the approval of the SDS Undergraduate Coordinator. This course is available to students enrolled in Sexual Diversity Studies programs (Specialists, Majors, and Minors). Not eligible for CR/NCR option. Students must submit a supplemental application at least one month prior to the start of term: August 01 for courses starting in the Fall term, December 01 for courses starting in the Winter term, and April 01 for courses in the Summer term. The application must describe the student's planned independent research project, supervisor, prospective readings, timeline, and method(s) of assessment. Students are responsible for finding their own supervisor. Both the supervisor and SDS Undergraduate Coordinator or Director must approve the application. Applications will be reviewed to assess the intended research plan and timeline, and the suitability of the project for SDS credit. Please visit https://sds.utoronto.ca/courses/ and email sexual.diversity@utoronto.ca for application materials and more information.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "SDS255H1",
+        "SDS256H1"
+      ]
+    }
+  },
+  "SDS460Y1": {
+    "code": "SDS460Y1",
+    "name": "Advanced Research in Sexual Diversity Studies",
+    "hours": "24S",
+    "description": "A capstone for majors and specialists who will work closely with SDS faculty in developing their own research project while participating in this seminar and learning about key debates, methodologies, and ethical issues in conducting research in SDS. Students will learn to write proposals, ethics reviews, grants and other relevant documents. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SDS"
+    }
+  },
+  "SDS465H1": {
+    "code": "SDS465H1",
+    "name": "Queer Migrations and Refugee Politics",
+    "hours": "24S",
+    "description": "This interdisciplinary course will explore the politics of migration and border-crossing from queer, feminist, and trans perspectives. Drawing upon contemporary North American and transnational research, students will engage with critical literatures on citizenship and the state, mobility, belonging, and kinship and how these processes intersect with sexuality in the context of immigration and refugee systems.",
+    "exclusions": "SDS455H1 (Special Topics in Sexual Diversity Studies: Queer Migrations and Refugee Politics), offered in Fall 2018",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SDS"
+    }
+  },
+  "SDS470H1": {
+    "code": "SDS470H1",
+    "name": "Critical Approaches in Porn Studies",
+    "hours": "24S",
+    "description": "This course is a critical study of the historical, aesthetic, material, technical, legal, and cultural formation of the concept of pornography. The course explores the relationship between sexual representation, sex work, visual cultures, consumption, distribution, and format; works through debates about artistic merit and censorship and how they relate to larger issues of power, capitalism, and technology; and theorizes the relationship between sex and commerce. Readings will emphasize work by sex workers and feminist, queer, people of colour, and trans scholars.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SDS"
+    }
+  },
+  "SDS478H1": {
+    "code": "SDS478H1",
+    "name": "Queer Musics",
+    "hours": "24S",
+    "description": "This course explores, through queer of colour critique, feminist and queer theories, how sexuality, gender, and race are performed and heard in several popular music styles/genres. Sampling the field with readings, music videos and audio recordings, we examine sexuality, gender and race in music performance and reception currently and historically.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SDS"
+    }
+  },
+  "SDS485H1": {
+    "code": "SDS485H1",
+    "name": "Advanced Seminar in Queer Studies",
+    "hours": "24S",
+    "description": "This course will provide an advanced exploration of the historical and contemporary formations and debates of queer studies. This seminar is designed to provide students with the opportunity to practice their skills of research and interpretation at a particularly advanced level. The specific theme of the seminar changes per year. Please see the department website for details.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "SDS490Y1": {
+    "code": "SDS490Y1",
+    "name": "Engaging Our Communities",
+    "hours": "48S",
+    "description": "A service learning course with student placements in various LGBT community organizations alongside regular classroom seminars to look at the politics of engagement, active citizenship, mobilization, archiving community histories, accessibility, belonging, activism, and philanthropy. For students in the Sexual Diversity Studies Major or Specialist.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SDS255H1",
+        {
+          "operator": "AND",
+          "items": [
+            "SDS256H1",
+            {
+              "credits": 1.0,
+              "department": "SDS"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "SLA100H1": {
+    "code": "SLA100H1",
+    "name": "Elementary Russian I",
+    "hours": "60P",
+    "description": "Basic features of the grammar. Acquisition of essential vocabulary for practical conversation and for comprehension. Development of reading and writing skills. (May not be taken by students who, in the judgment of the Department, qualify for entry into  SLA210H1 or  SLA220Y1).",
+    "exclusions": "native speakers of Russian and heritage speakers of Russian (unless permitted by the instructor).",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA101H1": {
+    "code": "SLA101H1",
+    "name": "Elementary Russian II",
+    "hours": "60P",
+    "description": "Basic features of the grammar. Acquisition of essential vocabulary for practical conversation and for comprehension. Development of reading and writing skills. (May not be taken by students who, in the judgment of the Department, qualify for entry into  SLA210H1 or  SLA220Y1).",
+    "exclusions": "native speakers of Russian and heritage speakers of Russian (unless permitted by the instructor).",
+    "breadth": 1,
+    "prereq_tree": "SLA100H1"
+  },
+  "SLA104H1": {
+    "code": "SLA104H1",
+    "name": "Cities of the Mediterranean",
+    "hours": "24L",
+    "description": "This course examines the cultural history of Mediterranean ports and cities, with particular emphasis on Croatian cities in dialogue with cities in Italy and Greece, through works of art, architecture, and literature. Readings in English.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA105Y1": {
+    "code": "SLA105Y1",
+    "name": "Elementary Czech",
+    "hours": "96P",
+    "description": "Grammar, composition, and conversation. Readings from Czech literature. Open only to students with little or no knowledge of the language.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA106H1": {
+    "code": "SLA106H1",
+    "name": "Polish for Beginners I",
+    "hours": "24L/24P",
+    "description": "The course is aimed at a wide range of students with a general interest in Polish but no prior knowledge. A communicative based approach will be used throughout the course, where all four skills (speaking, reading, listening, and writing) will be practised, with the main emphasis on speaking. Students will engage in interactive language activities, participating in group and pair work according to a syllabus based on systematic grammatical progression.",
+    "exclusions": "SLA106Y1,  SLA116H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA108Y1": {
+    "code": "SLA108Y1",
+    "name": "Elementary Ukrainian",
+    "hours": "96P",
+    "description": "Basic vocabulary and grammar for practical conversation and comprehension. Emphasis on communication. Development of reading and writing skills. Introduction to Ukrainian culture, history, and society through guided exposure to popular culture and media. Internet language modules complement in-class learning. Intended for students with little or no knowledge of the language.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA109Y1": {
+    "code": "SLA109Y1",
+    "name": "Elementary Macedonian",
+    "hours": "96P",
+    "description": "The basic features of the grammar of the Macedonian literary language. Acquisition of essential vocabulary for practical conversation and for comprehension. Development of reading and writing skills. Open only to students with little or no knowledge of the literary language. (Offered in alternate years).",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA116H1": {
+    "code": "SLA116H1",
+    "name": "Polish for Beginners II",
+    "hours": "24L/24P",
+    "description": "The course is aimed at a wide range of students with a general interest in Polish who have already completed SLA106H or who have comparable basic knowledge of Pol. A communicative based approach will be used throughout the course, where all four skills (speaking, reading, listening, and writing) will be practised, with the main emphasis on speaking. Students will engage in interactive language activities, participating in group and pair work according to a syllabus based on systematic grammatical progression.",
+    "exclusions": "SLA106Y1",
+    "breadth": 1,
+    "prereq_tree": "SLA106H1"
+  },
+  "SLA117H1": {
+    "code": "SLA117H1",
+    "name": "Elementary Bosnian, Croatian, and Serbian I",
+    "hours": "48P",
+    "description": "Basic features of the grammar. Acquisition of essential vocabulary for practical conversation and for comprehension. Development of reading and writing skills. May not be taken by students who, in the judgment of the Department, qualify for entry into Elementary BCS II,  SLA257H1 or  SLA277H1.",
+    "exclusions": "SLA107Y1, native speakers of BCS (unless permitted by the instructor)",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA118H1": {
+    "code": "SLA118H1",
+    "name": "Elementary Bosnian, Croatian, and Serbian II",
+    "hours": "48P",
+    "description": "Basic features of the grammar. Acquisition of essential vocabulary for practical conversation and for comprehension. Development of reading and writing skills. May not be taken by students who, in the judgment of the Department, qualify for entry into  SLA257H1 or  SLA277H1.",
+    "exclusions": "SLA107Y1, native speakers of BCS and heritage speakers of BCS (unless permitted by the instructor).",
+    "breadth": 1,
+    "prereq_tree": "SLA117H1"
+  },
+  "SLA121H1": {
+    "code": "SLA121H1",
+    "name": "Russian Cultural History in Twelve Images",
+    "hours": "24L",
+    "description": "Russian Cultural History in Twelve Images An introductory survey of Russian cultural history through key images, exploring the historical, intellectual, artistic, and mythical significance of these images in Russian cultural identity and in foreign perceptions. Among the images are: Rublev\u2019s \u201cTrinity,\u201d The Bronze Horseman, the Cathedral of Christ the Savior, and Tatlin\u2019s Tower. Taught in English, readings in English. No prior familiarity with Russian language or culture is expected.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA190H1": {
+    "code": "SLA190H1",
+    "name": "Losing It",
+    "hours": "24S",
+    "description": "How does one cope with loss, be it a nose, a leg, a pet, a name, a lover, a battle, a fortune, or one\u2019s sanity? Through literary texts from Central and Eastern Europe, we explore the trauma and poetics of losing, and the mechanisms of coping with and compensating for the lost object. Taught in English, all readings in English. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": "SLA201H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA191H1": {
+    "code": "SLA191H1",
+    "name": "The Criminal Mind",
+    "hours": "24S",
+    "description": "In the mid-nineteenth century, European and American fiction became obsessed with the subject of criminals. This course examines this preoccupation and its literary and social ramifications. We discuss the changing image of the criminal in British, French, Russian and American fiction. Readings by Dickens, Dostoevsky, Balzac, Zola, Poe, Stevenson and Lombroso. Reading and discussion in English. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA192H1": {
+    "code": "SLA192H1",
+    "name": "On the Road in Eastern Europe",
+    "hours": "24S",
+    "description": "This course examines the function of travel within texts and films depicting journeys through Eastern Europe. We will distinguish various types of journeys, the narrative and cultural expectations they imply, and the ways that travel relates to individual identity, raising questions about nationality, race, gender, sexuality, and the Other. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA193H1": {
+    "code": "SLA193H1",
+    "name": "Objects of War",
+    "hours": "24L",
+    "description": "An object or a thing always has a collective history. It speaks of the political and the social conditions under which it was made. In this course, objects of war \u2013 the material culture of conflict \u2013 from the 20th and 21st centuries will be critically and historically examined. How do these objects speak of violence, politics, and culture, but also rewrite and influence the arenas within which they circulate? Some objects include: canned food, drones, the journalists\u2019 hotel, helmets, tents. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA194H1": {
+    "code": "SLA194H1",
+    "name": "Utopia Interrupted: Late and Post-Soviet Russian Literature",
+    "hours": "24S",
+    "description": "Almost 30 years after the collapse of the Soviet Union, what can we understand about its culture and people, and its impact on the popular imagination in the West? To answer these questions, the course introduces students to canonical literary and cinematic works from the post-Stalin era to the present, with particular attention to the literary and cultural peripheries. Some of the topics will include: Gulag, or Return of the Repressed, Counter-Culture, Space Race, Immigration, Gender, Perestroika, and Putin\u2019s Russia. All readings in English. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA195H1": {
+    "code": "SLA195H1",
+    "name": "Literature and Painting in Russia and the West",
+    "hours": "24S",
+    "description": "What makes literature \u2018visible\u2019? How do the verbal and the visual coexist? This seminar explores the relationship between words and images, texts and pictures through history, in Russia and the West. Special attention will be paid to the figure of the artist. Is it a writer\u2019s alter ego, the incarnation of creativity, or just a character among others? Literary texts (mainly short stories) from Balzac and Gogol to Chekhov and O. Henry, Maugham and Bunin, Nabokov and Camus will be studied along with the paintings of some major 19th-20th century artists. The comparative dimension of the course will help students contextualize Russian literature and think about its relationship with the Western canon. We will also watch some 21st century films about artists (such as Julie Taymor\u2019s Frida [2002], Milos Forman Goya\u2019s Ghosts [2006], and Mike Leigh Mr. Turner [2014]). All texts will be in English. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA196H1": {
+    "code": "SLA196H1",
+    "name": "Russia at War",
+    "hours": "24S",
+    "description": "In its long history Russia has fought numerous wars, both defensive and offensive, and these wars have inspired a rich, complex, contradictory poetic response. We examine Russian war narratives starting with the medieval period and ending with the Second World War and including epic poetry, songs, stories, novels, paintings, and films. We will study the depiction of war and the image of the soldier (or warrior) in different genres and time periods, as well as the historical circumstances in which the different works were produced and the respective audiences for which they were intended. All texts will be in English. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA197H1": {
+    "code": "SLA197H1",
+    "name": "The Imaginary Jew",
+    "hours": "24S",
+    "description": "The course examines the genesis and evolution of the image of the Jew, central to all European cultures, from the theology and psychology of Christian anti-Judaism to their reflection in folklore, visual, plastic, and verbal arts, and to the survival of the imaginary Jew in secular forms. Special attention is given to the Jews of Slavic and East European imagination. All readings are in English. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA198H1": {
+    "code": "SLA198H1",
+    "name": "The Slavic Grecian Formula: From Ancient Rhapsode to Modern Slav Song",
+    "hours": "24S",
+    "description": "Slav singers of heroic tales about war, lust, honour and revenge have made a special contribution to our appreciation of classical literature and mythology. We will compare Slavic epics and African-American rap songs to reveal the connection between Homer's Iliad and Nas's iconic Illmatic, between the mythical image of the pagan goddess Aphrodite and the mystique of Nicki Minaj, Lauryn Hill, and other iconic singers today. As we read The Iliad closely, we will study songs from the Russian, Bosnian Muslim, Croatian and Serbian traditions. Employing new performance formulaic theory, we will learn that they share much, in melody and message, with the work of today's hip-hop artists, whose roots of rap \"flowing\" reach back to the beginnings of Western literature and the epic singers of ancient Greece. Students will have the opportunity to interact with a unique online multimedia edition of an epic song by a traditional Slavic singer. No knowledge of languages other than English is required. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA199H1": {
+    "code": "SLA199H1",
+    "name": "Invisible Kingdom, Imaginary Space",
+    "hours": "24S",
+    "description": "The Central European Region of Galicia gave rise to a remarkable array of literary representations -- Austrian, Jewish, Polish, and Ukrainian -- animating fantastic creatures, powerful myths, deviant pleasures, and sublime stories. Bruno Schulz created shimmering peacocks, Leopold von Sacher-Masoch seized ecstasy through pain, and Ivan Franko investigated the effects of avarice and social decay. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA200H1": {
+    "code": "SLA200H1",
+    "name": "Culture and Politics in Europe",
+    "hours": "24L",
+    "description": "Introduction to the issues of the interaction between cultural expression and political life in modern Slavic and Baltic cultures. The mutually influential relationship between artistic activity and political dynamics in modern societies is examined through literature, visual arts, drama, music, and film in Central and Eastern Europe. Taught in English, all materials in English.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "SLA201H1": {
+    "code": "SLA201H1",
+    "name": "Slavic and East European Civilizations",
+    "hours": "24L",
+    "description": "A survey of Slavic and East European civilizations through literature, art, architecture, and film. Key moments in the development of the cultures of Slavic and Baltic countries are examined in a comparative framework, juxtaposing the varied historical, cultural, linguistic, religious, social, and political developments of the countries involved. Taught in English, all readings in English.",
+    "exclusions": "SLA103H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA202H1": {
+    "code": "SLA202H1",
+    "name": "Jewish Communities in Slavic Countries",
+    "hours": "24L",
+    "description": "Literature about the Jewish community in Slavic countries. How do these Jewish minorities perceive and identify themselves? How are they perceived by others? Taught in English, all readings in English.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "SLA203H1": {
+    "code": "SLA203H1",
+    "name": "Faking It",
+    "hours": "24L",
+    "description": "The role of forgery in cultural, national, and personal identities. A scholar \u201cdiscovering\u201d an \u201cancient\u201d manuscript, a noblewoman in disguise joining the army, an impostor conning a provincial town, a writer faking political loyalty. Literary texts from Central and Eastern Europe expose the porous boundaries between authenticity and lies, highlighting the artificiality and vulnerability of social and cultural conventions. Taught in English, all readings in English.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA204Y1": {
+    "code": "SLA204Y1",
+    "name": "Intermediate Czech",
+    "hours": "96P",
+    "description": "Using selected texts of diverse styles, this class surveys Czech grammar and introduces various aspects of syntax, composition and translation. Special attention will be paid to oral practice.",
+    "exclusions": "SLA205H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA206H1": {
+    "code": "SLA206H1",
+    "name": "Intermediate Polish I",
+    "hours": "12L/36P",
+    "description": "Students who completed  SLA106H1 and  SLA116H1 or who have comparable basic knowledge of Polish further develop their speaking, listening, reading and writing skills by revising, consolidating and building on their knowledge. Upon completion, they will be able to communicate in more advanced everyday situations and have substantial familiarity with Polish grammar.",
+    "exclusions": "SLA206Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SLA106Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "SLA106H1",
+            "SLA116H1"
+          ]
+        }
+      ]
+    }
+  },
+  "SLA207H1": {
+    "code": "SLA207H1",
+    "name": "Intermediate Polish II",
+    "hours": "12L/36P",
+    "description": "Students with a general interest in Polish who have completed  SLA206H1 or who have a comparable level of Polish further develop their speaking, listening, writing, and reading skills by revising, consolidating, and building on their knowledge. Upon completion, they will be able to communicate in more advanced everyday situations and have substantial familiarity with Polish grammar.",
+    "exclusions": "SLA206Y1",
+    "breadth": 1,
+    "prereq_tree": "SLA206H1"
+  },
+  "SLA208Y1": {
+    "code": "SLA208Y1",
+    "name": "Intermediate Ukrainian",
+    "hours": "96P",
+    "description": "Development of proficiency in speaking, reading, listening, and writing. Mastering grammar and syntax and expanding vocabulary in key practical communication areas (such as family, travel, education). Exposure to contemporary Ukrainian culture and society through annotated literary texts, mass-media materials, and popular culture (song, film and TV, news). Internet language modules complement in-class learning.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA209H1": {
+    "code": "SLA209H1",
+    "name": "Intermediate Macedonian",
+    "hours": "48P",
+    "description": "This course completes the basics of Macedonian grammar including the wide variety of past tenses, complex sentence structures, and word formation.",
+    "exclusions": "SLA209Y1",
+    "breadth": 1,
+    "prereq_tree": "SLA109Y1"
+  },
+  "SLA210H1": {
+    "code": "SLA210H1",
+    "name": "Russian for Heritage Speakers",
+    "hours": "48P",
+    "description": "This course is designed for students with Russian background, students raised in homes where Russian is/was spoken, who speak or merely understand basic Russian but are otherwise illiterate in Russian (cannot/have difficulty reading or writing). This course helps heritage learners of Russian develop/maintain writing and reading skills as well as develop cultural literacy. (Online course in 2011-2012).",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA211H0": {
+    "code": "SLA211H0",
+    "name": "Russian in Action",
+    "hours": "48P",
+    "description": "Emphasis on expansion of vocabulary, developing conversational and listening skills, and intensive practice in real-life situations. Offered as part of Summer Program in Russia. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SLA101H1",
+        "SLA210H1"
+      ]
+    }
+  },
+  "SLA212H1": {
+    "code": "SLA212H1",
+    "name": "The Russian Novel",
+    "hours": "24L/12T",
+    "description": "Introduction to the Russian novelistic tradition at the height of its creative power. We examine the Russian novel\u2019s universal appeal and influence, and its impact on modern art and thought. Authors may include (depending on instructor) Gogol, Turgenev, Dostoevsky, Tolstoy, Belyi, Nabokov, Pasternak, Solzhenitsyn. Taught and read in English.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA213H1": {
+    "code": "SLA213H1",
+    "name": "Reading Macedonia: A Cultural Exploration",
+    "hours": "48P",
+    "description": "This course explores Macedonian culture as read through its literature, film, cuisine, music, folklore, architecture, and new media.",
+    "exclusions": "SLA209Y1",
+    "breadth": 1,
+    "prereq_tree": "SLA209H1"
+  },
+  "SLA214H1": {
+    "code": "SLA214H1",
+    "name": "Slavic Languages through Creative Writing",
+    "hours": "24P",
+    "description": "A course for students of Czech and Slovak, BCS and Russian. Improve your writing skills in a group of different Slavic language learners. Learn simple creative writing in different genres. This course presents a catalogue of different methods and strategies for individual learners at various stages of writing in a foreign language. Complements rather than substitutes for intermediate and advanced levels of the languages taught.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SLA105Y1",
+        "SLA107Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "SLA100H1",
+            "SLA101H1"
+          ]
+        }
+      ]
+    }
+  },
+  "SLA215H1": {
+    "code": "SLA215H1",
+    "name": "Czech and Slovak Cultures",
+    "hours": "24L",
+    "description": "Some of the most important features of Czech and Slovak cultural history are introduced in a survey of the national myths, traditions and cultural trends. (Offered every three years)",
+    "exclusions": "SLA215Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "SLA216H1": {
+    "code": "SLA216H1",
+    "name": "Introduction to Polish Culture",
+    "hours": "24L",
+    "description": "Major cultural traditions, historical processes, myths, and figures that have shaped and redefined Polish civilization and national identity are problematized and contextualized with the help of works of literature, history, philosophy, political science, music, visual and performing arts. Readings in English (also available in Polish). (Offered in alternate years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA217H1": {
+    "code": "SLA217H1",
+    "name": "Cultural History of the South Slavs",
+    "hours": "24L",
+    "description": "Works of literature, history, music, and visual arts are examined in order to explore the complex cultural legacy of the Balkans, an area marked by Byzantine, Ottoman, and Austro-Hungarian colonial presence. The course will familiarize students with major cultural traditions, myths, and historical flashpoints. Readings in English.",
+    "exclusions": "SLA217Y1,  SLA227Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA218H1": {
+    "code": "SLA218H1",
+    "name": "Ukrainian Literature and Culture",
+    "hours": "24L",
+    "description": "Starting from the medieval Kyivan Rus' and extending to contemporary Ukraine, the course explores Ukraine's most iconic literary and artistic works and provides insight into the complex historical and cultural legacies and multi-ethnic traditions in Ukrainian lands as they continue to impact contemporary society. Cultural myths critically examined. Literary works aligned with visual arts, film, and media.",
+    "exclusions": "SLA218Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA220Y1": {
+    "code": "SLA220Y1",
+    "name": "Intermediate Russian",
+    "hours": "120P",
+    "description": "Continuation of development of proficiency in speaking, reading, listening and writing. Review the basic and learning of new grammatical and syntactical structures, study of word formation and acquisition of active vocabulary. Reading of classical, contemporary, adapted, and non-adapted literary and mass-media texts. Culture and listening through animation.",
+    "exclusions": "native speakers of Russian, heritage speakers of Russian (unless permitted by the instructor),  SLA210H1",
+    "breadth": 1,
+    "prereq_tree": "SLA101H1"
+  },
+  "SLA221H1": {
+    "code": "SLA221H1",
+    "name": "Speak Like a Russian",
+    "hours": "24P",
+    "description": "A course on practical phonetics. Get your Russian sounds right. Improve your intonation. Reduce your foreign accent.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "SLA100H1",
+        "SLA101H1"
+      ]
+    }
+  },
+  "SLA222H1": {
+    "code": "SLA222H1",
+    "name": "Forging Identities: The Roms of Central and Eastern Europe",
+    "hours": "24S",
+    "description": "Both in popular culture and the headlines, Roma (Gypsies) are often depicted as either romantic or negative. Roma and Slavs have interacted for centuries and this course examines the history of that interaction with particular emphasis on linguistic and educational rights. Taught in English, all readings in English.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "SLA224H1": {
+    "code": "SLA224H1",
+    "name": "Russian-Jewish Writing",
+    "hours": "24L",
+    "description": "This course explores the writings of Russian authors of Jewish origin. Subjects include: assimilation; identity; the existence or non-existence of Russian \u2013 Jewish literature. The works studied may vary from year to year.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA225H1": {
+    "code": "SLA225H1",
+    "name": "Czech and Slovak Cinema",
+    "hours": "24L",
+    "description": "Czech and Slovak cinema of the sixties, generally known as the Czechoslovak New Wave, represents the ways the cinematographers viewed the past, examined the present and escaped into the world of fantasy. In addition, we will examine several theoretical, historical and cultural aspects of national culture and international cinematography.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA226H1": {
+    "code": "SLA226H1",
+    "name": "Film and Ethics: Polish Cinema",
+    "hours": "24L",
+    "description": "The Polish School in cinema, its predecessors and successors, their artistic accomplishments, major theoretical and thematic concerns, and their place on the map of European cinema. Films of Ford, Wajda, Polanski, Konwicki, Borowczyk, Has, Kawalerowicz, Zanussi, Kieslowski, and of the new generation of Polish film makers. Films and discussions in English. (Offered every three years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA227H1": {
+    "code": "SLA227H1",
+    "name": "South Slavic Literature",
+    "hours": "24L",
+    "description": "A survey of the most significant twentieth-century novels from Croatia, Serbia and Bosnia through a chronological selection of literary texts (poems, plays, novels) from the eighteenth to the twentieth century. The course places South Slavic literary developments within the broader context of European intellectual history as well as Balkan cultural and political life. Taught in English, all readings in English.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA228H1": {
+    "code": "SLA228H1",
+    "name": "20th Century Ukrainian Fiction in Translation",
+    "hours": "12L/12S",
+    "description": "Most influential and daring works in English translation. From modernist sensibilities and avant-garde fervor of the revolutionary era, through socialist realism and dissident writing, to the internationally acclaimed experimental prose of contemporary Ukraine. Authors include Kotsiubynsky, Vynnychenko, Pidmohylny, Khvyliovy, Andrukhovych, Zabuzhko, and Zhadan.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA229H1": {
+    "code": "SLA229H1",
+    "name": "Writing with Images: Eastern and Central European History Through the Graphic Novel",
+    "hours": "24L",
+    "description": "This course examines how East and Central European graphic novelists retell the history of the 20th century in images and words. Our focus is the medium. How do comics effect the relationship between the personal and national? Can graphic novels substitute history textbooks?",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA231H1": {
+    "code": "SLA231H1",
+    "name": "Analyzing Slavic and East European Cultural Texts",
+    "hours": "24L",
+    "description": "This Slavic Languages and Cultures core course teaches the skills of basic analysis of Slavic and East European cultural texts including prose fiction, drama, poetry, folklore and films. May also include visual arts and/or digital cultural texts. Looking at a different kind of cultural text each week, the course focuses on close reading, formal and structural analysis, representation, figurative language and metaphor across different media and develops foundational skills for cultural textual interpretation. Readings from throughout the Slavic and East European regions.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA232H1": {
+    "code": "SLA232H1",
+    "name": "Language, Politics, Identity",
+    "hours": "24S",
+    "description": "In this course we will examine the multi-faceted nature of language policy, language standardization, language contact, language maintenance, language conflict and language loss. In addition, we will explore issues such as language rights, languages of education and linguistic identity. While the focus will be on languages in the Slavic, East European, Nordic and Baltic regions, the discourse in this class will also relate to a broad range of language issues globally.",
+    "exclusions": "SLA380H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "SLA234H1": {
+    "code": "SLA234H1",
+    "name": "Russian and Soviet Cinema",
+    "hours": "12L/24P",
+    "description": "A survey of the Russian cinematic tradition from its beginnings through the first decade following the disintegration of the USSR. The course examines the avant-garde cinema and film theory of the 1920s; the totalitarian esthetics of the 1920s-1940s and the ideological uses of film art; the revolution in film theory and practice in the 1950s-1960s; cinema as medium of cultural dissent and as witness to social change. Students also acquire basic skills of film analysis. Taught in English, all films subtitled in English.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA235H1": {
+    "code": "SLA235H1",
+    "name": "After Communism: Literature and Art Post-1989",
+    "hours": "24S",
+    "description": "This course examines the era inaugurated by the collapse of the state-socialist regimes in the former Eastern Bloc, marked by political turmoil, major economic restructuring, and social ambivalences. The course investigates topics such as: socialist legacy and nostalgia, mass emigrations and refugee crises, conflicts over national identity and borders, sociocultural anxieties about inclusion in the EU, perspectives on the future of socialist thought and practice in Eastern Europe.",
+    "exclusions": "SLA377H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA236H1": {
+    "code": "SLA236H1",
+    "name": "Polish Culture in 10 Images",
+    "hours": "8S",
+    "description": "We examine the most important aspects of Polish historical experience and cultural identity by looking at ten iconic images from Polish culture. These images may include a historical painting by Matejko, a photo of the Solidarity strikes in 1980, a screenshot from a Wajda film, or a literary passage from a Gombrowicz novel. Apart from serving as an introduction to Polish cultural studies, this course provides students with analytical tools to read diverse cultural texts. This is a blended course combining online modules with four on-site discussion meetings per semester.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA238H1": {
+    "code": "SLA238H1",
+    "name": "Literature of the Ukrainian-Canadian Experience",
+    "hours": "24S",
+    "description": "A selection of literary texts depicting the experience and perceptions of Ukrainians in Canada from the first immigrants to the present. Texts include works originally written in English, French and Ukrainian, but all readings are in English. Authors include: Kiriak, Kostash, Ryga, Galay, Suknaski, Kulyk Keefer.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA245H1": {
+    "code": "SLA245H1",
+    "name": "The Golden Age of Russian Literature",
+    "hours": "24L",
+    "description": "A survey of Russian literature from1820-1900. Topics include: Romanticism and Realism; the myth of St. Petersburg; the Russian Empire and its borders; the individual and society; man and nature; the \u201cwoman question\u201d; freedom and rationality. Readings may include: Pushkin, Lermontov, Gogol, Goncharov, Tolstoi, Turgenev, Dostoevskii, Saltykov-Shchedrin, Chekhov. Taught and read in English.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA247H1": {
+    "code": "SLA247H1",
+    "name": "Cinema of the Balkans",
+    "hours": "24L",
+    "description": "An overview of the cinematic tradition in Yugoslavia, Greece, Albania, and Bulgaria from the 1960s to the present. Topics include revolution and socialism; cinema as activism; ideology and politics; sex and gender; war and trauma. Taught in English. All films with subtitles.",
+    "exclusions": "SLA427H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA248H1": {
+    "code": "SLA248H1",
+    "name": "Women and Women's Themes in Ukrainian Literature",
+    "hours": "24S",
+    "description": "This course examines the presentation of women and women's themes in works of Ukrainian literature. The subjects covered include: role models, freedom, socialism, nationalism, feminism, and sexuality.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA252H1": {
+    "code": "SLA252H1",
+    "name": "Russian Short Fiction",
+    "hours": "12T/24S",
+    "description": "An exploration of the elements of the short story through close readings of works by 19th and 20th century writers. Stories in translation by Pushkin, Gogol, Turgenev, Dostoevsky, Chekhov, Olesha, Babel, and others. All readings in English.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA253H1": {
+    "code": "SLA253H1",
+    "name": "Origins of Russia and Ukraine",
+    "hours": "24L",
+    "description": "A survey of key periods and foundations of Russian and Ukrainian societies and cultures. Explores common elements, differences, and factors (social structure, religion, art, and literature) that shaped the Ukrainian-Russian historical encounter from the Middle Ages to the 2022 Russian invasion of Ukraine. Taught in English, all readings in English. No background knowledge required.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA256H1": {
+    "code": "SLA256H1",
+    "name": "Firebirds and Other Wonders: The World of Slavic and East European Folklore",
+    "hours": "24L/12T",
+    "description": "An introduction to the comparative study of folk narratives \u2013 fairy-tales, legends, epics, from Russia, Central and Eastern Europe, and the Baltic Region. Topics include the structural and psychological analysis and interpretation of oral folk traditions; the cultural specificity of Slavic and Baltic folklore; its adaptation and treatment in literature, music, and visual arts. Taught in English, all readings in English.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA257H1": {
+    "code": "SLA257H1",
+    "name": "Intermediate Bosnian, Croatian, and Serbian I",
+    "hours": "48P",
+    "description": "Systematic study of morphology and syntax. Intermediate composition and oral practice. Reading and translation of contemporary and more complex texts in BCS.",
+    "exclusions": "SLA257Y1,  SLA307Y1,  SLA316Y1",
+    "breadth": 1,
+    "prereq_tree": "SLA107Y1"
+  },
+  "SLA260H1": {
+    "code": "SLA260H1",
+    "name": "Constructing Space: A History of Russian Art and Architecture",
+    "hours": "24L",
+    "description": "Chronologically organized and covering a period of ten centuries, from the eleventh to the twenty-first, the course has a special focus, the rendering of space and perspective. Beginning with the so-called \u201creverse perspective\u201d of Russian Icons and the devotional world of churches and cathedrals, continuing with the geometrically organized, rational space of the 18th century and St. Petersburg, and moving on to the distorted reality of the Russian avant-garde and Socialist Realism\u2019s attempt at reproducing reality \u201cas it is,\u201d the course concludes by asking where this oscillating acceptance and rejection of illusion leaves us in the 21st century. Consideration of paintings, buildings, sculptures, selected literary texts and films.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA263H1": {
+    "code": "SLA263H1",
+    "name": "Studies in Russian-French Cultural History",
+    "hours": "24L/12T",
+    "description": "A survey of Russian-French intellectual, literary, and artistic contacts and mutual influences, from the 18th through the 20th centuries. Topics may include: transnational circulation of genres, styles, aesthetic programs, philosophical concepts, and political ideas; cultural tourism; cultural appropriation and misreading; direct contacts between French and Russian intellectual and artistic elites. Lectures in English. Students taking the course from the French Department will read the texts in French, have tutorials in French, and write assignments in French. All others will read texts in English, have tutorials in English, and write assignments in English.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA266H1": {
+    "code": "SLA266H1",
+    "name": "War and Culture",
+    "hours": "24S",
+    "description": "Poland and Europe 1914-1945. As we commemorate the centenary of the outbreak of WWI, this cataclysmic event that launched the 20th century and was followed by another total war soon after still defines our view of the world and understanding of it. It may be time now to look anew at how various forms of expression, including literature, film, theatre, painting and sculpture produced during the two wars, between them or many decades later deal with the extreme and everyday experiences, with shattered worlds of individuals, ethnicities, and nations.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "SLA216H1"
+  },
+  "SLA268H1": {
+    "code": "SLA268H1",
+    "name": "Cossacks!",
+    "hours": "24S",
+    "description": "How are Cossacks depicted in literary and visual works? Were they the agents of a repressive Russian government, the hirelings of Polish kings, the tormentors of Eastern European Jews, the protectors of Europe from the Ottomans, or the liberators of the Ukrainian nation? We read works from the Jewish, Polish, Russian and Ukrainian cultural traditions.",
+    "exclusions": "CCR199H1 (First-Year Seminar: The Cossacks), offered in Winter 2012, Winter 2013, Fall 2013, Fall 2015, Fall 2016, and Fall 2017",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA272H1": {
+    "code": "SLA272H1",
+    "name": "Cultural History of the Caucasus",
+    "hours": "24L",
+    "description": "The course examines the role of language, religion, art, and geopolitics \u2013 from Classical Antiquity to the present \u2013 in shaping the cultural identities of national communities in the Caucasus region which has long been the site of struggle between ancient and modern empires. Examining the cultural, linguistic, confessional, and social diversity of the Caucasus, this interdisciplinary course provides foundations for engaging with the region\u2019s cultural history, the evolving self-conception of its peoples, and the historical place of the Caucasus in the imagination of European and Asian outsiders. We will study a broad variety of documentary and fictional sources including folklore, political and religious thought, literary fiction, autobiography, film, painting, architecture. Taught in English, all readings in English, no preparation is required.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA277H1": {
+    "code": "SLA277H1",
+    "name": "Intermediate Bosnian, Croatian, and Serbian II",
+    "hours": "48P",
+    "description": "Continuation of  SLA257H1. Systematic study of morphology and syntax. Intermediate composition and oral practice. Reading and translation of contemporary texts in BCS.",
+    "exclusions": "SLA257Y1",
+    "breadth": 1,
+    "prereq_tree": "SLA257H1"
+  },
+  "SLA280H1": {
+    "code": "SLA280H1",
+    "name": "Introduction to Russian Asia: From Central Asia to Siberia",
+    "hours": "24S",
+    "description": "Introduction to geography, languages, people, literature, and the history of Russian Asia. Includes readings in history, exile narratives, articles on the linguistic geography of the languages of Russia including Russian, Siberian languages such as Yakut and Tungus, Turkic languages of Central Asia, Korean and Chinese as minority languages, with a special focus on language contact and language politics.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "SLA286H1": {
+    "code": "SLA286H1",
+    "name": "Russian and East European Science Fiction",
+    "hours": "24S",
+    "description": "Science fiction from Russia and Eastern Europe combines radical aesthetics, thought experiments, and engagement with socio-political conditions, censorship, and technological innovation. This course will study Russian and East European science fiction's cultural, historical, and political contexts, examining how the genre comments upon the texts\u2019 present historical moment and imagines new possibilities.",
+    "exclusions": "SLA486H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA300H1": {
+    "code": "SLA300H1",
+    "name": "Russian Literature in the Age of Empire",
+    "hours": "24L",
+    "description": "Survey of major movements and institutions, familiar and less studied writers and intellectuals of the first half of the nineteenth century. Imperial culture between and within Europe and Asia. Romanticism as literary movement, cultural ideology, and lifestyle. Emergence of literature as profession and public sphere. Literature and nationalism. Taught in English, all readings in English.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SLA302H1": {
+    "code": "SLA302H1",
+    "name": "The Imaginary Jew",
+    "hours": "24S",
+    "description": "This course examines the genesis and evolution of the image of \u201cthe jews,\u201d central to all European cultures, from the theology and psychology of Christian anti-Judaism to their reflection in arts and folklore, and to the survival of the \u201cjewish\u201d vocabulary of difference, in secular form, in post-Christian cultures. Special attention is given to \u201cthe jews\u201d of the East European imagination. The final part of the course will explore the experience of Jewish cultural assimilation in European societies, which forced individuals of Jewish extraction to confront the Christian and post-Christian discourse of \u201cjewish\u201d difference. All readings are in English.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  }
+}

@@ -1,0 +1,1313 @@
+{
+  "RLG379H1": {
+    "code": "RLG379H1",
+    "name": "Religions of the Silk Road",
+    "hours": "24L",
+    "description": "An historical introduction to the religious traditions that flourished along the Silk Road, including Zoroastrianism, Manichaeism, Nestorian Christianity, Judaism, Buddhism and Islam. Drawing on a variety of sources (textual, archaeological, works of art), the course will focus on the spread and development of these traditions through the medieval period. Issues include cross-cultural exchange, religious syncretism, ethnic identity formation and so on. Emphasis will also be placed on religious and political events in modern Central Asia.",
+    "exclusions": "RLG245H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG380H1": {
+    "code": "RLG380H1",
+    "name": "Trauma, Healing & Transformation",
+    "hours": "24L",
+    "description": "This course focuses upon the psychology of religion from the perspectives of psychoanalysis, affective neuroscience, attachment theory and evolutionary psychology. We explore the role of entheogens, psycholytics and dreams in facilitating and shaping mystical experiences of unseen realms. We will explore relationships and boundaries between belief and knowledge, subjective and objective experiences, as well as phantasy, dreams and visions. How are the insights of the founders of the field being updated by contemporary neuroscientific and evolutionary theories? We consider visionary, esoteric and paranormal experiences along with the distinctions between mental health and pathology.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG381H1": {
+    "code": "RLG381H1",
+    "name": "Buddhism and Science",
+    "hours": "24L/12P",
+    "description": "An introduction to interdisciplinary research on Buddhism and science. Topics to be considered may include the rise of Contemplative Science as a field; contemporary methods for studying types of meditation; how research on contemplative practices is influenced by philosophical, feminist, and queer studies work on consciousness, self, and embodiment; the global commodification of \u201cspiritual\u201d practices; and the impact of Buddhist social justice movements on the field.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG382H1": {
+    "code": "RLG382H1",
+    "name": "God and Communism: State Policies and Religious Practices in the Soviet Union and Post-Soviet Space",
+    "hours": "24L",
+    "description": "The Russian Revolution of 1917 proclaimed the separation of Church and State in the newly created Soviet Russia and later, Soviet Union. How did it work in practice? This course will examine both policies that addressed Orthodox Christianity, Catholicism, Islam, Judaism, Buddhism and other religious practices and practices of how these policies were received and interpreted on the ground. We will read anti-religious propaganda materials created in the 1920s, memoirs and diaries of priests, rabbis and imams making sense of the 1930s, often when imprisoned in Gulag for their work, press materials and ego-documents of World War II, novels, poems and short stories addressing religious beliefs in the post-war Soviet Union. Finally, we will discuss the religious revival of the 1990s, when both indigenous religions and those brought in by Western missionaries have entered post-Soviet public sphere. All course materials will be provided in English translation.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG383H1": {
+    "code": "RLG383H1",
+    "name": "Interpretation and Dialogue",
+    "hours": "24L",
+    "description": "How do people negotiate across different religions? Can we understand the beliefs and behaviors of people whose religious and cultural outlooks differ radically from our own? This course explores the theoretical issues involved in interpretation and dialogue across cultural and historical divides by reading key texts within the study of religion, including anthropological, historical, and philosophical approaches.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG384H1": {
+    "code": "RLG384H1",
+    "name": "Pluralism and Toleration",
+    "hours": "24L",
+    "description": "This course traces the development of philosophical arguments in favor of toleration or pluralism that emerged first in response to bitter religious conflicts and then out of a growing recognition of the potential benefits of the normative diversity characteristic of modern societies. Typical philosophers to be studied are Bodin, Spinoza, Locke, Bayle, Lessing, Herder, and Mill.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG385H1": {
+    "code": "RLG385H1",
+    "name": "Becoming Modern: Institutions, Individuals, and the Dark Side of Modernity",
+    "hours": "24L",
+    "description": "What does it mean to be modern? Words like \u201cmodern,\u201d \u201cmodernity,\u201d and \u201cmodernism\u201d are used to mark a fundamental boundary between our era and all that came before it (or lies outside of it); but most of us are hard-pressed to offer a solid account of what exactly this boundary is. This course examines the relationship between: a fundamental shift in the nature of daily experience; an order-of-magnitude expansion of the power of the State; a dramatic reorganization of religious experience and cultures; and a tremendous growth in the enterprise of Western science and technological production. We trace this reorientation over the last two centuries and examine its consequences using philosophical, literary, theological, and scientific sources, as well as recent scholarly work on the topic.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG386H1": {
+    "code": "RLG386H1",
+    "name": "Devotional Literature of Early Modern India",
+    "hours": "24L",
+    "description": "This class is an introduction to the devotional literature of early modern India (c. 1500-1800), but more importantly, it is about thinking critically and developing skills in close reading of texts. In addition to learning about historical, religious, and social contexts of various literary traditions in Brajbhasha, students will be expected to demonstrate their ability to analyze and interpret texts by actively participating in class discussions and by writing a well-argued final paper. The focus will be on the what of literary traditions but also on the how and why these traditions made sense to people in the past and are still relevant to us, today.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG387H1": {
+    "code": "RLG387H1",
+    "name": "Religion and Science",
+    "hours": "24L",
+    "description": "Course explores issues at the intersection of religion and science which may include such topics as evolution and the assessment of its religious significance by different traditions, conceptions of God held by scientists (theism, pantheism, panentheism), ethical issues raised by scientific or technological developments ( cloning or embryonic stem cell research), philosophical analysis of religious and scientific discourses.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG388H1": {
+    "code": "RLG388H1",
+    "name": "Special Topics I",
+    "hours": "24L",
+    "description": "This course offers an opportunity to explore a topic in the study of religion. Topics vary depending on the instructor. When offered, a detailed course description of the topic will be available on the Department for the Study of Religion website.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG389H1": {
+    "code": "RLG389H1",
+    "name": "Special Topics II",
+    "hours": "24L",
+    "description": "This course offers an opportunity to explore a topic in the study of religion. Topics vary depending on the instructor. When offered, a detailed course description of the topic will be available on the Department for the Study of Religion website.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG390H1": {
+    "code": "RLG390H1",
+    "name": "Thinking with Spirits",
+    "hours": "24S",
+    "description": "Possession, trance, communication with the spirits of the dead, visitations by gods, demons, or spectral presences from unseen, otherworldly realms are common features of human experience. What are the psychological, emotional and mental capacities that give rise to such ecstatic, extraordinary experiences? What is the role of unconscious fantasy and projection in such experiences and how do these ideas contribute to explanatory theories seeking to account for them? What contribution can psychoanalysis make to enriched, generous and non-pathologizing understandings of the wide variety of spirit encounters, communications and visions that have been reported throughout history and across cultures? This course will draw upon disciplines such as psychoanalysis, anthropology, neuropsychoanalysis and the study of religion in order to think deeply and sensitively about and with spirits.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG391H1": {
+    "code": "RLG391H1",
+    "name": "Modern Atheism and Critique of Religion: Hegel to Nietzsche",
+    "hours": "24L",
+    "description": "Examines select modern thinkers and their critical approaches to the nature and significance of religious beliefs and practices. Hegel, Feuerbach, Marx, and Nietzsche are among the major thinkers studied.",
+    "exclusions": "RLG310Y1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG392H1": {
+    "code": "RLG392H1",
+    "name": "The European Enlightenment and Religion",
+    "hours": "24L",
+    "description": "This course explores some of the major thinkers of the European Enlightenment and their philosophical inquiries into the meaning and significance of religion as a set of cultural institutions. Special attention is paid to the analysis of religious concepts and institutions along epistemological, ethical, and political lines.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG393H1": {
+    "code": "RLG393H1",
+    "name": "Graphic Religion: Myth and the Spiritual in Graphic Novels",
+    "hours": "24L",
+    "description": "Survey of themes connecting religious ideas, symbols, and representations with graphic novels and sequential art. The course will explore techniques of story-telling in mythic and visual representations in religious traditions and explore how these techniques and images are mirrored within popular comic-style (sequential) art.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG395H1": {
+    "code": "RLG395H1",
+    "name": "Is Religion Useful?",
+    "hours": "24L",
+    "description": "While some philosophers count truth and falsehood decisive when evaluating religion, others regard that focus as beside the most crucial point, namely, whether religion is good or bad for us. In other words, the reasons that they cite in favor of or against religious beliefs, rituals, associations, etc. are instead its social, ethical, or psychological utility or disutility. This course looks at these philosophical debates about whether and how religion might be useful to us in our individual and collective lives.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG396H1": {
+    "code": "RLG396H1",
+    "name": "The Soul of Food: Religion, Food, and the Construction of Community",
+    "hours": "24L/12P",
+    "description": "Food is an essential part of religion, but how does food - how it's produced, prepared, and consumed - reveal the values and beliefs of religious communities? How do the material practices of food - including dietary laws, rituals, feasts, and fasts - construct religious identity and community? This course will challenge students to think about these questions through experiential learning opportunities, including a community-engaged research project and guided visits to local religious food sites. Through active learning, critical thinking, and reflective practice, students will examine the ways in which food has significant social and ethical implications for religious communities.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG398H0": {
+    "code": "RLG398H0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RLG398Y0": {
+    "code": "RLG398Y0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RLG399H1": {
+    "code": "RLG399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RLG399Y1": {
+    "code": "RLG399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RLG400Y1": {
+    "code": "RLG400Y1",
+    "name": "Independent Studies Abroad",
+    "hours": null,
+    "description": "Intensive programs of study including site visits and lectures in areas of religious significance abroad. Preparatory work expected, together with paper or assignments upon return.(Y1 course: 4 weeks minimum; H course: 2 weeks minimum) Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RLG401H1": {
+    "code": "RLG401H1",
+    "name": "Independent Studies Abroad",
+    "hours": null,
+    "description": "Intensive programs of study including site visits and lectures in areas of religious significance abroad. Preparatory work expected, together with paper or assignments upon return.(Y1 course: 4 weeks minimum; H course: 2 weeks minimum) Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RLG402H1": {
+    "code": "RLG402H1",
+    "name": "Independent Studies Abroad",
+    "hours": null,
+    "description": "Intensive programs of study including site visits and lectures in areas of religious significance abroad. Preparatory work expected, together with paper or assignments upon return.(Y1 course: 4 weeks minimum; H course: 2 weeks minimum) Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RLG404H1": {
+    "code": "RLG404H1",
+    "name": "Departmental Capstone-Research",
+    "hours": "24S",
+    "description": "This seminar gives you the chance to explore the role of research in undergraduate education, and to construct a retrospective view of your and others\u2019 experiences of studying religion in the university. Each student will also develop a research project and will examine a range of audiences for their research, from specialists in their field, to wider academic scholars, to an audience beyond the university. Interaction between students will be a central feature of the work of the seminar. Open to students in the Majors and Specialists of the Department for the Study of Religion.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "RLG405H1": {
+    "code": "RLG405H1",
+    "name": "Departmental Capstone-Practical",
+    "hours": "24S",
+    "description": "A capstone seminar that emphasizes integration of the study of religion with contemporary public life in the development of a research project, locating a research specialization in relation to non-academic contexts, and communicating the process and results of a research project to non-academic audiences. Open to students in the Majors and Specialists of the Department for the Study of Religion.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "RLG406H1": {
+    "code": "RLG406H1",
+    "name": "Constructing Religion",
+    "hours": "24S",
+    "description": "How have different researchers constructed \u2018religion\u2019 as their object of study, and are some frameworks simply incompatible with each other? We discuss \u2013 but also provide critical assessments of -- different theoretical and methodological frameworks. Open to students in the Majors and Specialists of the Department for the Study of Religion.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RLG407H1": {
+    "code": "RLG407H1",
+    "name": "The World of \"World Religion\"",
+    "hours": "24S",
+    "description": "A seminar examining the development of western discourses of world religions. We shall explore the roots of these discourses and examine their implications in the academic study of religion in North America and in other parts of the world. Open to students in the Majors and Specialists of the Department for the Study of Religion.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RLG411H1": {
+    "code": "RLG411H1",
+    "name": "Advanced Topics in Religion",
+    "hours": "24S",
+    "description": "This course offers an opportunity to explore a specialized topic in the study of religion. Topics vary depending on the instructor. When offered, a detailed course description of the topic will be available on the Department for the Study of Religion website.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RLG412H1": {
+    "code": "RLG412H1",
+    "name": "Advanced Topics in Religion",
+    "hours": "24S",
+    "description": "This course offers an opportunity to explore a specialized topic in the study of religion. Topics vary depending on the instructor. When offered, a detailed course description of the topic will be available on the Department for the Study of Religion website.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RLG414H1": {
+    "code": "RLG414H1",
+    "name": "Comparing Religions",
+    "hours": "24S",
+    "description": "Few methods have been more foundational to the scholarly study of religion, or more subject to searching criticism, than the practice of comparison. This seminar offers an advanced introduction to comparative method through close study of 4-6 recent works, from ritual studies, philosophy of religion, comparative theology and/or ethnography.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 14.0,
+          "department": ""
+        },
+        {
+          "credits": 1.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "RLG415H1": {
+    "code": "RLG415H1",
+    "name": "Performance, Gender, Religion",
+    "hours": "24S",
+    "description": "\u201cPerformance, Gender, Religion\u201d will explore gendered religious experience through the lens of performance and theories of performativity. Topics include: The inculcation of religious norms through required gender performance, the performative dimension of religious ritual, and performance culture within religious communities. We will not only consider the ways in which \u201cmanhood\u201d and \u201cwomanhood\u201d are performed, we will also consider performances that critique and confront these categories. Students will have the opportunity to engage in a research project on gender performance from a specific cultural context.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RLG416H1": {
+    "code": "RLG416H1",
+    "name": "Topics in Religion and Gender",
+    "hours": "24S",
+    "description": "This course offers an opportunity to explore a topic focusing on the intersection of religion and gender. Topics vary depending on the instructor. When offered, a detailed course description of the topic will be available on the Department for the Study of Religion website.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RLG417H1": {
+    "code": "RLG417H1",
+    "name": "Radical Evil: Philosophical, Psychoanalytic and Religious  Perspective",
+    "hours": "24S",
+    "description": "Are people innately evil, or do they become evil due to negative life experiences? Can a universal internal moral imperative rooted in an innate good will exist independently of self-interest? Some argue that human beings are motivated by amoral internal forces that are only shaped into moral action through diverse cultural learning processes. These questions are discussed from philosophical, psychoanalytic and religious perspectives.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RLG418H1": {
+    "code": "RLG418H1",
+    "name": "Advanced Topics in the Philosophical Study of Religion",
+    "hours": "24S",
+    "description": "A seminar that explores a topic in the philosophical study of religion. Possible topics include: the nature of religious truth; the phenomenology of religion; descriptions of the holy; religion and the meaning of life; God-talk as literal or metaphorical language; naturalizing religious belief. When offered, a detailed course description of the topic will be available on the Department for the Study of Religion website.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        "RLG209H1"
+      ]
+    }
+  },
+  "RLG419H1": {
+    "code": "RLG419H1",
+    "name": "Ghosts to Ancestors: Racialized Hauntings and Reparative Promise in Psychoanalysis",
+    "hours": "24S",
+    "description": "All forms of injustice disfigure both societies and psyches. Racist, sexist, and other unconscious fantasies of evil and persecuting \u2018others\u2019 generate social injustice. At the same time, social injustice distorts the mind. This \u201cdual track\u201d process can drive human beings and their societies mad. Justice depends upon transformations of social structures and moral codes as well as changes within human minds. In order for psychoanalysis to realize its own potential for facilitating justice, it must confront its own historical contribution to injustice. Through a close reading of selected texts from Sigmund Freud and the activist psychiatrist Franz Fanon, this course explores the inherent tensions between colonizing and emancipatory themes within psychoanalytic discourses. Both Freud and Fanon contribute to a psychoanalytic critical theory that have influenced several contemporary ethnographic writers who explore the intricate ways in which social and cultural realities are internalized as unconscious hauntings and tormenting spirits across generations.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": ""
+            },
+            "RLG211H1"
+          ]
+        },
+        "RLG301H1",
+        "RLG302H1"
+      ]
+    }
+  },
+  "RLG420H1": {
+    "code": "RLG420H1",
+    "name": "Religion and Philosophy in the European Enlightenment",
+    "hours": "24S",
+    "description": "An advanced study of selected Enlightenment thinkers with a focus on their interpretations of religion. The main thinkers discussed are Spinoza, Hume, and Kant. Issues include the rational critique of traditional religion, the relations among religion, ethics and politics, and the pursuit of universal approaches to religion.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": ""
+            },
+            "RLG310H1"
+          ]
+        },
+        "RLG392H1"
+      ]
+    }
+  },
+  "RLG421H1": {
+    "code": "RLG421H1",
+    "name": "Fragments of Redemption: Sigmund Freud and Theodor Adorno",
+    "hours": "24S",
+    "description": "This course will challenge the prevailing view that the thought of Sigmund Freud and Theodor Adorno is so deeply pessimistic as to be devoid of hope. Freud\u2019s psychoanalytic theories are widely (mis)interpreted in the register of a crude pansexualism and biological determinism. Adorno\u2019s critique of society and the individual is often (mis)interpreted as so ruthlessly pervasive that it forecloses on any possibility for emancipatory transformation. This is a distorted view of both thinkers, that misses the hopeful, utopian currents that motivate and shape psychoanalysis and critical theory. The course will explore the emancipatory currents in Freud and Adorno, and their implications for potentialities of individual, social and ecological transformation.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "RLG422H1": {
+    "code": "RLG422H1",
+    "name": "Kant's Theory of Religion",
+    "hours": "24S",
+    "description": "An advanced study of Immanuel Kant\u2019s theory of religion, as developed in major writings such as Critique of Practical Reason and Religion within the Boundaries of Mere Reason. Emphasizes rational ethical criteria as the basis for analyzing the doctrines, symbols, and institutions of historical religions.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": ""
+            },
+            "RLG310H1"
+          ]
+        },
+        "RLG392H1"
+      ]
+    }
+  },
+  "RLG423H1": {
+    "code": "RLG423H1",
+    "name": "Great Critics of Religion",
+    "hours": "24S",
+    "description": "An advanced study of the work of David Hume on the topic of religion. We explore Hume's empiricist and skeptical methodologies as applied to religious concepts and doctrines, and we unravel the many literary devices he used to protect himself from persecution. Works studied include the Enquiry concerning Human Understanding, Natural History of Religion, and Dialogues concerning Natural Religion. Critics will vary by term and instructor.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": ""
+            },
+            "RLG310H1"
+          ]
+        },
+        "RLG392H1"
+      ]
+    }
+  },
+  "RLG425H1": {
+    "code": "RLG425H1",
+    "name": "Hermeneutics and Religion",
+    "hours": "24S",
+    "description": "A study of how principles of textual interpretation and theories of language have been central to modern philosophy of religion. We begin with Schleiermacher, and then move to an in-depth treatment of the 20th century hermeneutical theories of Heidegger, Gadamer, and Ricoeur.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": ""
+            },
+            "RLG310H1"
+          ]
+        },
+        "RLG392H1"
+      ]
+    }
+  },
+  "RLG426H1": {
+    "code": "RLG426H1",
+    "name": "Religion in the Public Sphere: Community-Engaged Learning",
+    "hours": "24S",
+    "description": "In a placement with a community partner, students are given an opportunity to learn about and reflect upon the ways that religion and religious diversity shape public life. How do individuals and organizations recognize and negotiate the intersections of religious diversity, culture, and public space in the context of engaging with public policy? Through critical classroom discussions, readings, reflections, and meaningful work for and with front-line community partners, community-engaged learning offers students the opportunity to integrate academic knowledge with experiences outside the classroom, to challenge themselves, and to explore their values and future directions. Application Process: Interested students must complete the online application form on the DSR website to indicate their interest in and expectations of community engaged learning, as well as any previous volunteer/co-op/internship experience they may have had. Following submission of student applications, the course instructor(s) will contact student applicants individually to conduct a brief informational interview. Interviews will be conducted, at which time students will be enrolled by the department.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RLG428H1": {
+    "code": "RLG428H1",
+    "name": "Religion and Economy",
+    "hours": "24S",
+    "description": "This course introduces students to classical and contemporary social scientific work on the relation between religion and economy. It draws on classics such as Marx, Weber, and Mauss, as well as recent anthropological work. Topics may include sacrifice, the gift, commodity fetishism, prosperity gospel, neoliberalism, charity, and development.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RLG430H1": {
+    "code": "RLG430H1",
+    "name": "Advanced Topics in Judaism",
+    "hours": "24S",
+    "description": "This course offers an opportunity to explore a specialized topic in Judaism. Topics vary depending on the instructor. When offered, a detailed course description of the topic will be available on the Department for the Study of Religion website.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        "RLG202H1"
+      ]
+    }
+  },
+  "RLG433H1": {
+    "code": "RLG433H1",
+    "name": "Maimonides and His Modern Interpreters",
+    "hours": "24S",
+    "description": "An introduction to The Guide of the Perplexed by Moses Maimonides, and to some of the basic themes in Jewish philosophical theology and religion. Among topics to be considered through close textual study of the Guide: divine attributes; biblical interpretation; creation versus eternity; prophecy; providence, theodicy, and evil; wisdom and human perfection. Also to be examined are leading modern interpreters of Maimonides.",
+    "exclusions": "POL421H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RLG434H1": {
+    "code": "RLG434H1",
+    "name": "Modern Jewish Thought",
+    "hours": "24S",
+    "description": "Close study of major themes, texts, and thinkers in modern Jewish thought. Focus put on the historical development of modern Judaism, with special emphasis on the Jewish religious and philosophical responses to the challenges of modernity. Among modern Jewish thinkers to be considered: Spinoza, Cohen, Rosenzweig, Buber, Scholem, Strauss, and Fackenheim.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RLG435H1": {
+    "code": "RLG435H1",
+    "name": "The Thought of Leo Strauss",
+    "hours": "24S",
+    "description": "The philosophic thought of Leo Strauss approached through his writings on modern Judaism. Primarily addressed will be the mutual relations between philosophy, theology, and politics. Among other topics to be dealt with: origins of modern Judaism, Zionism, liberal democracy, and biblical criticism; meaning of Jerusalem and Athens; cognitive value in the Hebrew Bible.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RLG441H1": {
+    "code": "RLG441H1",
+    "name": "Words and Worship in Christian Cultures",
+    "hours": "24S",
+    "description": "How are we to analyze the words that Christians use? And how are such words related to ritual forms? We explore techniques for the analysis of texts, while looking at forms of verbal discourse ranging from prayers, speaking in tongues, and citing the Bible to more informal narratives.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": ""
+            },
+            "RLG212H1"
+          ]
+        },
+        "ANT356H1"
+      ]
+    }
+  },
+  "RLG447H1": {
+    "code": "RLG447H1",
+    "name": "Magic and Miracle in Early Christianity",
+    "hours": "24S",
+    "description": "Magic, religion, astrology, alchemy, theurgy, miracle, divination: all of these phenomena characterize the context and practice of ancient Christianity. This course examines the constitution of these categories, the role and character of these phenomena in the Graeco-Roman world, and the interaction with and integration of these phenomena by ancient Christianity.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": ""
+            },
+            "RLG203H1"
+          ]
+        },
+        "RLG241H1"
+      ]
+    }
+  },
+  "RLG448H1": {
+    "code": "RLG448H1",
+    "name": "Pseudepigraphy in Ancient Mediterranean Religion",
+    "hours": "24S",
+    "description": "A seminar examining the phenomenon of falsely claimed and/or attributed authorship in religions of the ancient Mediterranean, mainly Christianity and Judaism. The course examines understandings of authorship and other cultural forms that facilitate or inhibit ancient pseudepigraphy, ancient controversies over authorship, as well as specific pseudepigraphical writings.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "RLG449H1": {
+    "code": "RLG449H1",
+    "name": "The Sources of the Gospels",
+    "hours": "36S",
+    "description": "Investigation of the history of solutions to the Synoptic Problem from the eighteenth century to the present paying special attention to the revival of the Griesbach hypothesis and recent advances in the Two-Document hypothesis.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "RLG241H1",
+            "RLG320H1"
+          ]
+        },
+        "RLG321H1",
+        "RLG322H1",
+        "RLG323H1",
+        "RLG324H1",
+        "RLG325H1",
+        "RLG326H1"
+      ]
+    }
+  },
+  "RLG451H1": {
+    "code": "RLG451H1",
+    "name": "The Parables of Jesus",
+    "hours": "24S",
+    "description": "Examination of the parables in the gospels and other early Christian writers, and major trends in the modern analyses of the parables. Special attention will be paid to the social and economic world presupposed by the parables.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "RLG241H1",
+            "RLG320H1"
+          ]
+        },
+        "RLG321H1",
+        "RLG322H1",
+        "RLG323H1",
+        "RLG324H1",
+        "RLG325H1",
+        "RLG326H1"
+      ]
+    }
+  },
+  "RLG452H1": {
+    "code": "RLG452H1",
+    "name": "The Death of Jesus",
+    "hours": "24S",
+    "description": "Examination of the accounts of the passion and death of Jesus in their original historical and literary contexts.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "RLG241H1",
+            "RLG320H1"
+          ]
+        },
+        "RLG321H1",
+        "RLG322H1",
+        "RLG323H1",
+        "RLG324H1",
+        "RLG325H1",
+        "RLG326H1"
+      ]
+    }
+  },
+  "RLG453H1": {
+    "code": "RLG453H1",
+    "name": "Christianity and Judaism in Colonial Context",
+    "hours": "24S",
+    "description": "Sets the study of early Christianity and Second Temple Judaism into relation with postcolonial historiography. Topics include hybridity, armed resistance, the intersection of gender and colonization, diaspora, acculturation, and the production of subaltern forms of knowledge. Comparative material and theories of comparison are also treated.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "RLG454H1": {
+    "code": "RLG454H1",
+    "name": "Social History of the Jesus Movement",
+    "hours": "24S",
+    "description": "The social setting of the early Jesus movement in Roman Palestine and the cities of the Eastern Empire. Topics will include: rank and legal status; patronalia and clientalia; marriage and divorce; forms of association outside the family; slavery and manumission; loyalty to the empire and forms of resistance.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "RLG241H1",
+            "RLG320H1"
+          ]
+        },
+        "RLG321H1",
+        "RLG322H1",
+        "RLG323H1",
+        "RLG324H1",
+        "RLG325H1",
+        "RLG326H1"
+      ]
+    }
+  },
+  "RLG455H1": {
+    "code": "RLG455H1",
+    "name": "Heresy and Deviance in Early Christianity",
+    "hours": "24S",
+    "description": "A study of the construction of deviance or heresy within the literature of first and second century Christianity: tasks include a survey of sociological theory in its application to deviance in the ancient world and close readings of selected texts from first and second century Christian and pre-Christian communities.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "RLG458H1": {
+    "code": "RLG458H1",
+    "name": "Advanced Topics in Islam",
+    "hours": "24S",
+    "description": "This course offers an opportunity to explore a specialized topic in Islam. Topics vary depending on the instructor. When offered, a detailed course description of the topic will be available on the Department for the Study of Religion website.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": ""
+            },
+            "RLG204H1"
+          ]
+        },
+        "RLG355H1"
+      ]
+    }
+  },
+  "RLG460H1": {
+    "code": "RLG460H1",
+    "name": "Ramayana in Literature, Theology, and Political Imagination",
+    "hours": "24S",
+    "description": "This course explores how this conception is the result of a historical process by examining documentable transformations in the reception of the Ramayana. Our focus will be on the shift in the classification of the Ramayana from the inaugural work of Sanskrit literary culture (adi-kavya) in Sanskrit aesthetics to a work of tradition (smrti) in theological commentaries, the differences between the Ramayana's ideal of divine kingship and medieval theistic approaches to Rama's identification with Visnu, the rise of Rama worship, and the use of Rama's divinity in contemporary political discourse.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RLG461H1": {
+    "code": "RLG461H1",
+    "name": "Buddhism and Indigeneity",
+    "hours": "24S",
+    "description": "In dominant discourse, Buddhism travels and, upon its arrival, enlightens, reforms, improves, or civilizes whoever was there before. In this course we will ask how that view disagrees with people for whom Buddhism is not something that comes later but something that comes first, who say: \u201cWe have always been Buddhists.\u201d Such an alternative vision of Buddhism is shared by communities who fight against caste discrimination, occupation by foreign powers, or the destruction of their world. In conversation with members of Indigenous communities visiting our class, we will ask what Buddhist Studies can contribute towards decolonization and Indigenous empowerment, particularly for Indigenous people in Canada.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RLG462H1": {
+    "code": "RLG462H1",
+    "name": "Newar Religion",
+    "hours": "24L/24T",
+    "description": "An academic legend recounts that if you ask a Newar whether he is Hindu or Buddhist the answer is yes. The course deals with the problem of how to study religions which coexist and compete with each other creating shifting coordinates of religious identification from the perspective of one specific Nepalese community.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RLG463H1": {
+    "code": "RLG463H1",
+    "name": "Tibetan Buddhism",
+    "hours": "24S",
+    "description": "Close study of major themes, texts, and thinkers in Tibetan Buddhism. Themes and texts will vary by year; consult the departmental website for this year\u2019s course description.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RLG465H1": {
+    "code": "RLG465H1",
+    "name": "Readings in Buddhist Texts",
+    "hours": "24S",
+    "description": "An advanced study of select Buddhist texts with a focus on issues of translation, interpretation, commentarial approaches, narrative strategies, as well as issues related to the production, circulation, and consumption of these works. Themes and texts will vary by year; consult the departmental website for this year\u2019s course description.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "RLG468H1": {
+    "code": "RLG468H1",
+    "name": "Special Topics in Buddhism",
+    "hours": "24S",
+    "description": "This course offers an opportunity to explore a specialized topic in Buddhism. Topics vary depending on the instructor. When offered, a detailed course description of the topic will be available on the Department for the Study of Religion website.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        "RLG206H1"
+      ]
+    }
+  },
+  "RLG471H1": {
+    "code": "RLG471H1",
+    "name": "Special Topics in Hinduism",
+    "hours": "24S",
+    "description": "This course offers an opportunity to explore a specialized topic in Hinduism. Topics vary depending on the instructor. When offered, a detailed course description of the topic will be available on the Department for the Study of Religion website.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        "RLG205H1"
+      ]
+    }
+  },
+  "RLG474H1": {
+    "code": "RLG474H1",
+    "name": "Sanskrit Readings I",
+    "hours": "24S",
+    "description": "This course will have students read choice pieces of South Asian literature. While tackling a text in Sanskrit from a major literary tradition, Buddhist or Hindu, and discussing its content and context, students will learn strategies for translating and interpreting Sanskrit literature.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "RLG359H1",
+        "RLG360H1"
+      ]
+    }
+  },
+  "RLG476H1": {
+    "code": "RLG476H1",
+    "name": "Caste and its \"Other\"",
+    "hours": "24S",
+    "description": "This course focuses on works of South Asian fiction and non-fiction that deal with caste in Indian society. By looking at a range of texts from Classical Sanskrit literature in translation to contemporary radical Dalit perspective writings, we aim to arrive at an understanding of why, despite social and economic mobility, caste remains the indelible marker of modern Indian identity even today.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RLG481H1": {
+    "code": "RLG481H1",
+    "name": "Islamic Intellectual Tradition",
+    "hours": "24S",
+    "description": "This seminar covers three main areas of the Islamic intellectual tradition: legal, theological and mystical. Each section will be covered by reading an original work translated into English with the aid of secondary literature. The seminar will develop the students\u2019 knowledge of the classical Islamic tradition. Students will choose a research topic and develop and present to the class a synopsis of their research. The seminar culminates in writing a research paper on one aspect of the Islamic religious tradition.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "RLG204H1",
+        "RLG355H1"
+      ]
+    }
+  },
+  "RLG490Y1": {
+    "code": "RLG490Y1",
+    "name": "Independent Studies",
+    "hours": "48S",
+    "description": "Student-initiated intensive research courses supervised by faculty members of the Department. The student must obtain both a Supervisor's agreement and the Associate Chair's approval and fill out the Independent Studies Course form in consultation with the Supervisor with information on the proposed course in order to register. The form is available on our website. The maximum number of Independent Studies courses one may take is 2.0 credits. Deadline for submitting applications to Department, including Supervisor's approval, is the end of the first week of classes of the session. A 1.0 credit course may be compressed into a single session or spread through two sessions; a 0.5 credit course may similarly be done in either one session or across two sessions. These courses are open to RLG majors and specialists only. Not eligible for CR/NCR option. Please send completed forms and direct any questions to religion.undergrad@utoronto.ca.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RLG491H1": {
+    "code": "RLG491H1",
+    "name": "Independent Studies",
+    "hours": "24S",
+    "description": "Student-initiated intensive research courses supervised by faculty members of the Department. The student must obtain both a Supervisor's agreement and the Associate Chair's approval and fill out the Independent Studies Course form in consultation with the Supervisor with information on the proposed course in order to register. The form is available on our website. The maximum number of Independent Studies courses one may take is 2.0 credits. Deadline for submitting applications to Department, including Supervisor's approval, is the end of the first week of classes of the session. A full-course may be compressed into a single session or spread through two sessions; a half-course may similarly be done in either one session or across two sessions. These courses are open to RLG majors and specialists only. Not eligible for CR/NCR option. Please send completed forms and direct any questions to religion.undergrad@utoronto.ca.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RLG492H1": {
+    "code": "RLG492H1",
+    "name": "Independent Studies",
+    "hours": "24S",
+    "description": "Student-initiated intensive research courses supervised by faculty members of the Department. The student must obtain both a Supervisor's agreement and the Associate Chair's approval and fill out the Independent Studies Course form in consultation with the Supervisor with information on the proposed course in order to register. The form is available on our website. The maximum number of Independent Studies courses one may take is 2.0 credits. Deadline for submitting applications to Department, including Supervisor's approval, is the end of the first week of classes of the session. A 1.0 credit course may be compressed into a single session or spread through two sessions; a 0.5 credit course may similarly be done in either one session or across two sessions. These courses are open to RLG majors and specialists only. Not eligible for CR/NCR option. Please send completed forms and direct any questions to religion.undergrad@utoronto.ca.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RLG493H1": {
+    "code": "RLG493H1",
+    "name": "Independent Studies",
+    "hours": "24S",
+    "description": "Student-initiated intensive research courses supervised by faculty members of the Department. The student must obtain both a Supervisor's agreement and the Associate Chair's approval and fill out the Independent Studies Course form in consultation with the Supervisor with information on the proposed course in order to register. The form is available on our website. The maximum number of Independent Studies courses one may take is 2.0 credits. Deadline for submitting applications to Department, including Supervisor's approval, is the end of the first week of classes of the session. This 0.5 credit course may be done in either one session or across two sessions. These courses are open to RLG majors and specialists only. Not eligible for CR/NCR option. Please send completed forms and direct any questions to religion.undergrad@utoronto.ca.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RLG494Y1": {
+    "code": "RLG494Y1",
+    "name": "Independent Studies",
+    "hours": "48S",
+    "description": "Student-initiated intensive research courses supervised by faculty members of the Department. The student must obtain both a Supervisor's agreement and the Associate Chair's approval and fill out the Independent Studies Course form in consultation with the Supervisor with information on the proposed course in order to register. The form is available on our website. The maximum number of Independent Studies courses one may take is 2.0 credits. Deadline for submitting applications to Department, including Supervisor's approval, is the end of the first week of classes of the session. A full-course may be compressed into a single session or spread through two sessions; a half-course may similarly be done in either one session or across two sessions. These courses are open to RLG majors and specialists only. Not eligible for CR/NCR option. Please send completed forms and direct any questions to religion.undergrad@utoronto.ca.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RSM100H1": {
+    "code": "RSM100H1",
+    "name": "Introduction to Management",
+    "hours": "24L",
+    "description": "Introduction to management and its subdisciplines. Themes include business in a Canadian context, the nature of corporations, corporate governance, organizational behavior, operations, and strategy. Enrolment limited to students entering the University with an expressed interest in studying at Rotman Commerce.",
+    "exclusions": "MGT100H1,  RSM100Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "RSM210H1": {
+    "code": "RSM210H1",
+    "name": "Special Topics in Management",
+    "hours": "24L",
+    "description": "Topics and Issues in Management. Content in any given year will depend on the instructor. See the Rotman Commerce website (www.rotmancommerce.utoronto.ca) for a full course description.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RSM211H1": {
+    "code": "RSM211H1",
+    "name": "Special Topics in Management",
+    "hours": "24L",
+    "description": "Topics and Issues in Management. Content in any given year will depend on the instructor. See the Rotman Commerce website (www.rotmancommerce.utoronto.ca) for a full course description.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RSM212H1": {
+    "code": "RSM212H1",
+    "name": "Special Topics in Management",
+    "hours": "24L",
+    "description": "Topics and Issues in Management. Content in any given year will depend on the instructor. See the Rotman Commerce website (www.rotmancommerce.utoronto.ca) for a full course description.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RSM213H1": {
+    "code": "RSM213H1",
+    "name": "Special Topics in Management",
+    "hours": "24L",
+    "description": "Topics and Issues in Management. Content in any given year will depend on the instructor. See the Rotman Commerce website (www.rotmancommerce.utoronto.ca) for a full course description.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RSM219H1": {
+    "code": "RSM219H1",
+    "name": "Introduction to Financial Accounting",
+    "hours": "24L/12T",
+    "description": "Basic introduction to financial reporting and analysis. Emphasis is on decision-making and interpretation of financial statements and how they can be used to plan a firm\u2019s overall business activities through the use of real-world companies. Coverage includes the use of accounting information to prepare a basic set of financial statements. Not eligible for CR/NCR option. Contact Rotman Commerce for details. Note: This course is normally taken in first year.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "RSM220H1": {
+    "code": "RSM220H1",
+    "name": "Intermediate Financial Accounting I",
+    "hours": "24L/12T",
+    "description": "Foundations of financial reporting and analysis in Canada. Financial accounting topics are covered at an intermediate level, including both conceptual and technical aspects. Not eligible for CR/NCR option. Contact Rotman Commerce for details.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "RSM219H1"
+  },
+  "RSM221H1": {
+    "code": "RSM221H1",
+    "name": "Intermediate Financial Accounting II",
+    "hours": "24L/12T",
+    "description": "Covers topics such as income statement and balance sheet topics with an emphasis on quality of earnings. Not eligible for CR/NCR option. Contact Rotman Commerce for details.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "RSM220H1"
+  },
+  "RSM222H1": {
+    "code": "RSM222H1",
+    "name": "Management Accounting I",
+    "hours": "24L/12T",
+    "description": "Covers the conceptual and analytical foundations of management accounting and the applications of cost accounting information. Costing and control concepts are analyzed to equip students with tools for establishing costing systems, making business decisions, and evaluating management performance. Materials are designed to help students understand strategic cost management principles. Not eligible for CR/NCR option. Contact Rotman Commerce for details.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "RSM219H1"
+  },
+  "RSM225H1": {
+    "code": "RSM225H1",
+    "name": "Legal Environment of Business I",
+    "hours": "24L",
+    "description": "Introduces students to the Canadian legal system as it relates to business entities. The course focuses on general legal concepts, including sources of law and the court structure; business entity law (including corporate law), commercial law (contract) as well as the law of torts. Not eligible for CR/NCR option. Contact Rotman Commerce for details.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "RSM230H1": {
+    "code": "RSM230H1",
+    "name": "Financial Markets",
+    "hours": "24L",
+    "description": "Introduction to Canadian and international financial markets. This course provides an overview of the major financial institutions, financial markets, financial securities, and an introduction to valuation and trading of securities. Securities discussed include stocks and bonds, as well as some content on derivatives. Not eligible for CR/NCR option. Contact Rotman Commerce for details. Note: This course is normally taken in first year.",
+    "exclusions": "MGT230H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "RSM250H1": {
+    "code": "RSM250H1",
+    "name": "Principles of Marketing",
+    "hours": "24L",
+    "description": "Students receive an introduction to the basic concepts, theories, and methods of contemporary marketing. The course offers a comprehensive framework to develop successful marketing efforts and allows students to create a marketing plan. Specific topics examined: market research, consumer behaviour, segmentation, product policy, pricing, distribution, communications, sales, and direct marketing. Not eligible for CR/NCR option. Contact Rotman Commerce for details. Note: This course is normally taken in first year.",
+    "exclusions": "MGT250H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RSM260H1": {
+    "code": "RSM260H1",
+    "name": "Organizational Behaviour",
+    "hours": "24L",
+    "description": "Theoretical ideas and practical applications concerning the behaviour of individuals and groups in organizations. We explore relevant topics for management: motivation, personality, perception, decision-making, groups, and negotiation. A fee of $10 will be charged to your student account for a simulation handbook. Not eligible for CR/NCR option. Contact Rotman Commerce for details.",
+    "exclusions": "IRE260H1,  PSY332H1,  WDW260H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RSM270H1": {
+    "code": "RSM270H1",
+    "name": "Operations Management",
+    "hours": "24L",
+    "description": "Introduction to the management of business processes that convert inputs (labor, material, equipment) into outputs (goods and services) for internal and external markets. Topics include aggregate planning, inventory processes, supply chain management and service operations management. Presents modern quantitative and computing tools necessary for in-depth operational design and analysis. Not eligible for CR/NCR option. Contact Rotman Commerce for details.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "RSM295Y0": {
+    "code": "RSM295Y0",
+    "name": "Special Topics",
+    "hours": "24L",
+    "description": "The areas of concentration depend on the instructor teaching the course. (Offered only during the summer session through the Summer Abroad Program). Not eligible for CR/NCR option. Contact Rotman Commerce for details.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RSM296Y0": {
+    "code": "RSM296Y0",
+    "name": "Special Topics",
+    "hours": "24L",
+    "description": "The areas of concentration depend on the instructor teaching the course. (Offered only during the Summer Session through the Summer Abroad Program). Not eligible for CR/NCR option. Contact Rotman Commerce for details.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RSM297Y0": {
+    "code": "RSM297Y0",
+    "name": "Special Topics",
+    "hours": "24L",
+    "description": "The areas of concentration and location depend on the instructor teaching the course. (Offered only during the Summer Session through the Summer Abroad Program). Not eligible for CR/NCR option. Contact Rotman Commerce for details.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RSM301H1": {
+    "code": "RSM301H1",
+    "name": "Independent Study",
+    "hours": null,
+    "description": "Open when a faculty member is willing and able to supervise. Students must obtain the approval of the Director of Rotman Commerce and the supervising faculty member before enrolling. Enrolment is restricted to Rotman Commerce students. Consult the Rotman Commerce Office for details. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RSM302H1": {
+    "code": "RSM302H1",
+    "name": "Independent Study",
+    "hours": null,
+    "description": "Open when a faculty member is willing and able to supervise. Students must obtain the approval of the Director of Rotman Commerce and the supervising faculty member before enrolling. Enrolment is restricted to Rotman Commerce students. Consult the Rotman Commerce Office for details. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RSM303Y1": {
+    "code": "RSM303Y1",
+    "name": "Independent Study",
+    "hours": null,
+    "description": "Open when a faculty member is willing and able to supervise. Students must obtain the approval of the Director of Rotman Commerce and the supervising faculty member before enrolling. Enrolment is restricted to Rotman Commerce students. Consult the Rotman Commerce Office for details. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RSM304Y1": {
+    "code": "RSM304Y1",
+    "name": "Independent Study",
+    "hours": null,
+    "description": "Open when a faculty member is willing and able to supervise. Students must obtain the approval of the Director of Rotman Commerce and the supervising faculty member before enrolling. Enrolment is restricted to Rotman Commerce students. Consult the Rotman Commerce Office for details. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RSM310H1": {
+    "code": "RSM310H1",
+    "name": "Special Topics in Management",
+    "hours": null,
+    "description": "Topics and Issues in Management. Content in any given year will depend on the instructor. See the Rotman Commerce website (www.rotmancommerce.utoronto.ca) for a full course description.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RSM311H1": {
+    "code": "RSM311H1",
+    "name": "Special Topics in Management",
+    "hours": null,
+    "description": "Topics and Issues in Management. Content in any given year will depend on the instructor.\u00a0See the Rotman Commerce website (www.rotmancommerce.utoronto.ca) for a full course description.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RSM312H1": {
+    "code": "RSM312H1",
+    "name": "Special Topics in Management",
+    "hours": null,
+    "description": "Topics and Issues in Management. Content in any given year will depend on the instructor. See the Rotman Commerce website (www.rotmancommerce.utoronto.ca) for a full course description.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RSM313H1": {
+    "code": "RSM313H1",
+    "name": "Special Topics in Management",
+    "hours": null,
+    "description": "Topics and Issues in Management. Content in any given year will depend on the instructor.\u00a0See the Rotman Commerce website (www.rotmancommerce.utoronto.ca) for a full course description.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RSM314H1": {
+    "code": "RSM314H1",
+    "name": "Special Topics in Management",
+    "hours": null,
+    "description": "Topics and Issues in Management. Content in any given year will depend on the instructor. See the Rotman Commerce website (www.rotmancommerce.utoronto.ca) for a full course description.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RSM315H1": {
+    "code": "RSM315H1",
+    "name": "Special Topics in Management",
+    "hours": null,
+    "description": "Topics and Issues in Management. Content in any given year will depend on the instructor.\u00a0See the Rotman Commerce website (www.rotmancommerce.utoronto.ca) for a full course description.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "RSM316H1": {
+    "code": "RSM316H1",
+    "name": "Special Topics in Management",
+    "hours": null,
+    "description": "Topics and Issues in Management. Content in any given year will depend on the instructor. See the Rotman Commerce website (www.rotmancommerce.utoronto.ca) for a full course description.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  }
+}

@@ -1,0 +1,1097 @@
+{
+  "RLG201H1": {
+    "code": "RLG201H1",
+    "name": "Indigenous Spiritualities and Religions",
+    "hours": "24L/12T",
+    "description": "This course examines how Indigenous communities saw the world before contact\u2014primarily exploring early creation narratives and ways of engaging with the natural world through ceremonials of reciprocity and acknowledgements. It engages with how early colonial societies and Western-based religions evaluated and understood Indigenous spiritualities and practices. We consider Indigenous critiques of Western religion as it has actually been practiced as opposed to what has been taught as constituting the ideals of civilization. Finally, we analyze how Indigenous communities and culture begin to create \u201cNew Religions\u201d that blend Indigenous values and thinking with aspects of Western culture or emerge in direct response to re-imagining spirituality in attempts to prove humanness and civility in contexts where little of Indigenous culture and values has been seen as acceptable.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "RLG202H1": {
+    "code": "RLG202H1",
+    "name": "Judaism",
+    "hours": "24L/12T",
+    "description": "An introduction to the religious tradition of the Jews that explores key themes as they change from ancient times to today. The set of themes will include: the Sabbath, Study, Place, Household, Power. Each year will focus on one theme. We will read holy texts, modern literature, history, ethnography, and philosophy, covering each theme in a range of genres and across the diverse span of Jewish experience.",
+    "exclusions": "RLG202H5,  RLG202Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RLG203H1": {
+    "code": "RLG203H1",
+    "name": "Christianity",
+    "hours": "24L/12T",
+    "description": "We explore the multiple religious traditions of Christianity and follow key themes as they have changed throughout the last two millennia. The themes might include: the Bible and its translation; missionizing and colonial practices; belief and conversion; authority and power; capitalism and Christianity. The course will equip students to understand how and why Christianity has come to exert such influence around the globe. No familiarity with the Bible, Christianity, or the academic study of religion is assumed.",
+    "exclusions": "RLG203H5,  RLG203Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RLG204H1": {
+    "code": "RLG204H1",
+    "name": "Islam",
+    "hours": "24L/12T",
+    "description": "An introduction to the Islamic religious tradition that explores its diversity and development, from its inception to the modern period. Themes include Pre-Islamic Arabia, the life of Muhammad and the Qur\u2019an, the development of the notion of Sunna and Hadith, Islamic religious communities (Sunni, Shiite and Ismaili traditions), Sufism, and religious practices. The course will emphasize the complexity of the Islamic tradition both in its classical phase and in modernity including Islam in the diaspora.",
+    "exclusions": "RLG204H5,  RLG204Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RLG205H1": {
+    "code": "RLG205H1",
+    "name": "Hinduism",
+    "hours": "24L/12T",
+    "description": "This course explores themes relating to the religion of Hindus, called Hinduism since modernity. Topics include the canonical literatures, philosophies, and doctrines of Hinduism, along with the debates surrounding them; lived Hinduism, and the texts that inform its practice and experience; activities considered quintessential to Hinduism, such as temple visits, yoga, and venerating a guru; and the vibrant spectrum of Hindu expression one encounters in the diaspora. The course will equip students with fluency in core concepts and practices of Hinduism, as well as an understanding of Hindu history as one of dynamism and transformation.",
+    "exclusions": "RLG205H5,  RLG205Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RLG206H1": {
+    "code": "RLG206H1",
+    "name": "Buddhism",
+    "hours": "24L/12T",
+    "description": "This course traces the socio-historical development of Buddhist traditions across the diverse regions of South, Southeast, Central, and East Asia from their foundations in early India to their transmission in the contemporary West. Although much of our time will be spent reading, grappling with, and discussing Buddhist literary works (premodern, modern), we will also consider the institutional and practical dimensions of Buddhism as a lived tradition. To that end, weekly readings and lectures will be supplemented with maps, images, and videos to highlight the vast geographical range and significance of Buddhist traditions over time, as well as their rich visual and material cultures. By the end of the course students are expected to have a solid understanding of the basic timeline of Buddhist history in Asia, together with the major figures, key concepts, central texts, and ritual practices comprising Buddhist traditions.",
+    "exclusions": "RLG206H5,  RLG206Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RLG208H1": {
+    "code": "RLG208H1",
+    "name": "Sikhism",
+    "hours": "24L",
+    "description": "A historical and thematic introduction to the Sikh religious tradition as embedded in the socio-cultural structures of India.",
+    "exclusions": "RLG207H5",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "RLG209H1": {
+    "code": "RLG209H1",
+    "name": "Justifying Religious Belief",
+    "hours": "24L/12T",
+    "description": "Beliefs typically characterized as \u201creligious\u201d concern such things as the existence and nature of the deity, the afterlife, the soul, miracles, and the universe\u2019s meaningfulness, ultimate purpose, or interest in the distribution and realization of justice. Common to these and other religious beliefs is that they lack empirical evidence to support them \u2013 at least so say religious skeptics. They insist that rational beliefs require justification and that justification comes from perceptions anyone could have or solid scientific reasoning. Anyone who harbors religious beliefs thus violates a basic epistemic responsibility. How might people who hold \u2013 and want to continue to hold \u2013 religious beliefs respond to these accusations and doubts?  The course examines these basic epistemological and moral challenges to religious belief as well as the various strategies available to religious believers who are confronted with such demands for justifications. By doing so, we will aim to understand better whether religious beliefs of various sorts could count as rational, whether reasonable people might disagree with each other about the very nature of reality and morality, and whether anyone who falls short of common intellectual and social ideals of rationality and reasonableness ought to be tolerated.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RLG211H1": {
+    "code": "RLG211H1",
+    "name": "Psychology of Religion",
+    "hours": "24L/12T",
+    "description": "This course focuses upon the psychology of religion from the perspectives of psychoanalysis, affective neuroscience, attachment theory and evolutionary psychology. We explore the nature of religious beliefs, experiences and practices as interactive creations of mind and culture. We will inquire into the relationship between belief and knowledge, subjective and objective experience/reality, phantasy, dreams and reality. How does the unconscious create and shape religious beliefs, experiences and practices? How have the insights of the founders of the field been updated by contemporary neuroscientific and evolutionary theories? We consider visionary, esoteric and paranormal experiences and consider the distinctions between mental health and pathology.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RLG212H1": {
+    "code": "RLG212H1",
+    "name": "Anthropology, Religion and Culture",
+    "hours": "24L/12T",
+    "description": "Is religion a matter of belief or a matter of practice? Do all religions share common features? Is one born into religion, or does one learn to be religious? This course is designed to introduce students to some of the ways in which anthropologists have studied and thought about religion. The emphasis is not on memorizing things people believe and do in different societies but on understanding how anthropologists have tried to explain religious phenomena. The themes covered in the course include: magic and religion; the (ir)rationality of belief; the body as a site of knowledge; ritual; ethical self-cultivation; and religion\u2019s role in the secular age.",
+    "exclusions": "RLG212Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RLG213H1": {
+    "code": "RLG213H1",
+    "name": "Embarrassment of Scriptures",
+    "hours": "24L",
+    "description": "How do we interpret sacred texts? This course surveys interpretive approaches, methods, and traditions related to sacred texts. It covers a range of interpretive strategies such as scribal changes, commentary, visual interpretation, feminist retellings, and queer readings. The specific religious traditions, texts, and approaches will vary depending on the instructor. Students will increase their content knowledge of selected texts and their ability to critically engage texts. Prior exposure to the study of religion is not required. All readings will be in English.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RLG214H1": {
+    "code": "RLG214H1",
+    "name": "Mythologies and Religion",
+    "hours": "24L",
+    "description": "Myths and legends are narrative means for humans to make sense of their environment, the organization of their societies, and their social practices. This course introduces the principal myths and mythological figures of a selection of mythic systems (Near Eastern, Celtic, Nordic, Slavic and Indigenous North American) as way of modelling the world. Such topics as creation, chaos and order, love and death, coming of age, the monstrous, and explanations of evil and misfortune, and the survival and the transformation of mythic and folkloric elements.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "RLG215H1": {
+    "code": "RLG215H1",
+    "name": "New Religious Movements",
+    "hours": "24L/12T",
+    "description": "The saying goes that \"Cult + Time = Religion.\" In this course, we will examine this assertion, looking especially at the development of recent religions, such as Scientology. This course will probe the history of scholarship on new religious movements (once known as \"cult studies\") and explore the challenges inherent in studying controversial movements.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RLG217H1": {
+    "code": "RLG217H1",
+    "name": "Black Diaspora Religions",
+    "hours": "24L/12T",
+    "description": "This course critically examines the intersection of religion and cultural expressions in the African Diaspora, with a particular emphasis on the Canadian landscape. The importance of religion in the Black Diaspora's experience of both oppression and liberation will be a key component of our analytic framework in explaining and understanding the Black/African experience and culture in the diaspora.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "RLG218H1": {
+    "code": "RLG218H1",
+    "name": "Traditional Ecological Knowledge and Religion",
+    "hours": "24L/12T",
+    "description": "In modern history, sacred and sacramental understandings of nature have often been marginalised and criticized as primitive and superstitious. Today, these beliefs and practices increasingly present themselves as sources of overlooked ecological knowledge, and resources in our search for a sustainable human-nature relationship. This course focuses upon efforts to recover, reclaim and relegitimise alternative understandings of nature and traditional ecologies in the context of the contemporary environmental crisis. Students will deploy course readings as resources for considering a particular contemporary environmental challenge through field work culminating in a creative environmental project.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RLG222H1": {
+    "code": "RLG222H1",
+    "name": "Witchcraft, Religion and the Powers of the Occult",
+    "hours": "24L/12T",
+    "description": "Picture a witch in your mind\u2019s eye. Do you see them as male, female, or somewhere between the two? Young or old? Good or evil? This course goes beyond common Western assumptions about the character and morality of witchcraft to show how its study, its representation and its practice contribute in vital ways to our understandings of religion, the occult, morality, gender, sexuality and science. We move across Europe, Africa, Melanesia and North America to shed light on a controversial figure in numerous societies and literary traditions, past and present. Depictions of witches, wiccans, sorcerers and magicians are analyzed and compared. At the same time, the course should make you ask yourself: What is rational, what is ethical\u2014and ultimately, what is human?",
+    "exclusions": "RLG337H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "RLG230H1": {
+    "code": "RLG230H1",
+    "name": "Religion, Law and Society",
+    "hours": "24L/12T",
+    "description": "The course examines various issues, including: Canadian society and secularization; religious pluralism and legal pluralism; the role of religions in public contexts; land and property; marriage and women\u2019s rights; and the place of minority religious communities.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "RLG231H1": {
+    "code": "RLG231H1",
+    "name": "Music and Religion: From Bach to Leonard Cohen",
+    "hours": "24L/12T",
+    "description": "What is music to religion? This course is an exploration of religion and music from a global perspective. \u2018World\u2019 music will be placed in comparative frameworks with various \u2018world\u2019 religions in order to understand how music has been and continue to be at the core of religious narratives, rituals, beliefs, and cultural performances.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RLG232H1": {
+    "code": "RLG232H1",
+    "name": "Religion and Film",
+    "hours": "24L",
+    "description": "The role of film as a mediator of thought and experience concerning religious worldviews. The ways in which movies relate to humanity's quest to understand itself and its place in the universe are considered in this regard, along with the challenge which modernity presents to this task. Of central concern is the capacity of film to address religious issues through visual symbolic forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG233H1": {
+    "code": "RLG233H1",
+    "name": "Religion and Popular Culture",
+    "hours": "36L",
+    "description": "A course on the interactions, both positive and negative, between religion and popular culture. We look at different media (television, advertising, print) as they represent and engage with different religious traditions, identities, and controversies.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "RLG234H1": {
+    "code": "RLG234H1",
+    "name": "Language and Religion",
+    "hours": "24L/12T",
+    "description": "What is language to religion? And how is it used by humans and divine agents? This course moves across traditions, examining types of communications from speech to rhetoric to book to revelation; and types of communicators from hermit to evangelist to deity. We will see language used to clarify and to obscure; to exclude and to liberate. And we will think about miscommunication too: the message lost in transmission. All readings will be in English. No knowledge of other languages is required.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "RLG235H1": {
+    "code": "RLG235H1",
+    "name": "Religion, Gender, and Sexuality",
+    "hours": "24L/12T",
+    "description": "This course equips students to understand how norms and practices of gender and sexuality are deeply entangled with religious imaginations and traditions. We will examine how ritual, scriptural, and legal traditions enable and constrain embodied and political power. Readings will draw from feminist, womanist, queer, and other perspectives. With a combination of in-class discussions, critical reading exercises, and short essay assignments, students will strengthen their awareness of transnational intersections of religion, gender, and \"religio-racial\" formations. You will develop skills in analyzing the role of popular culture and legal and religious texts in shaping norms and experiences of gender and embodiment.",
+    "exclusions": "RLG314H5",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RLG236H1": {
+    "code": "RLG236H1",
+    "name": "Material Religion",
+    "hours": "24L",
+    "description": "Religions are more than beliefs or sacred texts. They are also formed through buildings, bodies, objects of devotion, images, websites. We examine how religion is embodied, circulated, built, played, displayed, and painted. We ask why religions are often constituted through feasting or fasting, excess or asceticism, abundance of objects or destruction of icons. Religious activity is explored through its connections with objects of wealth and consumption--not just great art, but items common within popular culture. The overall aim is to \u2018see\u2019 religion in a new way\u2014and to understand the role of the senses in the formation of religious experience.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "RLG237H1": {
+    "code": "RLG237H1",
+    "name": "Religion, Medicine, and the Human Body",
+    "hours": "24L/12T",
+    "description": "Throughout much of human history, considerations of the wondrous workings and frightening frailty of the human body occupied a large role in religious thought and practice. This course examines how religion influenced the development of scientific thought about physiology and medicine, as well as how scientific knowledge was integrated into religious beliefs. Possible topics of discussion include attitudes towards the differences among the sexes, public health needs and the coercion of individuals, the significance of stages of life and aging, contraception and abortion, the relation between mental and physical health, and how to face the prospect of death and disease appropriately. We will also explore the role of pilgrimage sites in healthcare. Finally, we discuss the particular internal conflicts and religious experiences of medical care professionals. Regions and time periods under discussion will vary by instructor.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RLG239H1": {
+    "code": "RLG239H1",
+    "name": "Special Topics",
+    "hours": "24L",
+    "description": "This course offers an opportunity to explore a topic in the study of religion. Topics vary depending on the instructor. When offered, a detailed course description of the topic will be available on the Department for the Study of Religion website.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "RLG241H1": {
+    "code": "RLG241H1",
+    "name": "The Earliest Christians",
+    "hours": "24L/12T",
+    "description": "What can the earliest writings of Early Christianity tell us about the movement and its founding figure? We examine these writings critically and historically in order to understand the immense variety of early Christianity as it grew within Judaism and within the Greco-Roman World. No familiarity with Christianity or the New Testament is expected",
+    "exclusions": "RLG241H5,  HUMC14H3,  RLG241Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RLG242H1": {
+    "code": "RLG242H1",
+    "name": "Bible in America",
+    "hours": "24L",
+    "description": "This course offers a critical examination of the role of biblical texts (Hebrew Bible/Old Testament and New Testament) within the history, literature, and culture of the United States of America. It will employ a range of methodological perspectives to explore the use, influence, and impact of biblical interpretation especially regarding claims of American identity. All readings will be in English. No knowledge of Hebrew or Greek is required.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "RLG243H1": {
+    "code": "RLG243H1",
+    "name": "Naked and Not Ashamed: The Book of Genesis",
+    "hours": "24L",
+    "description": "This course provides a critical introduction to the book of Genesis. It examines the historical and literary contexts of Genesis and engages diverse methods of contemporary biblical scholarship, such as narrative analysis, gender analysis, and history of interpretation. This course highlights the use of Genesis in various Jewish and Christian communities and in popular culture, including music, film, and visual arts. All readings will be in English. No knowledge of Hebrew or Greek is required.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "RLG260H1": {
+    "code": "RLG260H1",
+    "name": "Introduction to Sanskrit I",
+    "hours": "48L",
+    "description": "The first semester of an introduction to Classical Sanskrit for beginners. Students build grammar and vocabulary, and begin to read texts in Sanskrit. Complete beginners are welcome. Two sections of the course will be offered: an on-campus class meeting and an online section via live webinar participation. The final exam will require attendance on the St. George campus, or in another authorized exam centre.",
+    "exclusions": "RLG260Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "RLG261H1": {
+    "code": "RLG261H1",
+    "name": "Introduction to Tibetan I",
+    "hours": "48L",
+    "description": "An introduction to Classical Tibetan language for beginners. Development of basic grammar and vocabulary, with readings of simple texts. Two sections of the course may be offered: an on-campus class meeting and an online section. The final exam will require attendance on the St. George campus, or in another authorized exam centre.",
+    "exclusions": "RLG261Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "RLG262H1": {
+    "code": "RLG262H1",
+    "name": "Introduction to Tibetan II",
+    "hours": "48L",
+    "description": "The second semester of an introduction to Classical Tibetan language course for beginners. Continued work on grammar and vocabulary, advancing to reading texts. Two sections of the course may be offered: an on-campus class meeting and an online section. The final exam will require attendance on the St. George campus, or in another authorized exam centre.",
+    "exclusions": "RLG261Y1",
+    "breadth": 1,
+    "prereq_tree": "RLG261H1"
+  },
+  "RLG263H1": {
+    "code": "RLG263H1",
+    "name": "Introduction to Sanskrit II",
+    "hours": "48L",
+    "description": "The second semester of an introduction to Classical Sanskrit for beginners. Students continue to build grammar and vocabulary, and use that knowledge to read texts in Sanskrit. The course will be offered online via live webinar participation.",
+    "exclusions": "RLG260Y1",
+    "breadth": 1,
+    "prereq_tree": "RLG260H1"
+  },
+  "RLG264H1": {
+    "code": "RLG264H1",
+    "name": "Introductory Pali I",
+    "hours": "36L/12T",
+    "description": "This course offers an opportunity to students interested in Buddhism to read, analyze, and discuss select simple passages from the scriptures of the Theravada canon in their original language. It will cover philosophical, psychological, and narrative texts and their interpretation, as well as provide a first exposure to the Pali Language.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "RLG265H1": {
+    "code": "RLG265H1",
+    "name": "Introductory Pali II",
+    "hours": "36L/12T",
+    "description": "This course offers an opportunity to students interested in Buddhism and with basic knowledge of Pali to read, analyze, and discuss select simple passages from the scriptures of the Theravada canon in their original language. It will cover philosophical, psychological, and narrative texts and their interpretation.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "RLG264H1"
+  },
+  "RLG303H1": {
+    "code": "RLG303H1",
+    "name": "Evil and Suffering",
+    "hours": "24L",
+    "description": "The existence of evil poses a problem to theistic beliefs and raises the question as to whether a belief in a deity is incompatible with the existence of evil and human (or other) suffering. This course examines the variety of ways in which religions have dealt with the existence of evil.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG304H1": {
+    "code": "RLG304H1",
+    "name": "Language, Symbols, Self",
+    "hours": "24L",
+    "description": "Theories of the self that involve the constitutive role of language in its various forms. Problems of socially-conditioned worldviews and sense of self as related to discourse. Myth, symbol, metaphor, and literary arts as vehicles for personality development and self-transformation along religious lines.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG307H1": {
+    "code": "RLG307H1",
+    "name": "Museums and Material Religion",
+    "hours": "24L",
+    "description": "Museums have long collected and curated religious objects for public audiences, with missionaries as a primary collections source. Multiple visits to the Royal Ontario Museum and other museums will enable students to think critically about how museums received and presented these objects, while engaging with the challenges of museum curation.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG308H1": {
+    "code": "RLG308H1",
+    "name": "Migration, Religion and City Spaces",
+    "hours": "24L",
+    "description": "Immigrants have transformed cities through religious practices. Explore how transnational migration has affected religious diversity and vitality in metropolitan areas. Through discussion, site visits and analysis, students will examine the ways that immigrants use religion to make home, challenges around the establishment of new religious structures, and policy designed to accommodate new religious practices and communities.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG309H1": {
+    "code": "RLG309H1",
+    "name": "Religion and Human Rights",
+    "hours": "24L",
+    "description": "We will explore the dynamic inter-relations of women, ethnicities and minorities, among others, within the context of religion in this age of human rights, focusing on the contemporary global context. Our aim will be to include both theory and praxis. The approach will be intersectional, cross-cultural, inter-religious and inter-disciplinary. We will do this by drawing on both academic and non-academic resources, grassroots movements as well as global initiatives to approach these issues.",
+    "exclusions": "RLG309Y1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG310H1": {
+    "code": "RLG310H1",
+    "name": "Modern Atheism and the Critique of Religion: Hobbes to Kant",
+    "hours": "24L",
+    "description": "This course examines select modern thinkers and their critical approaches to the nature and significance of religious beliefs and practices. Hobbes, Spinoza, Hume, and Kant are among the major thinkers studied.",
+    "exclusions": "RLG310Y1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG311H1": {
+    "code": "RLG311H1",
+    "name": "Gender, Body and Sexuality in Asian Traditions",
+    "hours": "24L",
+    "description": "A study of women in the religious traditions of South and East Asia, including historical developments, topical issues, and contemporary women's movements.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG312H1": {
+    "code": "RLG312H1",
+    "name": "Gender, Body and Sexuality in Islam",
+    "hours": "24L",
+    "description": "This course explores attitudes towards sexuality, gender, and women\u2019s bodies in Islamic thought and history. We will read foundational religious texts, classic works of law and ethics, poetry, and historical documents, as well as contemporary reflections by Muslim feminist thinkers. Topics to be discussed include sexual ethics within and outside of marriage, consent to marriage and divorce, contraception and abortion, menstruation, modest dress, gender-based segregation, same-sex sexual attraction, and gender non-conformity.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG313H1": {
+    "code": "RLG313H1",
+    "name": "Love, Sex, Family",
+    "hours": "24L",
+    "description": "This course equips students to understand the religious roots of modern formations of gender, sexuality, and kinship, focusing in particular on Judaism, Christianity, and New Religious Movements. Topics we will cover include: the transformation of traditional religious structures into the modern \u201creligion of romantic love,\u201d the reshaping of religious practices within the modern nuclear family and its gendered division of labour, the persistent religious entanglements within not only normative but also queer and transgressive gender performances and kinship structures, the political asymmetries within which different religious modernities emerge, and the role of literature in preserving religious enchantment in modernity.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG314H1": {
+    "code": "RLG314H1",
+    "name": "Pilgrimage as Idea and Practice",
+    "hours": "24L",
+    "description": "The study of pilgrimage has become increasingly prominent in anthropology and religious studies in recent decades. Why should this be? This course provides some answers while engaging in a cross cultural survey and analysis of pilgrimage practices. We also explore whether research into pilgrimage has wider theoretical significance.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG315H1": {
+    "code": "RLG315H1",
+    "name": "Rites of Passage",
+    "hours": "24L",
+    "description": "We examine rituals of transition from one social status to another (such as childbirth, coming of age, marriage) from theoretical, historical and ethnographic perspectives. We pay particular attention to the importance of rites of passage in the construction of gendered identities.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG317H1": {
+    "code": "RLG317H1",
+    "name": "Religion, Violence, and Non-Violence",
+    "hours": "24L",
+    "description": "People acting in the name of religion(s) have incited violence and worked for peace. How can we understand this tension both today and in the past? Through examination of the power of authoritative tradition, collective solidarity, charisma, and acts of resistance, this course addresses religious justifications of violence and non-violence across varied historical and geographical contexts.",
+    "exclusions": "RLG317H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG318H1": {
+    "code": "RLG318H1",
+    "name": "Sacred & Secular Nature in Christianity",
+    "hours": "24L",
+    "description": "How did we get to where we are now? How did humans come to be so alienated from nature? This course will examine how religion, particularly that of the Latin West, has shaped the understanding of, and interaction with, nature on a global level. It examines the complex shift from understanding nature as sacred and revelatory, to its conceptualisation as a commodity and resource. Students will explore the ethical and cultural consequences of this shift for the human-nature relationship, and contemporary attempts to recover sacred notions of nature in the context of the environmental crisis.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG319H1": {
+    "code": "RLG319H1",
+    "name": "Death, Dying and Afterlife",
+    "hours": "24L",
+    "description": "This course introduces students to various religious approaches to death, the dead, and afterlife. Through considering different ways in which death has been thought about and dealt with, we will also explore different understandings of life and answers to what it means to be human.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG320H1": {
+    "code": "RLG320H1",
+    "name": "Judaism and Christianity in the Second Century",
+    "hours": "24L",
+    "description": "Judaism and Christianity in the period from 70 C.E. to 200 C.E. The course focuses on the relationship between the two religious groups, stressing the importance of the setting within the Roman Empire.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG321H1": {
+    "code": "RLG321H1",
+    "name": "Women and the Hebrew Bible",
+    "hours": "24L",
+    "description": "This course provides a critical examination of the Hebrew Bible (sometimes called the Old Testament) with an emphasis on women characters. It examines the historical and literary contexts of Hebrew Bible texts and engages diverse methods of contemporary biblical scholarship with particular attention to issues of gender. All readings will be in English. No knowledge of Hebrew is required.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG322H1": {
+    "code": "RLG322H1",
+    "name": "Early Gospels",
+    "hours": "24L",
+    "description": "Careful examination of the earliest \u201clives of Jesus\u201d (\u2018gospels\u2019) shows that they offer very different portraits of Jesus of Nazareth. The course will compare ancient biographical accounts of famous ancient figures such as Alexander the Great, the Caesars, and wandering philosophers with early depictions of Jesus, both the gospels that eventually were included in the New Testament, and extra-canonical or \u201capocryphal\u201d gospels such as the Gospels of Thomas, Peter, or Mary.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG323H1": {
+    "code": "RLG323H1",
+    "name": "Jesus of Nazareth",
+    "hours": "24L",
+    "description": "To what extent does Jesus who lived and taught in first-century Galilee and Judea align with the picture of Jesus in early Christian writings? We examine the methods for discerning the historical Jesus and the portraits that result from rigorous application of those methods",
+    "exclusions": "RLG323H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG324H1": {
+    "code": "RLG324H1",
+    "name": "The Apostle Paul and His Enemies",
+    "hours": "24L",
+    "description": "An examination of Paul\u2019s life and thought as seen in the early Christian literature written by him (the seven undisputed letters), about him (the Acts of the Apostles, the Acts of Paul) and in his name (falsely authored compositions in early Christianity).",
+    "exclusions": "RLG324H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG325H1": {
+    "code": "RLG325H1",
+    "name": "The Uses and Abuses of the Bible",
+    "hours": "24L",
+    "description": "From politics to popular culture, the Bible has shaped people and nations for good and for ill. This course introduces the Jewish and Christian Bibles and considers case studies of how biblical texts have been interpreted. The Bible has been used to bolster slavery and white supremacy and to inspire political liberation movements. It has been used to justify annihilation of Indigenous people by Christian colonists yet given hope to Jews that next year in Jerusalem might be better. How can the same \u201cbook\u201d be used for such different purposes? This course focuses on the cultural and political consequences of biblical interpretation. An underlying premise is that the Bible is not static but is rather a nomadic text as it is continuously interpreted in ways that sometimes contribute to human flourishing, but also can result in violence, human diminishment, or death.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG326H1": {
+    "code": "RLG326H1",
+    "name": "Roots of Christianity and Judaism",
+    "hours": "24L",
+    "description": "Judaism and Christianity are both considered \u201creligions of the book\u201d but how are they related to each other? This course considers the origins of that relationship by reading a range of Jewish texts from the 6th century BCE to the 1st century CE, including the Dead Sea Scrolls, in order to illuminate the diverse cultural matrix from which early Christianity and Judaism took shape. A major theme of the course is the formation of scriptures and scriptural interpretation as a factor in shaping distinctive Jewish cultures. Attention is also given to \u201clived religion\u201d and practices that form individuals and communities.",
+    "exclusions": "RLG326H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG327H1": {
+    "code": "RLG327H1",
+    "name": "Hospitality and Ethics in Judaism, Christianity, and Islam",
+    "hours": "24S",
+    "description": "Refugee crises in modern times have raised questions concerning what degree of hospitality is owed the stranger or foreigner whose motivation is a new, safe, and secure home rather than being treated as a guest passing through on a time-limited visa. Jacques Derrida\u2019s ideas of both conditional hospitality (e.g., tourists) and unconditional hospitality (e.g., strangers) need to be explored from the perspective of philosophical and ethical traditions including Jewish, Christian, and Muslim ethics.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG328H1": {
+    "code": "RLG328H1",
+    "name": "Religion, Race, and the Legacy of Cain and Abel",
+    "hours": "24L",
+    "description": "Cain's killing of his brother Abel is one of the best known but least understood stories in the Bible. For thousands of years, interpreters have puzzled over the gaps and ambiguities of the story in order to piece together the how, what, where and why of this violent incident. This course explores the legacies of Cain and Abel across various religious traditions and in art, literature, and popular culture. It considers the surprising roles that this biblical story has played in modern ideas about religion, politics, and race. All readings will be in English. No knowledge of Hebrew is required.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG330H1": {
+    "code": "RLG330H1",
+    "name": "Visions and Revelation in Ancient Judaism and Christianity",
+    "hours": "24L",
+    "description": "What did ancient Jews and Christian see and know when they \u201csaw\u201d God or heavenly realms? Or when they toured hell or the infernal regions? This course examines the ancient imagination by treating the major elements of the apocalyptic literary corpus and accompanying visionary experiences in ancient Judaism and Christianity. Contemporary theories on the function and origin of apocalyptic literature inform our readings.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG331H1": {
+    "code": "RLG331H1",
+    "name": "Creation Narratives and Epistemologies",
+    "hours": "24S",
+    "description": "The course will examine the importance of Indigenous cultural knowledge and values as presented in various Indigenous Creation Narratives. Creation Narratives or Cosmological narratives have long been studied as mere mythology. Yet, it is in these very narratives that complex, layered, and nuanced epistemologies emerge. Often, these narratives not only lay the epistemological frameworks of cultural value systems, but they also contain what many refer to as original instructions and purpose for the \u201cOriginal People\u201d.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG332H1": {
+    "code": "RLG332H1",
+    "name": "Reasonable and Radical Hope",
+    "hours": "24L",
+    "description": "Human beings have a natural and necessary interest in the prospects of their happiness, their moral improvement, and a progressively more just world. When, to what extent, and on what basis our hope for these things could be reasonable have been central questions in philosophy of religion since the Enlightenment. But genocides and cultural devastation (e.g., the Holocaust or the fates of some Indigenous communities) have compelled more recent philosophers to ask not only about rational hope, but also radical hope. This course explores reasonable and radical hope, first by unpacking the well-established philosophical question of our what we may reasonably expect from ourselves and our world, and then turning to the issue of humans\u2019 capacity to persist when their community and its culture face extinction, i.e., when they may no longer expect anything.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG333H1": {
+    "code": "RLG333H1",
+    "name": "Religion, Irreligion, and the Meaning of Life",
+    "hours": "24L",
+    "description": "Humans ask no more important question than: \"what is the meaning of life?\" Given its significance, the question should be asked as thoughtfully as possible. This requires us to understand not only the various religious and philosophical answers (to choose wisely you must know your options), but also the question\u2019s terms (\"what do 'meaning' and 'life' mean?\") and historical conditions (is the question pressing perennially or only in secular societies where life has lost its meaning?). In this course students learn how to ask the question of life\u2019s meaning well in the hopes that thereby they live better, more meaningful lives.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG334H1": {
+    "code": "RLG334H1",
+    "name": "Religion, Space and Diaspora",
+    "hours": "24L",
+    "description": "This course explores the transformation of religion, space and practices in diasporic settings. How is space adapted to the sensibilities of diasporic subjects, and how are the ritual practices that take place in those spaces transformed? The course examines historical and contemporary examples of the impact of diasporas, exile, and immigration on spatial practices in synagogues, churches, mosques, and temples, and ritual transformations in diaspora.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG335H1": {
+    "code": "RLG335H1",
+    "name": "How Religions Spread: Networks and Religion",
+    "hours": "24S",
+    "description": "Social networks are critical in the maintenance and spread of religions. This course offers an introduction to network concepts and, focusing on ancient Mediterranean religions, examines how religious ideas diffuse; networks and the creation of social capital; intersections of religious and trade or business networks; and the collapse of networks.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG336H1": {
+    "code": "RLG336H1",
+    "name": "Religion and its Monsters",
+    "hours": "24L",
+    "description": "A course looking at the theories about and responses to the monstrous in global religious traditions and practices.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG338H1": {
+    "code": "RLG338H1",
+    "name": "Religion and Religiosity in Israel/Palestine",
+    "hours": "24L",
+    "description": "Focusing on present-day Israel/Palestine, this interdisciplinary course is intended for students interested in exploring a wide range of theoretical questions and examining their applicability to the study of sites, texts, rituals, and politics in the region. We will address the history of the land's consecration from Jewish, Christian, and Muslim perspectives. Students will analyze specific sites associated with religious congregations and ritual practices, and study them within their local and regional contexts. Looking at the complex relationships between religious-political movements and institutions within Jewish and Muslim societies, we will delve into various attempts to secularize (and theologize) Jewish and Palestinian communities and their discontents. Rather than providing the typical emphasis on conflict, the course is a journey into the history and present of the land and its diverse communities.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG339H1": {
+    "code": "RLG339H1",
+    "name": "Religious Ethics: The Jewish Tradition",
+    "hours": "24L",
+    "description": "A brief survey of the Jewish biblical and rabbinic traditions; the extension of these teachings and methods of interpretation into the modern period; common and divergent Jewish positions on pressing moral issues today.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG341H1": {
+    "code": "RLG341H1",
+    "name": "Dreaming of Zion: Exile and Return in Jewish Thought",
+    "hours": "24L",
+    "description": "An inquiry into the theme of exile and return in Judaism, often called the leading idea of Jewish religious consciousness. Starting from Egyptian slavery and the Babylonian exile, and culminating in the ideas of modern Zionism, the course will examine a cross-section of Jewish thinkers--ancient, medieval, and modern.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG342H1": {
+    "code": "RLG342H1",
+    "name": "Judaism in the Early Modern Era",
+    "hours": "24L",
+    "description": "The development and range of modern Jewish religious thought from Spinoza, Mendelssohn and Krochmal, to Cohen, Rosenzweig and Buber. Responses to the challenges of modernity and fundamental alternatives in modern Judaism.",
+    "exclusions": "RLG342Y1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG343H1": {
+    "code": "RLG343H1",
+    "name": "Kabbala: A History of Mystical Thought in Judaism",
+    "hours": "24L",
+    "description": "A historical study of the Kabbala and the mystical tradition in Judaism, with emphasis on the ideas of Jewish mystical thinkers and movements.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG344H1": {
+    "code": "RLG344H1",
+    "name": "Antisemitism",
+    "hours": "24L",
+    "description": "Explores how \u201cJews\u201d have been viewed (often mistakenly and confusedly) in various contexts from pre-Christian antiquity to the contemporary world. Emphasis is on problems involved in defining and explaining antisemitism, especially concerning the difference between religious and racial forms of antisemitism.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG345H1": {
+    "code": "RLG345H1",
+    "name": "Social Ecology and Judaism",
+    "hours": "24L",
+    "description": "The environment and human society studied as systems of organization built for self-preservation. Such topics as vegetarianism and the humane treatment of animals, suicide and euthanasia, sustainability and recycling, explored from the perspective of Judaism.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG346H1": {
+    "code": "RLG346H1",
+    "name": "Time and Place in Judaism, Christianity, and Islam",
+    "hours": "24L",
+    "description": "Judaism, Christianity, and Islam each have their own sets of prayer times, frequency of prayers and their locations such as home, synagogue, temple, church or mosque. They have completely different calendrical systems. Holiness is also connected to geographical locations, which often serve as destinations of pilgrimage. This course will examine linear and cyclical times and the concepts of holiness in time and place by looking at primary sources in translation. We will investigate the persistence of holy places, how their names continue, and how gender issues are part of the jurisdictional politics of disputes over place and time.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG347H1": {
+    "code": "RLG347H1",
+    "name": "Judaism in the Late Modern Era",
+    "hours": "24L",
+    "description": "Continuing from, but not presupposing, \"Judaism in the Early Modern Era,\" the course will trace the late modern stages in the development of Jewish thought, and will bring the history of modern Jewish thought to the present.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG348H1": {
+    "code": "RLG348H1",
+    "name": "Philosophical Responses to the Holocaust",
+    "hours": "24L",
+    "description": "This course deals with how the momentous experience of the Holocaust, the systematic state-sponsored murder of six million Jews as well as many others, has forced thinkers, both religious and secular, to rethink the human condition.",
+    "exclusions": "RLG220H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG349H1": {
+    "code": "RLG349H1",
+    "name": "Special Topics in Judaism",
+    "hours": "24S",
+    "description": "This course offers an opportunity to explore a topic in Judaism. Topics vary depending on the instructor. When offered, a detailed course description of the topic will be available on the Department for the Study of Religion website.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG350H1": {
+    "code": "RLG350H1",
+    "name": "The Life of Muhammad",
+    "hours": "24L",
+    "description": "This course examines Muhammad's life as reflected in the biographies and historical writings of the Muslims. Students will be introduced to the critical methods used by scholars to investigate Muhammad's life. Issues include: relationship between Muhammad's life and Quran teachings and the veneration of Muhammad.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG351H1": {
+    "code": "RLG351H1",
+    "name": "The Quran: An Introduction",
+    "hours": "24L",
+    "description": "The revelatory process and the textual formation of the Quran, its pre-eminent orality and its principal themes and linguistic forms; the classical exegetical tradition and some contemporary approaches to its interpretation.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG352H1": {
+    "code": "RLG352H1",
+    "name": "Post-Colonial Islam",
+    "hours": "24L",
+    "description": "This course will study Islam in a post-colonial framework. It will introduce students to the work of post-colonial studies, and how critical scholarship has transformed our understanding of monolithic concepts such as modernity, the nation and Islam. It will focus on the particular case of Islam in South Asia and the Middle East by exposing students to the transformative impact of colonialism. It will equip students with the tools to challenge the hegemonic notion of a singular 'tradition' in Islam by tracing its lineages in the post-colony.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG353H1": {
+    "code": "RLG353H1",
+    "name": "The Politics of Charity",
+    "hours": "24L",
+    "description": "The course examines religious charitable giving, philanthropic foundations, and humanitarian aid and asks: Is charitable giving altruistic or is it always partly self-interested? Could aid perpetuate poverty? What kinds of \"strings\" come with receiving aid and is there such thing like a free gift?",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG354H1": {
+    "code": "RLG354H1",
+    "name": "Marriage and Divorce in Islamic Thought and Practice",
+    "hours": "24S",
+    "description": "This course begins with a survey of the Islamic intellectual tradition on the topics of how people get married, the age of marriage, the emotional and legal bond between spouses, procreation and contraception, divorce, widowhood, and child custody. It continues with an examination of the history of marriage and divorce documents and the relationship between religious theory and social practice. It concludes with an exploration of contemporary discussions within Muslim communities around the world surrounding issues of dowries, polygamy, and divorce.",
+    "exclusions": "RLG458H1 (Advanced Topics in Islam: Marriage and Divorce in Islamic Thought and Practice) offered in Winter 2024.",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG355H1": {
+    "code": "RLG355H1",
+    "name": "Living Islam",
+    "hours": "24L",
+    "description": "This course introduces students to studies of contemporary Islam that are based on extensive periods of research with Muslim communities in their own languages using anthropological methods. What do such studies teach us about the varied ways Muslims engage their religious tradition in the modern world? And how can such studies make us think differently about gender, economy, medicine, and secularism?",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG357H1": {
+    "code": "RLG357H1",
+    "name": "Blood and Babies: Women\u2019s Reproductive Cycles and the Fetus in Christian, Islamic, and Jewish Thought and Law",
+    "hours": "12L/12S",
+    "description": "Reproductive experiences have often played a central role in women\u2019s experience of religion -- spiritually, ritually, and legally. This course explores these themes in classical and medieval Jewish, Christian, and Islamic texts. We will study ritual purity laws and the religious significance of menstruation and other bodily fluids. We will explore attitudes towards contraception, struggles with infertility, and fear of the pain and dangers of childbirth. We will also delve into theological and legal debates about fetal development, the permissibility of abortion, and what happens to the bodies and souls of fetuses and babies who do not survive. Finally, we will explore rituals of the post-partum mother and the newborn child, including naming rituals, Christian baptism, Jewish circumcision and redemption, and Islamic aqiqah.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG358H1": {
+    "code": "RLG358H1",
+    "name": "Special Topics in Hinduism",
+    "hours": "24L",
+    "description": "This course offers an opportunity to explore a topic in Hinduism. Topics vary depending on the instructor. When offered, a detailed course description of the topic will be available on the Department for the Study of Religion website.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG359H1": {
+    "code": "RLG359H1",
+    "name": "Intermediate Sanskrit I",
+    "hours": "24L",
+    "description": "Review of grammar and the development of vocabulary with a focus on reading simple narrative prose and verse.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "RLG260H1",
+        "RLG263H1"
+      ]
+    }
+  },
+  "RLG360H1": {
+    "code": "RLG360H1",
+    "name": "Intermediate Sanskrit II",
+    "hours": "24S",
+    "description": "Review of grammar and the further development of vocabulary with a focus on reading simple narrative prose and verse.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "RLG359H1"
+  },
+  "RLG361H1": {
+    "code": "RLG361H1",
+    "name": "Hinduism: The Great Books",
+    "hours": "24L",
+    "description": "A study of the literatures of Hinduism in India and the diaspora, including issues of identity formation, nostalgic constructions of the \"homeland\", fictional representations, and the quest for authenticity.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG362H1": {
+    "code": "RLG362H1",
+    "name": "Rama of Ayodhya: From Literature to Politics",
+    "hours": "24L",
+    "description": "A study of the figure of Rama, from his genesis in the Valmiki Ramayana, to his historical evolution as a cultural and political icon through mediaeval and modern India.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG363H1": {
+    "code": "RLG363H1",
+    "name": "God and Love in Hinduism",
+    "hours": "24L",
+    "description": "A study of Hindu bhakti traditions through classical and vernacular texts, in conversation with colonial and post-colonial theoretical perspectives on the notion of \"bhakti\" in Hinduism.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG365H1": {
+    "code": "RLG365H1",
+    "name": "Hinduism Today",
+    "hours": "24L",
+    "description": "The development of modern Hindu religious thought in the contexts of colonialism, dialogue with the West and the secular Indian state.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG366H1": {
+    "code": "RLG366H1",
+    "name": "Hindu Philosophy",
+    "hours": "24L",
+    "description": "A study of different schools, texts, and issues of Hindu philosophy.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG368H1": {
+    "code": "RLG368H1",
+    "name": "Yoga, Ayurveda and Other Therapies",
+    "hours": "24L",
+    "description": "The course surveys the textual sources of the practices of Yoga, Ayurveda and Hindu traditions such as domestic rituals, rites of passage and community centered religious activity. It critically evaluates the assumption of an unbroken continuity of tradition of these practices from antiquity onwards and comes to consider what they have come to constitute as a result of modernity and globalization.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG369H1": {
+    "code": "RLG369H1",
+    "name": "The Mahabharata",
+    "hours": "24L",
+    "description": "A study of the great Sanskrit epic, the Mahabharata.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG371H1": {
+    "code": "RLG371H1",
+    "name": "Interdependence",
+    "hours": "24L/12P",
+    "description": "An exploration of the Buddhist concept of interdependence, or interdependent origination, from doctrinal and contemplative perspectives, as presented in classic Buddhist texts and as used in contemporary environmental and activist movements globally.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG372H1": {
+    "code": "RLG372H1",
+    "name": "Engaging Tibet",
+    "hours": "24L",
+    "description": "This course examines the history of global engagement with Tibetan religions, including contemporary adoptions of Tibetan religious identities outside the Tibetan plateau. The course begins in the Buddhist past by examining some of the earliest recorded Tibetan debates on religious identity and authority. It then moves to the modern period to compare non-Tibetan depictions of Tibetan religious traditions with indigenous Tibetan forms of self-representation. The course thus addresses questions regarding the plurality of Tibetan religious identities from Buddhist to B\u00f6n to Islamic and the ways that these identities interact with historical romanticizations of Tibet.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG373H1": {
+    "code": "RLG373H1",
+    "name": "Buddhist Ritual",
+    "hours": "24L",
+    "description": "Daily worship, the alms round, life-crisis celebrations, healing rituals, meditation, festivals, pilgrimage, the consecration of artefacts and taking care of the ancestors are among the forms of Buddhist ritual introduced and analyzed in this course. Liturgical manuals, ethnographic descriptions and audiovisual records form the basis for a discussion of the role of ritual as text and event.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG374H1": {
+    "code": "RLG374H1",
+    "name": "Buddhist Life Stories",
+    "hours": "24L",
+    "description": "This course explores the genres of autobiography and biography in Buddhist literature. The course will begin with theoretical studies on narrative and religious life-writing. We will then consider the development and distinctive features of auto/biographies and hagiographies in the literature of one or more Buddhist cultures, analyzing representative examples of these genres from a range of traditions and historical periods, and considering how these sources have been understood and used in secondary scholarship.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG375H1": {
+    "code": "RLG375H1",
+    "name": "Biohacking Breath",
+    "hours": "24L",
+    "description": "This course explores Buddhist practices of manipulating \u2013 or \u201cbiohacking\u201d \u2013 the breath or \u201cwinds\u201d (pr\u0101na) of the human body, covering relevant theories of human anatomy and physiology and the religious, philosophical, and medical teachings alongside which these practices developed. Intentional breathing practices in the history of European thought and the role of breathwork in contemporary global biohacking movements will also be studied for comparison and contrast. During experiential lab sessions, basic pr\u0101n\u0101y\u0101ma and other breathing practices will be learned and practiced with the guidance of qualified teacher-practitioners.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG376H1": {
+    "code": "RLG376H1",
+    "name": "Touching the Earth",
+    "hours": "24L",
+    "description": "A study of Buddhist relationships with the earth, including \u201cearth touching\u201d contemplative practices, ritual ceremonies for land spirits or sacred sites, geomantic and cosmographic traditions, the use of landscape imagery to depict enlightenment, contrasts between wilderness and urban spaces, and contemporary ecological movements in Buddhist communities and their responses to climate disruption. The course combines experiential learning approaches and outdoor excursions with reading and written work.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "RLG377H1": {
+    "code": "RLG377H1",
+    "name": "Intermediate Tibetan I",
+    "hours": "36S",
+    "description": "This course provides a review of classical Tibetan grammar through the study and translation of texts from a variety of genres. These include selections from Tibetan philosophical works, canonical Buddhist discourses, Tibetan historical writings, autobiographies, and dream narratives.",
+    "exclusions": "RLG370Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "RLG378H1": {
+    "code": "RLG378H1",
+    "name": "Intermediate Tibetan II",
+    "hours": "36S",
+    "description": "This course provides a review of classical Tibetan grammar through the study and translation of texts from a variety of genres. These include selections from Tibetan philosophical works, canonical Buddhist discourses, Tibetan historical writings, autobiographies, and dream narratives.",
+    "exclusions": "RLG370Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  }
+}

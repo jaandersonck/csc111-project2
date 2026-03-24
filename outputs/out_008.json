@@ -1,0 +1,1400 @@
+{
+  "CRE273H1": {
+    "code": "CRE273H1",
+    "name": "The Body: An Exercise",
+    "hours": "24S",
+    "description": "This course will sketch the vital role or the drama of the human body, aspects of its performance, comedy, tragedy and death, through selected parts of history, in life and as reflected in \u201cart.\u201d",
+    "exclusions": "VIC273H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CRE275H1": {
+    "code": "CRE275H1",
+    "name": "Creative Writing: Short Fiction",
+    "hours": "24S",
+    "description": "This course is for aspiring fiction writers who wish to deepen their craft. Each seminar will feature a lecture on technical issues such as plot and characterization, as well as an analysis of a short story by a classic writer. Students will write their own stories, with editorial input from the instructor.",
+    "exclusions": "VIC275H1,  ENG389H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CRE276H1": {
+    "code": "CRE276H1",
+    "name": "Writing for the Stage and Screen",
+    "hours": "24L",
+    "description": "A creative writing course for students interested in an introduction to writing for theatre and film. Seminars will focus on technical issues including plot, characterization, dramatic structure, dialogue, image-based storytelling, and aspects of dramaturgy. Seminars may also include analyses of notable plays and screenplays across a variety of genres. Students will write their own scripts, with editorial input from the instructor.",
+    "exclusions": "VIC276H1,  CIN349H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CRE279H1": {
+    "code": "CRE279H1",
+    "name": "Creative Non-Fiction",
+    "hours": "24S",
+    "description": "This course examines the forms, style, aims, and ethics of non-fictional forms such as documentary writing, journalism, and life-writing. It combines the study of examples from contemporary media with exercises in writing non-fictional prose.",
+    "exclusions": "VIC279H1,  ENG387H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CRE280H1": {
+    "code": "CRE280H1",
+    "name": "Creative Writing: Poetry",
+    "hours": "24S",
+    "description": "A workshop course (with a literature component) in writing poetry. Designed for those with a serious ambition to be writers as evinced in work they are already doing. The literature component emphasizes multicultural dimensions of contemporary writing in English.",
+    "exclusions": "VIC280H1,  ENG388H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CRE281H1": {
+    "code": "CRE281H1",
+    "name": "Popular Music, Technology, and the Human",
+    "hours": "24S",
+    "description": "This course explores ways in which popular music, sound and sound technologies have influenced our understanding of the recent human condition. Drawing on a variety of theoretical perspectives, we consider the musical uses of technology as both a material culture and a set of distinctly innovative practices that can create powerful transformations of consciousness, meaning and value.",
+    "exclusions": "VIC281H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CRE282H1": {
+    "code": "CRE282H1",
+    "name": "Emerging Genres in Creative Writing",
+    "hours": "24S",
+    "description": "A workshop-based seminar on creative writing in an emerging field. Specific genres may include flash fiction, autofiction, interactive fiction, slam poetry, the graphic novel, or the podcast. Focus in any given year to be determined by the instructor and advertised on the Victoria College academic programs website: https://vic.utoronto.ca/academic-programs/special-topics-courses/cre282h",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CRE335H1": {
+    "code": "CRE335H1",
+    "name": "Creativity and Collaboration in Social Enterprise",
+    "hours": "24L",
+    "description": "The course reflects critically on the role of a wide range of new enterprises and entrepreneurs in driving innovation and dynamism. Whether social enterprises, start-ups, community-based organizations, or for-profits, a variety of organizational forms are approaching thorny societal challenges such as driving economic inclusion or combating climate change. Students will explore how the public, private and community sectors can work together to develop creative, ethical and effective approaches to tackling \u2018wicked\u2019 problems.",
+    "exclusions": "VIC335H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CRE345H1": {
+    "code": "CRE345H1",
+    "name": "Evidence Based Approaches to Creativity",
+    "hours": "24S",
+    "description": "The seminar course pursues two goals. First, it provides an introduction to the latest scientific findings concerning creativity, by drawing on a broad range of scientific disciplines, such as psychology, neurobiology, sociology, anthropology, and education science. The topics include creative personality, the process of creation, as well as the sociocultural context of creativity. Second, it investigates various techniques that can help us learn to be more creative. This will involve discussions on how to choose one\u2019s domain and field, be intrinsically motivated, how to collaborate, and how to brainstorm productively. Students will be given an opportunity to apply these techniques to specific fields of their choosing.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CRE349H1": {
+    "code": "CRE349H1",
+    "name": "Special Topics in Creativity",
+    "hours": "24S",
+    "description": "Topics vary from year to year depending upon instructor. Please see the Victoria College website for specific details about this year's offerings: https://vic.utoronto.ca/academic-programs/special-topics-courses/cre349h.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CRE350Y1": {
+    "code": "CRE350Y1",
+    "name": "Creative Writing",
+    "hours": "48S",
+    "description": "A workshop course (with a literature component) in writing fiction and poetry. Designed for those with a serious ambition to be writers as evinced in work they are already doing. Does not offer instruction for beginning writers. Presupposes perfect and sophisticated written language skills. The Literature component emphasizes multicultural dimensions of contemporary writing in English. Admission by application.",
+    "exclusions": "VIC350Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CRE353H1": {
+    "code": "CRE353H1",
+    "name": "Creativity and Altered Consciousness",
+    "hours": "24S",
+    "description": "This course provides the opportunity to study the relationship between creativity and altered states of consciousness through historical, cultural, and psychological perspectives. Focusing on the connection between artistic production and abnormal or extraordinary forms of perception, it grounds creativity as both a biological human capacity and a historically and culturally contingent category. Potential topics may include artistic activity in dialogue with intoxication and addiction, religion and spirituality, meditation and wellness, sports and physical exertion, dreams and liminal states, mental and physical illness, and technologically mediated consciousness.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CRE370H1": {
+    "code": "CRE370H1",
+    "name": "Music and the Imagination",
+    "hours": "24S",
+    "description": "This course explores how music creatively reflects and inspires our sense of self, place and community through readings, close listening, case studies, and creative responses. We consider various sites of musical imagination, and the genres that intersect with them. Course discussion addresses how music participates in the social life of creativity, imagination and fantasy, and what these roles mean for music's significance in society and culture. No prior experience in music composition required.",
+    "exclusions": "VIC370H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CRE371H1": {
+    "code": "CRE371H1",
+    "name": "Documenting Reality",
+    "hours": "24S",
+    "description": "This seminar course explores methods of capturing, representing, and constructing reality through documentary media. Emphases will include opportunities and challenges brought by technical developments in the digital era, and the history and evolution of documentary work in print and/or photography. Students consider methods and innovations of major practitioners; ethical issues such as privacy, subjectivity, and objectivity; and partisanship and the effects of artificial intelligence and other automatic tools.",
+    "exclusions": "VIC371H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CRE372H1": {
+    "code": "CRE372H1",
+    "name": "Reviewing, Reception, and Reading Communities",
+    "hours": "24S",
+    "description": "While readers and audiences often are considered to be cultural \"consumers,\" this course will consider reception as an active, creative, and often collaborative activity, by examining formal and informal practices of reviewing and response that may include fan/fanfic cultures, book clubs, community and nation-wide reading programs, and award competitions. Such contexts of reception will be considered along with their social, economic, and ethical implications.",
+    "exclusions": "VIC372H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CRE373H1": {
+    "code": "CRE373H1",
+    "name": "Archives and the Art of Memory",
+    "hours": "24S",
+    "description": "What is an Archive? What kind of history and culture does it Preserve? Or does it bury things forever? Who gets to be an archivist and who gets to tell the story? How can an archive preserve the stories of marginalized people? Can voices from the archive be brought back to life? In the context of a series of readings, presentations and projects the course focuses on case studies of government-housed and sponsored archives, family archives, archives of cultural institutions, grassroot archival initiatives, and of course digital archives. Each student will have an opportunity to produce an artistic project based on an archival research or create their own imaginary archive.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CRE374H1": {
+    "code": "CRE374H1",
+    "name": "Cultural Encounters: Identity and Transformation in the Arts",
+    "hours": "24S",
+    "description": "This course focuses on specific scenes of cultural cross-pollination and on how these encounters are reflected in the arts. Areas of investigation might include the Harlem Renaissance, French Surrealism in the Caribbean, Bollywood / Hollywood, Indigenous Hip-Hop, or contemporary Toronto as a convergence of creative energy. How have artists from marginalized communities taken up and adapted modes of expression for their own creative purposes? How can new forms of artistic representation contest and undermine systemic social and political inequalities? This course focuses on liberating aesthetic innovations that respond to historically embedded cultural encounters.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "CRE375H1": {
+    "code": "CRE375H1",
+    "name": "Histories of Creativity",
+    "hours": "24S",
+    "description": "This course provides an opportunity for in-depth study of the way creativity and innovation were practiced in earlier periods, in order to explore creativity as a historically and culturally contingent category and provide a comparative grounding for contemporary concepts of creativity. Historical case studies will range from Classical antiquity to the nineteenth century and may include topics such as how new forms and ideas emerge in the arts, architecture, and design; innovation in scientific knowledge and its representation; practices of improvisation in theatre and other artforms; the evolution of new genres and media.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CRE449H1": {
+    "code": "CRE449H1",
+    "name": "Special Topics in Creativity",
+    "hours": "24S",
+    "description": "Topics vary from year to year depending upon instructor. Please see the Victoria College website for specific details about this year's offerings: https://vic.utoronto.ca/academic-programs/special-topics-courses/cre449h.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "CRE470H1": {
+    "code": "CRE470H1",
+    "name": "Soundscapes",
+    "hours": "24S",
+    "description": "This course surveys the growth of the field of Acoustic Ecology and the aesthetic, political, and ethical questions it engages. Students learn about creative and musical practices associated with this new attention to sound, and they gain experience with the practice of field recording and sonic-environmental sampling. The course culminates with a final Soundscape composition or creative mapping project. No previous experience in sound recording or composition required.",
+    "exclusions": "VIC470H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "CRE479H1": {
+    "code": "CRE479H1",
+    "name": "Fiction: A Master Class",
+    "hours": "24S",
+    "description": "A workshop course in writing fiction. Designed for those with a serious ambition to be writers as evinced in work they are already doing. Does not offer instruction for beginning writers. Admission by application.",
+    "exclusions": "VIC479Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "CRE479Y1": {
+    "code": "CRE479Y1",
+    "name": "The Novel: A Master Class",
+    "hours": "48S",
+    "description": "Advanced young writers in this fourth-year seminar work to produce a short novel appropriate for submission to an agent or a publisher. The class does not offer instruction for beginning writers. It is intended for serious writers interested in learning about writing novels at a professional level. Admission by application.",
+    "exclusions": "VIC479Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "CRE480H1": {
+    "code": "CRE480H1",
+    "name": "Poetry: A Master Class",
+    "hours": "24S",
+    "description": "A workshop course in writing poetry. Designed for those with a serious ambition to be writers as evinced in work they are already doing. Does not offer instruction for beginning writers. Presupposes perfect and sophisticated written language skills. Admission by application.",
+    "exclusions": "VIC480H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "CRI100H1": {
+    "code": "CRI100H1",
+    "name": "True Crime? The Myths and Realities of Media Depictions of Crime and Justice",
+    "hours": "24L/12T",
+    "description": "The course will explore how crime and criminal justice institutions (the police, the courts and corrections) are depicted in the news, movies, television and on social media. The course will focus on how these depictions impact both public opinion and politics. The course will also examine how media depictions and public perceptions of crime and justice often differ dramatically from the empirical evidence produced by Criminological and Social Legal research.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CRI205H1": {
+    "code": "CRI205H1",
+    "name": "Introduction to Criminology",
+    "hours": "24L/12T",
+    "description": "An introduction to the study of crime and criminal behaviour. The concept of crime, the process of law formation, and the academic domain of criminology. Theories of crime causation, methodologies used by criminologists, and the complex relationship between crime, the media and modern politics.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CRI210H1": {
+    "code": "CRI210H1",
+    "name": "Criminal Justice",
+    "hours": "24L/12T",
+    "description": "An introduction to the Canadian criminal justice system. The institutions established by government to respond to crime and control it; how they operate, and the larger function they serve; including the role of the police, the trial process, courts and juries, sentencing, imprisonment and community corrections.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "CRI205H1"
+  },
+  "CRI215H1": {
+    "code": "CRI215H1",
+    "name": "Introduction to Sociolegal Studies",
+    "hours": "24L/12T",
+    "description": "The course covers several major issues that will help prepare students for advanced courses in the criminology major: the meaning of law, the production of laws and legal institutions, law in action, comparative legal traditions, and the methodology of sociolegal studies.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CRI225H1": {
+    "code": "CRI225H1",
+    "name": "Criminal Law",
+    "hours": "24L/12T",
+    "description": "The main principles and themes of Canadian criminal law; legal definitions of crime, requirements of a criminal act (actus reus), criminal intention (mens rea), causation and defences. The origins, goals and functioning of criminal law, and limits on the power of the state to criminalize behaviour.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CRI299H1": {
+    "code": "CRI299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities\u2026. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CRI299Y1": {
+    "code": "CRI299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities\u2026. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CRI300H1": {
+    "code": "CRI300H1",
+    "name": "Theories of Criminal Justice",
+    "hours": "36L",
+    "description": "A survey of the evolution of normative theories of criminal justice, which examines how major theorists from the Enlightenment to the contemporary period have understood the normative justification for criminal prohibition and punishment. Although the course focuses on western political philosophy and social science, there will also be some attention to theories of criminal justice in selected non-western traditions.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "CRI205H1",
+            "CRI225H1"
+          ]
+        },
+        {
+          "credits": 1.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "CRI322H1": {
+    "code": "CRI322H1",
+    "name": "Inequality and Criminal Justice",
+    "hours": "36L",
+    "description": "This course examines the intersections between social inequality and the criminal justice system in Canada and internationally. The course explores how factors such as race, ethnicity, gender, sexual orientation and religion influence perceptions of and experiences with crime and criminal justice.",
+    "exclusions": "CRI391H1 (Topics in Criminology and Sociolegal Studies: Inequality and Criminal Justice) offered in Winter 2018, Summer 2018, Summer 2019, Winter 2020,  SOC322H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 1.0,
+          "department": ""
+        },
+        "CRI205H1",
+        "CRI210H1",
+        "SOC212H1"
+      ]
+    }
+  },
+  "CRI335H1": {
+    "code": "CRI335H1",
+    "name": "Policing",
+    "hours": "36L",
+    "description": "A theoretical framework is developed to examine the nature of policing, its structure and function. Attention is given to the history of policing as a global form of social practice. We examine the perspectives of both \u201cthe police\u201d and \u201cthe policed\u201d, as well as the objectives, domains, strategies, and authority of contemporary policing, including decision-making, organizational culture, and accountability.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CRI210H1",
+        "CRI215H1"
+      ]
+    }
+  },
+  "CRI340H1": {
+    "code": "CRI340H1",
+    "name": "Punishment: Theory and Practice",
+    "hours": "36L",
+    "description": "The study of punishment from historical and philosophical perspectives, with a focus on contemporary Canadian policy issues. Topics covered include penal theory, prisons and non-carceral forms of punishment, and the goals of penal reform.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CRI205H1",
+        "CRI210H1",
+        "CRI225H1"
+      ]
+    }
+  },
+  "CRI343H1": {
+    "code": "CRI343H1",
+    "name": "Comparative Criminal Justice",
+    "hours": "36L",
+    "description": "Criminal justice issues outside Canada, based on a variety of international and historical studies. The evolution of criminal justice systems in Western Europe, including the English adversarial and continental European inquisitorial approaches. A comparison of policing, criminal procedure, forms of punishment, and crime rates in the contemporary world.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CRI205H1",
+        "CRI210H1",
+        "CRI225H1"
+      ]
+    }
+  },
+  "CRI345H1": {
+    "code": "CRI345H1",
+    "name": "History of Criminal Justice",
+    "hours": "36L",
+    "description": "The course offers a historical perspective on the development of the legal doctrines, professions and institutions that define criminal justice in Canada and the broader common law world today. Topics include the shift from medieval trial by ordeal and torture to the modern reliance on expert witnesses and forensic science; the emergence of the adversarial trial; the growth of the legal profession; the birth of policing; the rise of the penitentiary; and the changing fortunes of the death penalty. The course focuses primarily on the period from the eighteenth century to the present. Students will be introduced to historical debates and ways of thinking and writing about law and crime. We will explore how culture, politics, economics and social life are essential to how we understand the foundational elements of criminal justice, including concepts of truth, guilt, legitimacy, fairness and violence.",
+    "exclusions": "CRI392H1 (Topics in Criminology and Sociolegal Studies: History of Criminal Justice in the Common Law World) offered in Winter 2018, Winter 2019, Winter 2020",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 1.0,
+          "department": ""
+        },
+        "CRI215H1",
+        "CRI210H1",
+        "SOC212H1",
+        "SOC313H1",
+        "HIS268H1"
+      ]
+    }
+  },
+  "CRI350H1": {
+    "code": "CRI350H1",
+    "name": "Understanding Criminological Research",
+    "hours": "36L",
+    "description": "An introduction to social science research methods used by criminologists and to the statistical analysis of criminological data. An understanding of the strengths and weaknesses of published criminological research is developed. Specific technical issues related to sampling, measurement, and data analysis are taught in the context of examining ways of answering research questions.",
+    "exclusions": "SOC200H1,  SOC200Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CRI205H1",
+        "CRI210H1"
+      ]
+    }
+  },
+  "CRI364H1": {
+    "code": "CRI364H1",
+    "name": "Indigenous Peoples & Criminal Justice",
+    "hours": "36L",
+    "description": "An introduction to issues affecting Indigenous peoples in the Canadian criminal justice system identified by Indigenous scholars, activists and allies. Topics include: effects of colonization, legal discrimination and disenfranchisement, Treaties and land claims, criminalization, Indigenous activism, and the Truth and Reconciliation Commission.",
+    "exclusions": "CRI394H1 Topics: Indigenous Peoples & Criminal Justice taken in 20171",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 1.0,
+          "department": ""
+        },
+        "CRI205H1",
+        "CRI210H1",
+        "CRI215H1",
+        "CRI225H1"
+      ]
+    }
+  },
+  "CRI365H1": {
+    "code": "CRI365H1",
+    "name": "Crime and Mind",
+    "hours": "36L",
+    "description": "Legal, psychological and sociological understandings of issues in the criminal justice system, through a consideration of topics including: criminal intent, the Not Criminally Responsible on Account of Mental Disorder defence, the use of battered woman syndrome as part of a self-defence, infanticide, issues of transcultural psychiatry, and jury screening for bias.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 1.0,
+          "department": ""
+        },
+        "CRI205H1",
+        "CRI210H1",
+        "CRI225H1"
+      ]
+    }
+  },
+  "CRI370H1": {
+    "code": "CRI370H1",
+    "name": "Youth Justice",
+    "hours": "36L",
+    "description": "The course will examine what is known about offending by youths and the various purposes that have been attributed to youth justice systems. The course will focus, in large part, however, on the nature of the laws and youth justice systems that have been designed in Canada and elsewhere to respond to offending by youths.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CRI205H1",
+        "CRI210H1",
+        "CRI225H1"
+      ]
+    }
+  },
+  "CRI372H1": {
+    "code": "CRI372H1",
+    "name": "Regulating Citizenship",
+    "hours": "36L",
+    "description": "The course examines selected topics in the scholarly study of citizenship, including the history of citizenship, normative theories of democratic citizenship, rights and duties of citizenship, acquisition and loss of citizenship, and related issues, such as multiple citizenship, statelessness, and the international law of citizenship. Readings come from law, history, political science, and other disciplines; and cover Canada, other western societies, and developing countries. The course comprises three basic units: the normative basis and historical evolution of citizenship, including a case study of Canada, policies governing the acquisition and loss of citizenship in Canada and elsewhere, and the parameters of citizenship and lack of citizenship in the contemporary world. Students will gain an understanding of the historical evolution of forms of political membership in both western and non-western societies, the constitutive role of citizenship in creating and maintaining individual rights, and the development and contemporary regulation of Canadian citizenship in comparative international perspective.",
+    "exclusions": "CRI392H1 (Topic: Regulating Citizenship) offered in Fall 2021,  CRI394H1 (Topic: Regulating Citizenship) offered in Fall 2017, 2018, and 2019",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 1.0,
+          "department": ""
+        },
+        "CRI205H1",
+        "CRI210H1",
+        "CRI225H1"
+      ]
+    }
+  },
+  "CRI380H1": {
+    "code": "CRI380H1",
+    "name": "Crime, Gender and Sex",
+    "hours": "36L",
+    "description": "Theory, research and policy related to the ways in which gender shapes criminal behaviour, the administration of criminal justice, and the criminal law. How notions of different types of masculinity and femininity are embedded in and influence both the operation of the criminal justice system as well as criminal behaviours. The regulation of gender and sexuality through the criminal law and through crime.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "CRI205H1",
+            "CRI210H1"
+          ]
+        },
+        "SOC212H1"
+      ]
+    }
+  },
+  "CRI383H1": {
+    "code": "CRI383H1",
+    "name": "Immigration, Ethnicity and Crime",
+    "hours": "36L",
+    "description": "The connection between immigration and crime, the effect of immigration on crime rates, discrimination against immigrants, the representation of immigrants in crime statistics, public perception of risk and security, and criminal justice policy changes which affect immigration. We consider research conducted in North America and Europe.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CRI205H1",
+        "SOC212H1"
+      ]
+    }
+  },
+  "CRI385H1": {
+    "code": "CRI385H1",
+    "name": "Representing Crime and Authority",
+    "hours": "36L",
+    "description": "Cultural constructions of crime, disorder, dangerousness and risk are integral parts of the criminal justice system. A critical analysis of how criminal justice personnel, the media, and academic criminologists construct their authority through symbols and images, in order to \u201cexplain\u201d and manage crime, and how these representations are regarded in public discourse.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 1.0,
+          "department": ""
+        },
+        "CRI205H1",
+        "CRI210H1",
+        "CRI225H1"
+      ]
+    }
+  },
+  "CRI386H1": {
+    "code": "CRI386H1",
+    "name": "Origins of Criminal Justice",
+    "hours": "36L",
+    "description": "Criminal justice practice, as well as political debate concerning crime and criminal justice, are often influenced by ideas that are initially developed outside the criminal justice arena. This course examines the history, current influence and efficacy of a range of such ideas, such as: the role of religious practice in rehabilitating offenders; military service and participation in sports as preventive of delinquency; the influence of environmental pollution on crime rates; the concept of the \u2018problem family\u2019; intelligence based policing and the use of management theories in criminal justice organizations. Note: The course may include an optional Service Learning component. If offered, additional information will be provided in the Faculty of Arts and Science's timetable.",
+    "exclusions": "CRI390H1 Roots of Criminal Justice Policy taken in 20141/20151/20161.",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CRI205H1",
+        "CRI210H1"
+      ]
+    }
+  },
+  "CRI389Y0": {
+    "code": "CRI389Y0",
+    "name": "Topics in Criminology and Sociolegal Studies Abroad",
+    "hours": null,
+    "description": "Topics in Criminology and Sociolegal Studies offered in an international setting. The content may vary from year to year.Details are posted on the Summer Abroad website.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CRI390H1": {
+    "code": "CRI390H1",
+    "name": "Topics in Criminology and Sociolegal Studies",
+    "hours": "36L",
+    "description": "The objective of the course is to explore emerging issues in Criminology, and their social, legal, ethical and political implications. Topics vary from year to year.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 1.0,
+          "department": ""
+        },
+        "CRI205H1",
+        "CRI210H1",
+        "CRI225H1"
+      ]
+    }
+  },
+  "CRI391H1": {
+    "code": "CRI391H1",
+    "name": "Topics in Criminology and Sociolegal Studies",
+    "hours": "36L",
+    "description": "The objective of the course is to explore emerging issues in Criminology, and their social, legal, ethical and political implications. Topics vary from year to year.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 1.0,
+          "department": ""
+        },
+        "CRI205H1",
+        "CRI210H1",
+        "CRI225H1"
+      ]
+    }
+  },
+  "CRI392H1": {
+    "code": "CRI392H1",
+    "name": "Topics in Criminology and Sociolegal Studies",
+    "hours": "36L",
+    "description": "The objective of the course is to explore emerging issues in Criminology, and their social, legal, ethical and political implications. Topics vary from year to year.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 1.0,
+          "department": ""
+        },
+        "CRI205H1",
+        "CRI210H1",
+        "CRI225H1"
+      ]
+    }
+  },
+  "CRI393H1": {
+    "code": "CRI393H1",
+    "name": "Topics in Criminology and Sociolegal Studies",
+    "hours": "36L",
+    "description": "The objective of the course is to explore emerging issues in Criminology, and their social, legal, ethical and political implications. Topics vary from year to year.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 1.0,
+          "department": ""
+        },
+        "CRI205H1",
+        "CRI210H1",
+        "CRI225H1"
+      ]
+    }
+  },
+  "CRI394H1": {
+    "code": "CRI394H1",
+    "name": "Topics in Criminology and Sociolegal Studies",
+    "hours": "36L",
+    "description": "The objective of the course is to explore emerging issues in Criminology, and their social, legal, ethical and political implications. Topics vary from year to year.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 1.0,
+          "department": ""
+        },
+        "CRI205H1",
+        "CRI210H1",
+        "CRI225H1"
+      ]
+    }
+  },
+  "CRI395H1": {
+    "code": "CRI395H1",
+    "name": "Independent Study",
+    "hours": null,
+    "description": "Independent study under the direction of a faculty member. It is recommended that student approaches a Criminology and Sociolegal Studies Faculty member who might willing to supervise their work in  CRI395H1. If student has found a faculty member willing to supervise their proposal, they must complete the application form with the help of their supervisor. A detailed description of the proposal is required. Enrolment is limited to students in the Criminology and Sociolegal Studies program. Students are not entitled to take more than 1.0 credit of  CRI395H1 course. Consult the program website for additional information. Not eligible for CR/NCR option.",
+    "exclusions": "CRI395Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CRI205H1",
+        "CRI210H1",
+        "CRI225H1",
+        {
+          "credits": 1.0,
+          "department": "CRI"
+        }
+      ]
+    }
+  },
+  "CRI396H1": {
+    "code": "CRI396H1",
+    "name": "Research Participation",
+    "hours": null,
+    "description": "Credit course for supervised participation in a faculty research project. Offered only when a full-time appointed faculty member from the Centre for Criminology & Sociolegal Studies is willing and available to supervise. Students must contact faculty members currently teaching in the Criminology and Sociolegal Studies program to find out if there are any research participation opportunities available. Students requesting enrolment in a research participation course are advised to select an alternative course until the status of their enrolment is confirmed. Together with your supervisor, complete and submit a request for enrolment application form and the research ethics approval confirmation letter (if required). Submit the form by the beginning of the first week of the semester. Consult the program website for additional information. Not eligible for CR/NCR option.",
+    "exclusions": "CRI397Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "CRI398H0": {
+    "code": "CRI398H0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CRI398Y0": {
+    "code": "CRI398Y0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CRI399H1": {
+    "code": "CRI399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CRI399Y1": {
+    "code": "CRI399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CRI420H1": {
+    "code": "CRI420H1",
+    "name": "Current Issues in Criminal Law",
+    "hours": "24S",
+    "description": "An advanced seminar exploring in detail current issues in criminal law. The objective of the course is to discuss current policy and case law developments in the criminal law, and their social, political and ethical implications. The role of Parliament and the judiciary in the development of the criminal law is considered. Topics vary from year to year.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "CRI"
+    }
+  },
+  "CRI422H1": {
+    "code": "CRI422H1",
+    "name": "Indigenous Law",
+    "hours": "24S",
+    "description": "Seminar course exploring Indigenous law, settler state law, and the complex interrelationship between the two in Canada. Topics include: legal sources, forms and processes; sovereignty, territory and jurisdiction; treaty relationships; Indigenous peoples in international law; Indigenous rights and the constitution; environmental use, relations and protection; and Indigenous self-determination and governance.",
+    "exclusions": "CRI490H1 Advanced Topics in Criminology: Indigenous Law taken in 20169",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 1.0,
+          "department": ""
+        },
+        "CRI205H1",
+        "CRI210H1",
+        "CRI215H1",
+        "CRI225H1",
+        {
+          "credits": 0.5,
+          "department": "CRI"
+        }
+      ]
+    }
+  },
+  "CRI425H1": {
+    "code": "CRI425H1",
+    "name": "The Prosecution Process",
+    "hours": "24L",
+    "description": "A critical examination of the process by which certain conduct is identified, prosecuted and punished as \u201ccrime\u201d, and the process by which individuals become \u201ccriminals\u201d. The evolution of the modern prosecution system, including the exercise of prosecutorial discretion, rules of evidence, socially constructed defences, disparity in sentencing, and wrongful convictions.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CRI205H1",
+        "CRI210H1",
+        "CRI225H1",
+        {
+          "credits": 0.5,
+          "department": "CRI"
+        }
+      ]
+    }
+  },
+  "CRI427H1": {
+    "code": "CRI427H1",
+    "name": "Organized Crime and Corruption",
+    "hours": "24S",
+    "description": "An advanced seminar exploring the history and characteristics of organized crime and corruption.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "CRI"
+    }
+  },
+  "CRI428H1": {
+    "code": "CRI428H1",
+    "name": "Policing the City: Crime, Community and Inequality",
+    "hours": "24S",
+    "description": "An advanced seminar exploring the connection between neighbourhoods and the perpetuation of poverty, social marginalization, segregation and crime. The course may include an optional Service Learning component. Check the timetable for details.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "CRI"
+    }
+  },
+  "CRI429H1": {
+    "code": "CRI429H1",
+    "name": "Youth Culture, Racialization and Crime in the Global Context",
+    "hours": "24S",
+    "description": "An advanced seminar exploring youth culture and its possible connection to criminality from an international perspective.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "CRI"
+    }
+  },
+  "CRI431H1": {
+    "code": "CRI431H1",
+    "name": "Mental Health, Morality & Legal Controls",
+    "hours": "24S",
+    "description": "A critical exploration of contemporary debates in criminology, and legal and moral philosophy concerning the diagnostic and criminal justice labeling of mental disorders such as psychopathy and paedophilia, and their representation in popular culture.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "CRI"
+    }
+  },
+  "CRI435H1": {
+    "code": "CRI435H1",
+    "name": "Advanced Seminar in Policing",
+    "hours": "24S",
+    "description": "This course will explore policing in a comparative and historical context. Issues to be covered include the following: the maintenance of law and order before police forces; development of police forces in continental Europe and the English-speaking world; structure and function of national police forces around the world today; the role of political and secret police forces; and contemporary debates on the mission and regulation of the police in contemporary North America including issues such as police-community relations, private policing, and counter-terrorism.",
+    "exclusions": "CRI3130H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "CRI"
+    }
+  },
+  "CRI450H1": {
+    "code": "CRI450H1",
+    "name": "Advanced Research/Reading",
+    "hours": null,
+    "description": "A supervised individual or group project under the direction of a faculty member from the Centre for Criminology & Sociolegal Studies. Offered only when a full-time appointed faculty member from the Centre for Criminology & Sociolegal Studies is willing and available to supervise. Students must contact Faculty members currently teaching in the Criminology and Sociolegal Studies program to find out if there are any individual or group project opportunities available. Students requesting enrolment in a research participation course are advised to select an alternative course until the status of their enrolment is confirmed. Together with your supervisor, complete and submit a request for enrolment application form and the research ethics approval confirmation letter (if required). Submit the form by the beginning of the first week of the semester. Form is available on the Program Office website. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.5,
+      "department": "CRI"
+    }
+  },
+  "CRI480H1": {
+    "code": "CRI480H1",
+    "name": "Interpersonal Violence",
+    "hours": "24S",
+    "description": "The meaning, purposes and sources of interpersonal violence, including an examination of debates over defining and documenting violence, and a review of the research on the relationships between illegitimate, interpersonal violence and state-approved or state-initiated violence. Cultural, social and individual correlates of interpersonal violence; the violence of the law; and how violence is justified and denied.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "CRI"
+    }
+  },
+  "CRI482H1": {
+    "code": "CRI482H1",
+    "name": "Security Governance",
+    "hours": "24S",
+    "description": "The course will examine selected topics in security governance. Complementing university courses on public or state policing, which emphasize the role of the state in maintaining public order, we will examine how security is jointly produced through the interactions of state, commercial, civil society, and individual actors. Topics to be covered include the following: the public police and theories of security governance, private and privatized policing, plural policing and other non-state sources of public order, and private ownership of weapons. Students should gain an understanding of the myriad ways in which the state and other actors interact to create, maintain, and reshape public order.",
+    "exclusions": "CRI491H1 (Topic: Security Governance) offered in Fall 2021,  CRI492H1 (Topic: Security Governance) offered in Fall 2022",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "CRI"
+    }
+  },
+  "CRI487H1": {
+    "code": "CRI487H1",
+    "name": "Law, Space, and the City",
+    "hours": "24S",
+    "description": "An introduction to interdisciplinary studies of law and space, this course covers a broad range of topics, from work on empire and colonialism by legal historians and indigenous scholars to studies of national spaces, urban spaces, and bodily spaces. Some background in either legal studies or cultural geography is desirable. Open to students in law, geography, anthropology, women/gender studies, and sociology, though permission of the instructor is required.",
+    "exclusions": "CRI3256H (when offered as a joint course)",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "CRI"
+    }
+  },
+  "CRI490H1": {
+    "code": "CRI490H1",
+    "name": "Advanced Topics in Criminology and Sociolegal Studies",
+    "hours": "24S",
+    "description": "The objective of the course is to explore emerging issues in Criminology, and their social, legal, ethical and political implications. Topics vary from year to year.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "CRI"
+    }
+  },
+  "CRI491H1": {
+    "code": "CRI491H1",
+    "name": "Advanced Topics in Criminology and Sociolegal Studies",
+    "hours": "24S",
+    "description": "Topics vary from year to year. The objective of the course is to explore emerging issues in Criminology, and their social, legal, ethical and political implications.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "CRI"
+    }
+  },
+  "CRI492H1": {
+    "code": "CRI492H1",
+    "name": "Advanced Topics in Criminology and Sociolegal Studies",
+    "hours": "24S",
+    "description": "The objective of the course is to explore emerging issues in Criminology, and their social, legal, ethical and political implications. Topics vary from year to year.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "CRI"
+    }
+  },
+  "CRI493H1": {
+    "code": "CRI493H1",
+    "name": "Advanced Topics in Criminology and Sociolegal Studies",
+    "hours": "24S",
+    "description": "Topics vary from year to year. The objective of the course is to explore emerging issues in Criminology, and their social, legal, ethical and political implications.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "CRI"
+    }
+  },
+  "CRI494H1": {
+    "code": "CRI494H1",
+    "name": "Advanced Topics in Criminology and Sociolegal Studies",
+    "hours": "24S",
+    "description": "Topics vary from year to year. The objective of the course is to explore emerging issues in Criminology, and their social, legal, ethical and political implications.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "CRI"
+    }
+  },
+  "CRI498H1": {
+    "code": "CRI498H1",
+    "name": "Intensive Course",
+    "hours": null,
+    "description": "Content in any given year depends on instructor. Intensive courses are offered by distinguished visitors from around the world. Students in their 4th year are strongly encouraged to take advantage of this unique opportunity to study with one or more outstanding visiting international scholars that the Centre for Criminology & Sociolegal Studies brings from time to time. The intensive course usually runs for approximately 3-4 weeks.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CSB195H1": {
+    "code": "CSB195H1",
+    "name": "Computational Biology Foundations",
+    "hours": "24L/12T",
+    "description": "Our understanding of life is built from observation, abstraction, modeling, and comparison. In this First Year Foundations course we explore how these activities are based on concepts of chance and choice, of organization and dispersion, of cooperation and conflict, and how these ideas inform domains such as statistics, computer science, bioinformatics, molecular biology, physiology and ecology. Through this, we build a broad framework of relationships and connections that will make students\u2019 engagement with specialized courses throughout the sciences all the more meaningful. This course's focus on best practices of structuring project work, using tools and resources, and documentation, will be valuable preparation for all subsequent courses. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "CSB196H1": {
+    "code": "CSB196H1",
+    "name": "Genes, Genomes and Us",
+    "hours": "24L",
+    "description": "With the completion of the human genome sequence, we now have access to more information than ever before about our genetic make-up. This course addresses topics such as what are genes, how are they identified and how does knowledge about genes impact society. Students will learn basic concepts in genetics. Using this conceptual foundation, the significance of genomic research for understanding human biology, and the social consequences that may result from it, will be discussed. Evaluation is based on class discussions, homework, oral presentation and written assignments. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "CSB197H1": {
+    "code": "CSB197H1",
+    "name": "Human Viruses",
+    "hours": "24L",
+    "description": "This course allows students to broaden their knowledge about the most important human viruses and prions. In essence, what viruses are, what they do, what are the diseases caused by viruses and how they are transmitted, etc., and what can be done about them (vaccines, antiviral treatments, etc.). Viruses cause many diseases ranging from a benign rash to severe hemorrhages and death. Each student will select a specific topic in Virology and write an essay and present a seminar for the rest of the class. Major \"hot\" problems in Virology from pandemics to controversial vaccines will also be discussed. Two tests covering all materials presented by all the students' seminars will be conducted.\u00a0Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "CSB198H1": {
+    "code": "CSB198H1",
+    "name": "Cell and Molecular Biology in the News",
+    "hours": "24L",
+    "description": "The pace of knowledge creation in the fields of cell and molecular biology has greatly increased in the 21st century and with it, the need for greater scientific literacy. In this course, we will teach students to find reliable sources of information in order to understand the basic concepts underlying the research reported in these media releases, with the ultimate aim of critically evaluating these reports. Through exploration of various media articles in cell and molecular biology (with an emphasis on humans), students will be able to apply what they have learned to current events, as well as relevant issues in their lives and society as a whole. Students will be assessed through short-written assignments, class discussions, an oral presentation, and a final project where they will get the opportunity to explore the research behind a media article of their choice.\u00a0Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "CSB199H1": {
+    "code": "CSB199H1",
+    "name": "Biotechnology and Society",
+    "hours": "24L",
+    "description": "From the manipulation of genes of plants for improved food production through to human tissue engineering and stem cell research, biotechnology is increasingly playing a major role in our world. Society, however, is often challenged by the rapid advances in our knowledge in these areas, and how to best apply these technologies in a manner that is socially responsible and economically viable. In this seminar course, students will research and describe various applications of biotechnology using information obtained from reputable sources, and lead discussions on the benefits and concerns that arise from this research.\u00a0Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "CSB201H1": {
+    "code": "CSB201H1",
+    "name": "Molecular Biology, Biotechnology and You",
+    "hours": "24L/12T",
+    "description": "An online course intended to provide non-science students with an understanding of basic concepts in molecular biology and genetics, with particular emphasis on humans. Students will work online in groups on problem sets. The course will end with an introduction to biotechnology, including an opportunity for students to use their new knowledge to explore a real, multi-dimensional problem (e.g., cancer). Lectures will be delivered via the web and mandatory tutorials will require live webinar participation. The final exam will require attendance on the St. George campus. This course does not count towards CSB programs.",
+    "exclusions": "BIO130H1,  BIO230H1,  BIO255H1",
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "CSB202H1": {
+    "code": "CSB202H1",
+    "name": "Further Exploration in Biotechnology",
+    "hours": "24L/12T",
+    "description": "Provides non-science students with an additional opportunity to explore biotechnology and its applications in agriculture, the environment, and human health including: genetically modified organisms, drug discovery and aging. Most lectures are viewed online before class and students work in groups during class on problem sets and case studies designed to stimulate further learning, enhance evidence-based reasoning, and promote reflection on the role of biotechnology in society. This course does not count towards CSB programs.  CSB201H1 is not a prerequisite for this course.",
+    "exclusions": "BIO230H1,  BIO255H1",
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "CSB280H1": {
+    "code": "CSB280H1",
+    "name": "Data Science for Cell and Systems Biology",
+    "hours": "24L/12T",
+    "description": "The abundance of raw data in biological sciences continues to grow year after year. The skills required to navigate and thrive in this field are no longer confined to the laboratory bench as experimental results go beyond simple analyses. This course will introduce basic tools used in the analysis of big data such as dimensional reduction, visualization, and machine learning. Students will get practical experience writing code to analyze example datasets.",
+    "exclusions": "STA272H1,  STA302H1",
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "CSB299H1": {
+    "code": "CSB299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CSB299Y1": {
+    "code": "CSB299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CSB325H1": {
+    "code": "CSB325H1",
+    "name": "Endocrine Physiology",
+    "hours": "24L/9T",
+    "description": "The regulation of physiological processes by hormones and other signalling molecules in non-human chordates. An integrated genes-to-environment approach is used to examine aspects of hormonal evolution, physiological information flow, behaviour and neuroendocrinology, and xenobiotic endocrine disruptors.\u00a0 Students will have the opportunity to research areas of their own interest via group interaction in a series of tutorial sessions.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "BIO270H1",
+        "BIO271H1"
+      ]
+    }
+  },
+  "CSB327H1": {
+    "code": "CSB327H1",
+    "name": "Extracellular Matrix Dynamics and Associated Pathologies",
+    "hours": "36L",
+    "description": "Examines the expression, structure and function of the four major classes of ECM macromolecules: collagen, proteoglycans, non-collagenous structural proteins and glycoproteins. In addition to forming elaborate networks that give tissues and organs their unique architectural design and biomechanical properties, ECM molecules act as potent regulators of all cellular activities. Emphasis is placed on the morphoregulatory contribution(s) of ECM molecules to normal and pathological development.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO230H1",
+        "BIO255H1"
+      ]
+    }
+  },
+  "CSB328H1": {
+    "code": "CSB328H1",
+    "name": "Animal Developmental Biology",
+    "hours": "24L/24P",
+    "description": "Basic concepts in developmental biology. Early development of invertebrates and vertebrates will be discussed with emphasis on experimental and molecular analysis of developmental mechanisms. Tutorials focus on the experimental analysis of embryonic development and regeneration, and discuss primary literature of selected topics in developmental biology. (Lab Materials Fee: approximately $27). A lab coat and safety glasses are required for use in laboratories; students are responsible for purchasing these (approximate cost is $27).",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO230H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "BIO260H1"
+          ]
+        },
+        "HMB265H1"
+      ]
+    }
+  },
+  "CSB329H1": {
+    "code": "CSB329H1",
+    "name": "Stem Cell Biology: Developmental Models and Cell-based Therapeutics",
+    "hours": "24L/12T",
+    "description": "Stem cells provide the basis for cellular diversity in multicellular organisms and have enormous therapeutic potential in regenerative medicine. The course will introduce students to the differences and similarities between stem cells from different organisms, their roles throughout development and therapeutic potential.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": "BIO230H1"
+  },
+  "CSB330H1": {
+    "code": "CSB330H1",
+    "name": "Techniques in Molecular and Cell Biology",
+    "hours": "8L/52P",
+    "description": "Laboratory course on molecular and cell biology research techniques used to study genes and proteins. Topics include plasmid cloning, PCR, bioinformatics, gene expression analyses, protein-protein interactions, and protein subcellular localization. (Lab Materials Fee: $53). A lab coat and safety glasses are required for use in laboratories; students are responsible for purchasing these (approximate cost is $27).",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO230H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "BIO260H1"
+          ]
+        },
+        "HMB265H1"
+      ]
+    }
+  },
+  "CSB331H1": {
+    "code": "CSB331H1",
+    "name": "Advanced Cell Biology",
+    "hours": "36L",
+    "description": "The development of multicellular organisms is dependent on complex cell-cell and cell-matrix dynamics. The course examines the molecules and mechanisms involved and how they act in concert to regulate distinct developmental and physiological events. Emphasis is placed on the experimental approaches and technology used to study the molecular interactions and dynamics that alter structure-function relationships in cells and organisms.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO230H1",
+        "BIO255H1"
+      ]
+    }
+  },
+  "CSB334H1": {
+    "code": "CSB334H1",
+    "name": "Methods and Analysis in Behavioral Neuroscience",
+    "hours": "24L/12T",
+    "description": "The scale and complexity of biological data are fast expanding as biotechnology develops. How are we going to process and interpret large-scale data? Using example-based approaches in the context of behavioural neuroscience (e.g., sleep, movement, learning, decision-making), this course aims to bridge biology and computational analysis techniques. Through lectures and hands-on sessions, students will learn about modern methodology in neuroscience (e.g., electrophysiology, optogenetics, calcium imaging) and how to analyze neural data sets. Students will be introduced to programming in MATLAB tailored for neuroscience, signal processing, image processing, statistical analysis, and machine learning techniques. By developing practical skills through various neural data types (e.g., EEG, EMG, Ca2+ Imaging), this course equips students with the skills to handle neural data, basic computational approaches in neuroscience, and a quantitative understanding of brain functionality.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BIO270H1",
+            "BIO271H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PSL300H1",
+            "PSL301H1",
+            "MAT136H1"
+          ]
+        }
+      ]
+    }
+  },
+  "CSB340H1": {
+    "code": "CSB340H1",
+    "name": "Plant Development",
+    "hours": "24L",
+    "description": "Plant developmental genetics at the molecular, cellular and organismal level, generation and use of genomic resources in plant model organisms. Questions address the genetic dissection of plant embryo and meristem development, plant stem cell specification and tissue patterning. Genomic approaches applicable to plant biotechnology are also covered.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO230H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "BIO260H1"
+          ]
+        },
+        "HMB265H1"
+      ]
+    }
+  },
+  "CSB343H1": {
+    "code": "CSB343H1",
+    "name": "Animal Energetics",
+    "hours": "24L",
+    "description": "Animal structure and function, at all levels from molecule to whole animal, are dependent on energy. This course describes how the supply, consumption, transformation, exchange and storage of energy can facilitate, constrain and limit animal function. Emphasis is placed on systems level physiological function and whole animal performance.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BIO270H1",
+            "BIO271H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PSL300H1",
+            "PSL301H1"
+          ]
+        }
+      ]
+    }
+  },
+  "CSB345H1": {
+    "code": "CSB345H1",
+    "name": "Introductory Biology of Sleep",
+    "hours": "24L/12T",
+    "description": "This course will cover fundamental theories on the regulation, evolution, and function of sleep-wake states \u2013 how and why animals sleep. Sleep is a behavioural state that occurs in all vertebrates and it has also been identified in several species of invertebrates. In these animals, sleep is associated with profound changes in physiological function at the molecular, cellular and system levels. Furthermore, sleep has marked implications for the neurobiology of behaviour and the evolution of organisms because of the impact it has on cognitive function, memory consolidation, and overall health. The course will be integrative and comparative, linking together concepts from all levels of biological organization (molecular to whole organism) and drawing examples from a variety of different animals.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BIO270H1",
+            "BIO271H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PSL300H1",
+            "PSL301H1"
+          ]
+        }
+      ]
+    }
+  },
+  "CSB346H1": {
+    "code": "CSB346H1",
+    "name": "Neurobiology of Respiration",
+    "hours": "24L/12T",
+    "description": "This course examines how the central and peripheral nervous system controls breathing in mammals. Topics include how the brain generates rhythmic breathing movements, how sleep impacts breathing control and how abnormal breathing contributes to disorders such as sleep apnea.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BIO270H1",
+            "BIO271H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PSL300H1",
+            "PSL301H1"
+          ]
+        }
+      ]
+    }
+  },
+  "CSB348H1": {
+    "code": "CSB348H1",
+    "name": "Laboratory in Comparative Animal Physiology",
+    "hours": "48P",
+    "description": "Laboratory exercises will include traditional and guided inquiry approaches to investigate and gain an understanding of the regulation of physiological systems in vertebrates and invertebrates. Students will experience the nature of physiological investigation while being exposed to a range of the current experimental approaches animal physiologists use to design, test and evaluate hypotheses, and communicate their findings. This course will emphasize the fundamental characteristics humans share with all animal life and the physiological adaptations that have permitted species to exploit alternative environmental niches. This course requires participation and includes group work, written assignments, and oral presentations. (Lab Materials Fee: $53). Lab coat and safety glasses are required for use in laboratories; students are responsible for purchasing these items (approximate cost is $27).",
+    "exclusions": "PSL372H1",
+    "breadth": 4,
+    "prereq_tree": "BIO230H1"
+  },
+  "CSB349H1": {
+    "code": "CSB349H1",
+    "name": "Eukaryotic Gene Expression",
+    "hours": "30L/18T",
+    "description": "Genome structure and the regulation of gene expression in eukaryotic cells. Topics include transcription, gene silencing and regulation, expression profiling, non-coding RNAs, and translational control. Tutorials emphasize problem based learning exercises that relate to recent advances in the broad field of eukaryotic gene expression.",
+    "exclusions": "MGY311Y1,  MGY420H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO230H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "BIO260H1"
+          ]
+        },
+        "HMB265H1"
+      ]
+    }
+  },
+  "CSB350H1": {
+    "code": "CSB350H1",
+    "name": "Laboratory in Molecular Plant Biology",
+    "hours": "24L/36P",
+    "description": "Laboratory methods used in plant molecular biology research. Topics include vector construction, plant transformations, PCR, DNA blots, high-throughput screens, genetic mapping, and bioinformatic analyses. (Lab Materials Fee: $53). Lab coat and safety glasses are required for use in laboratories; students are responsible for purchasing these items (approximate cost is $27).",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO230H1",
+        "BIO255H1"
+      ]
+    }
+  },
+  "CSB352H1": {
+    "code": "CSB352H1",
+    "name": "Bioinformatic Methods",
+    "hours": "6L/18P",
+    "description": "Use of available programs for analyzing biological data. This is an introductory course with a strong emphasis on hands-on methods. Some theory is introduced, but the main focus is on using extant bioinformatics tools to analyze data and generate biological hypotheses.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO230H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "BIO260H1"
+          ]
+        },
+        "HMB265H1"
+      ]
+    }
+  }
+}

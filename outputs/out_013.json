@@ -1,0 +1,2421 @@
+{
+  "EAS439H1": {
+    "code": "EAS439H1",
+    "name": "The Global Bildungsroman: Narratives of Development, Time, and Colonialism",
+    "hours": "24S",
+    "description": "This course studies Bildungsroman, the story of an individual's coming of age, in the context of twentieth-century political, cultural, and social developments of imperialism, anti-colonialism, human rights discourse, and globalization. Our focus will be novels from the (post)colonial world and theoretical essays on the Bildungsroman form. The course aims to provide a model for rethinking literary history and genres within a global context. Authors may include Yi Kwangsu, Wu Zhouliu, Pramoedya Ananta Toer, Kang Younghill, Tsitsi Dangarembga, Camara Laye, amongst others.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS444H1": {
+    "code": "EAS444H1",
+    "name": "The City, Body and Text in Modern Japanese Literature",
+    "hours": "24S",
+    "description": "This course examines how the city and body exert formative forces on the text, and how the practice of writing and reading texts informs the ways we, as corporeal beings, experience the city as manifested in the 20th-century Japanese literature.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "EAS209H1",
+            "EAS218H1"
+          ]
+        },
+        "EAS231H1",
+        "EAS235H1",
+        "EAS251H1",
+        "EAS256H1",
+        "EAS257H1",
+        "EAS263H1",
+        "EAS279H1",
+        "EAS284Y1",
+        "EAS308H1",
+        "EAS309H1",
+        "EAS327H1",
+        "EAS330H1",
+        "EAS333H1",
+        "EAS334H1",
+        "EAS334Y1",
+        "EAS408H1",
+        "EAS409H1",
+        "EAS417H1",
+        "EAS419H1",
+        "EAS467H1"
+      ]
+    }
+  },
+  "EAS445H1": {
+    "code": "EAS445H1",
+    "name": "Fascism and Japan",
+    "hours": "24S",
+    "description": "This seminar analyzes fascism in modern Japan: its ideology, theories, and practices. We define fascism as a symptom of imperialism, and also explore the critique of fascism in Japan by Japanese thinkers on the Left, such as Tosaka Jun, whose Japanese Ideology represents one of the most trenchant critiques of fascism.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS446H1": {
+    "code": "EAS446H1",
+    "name": "The Communist Hypothesis and Asia",
+    "hours": "24L",
+    "description": "In recent years, the basic hypotheses of Communism have begun to be thought anew, precisely because of the demise of the Soviet Union and the rise of capitalism in communist regimes (i.e., China). Taking up recent writings by Alain Badiou, Jodi Dean, Gavin Walker, Fred Jameson and a host of other contemporary thinkers, this course asks again: what is the communist hypothesis in today\u2019s Asia and how can it help us to imagine a different Asia?",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS447H1": {
+    "code": "EAS447H1",
+    "name": "Sound Studies and Modern Japan",
+    "hours": "24S",
+    "description": "This seminar explores the growing field of sound studies with particular attention given to auditory histories and cultures in modern Japan and the prewar Japanese empire in East Asia. We study the interrelationships between industrialization, mass culture, colonialism, and techniques and processes of reproducing sound in order to specify the status of acoustic and sonic mediation in everyday life in a capitalist commodity economy.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS448H1": {
+    "code": "EAS448H1",
+    "name": "East Asian Studies Archive: Language, Number, Money",
+    "hours": "24S",
+    "description": "This course investigates salient problems of the historical archive in relation to the experience of modernity in East Asian societies. What is the meaning of the modern archive in East Asia? How is the knowledge of the modern archive produced in relation to the production of quantitative knowledge (e.g., in demographic or economic statistics)? How should we approach the relationship between number and language? How is this knowledge transformed into state knowledge as well as into what we call common sense?",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS449H1": {
+    "code": "EAS449H1",
+    "name": "Future, Architecture, Japan",
+    "hours": "24L",
+    "description": "Examination of how the future is imagined and materialized in architectural theory and practice throughout Japanese history. From classical temples to modernist experiments of the Metabolist movement to contemporary works by Isozaki Arata and Atelier Bow Wow, we study built and unbuilt structures as theories of the future.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "EAS209H1",
+        "ARC221H1"
+      ]
+    }
+  },
+  "EAS450H1": {
+    "code": "EAS450H1",
+    "name": "History of the USA in the Pacific, the 19th century",
+    "hours": "24S",
+    "description": "This course examines the growth of the American empire in Asia Pacific during the late 19th century. It examines historical writings concerning Japan, Korea, Hawaii, the Philippines, and China.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS451H1": {
+    "code": "EAS451H1",
+    "name": "Modern Standard Japanese IV-a",
+    "hours": "48S",
+    "description": "This is an upper intermediate level Japanese course that focuses on reading and writing skills for those who have completed  EAS350Y1 (previously  EAS320Y1) with a minimum grade of 70%. Native or near-native speakers are not permitted to take this course. All students must go through a screening process conducted by the Department. See https://www.eas.utoronto.ca/languages/japanese for details.",
+    "exclusions": "EAS461H1,  EAS463Y0",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "EAS350Y1",
+        "EAS320Y1"
+      ]
+    }
+  },
+  "EAS452H1": {
+    "code": "EAS452H1",
+    "name": "The Korean War, Global Cold Wars, and Decolonization",
+    "hours": "24S",
+    "description": "This course examines the political economic, racial, and cultural dimensions of the Korean war in a global context. It examines how the Korean War consolidated Cold War structures and discourse on both sides of the conflict by examining such issues as the United Nations, multiculturalism, decolonization, atomic weapons, and military industrialization. In this writing intensive course, students will be expected to write a major research paper.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS453H1": {
+    "code": "EAS453H1",
+    "name": "Modern Standard Japanese IV-b",
+    "hours": "48S",
+    "description": "This is an upper intermediate level Japanese course that focuses on oral/aural communication for those who have completed  EAS350Y1 (previously  EAS320Y1) with a minimum grade of 70%. Native or near-native speakers are not permitted to take this course. All students must go through a screening process conducted by the Department. See https://www.eas.utoronto.ca/languages/japanese for details.",
+    "exclusions": "EAS460H1,  EAS463Y0",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "EAS350Y1",
+        "EAS320Y1"
+      ]
+    }
+  },
+  "EAS454H1": {
+    "code": "EAS454H1",
+    "name": "Modern Chinese Historiography",
+    "hours": "24S",
+    "description": "A selective survey of major historiographical problems and debates in the fields of late 19th and 20th century Chinese history. Course readings will include both theoretical and historical materials.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS455H1": {
+    "code": "EAS455H1",
+    "name": "Classical Confucianism",
+    "hours": "24S",
+    "description": "This course explores the historical and systematic aspects of classical Confucianism, which is fundamental for understanding Chinese philosophy and culture. The historical part discusses the development of the Confucian doctrine from Confucius to his generations of disciples. The systematic part engages issues such as emotion, art, poetry, morality and virtues, political philosophy, and knowledge and reality.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "EAS209H1",
+            "EAS241H1"
+          ]
+        },
+        "PHL237H1"
+      ]
+    }
+  },
+  "EAS456H1": {
+    "code": "EAS456H1",
+    "name": "Japan as seen by ?: Reference, Apparatus, Operation",
+    "hours": "24S",
+    "description": "The course discusses how images of Japan, charged with varied degrees of desire for empirical knowledge, have contributed to contemporary novels and plays by David Mitchell, Ruth L. Ozeki, David Mamet, Joy Kogawa, Kazuo Ishiguro, Marguerite Duras, and David Hwang.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS457H1": {
+    "code": "EAS457H1",
+    "name": "Modern Japanese Historiography",
+    "hours": "24S",
+    "description": "An analysis of contemporary monographs on modern Japanese history. This course offers a critical survey of existing methodologies of and approaches to writing about modern Japan.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "EAS209H1",
+        "EAS247H1"
+      ]
+    }
+  },
+  "EAS458H1": {
+    "code": "EAS458H1",
+    "name": "Classical Chinese II",
+    "hours": "24S",
+    "description": "As a continuation of  EAS358Y1 (formerly  EAS206Y1), this course helps students to gain in-depth control of grammatical structures of classical Chinese and to read texts with greater ease. Requirements include a major research/translation project. Open only to EAS majors and specialists.",
+    "exclusions": "EAS306Y1,  EAS335Y1",
+    "breadth": 1,
+    "prereq_tree": "EAS358Y1"
+  },
+  "EAS459Y1": {
+    "code": "EAS459Y1",
+    "name": "Rethinking the Cold War in East Asia",
+    "hours": "48S",
+    "description": "This research course examines the ways our historical understanding of the Cold War in East Asia has shifted over the last twenty years. Focusing primarily on the divided Korean peninsula where it can be said the Cold War still rages, the course examines the mutual constitution of two competing regional political economies rooted in a shared commitment to developmentalism.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "EAS209H1",
+        "EAS271H1"
+      ]
+    }
+  },
+  "EAS465H1": {
+    "code": "EAS465H1",
+    "name": "Korea Under Japanese Colonialism",
+    "hours": "24S",
+    "description": "This seminar introduces students to comparative studies of colonialism, focusing on Japanese colonialism in Korea. Students will read broadly in the historiography of the Japanese Empire with the goal of developing an understanding of trends that have shaped the research directions of the last ten years. Part of the course will also include readings in and discussion of comparative colonialism. The final statement will be an intensive state-of-the-field paper.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "EAS466H1": {
+    "code": "EAS466H1",
+    "name": "Rethinking North Korean History",
+    "hours": "36S",
+    "description": "This essay-driven course explores the complexity of examining North Korean history by using comparative methods developed through the study of other socialist societies and theories of everyday life.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "EAS209H1",
+        "EAS271H1"
+      ]
+    }
+  },
+  "EAS467H1": {
+    "code": "EAS467H1",
+    "name": "Photographic Narratives of Japan",
+    "hours": "24S",
+    "description": "Uses seminal theoretical literature, photo roman (by, e.g., Abe, Nakagami) and narratives about photography (by, e.g., Tanizaki, Mishima, Kanai) to examine the rhetorical complicity and coercion of the two modes of representation which emerged in the modern and nationalistic age, and persist, in the wake of the newer media, as dominant registers of everyday life and departures from there.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS468H1": {
+    "code": "EAS468H1",
+    "name": "Democratic Struggles in Korea",
+    "hours": "24S",
+    "description": "This seminar examines resistance, struggles, strikes and movements seen as constituting a troubled history of democracy across Korea\u2019s long 20th century.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "EAS209H1",
+        "EAS271H1"
+      ]
+    }
+  },
+  "EAS470H1": {
+    "code": "EAS470H1",
+    "name": "\u201cPost-Fukushima\u201d Literature and Culture",
+    "hours": "24S",
+    "description": "The course examines literature, film, and other cultural products that emerged in the aftermath of the earthquake and tsunami that hit Northeast Japan on March 11, 2011, as well as in the ensuing nuclear crisis at the Fukushima Tokyo Daiichi powerplant. We will explore the distinctive aesthetic forms and imaginaries that responded to such natural and human-made disasters.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "EAS209H1",
+        "EAS320Y1",
+        {
+          "credits": 1.0,
+          "department": "EAS"
+        }
+      ]
+    }
+  },
+  "EAS471H1": {
+    "code": "EAS471H1",
+    "name": "Issues in the Political Economy of South Korea",
+    "hours": "24S",
+    "description": "A course designed to guide students toward a research paper on a selected topic of interest on the postwar political economy of South Korea.",
+    "exclusions": "EAS471Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "EAS209H1",
+        "EAS271H1"
+      ]
+    }
+  },
+  "EAS473H1": {
+    "code": "EAS473H1",
+    "name": "Modern Korean Historiography",
+    "hours": "24S",
+    "description": "An examination of recent literature in the modern Korean history field, focusing especially on the late 19th and 20th centuries.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "EAS209H1",
+        "EAS271H1"
+      ]
+    }
+  },
+  "EAS474H1": {
+    "code": "EAS474H1",
+    "name": "U.S. and Canada's Wars in Asia",
+    "hours": "24S",
+    "description": "This course examines the cultural and social legacies of the 19th- and 20th-century hot and cold wars fought by the U.S. and Canada in different parts of Asia. It explores film, literature, and other cultural products that came out of the transpacific violence and its aftermath.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS475Y1": {
+    "code": "EAS475Y1",
+    "name": "Issues in East Asian Historiography",
+    "hours": "48L",
+    "description": "This course analyses select topics in the historiography of East Asian. Students are expected to write a major research paper.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS476H1": {
+    "code": "EAS476H1",
+    "name": "Social Protest in Modern East Asia",
+    "hours": "24L",
+    "description": "This course explores cases of social protests in 19th and 20th century China, Japan, and Korea. Students will read and write about specific case studies of anti-government student protests, labor actions, anti-colonial movements, women\u2019s rights activism, and peasant rebellions.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS477H1": {
+    "code": "EAS477H1",
+    "name": "Samurai Culture",
+    "hours": "24S",
+    "description": "An intensive seminar exploring one of Japan\u2019s most recognizable figures, the samurai. This course investigates the historical reality of warrior life along with the legends, with focus on the ways in the warrior\u2019s world found expression in religion, art, and literature.",
+    "exclusions": "EAS478Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "EAS209H1",
+            "EAS245H1"
+          ]
+        },
+        "EAS246H1",
+        "EAS247H1"
+      ]
+    }
+  },
+  "EAS479H1": {
+    "code": "EAS479H1",
+    "name": "Ecocriticism",
+    "hours": "24L",
+    "description": "The course aims to establish students' ability to engage with core ecological agendas with methodology of cultural history and literary and visual analysis.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS486H1": {
+    "code": "EAS486H1",
+    "name": "Readings in Mah\u0101y\u0101na S\u016btra Literature",
+    "hours": "24S",
+    "description": "This seminar explores the key literary, doctrinal and ritual innovations of the Mah\u0101y\u0101na Buddhist tradition as it unfolded in the first few centuries of the Common Era. The semester will begin with a consideration of the origins of the Mah\u0101y\u0101na in early India, and end in medieval Mah\u0101y\u0101na communities of East Asia and Tibet. Along the way we will conduct close readings of several important Mah\u0101y\u0101na works (s\u016btras, commentaries, ritual manuals) in order to explore key elements in the development of the Great Vehicle as it was transmitted and transformed across Buddhist Asia.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS488H1": {
+    "code": "EAS488H1",
+    "name": "Fandom, Transmedia, and the Korean Wave",
+    "hours": "24S",
+    "description": "This course investigates the transmedia forms and reception contexts of what is now known as hallyu or \"the Korean wave.\" Topics include fan subjectivity and the \u201cglobal popular,\u201d across a broad array of texts, including music, feature films, television dramas, fan blogs, and internet video. This seminar considers how popular media shape collective identity, and explores the connections between activism, mass media, commodity culture, and their corresponding affective registers, bridging fan studies, media studies, and contemporary Korean cultural studies.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS489H1": {
+    "code": "EAS489H1",
+    "name": "Advanced Seminar in Asian Media Studies",
+    "hours": "24S",
+    "description": "Topics include: histories of media infrastructures, material culture, geopolitics of colonialism, imperialism, and regionalism, institutional histories of media production, analyses of popular and industrial media practices, questions of interface, platforms, circulation, and reception, and the constitutive role of media in shaping notions of modernity, publicity, and politics.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "EAS209H1"
+  },
+  "EAS496H1": {
+    "code": "EAS496H1",
+    "name": "Advanced Topics in East Asian Studies",
+    "hours": "24S",
+    "description": "An in-depth study of Chinese, Japanese or Korean culture, history and/or literature. Content depends on the instructor. When offered, the course will have a subtitle that describes its content.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": "EAS209H1"
+  },
+  "ECO101H1": {
+    "code": "ECO101H1",
+    "name": "Principles of Microeconomics",
+    "hours": "24L/12T",
+    "description": "An introduction to economic analysis and its applications: price determination, market structure, decision making by individuals and firms, public policy. NOTE: extensive use of graphical and quantitative analysis.",
+    "exclusions": "ECO105Y1,  ECO100Y5,  ECO101H5,  MGEA01H3,  MGEA02H3,  PPG201H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ECO102H1": {
+    "code": "ECO102H1",
+    "name": "Principles of Macroeconomics",
+    "hours": "24L/12T",
+    "description": "An introduction to economic analysis and its applications from a macroeconomic (economy-wide) perspective. Topics covered include international trade and finance, role of money and the banking system, monetary and fiscal policy. Note: graphical and quantitative analysis are used extensively.",
+    "exclusions": "ECO105Y1,  ECO100Y5,  ECO102H5,  MGEA05H3,  MGEA06H3",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO101H1",
+        "ECO101H5"
+      ]
+    }
+  },
+  "ECO105Y1": {
+    "code": "ECO105Y1",
+    "name": "Principles of Economics for Non-Specialists",
+    "hours": "48L/24T",
+    "description": "Fundamentals for consumers, businesses, citizens. Microeconomics focuses on cost/benefit analysis: gains from trade, price coordination, competition/monopoly, efficiency/equity tradeoffs, government/market failures, environmental policies, income/wealth distributions. Macroeconomics focuses on: GDP growth, unemployment, inflation, monetary/fiscal policies, business cycles, exchange rates, government deficits/debt, globalization. Emphasizes economic literacy, fewer mathematical tools than  ECO101H1,  ECO102H1.",
+    "exclusions": "ECO101H1,  ECO102H1,  ECO100Y5,  ECO101H5,  ECO102H5,  MGEA01H3,  MGEA02H3,  MGEA05H3,  MGEA06H3",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ECO196H1": {
+    "code": "ECO196H1",
+    "name": "An Economist's Guide to the Galaxy",
+    "hours": "24S",
+    "description": "Climb aboard as we seek answers to the \"Ultimate Question of Life, the Universe, and Everything\" (Douglas Adams). Unlike the Hitchhiker's Guide to the Galaxy, the answer will not be 42. Prepare for a wide-ranging journey into the questions economists seek to answer and the evidence they muster to examine these questions. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ECO197H1": {
+    "code": "ECO197H1",
+    "name": "Seminar on Classical Economic Thought",
+    "hours": "24L/12T",
+    "description": "This seminar examines the basic ideas of the five most notable economic thinkers before 1870: Aristotle, Adam Smith, Thomas Malthus, David Ricardo, and Karl Marx. We focus on demand as the basis of price in Aristotle; the ambiguity in Smith between a labour theory of value and a demand/supply theory of value; the principle of population in Malthus; Ricardo\u2019s labour theory of value and his theory of rent and economic growth; and Marx\u2019s labour theory of value as the explanation for the development of capital. The understanding in these authors of economics as an historical process of production gives fascinating insights into modern economic development that contrast with the modern economic concentration on the distribution of resources in a world of scarcity. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ECO198H1": {
+    "code": "ECO198H1",
+    "name": "Seminar on Modern Economic Thought",
+    "hours": "24L/12T",
+    "description": "This seminar examines the development of modern economic thought from the marginal revolutionaries (Jevons and Menger) who proclaimed that demand in the form of utility was the basis of price to the supply/demand analysis of Alfred Marshall that established modern microeconomics by 1890. We then look at Irving Fisher\u2019s 1907 foundation of the modern concept of the interest rate and the present value of capital before reviewing J.M. Keynes\u2019 1936 criticism of neo-classical positions on full employment and interest rates in arguing for government manipulation of interest rates to ensure full employment. We finish with Milton Friedman\u2019s championing of the unregulated market economy through his quantity theory of money critique of Keynes. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ECO199H1": {
+    "code": "ECO199H1",
+    "name": "Economics and Sustainable, Green Development",
+    "hours": "24L/12T",
+    "description": "Economic growth has been a powerful force through history in improving living standards throughout the world. At the same time, there is a growing recognition that environmental damages frequently accompany this growth, whether it be at the local level (soil degradation and deforestation), or the global level (climate change). Economics studies the allocation of scarce resources, but how can it incorporate \"the environment\" in a meaningful way that can help guide policy-makers in the 21st century? This course is a fast review of economic approaches and tools, and a review of a wide range of environmental policies, designed to manage the possible adverse impacts of economic expansions. The major emphasis in this course is on the market-based policies that guarantee incentive compatibility of these policies, thus, a higher chance of success. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ECO200Y1": {
+    "code": "ECO200Y1",
+    "name": "Microeconomic Theory",
+    "hours": "48L/24T",
+    "description": "Theory of markets and prices. Determination of prices through the interaction of the basic economic units, the household as consumer and as supplier of inputs and the business firm as producer and as employer of inputs. The pricing system as the mechanism by which social decisions and allocation of goods are made in a market economy.",
+    "exclusions": "ECO204Y1,  ECO206Y1,  ECO200Y5,  ECO204Y5,  ECO205Y5,  ECO206Y5,  MGEB01H3,  MGEB02H3,  MGEC02H3",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H1",
+            "ECO102H1"
+          ]
+        },
+        "ECO105Y1",
+        "ECO100Y5",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H5",
+            "ECO102H5"
+          ]
+        },
+        "MAT133Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "ECO202Y1": {
+    "code": "ECO202Y1",
+    "name": "Macroeconomic Theory and Policy",
+    "hours": "48L/24T",
+    "description": "Theory of output, employment and the price level; techniques for achieving economic stability; central banking and Canadian financial institutions and markets; foreign exchange markets and the exchange rate. This course is not intended for students enrolled in the BCom program; please see  ECO209Y1.",
+    "exclusions": "ECO208Y1,  ECO209Y1,  ECO202Y5,  ECO208Y5,  ECO209Y5,  MGEB05H3,  MGEB06H3,  MGEC06H3",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H1",
+            "ECO102H1"
+          ]
+        },
+        "ECO105Y1",
+        "ECO100Y5",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H5",
+            "ECO102H5"
+          ]
+        },
+        "MAT133Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "ECO204Y1": {
+    "code": "ECO204Y1",
+    "name": "Microeconomic Theory and Applications (for Commerce)",
+    "hours": "48L/24T",
+    "description": "The use of microeconomics to analyze a variety of issues from marketing and finance to organizational structure. Consumer preferences and behaviour; demand, cost analysis and estimation; allocation of inputs, pricing and firm behaviour under perfect and imperfect competition; game theory and public policy, including competition policy. Business cases are used to connect theory and practice and to highlight differences and similarities between economics and accounting, marketing and finance. This course is restricted to students in the Commerce programs.",
+    "exclusions": "ECO200Y1,  ECO206Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H1",
+            "ECO102H1"
+          ]
+        },
+        "ECO105Y1",
+        "MAT133Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "ECO206Y1": {
+    "code": "ECO206Y1",
+    "name": "Microeconomic Theory",
+    "hours": "48L/24T",
+    "description": "This course deals more rigorously and more mathematically with the topics included in  ECO200Y1 and is intended primarily for students in certain Economics Specialist programs.",
+    "exclusions": "ECO200Y1,  ECO204Y1,  ECO200Y5,  ECO204Y5,  ECO205Y5,  ECO206Y5,  MGEB01H3,  MGEB02H3,  MGEC02H3",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H1",
+            "ECO102H1"
+          ]
+        },
+        "ECO100Y5",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H5",
+            "ECO102H5"
+          ]
+        },
+        "MAT133Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "ECO208Y1": {
+    "code": "ECO208Y1",
+    "name": "Macroeconomic Theory",
+    "hours": "48L/24T",
+    "description": "This course deals more rigorously and more mathematically with the topics included in  ECO202Y1 and is intended primarily for students in certain Economics Specialist programs.",
+    "exclusions": "ECO202Y1,  ECO209Y1,  ECO202Y5,  ECO208Y5,  ECO209Y5,  MGEB05H3,  MGEB06H3,  MGEC06H3",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H1",
+            "ECO102H1"
+          ]
+        },
+        "ECO100Y5",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H5",
+            "ECO102H5"
+          ]
+        },
+        "MAT133Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "ECO209Y1": {
+    "code": "ECO209Y1",
+    "name": "Macroeconomic Theory and Policy (for Commerce)",
+    "hours": "48L/24T",
+    "description": "Macroeconomic issues relevant for commerce students. Analytical tools are used to examine policy issues: Canadian government budgets, Bank of Canada monetary policy, exchange rate policy, foreign trade policy and government regulation of financial intermediaries. This course is restricted to students in the Commerce programs.",
+    "exclusions": "ECO202Y1,  ECO208Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H1",
+            "ECO102H1"
+          ]
+        },
+        "ECO105Y1",
+        "MAT133Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "ECO210H1": {
+    "code": "ECO210H1",
+    "name": "Mathematical Methods for Economic Theory",
+    "hours": "24L/12T",
+    "description": "An introduction to mathematical methods commonly used in economic theory. Topics include: multivariate calculus, concavity and convexity, unconstrained multivariate optimization, multivariate optimization subject to equality or inequality constraints and differential equations.",
+    "exclusions": "MAT235Y1,  MAT237Y1",
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H1",
+            "ECO102H1"
+          ]
+        },
+        "ECO105Y1",
+        "ECO100Y5",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H5",
+            "ECO102H5"
+          ]
+        },
+        "MAT133Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "ECO220Y1": {
+    "code": "ECO220Y1",
+    "name": "Introduction to Data Analysis and Applied Econometrics",
+    "hours": "48L/48T",
+    "description": "Numerical and graphical data description; data collection and sampling; probability; sampling distributions; statistical inference; hypothesis testing and estimation; simple and multiple regression analysis (extensive coverage). Learn how to analyze data and how to correctly interpret and explain results. Use Excel to analyze a wide variety of data and replicate tables and figures in economics research papers.",
+    "exclusions": "GGR270H1,  IRW220H1,  PSY201H1,  PSY202H1,  SOC202H1,  SOC252H1,  STA220H1,  STA221H1,  STA248H1,  ECO220Y5,  MGEB11H3,  MGEB12H3",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H1",
+            "ECO102H1"
+          ]
+        },
+        "ECO105Y1",
+        "ECO100Y5",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H5",
+            "ECO102H5"
+          ]
+        },
+        "MAT133Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "ECO225H1": {
+    "code": "ECO225H1",
+    "name": "Big-Data Tools for Economists",
+    "hours": "24L/12T",
+    "description": "An introduction to the big-data tools\u2014including Machine-Learning techniques\u2014economists increasingly use in applied research. The course explores unstructured data sources such as text files, webpages, social media posts, satellite imagery, and weather data. It offers a practical introduction to creating datasets from these sources (e.g., web scrapping), linking data, and managing and visualizing them (e.g., geospatial visualization).",
+    "exclusions": "CSC311H1,  ECO250Y0 (Special Topics Abroad in Economics: Big Data Tools and Machine Learning for Economists) taken in Summer 2023, ESC190H1,  JSC270H1,  STA314H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H1",
+            "ECO102H1"
+          ]
+        },
+        "ECO105Y1",
+        "ECO100Y5",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H5",
+            "ECO102H5"
+          ]
+        },
+        "MAT133Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1",
+        "CSC108H1",
+        "CSC110Y1",
+        "CSC148H1"
+      ]
+    }
+  },
+  "ECO227Y1": {
+    "code": "ECO227Y1",
+    "name": "Foundations of Econometrics",
+    "hours": "48L/24T",
+    "description": "A rigorous introduction to probability and mathematical statistics intended for students in Economics Specialist programs. Probability and estimation theory, sampling distributions, hypotheses testing, multiple regression analysis. Students will learn the tools used in economics and finance to model and address randomness and uncertainty.",
+    "exclusions": "STA237H1,  STA238H1,  STA247H1,  STA248H1,  STA255H1,  STA257H1,  STA261H1,  ECO227Y5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H1",
+            "ECO102H1"
+          ]
+        },
+        "ECO100Y5",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H5",
+            "ECO102H5"
+          ]
+        },
+        "MAT133Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1"
+      ]
+    }
+  },
+  "ECO231H1": {
+    "code": "ECO231H1",
+    "name": "Economics of Global Trade",
+    "hours": "24L/12T",
+    "description": "This course is intended primarily for students in the International Relations program. This course offers an introduction to the economic causes and consequences of international trade in goods, services, labour, innovation and capital. Attention will be devoted to the economic impact of policies that affect these flows, such as protectionism and outsourcing.",
+    "exclusions": "ECO230Y1,  ECO364H1,  ECO364H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H1",
+            "ECO102H1"
+          ]
+        },
+        "ECO105Y1"
+      ]
+    }
+  },
+  "ECO232H1": {
+    "code": "ECO232H1",
+    "name": "Global Macroeconomics and Policies",
+    "hours": "24L/12T",
+    "description": "This course is intended primarily for students in the International Relations program. The course serves as an introduction to some of the causes of differences in economic performance across countries and the impact of a variety of government policies, such as monetary and fiscal policy as well as exchange rate regimes, and how each of the three interact in response to changes in development, sovereign debt, monetary unions and financial crises.",
+    "exclusions": "ECO230Y1,  ECO365H1,  ECO365H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H1",
+            "ECO102H1"
+          ]
+        },
+        "ECO105Y1"
+      ]
+    }
+  },
+  "ECO250Y0": {
+    "code": "ECO250Y0",
+    "name": "Special Topics Abroad in Economics",
+    "hours": "48L/24T",
+    "description": "Special Topics in Economics offered in an international setting. Course content and destination may vary. For more information see the Summer Abroad website.",
+    "exclusions": "ECO250Y0 (Summer 2023) has an exclusion to  ECO225H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H1",
+            "ECO102H1"
+          ]
+        },
+        "ECO105Y1",
+        "ECO100Y5",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO101H5",
+            "ECO102H5"
+          ]
+        },
+        "MAT133Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT157Y1",
+            "CSC108H1"
+          ]
+        },
+        "CSC110Y1",
+        "CSC148H1"
+      ]
+    }
+  },
+  "ECO250Y1": {
+    "code": "ECO250Y1",
+    "name": "Special Topics in Economics",
+    "hours": "48L/24T",
+    "description": "Courses may be offered in one or more subjects each year. Students must meet the prerequisites announced by the Department.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ECO251H1": {
+    "code": "ECO251H1",
+    "name": "Special Topics in Economics",
+    "hours": "24L/12T",
+    "description": "Courses may be offered in one or more subjects each year. Students must meet the prerequisites announced by the Department.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ECO252H1": {
+    "code": "ECO252H1",
+    "name": "Special Topics in Economics",
+    "hours": "24L/12T",
+    "description": "Courses may be offered in one or more subjects each year. Students must meet the prerequisites announced by the Department.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ECO295H1": {
+    "code": "ECO295H1",
+    "name": "Independent Study",
+    "hours": null,
+    "description": "This is an independent study course for students enrolled in an Economics program under the direction of a Department of Economics faculty member. It is an opportunity to explore a topic of interest through readings, discussion, written assignments, experiential learning, etc.\u00a0This course is open only when a faculty member is available and willing to supervise on an individual basis. Applications will be jointly reviewed by the faculty member and Associate Chair, Undergraduate Studies. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ECO299H1": {
+    "code": "ECO299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ECO299Y1": {
+    "code": "ECO299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ECO306H1": {
+    "code": "ECO306H1",
+    "name": "American Economic History",
+    "hours": "24L/12T",
+    "description": "A survey of American economic history from the ante-bellum period to the present. Potential topics include: the rapid growth of the American economy in the late 19th and early 20th century; causes of the onset of the Great Depression; the economic impact of slavery and its aftermath; health and demographic trends; and 20th century trends in inequality.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO206Y1",
+            "ECO220Y1"
+          ]
+        },
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO310H1": {
+    "code": "ECO310H1",
+    "name": "Empirical Industrial Organization",
+    "hours": "24L/12T",
+    "description": "The quantitative analysis of firms' strategies in real-world industries, using tools from applied microeconomics and statistics. Topics include: studies of monopoly, oligopoly, imperfect competition, and the estimation of demand and cost functions that underpin these markets. Note: hands-on analysis of real-world data using computer programs is a course requirement. The course is open to all students who meet the prerequisites, and necessary support for applicable software is provided.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO313H1": {
+    "code": "ECO313H1",
+    "name": "Environmental Economics and Policies",
+    "hours": "24L/12T",
+    "description": "This course demonstrates how a rigorous application of microeconomic techniques can inform our responses to various environmental problems. Topics may include: air and water pollution and renewable resource management.",
+    "exclusions": "ECO313H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO314H1": {
+    "code": "ECO314H1",
+    "name": "Energy and the Environment",
+    "hours": "24L/12T",
+    "description": "This course surveys important features of energy markets and related environmental challenges. One of the central objectives is to provide an understanding of the key economic tools needed to analyse these markets. A related objective is the development of a framework for understanding the public discourse on energy and the environment. Topics include: the hydrocarbon economy (oil, natural gas and coal), electricity markets, global warming and other externalities, renewable energy, conservation, carbon taxes and \u2018cap-and-trade\u2019.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO316H1": {
+    "code": "ECO316H1",
+    "name": "Applied Game Theory",
+    "hours": "24L/12T",
+    "description": "Focuses on the core ideas and concepts of game theory and on applications of them in economics and other social sciences. Topics may include: oligopoly, electoral competition, the theory of public goods, voting theory, the free rider problem, repeated interaction, bargaining, evolutionary equilibrium, matching and auctions. Note: This course cannot be taken as a substitute in programs that require  ECO326H1.",
+    "exclusions": "ECO326H1,  ECO326H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1"
+      ]
+    }
+  },
+  "ECO317H1": {
+    "code": "ECO317H1",
+    "name": "Concepts of Fairness in Economics",
+    "hours": "24L/12T",
+    "description": "How can we make collective decisions fairly? What does it mean to properly balance conflicting interests? How can we combine the well-being of individuals into a concept of societal well-being? We explore these and related ethical questions from the perspective of economic theory. A central tool is the axiomatic approach, which calls for decisions to be consistent, in precise senses, across related situations. Possible topics include: rationing problems, the Shapley value, fair division, discrimination, voting theory, foundations of utilitarianism and egalitarianism, measurement of inequality, population ethics, intergenerational equity, and concepts of equal opportunity.",
+    "exclusions": "ECO351H1 (Special Topics in Economics: Principles of Fair Decisions) taken Fall 2021, Winter 2022, Fall 2022, and Winter 2023",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1"
+      ]
+    }
+  },
+  "ECO320H1": {
+    "code": "ECO320H1",
+    "name": "Economic Analysis of Law",
+    "hours": "24L/12T",
+    "description": "The practical application of microeconomic theory to common legal problems: torts, contracts, property and crime, and the limitations of economic analysis. No previous familiarity with the law is assumed. (This is an economic analysis of legal issues, not a course in law).",
+    "exclusions": "ECO320H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1"
+      ]
+    }
+  },
+  "ECO321H1": {
+    "code": "ECO321H1",
+    "name": "Canadian Economic History prior to 1850",
+    "hours": "24L/12T",
+    "description": "This course applies the tools of economics - theoretical and empirical - to study Canada's historical growth experiences. Topics include: the variation in well-being among Indigenous peoples (both pre and post contact), migration and indentured servitude, colonial money, child labour and education, and the rise of factories. The impact of colonial institutions on Canada\u2019s economic success is studied in a comparative context.",
+    "exclusions": "ECO322Y5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1"
+      ]
+    }
+  },
+  "ECO322H1": {
+    "code": "ECO322H1",
+    "name": "Canadian Economic History, 1850-1960",
+    "hours": "24L/12T",
+    "description": "Canadian economic history between 1850 and 1960, with a focus on the debate over the ability of the market mechanism to optimize economic development. Topics covered include: tariff policies, Confederation, the transcontinental railroad, opening the West, the Great Depression, monetary policy and the Bank of Canada, regional growth and dominion-provincial relations.",
+    "exclusions": "ECO322Y5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1"
+      ]
+    }
+  },
+  "ECO324H1": {
+    "code": "ECO324H1",
+    "name": "Economic Development",
+    "hours": "24L/12T",
+    "description": "This course critically analyzes issues related to economic development and the associated policy responses. Tools from micro and macroeconomic theory are employed, as well as the critical assessment of empirical evidence. Topics may include: education, health, credit markets, inequality, and the role of foreign aid.",
+    "exclusions": "ECO324H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO325H1": {
+    "code": "ECO325H1",
+    "name": "Advanced Economic Theory - Macro",
+    "hours": "24L/12T",
+    "description": "A development of the microeconomic foundations of macroeconomic theory to expand students' analytic skills by constructing and solving macroeconomic models. Topics may include: dynamic choice, neoclassical growth theory, uncertainty and rational expectations, business cycles, as well as fiscal and monetary policy.",
+    "exclusions": "ECO325H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO208Y1",
+        "ECO202Y1",
+        "ECO209Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO326H1": {
+    "code": "ECO326H1",
+    "name": "Advanced Microeconomics - Game Theory",
+    "hours": "24L/12T",
+    "description": "Game theory and applications. Topics include: strategic and extensive games, with applications to economics.",
+    "exclusions": "ECO316H1,  ECO326H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO331H1": {
+    "code": "ECO331H1",
+    "name": "Behavioural and Experimental Economics",
+    "hours": "24L/12T",
+    "description": "Ample empirical and experimental evidence suggests significant departures from classical assumptions of economic behaviour. For example, humans are neither always perfectly rational nor always self interested. This course describes systematic ways in which behaviour deviates from neoclassical assumptions, generating new, and hopefully more realistic behavioural assumptions that have broad empirical, theoretical and policy implications.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO332H1": {
+    "code": "ECO332H1",
+    "name": "Economics of the Family",
+    "hours": "24L/24T",
+    "description": "A use of microeconomics to study the behaviour of the family, including marriage, divorce, intra-family allocations, investment in children and gender roles.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO333H1": {
+    "code": "ECO333H1",
+    "name": "Urban Economics",
+    "hours": "24L/12T",
+    "description": "Spatial economic theory and urban public policy: firms and individuals in partial and general equilibrium, land development and land-use controls, urban transportation, efficiency and equity in spending and taxing.",
+    "exclusions": "ECO333H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1"
+      ]
+    }
+  },
+  "ECO334H1": {
+    "code": "ECO334H1",
+    "name": "The Political Economy of Media",
+    "hours": "24L/12T",
+    "description": "We develop tools to analyze voters and the role of information in democracies. Theories of voter information are evaluated using empirical literature on media its political economy. We explore the effects of information-technology innovation, evaluating how the empirical results square with the theory. We focus on empirical methods used to identify the effects of media\u2014from newspapers, radio and television to the internet and social media\u2014on voters. Note: hands-on analysis of real-world data using computer programs is a course requirement. The course is open to all students who meet the prerequisites and necessary support for applicable software is provided.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO206Y1",
+            "ECO220Y1"
+          ]
+        },
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO336H1": {
+    "code": "ECO336H1",
+    "name": "Public Economics",
+    "hours": "24L/12T",
+    "description": "Theory of taxation and public goods, and quantitative methods for program evaluation. Additional topics include: taxation and income distribution; environmental policy; and the political economy of government policy.",
+    "exclusions": "ECO336H5,  ECO337H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO337H1": {
+    "code": "ECO337H1",
+    "name": "Public Economics (for Commerce)",
+    "hours": "24L/12T",
+    "description": "An introduction to the economics of government similar to  ECO336H1, but with greater focus on issues in business and financial economics. Additional topics include: business tax planning and corporate financial policy; taxation of saving and risk-taking; and government business enterprises.",
+    "exclusions": "ECO336H1,  ECO336H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO338H1": {
+    "code": "ECO338H1",
+    "name": "Economics of Careers",
+    "hours": "24L/12T",
+    "description": "The economic analysis of careers from the perspectives of both workers and employers. How do people decide what to study, what careers to pursue, and when to change jobs? How do these decisions interact with the structure of firms? The impact of specialization and the division of labour on the evolution of careers is considered, as are the role of cognitive and communication skills in the labour market.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO339H1": {
+    "code": "ECO339H1",
+    "name": "Labour Economics: Employment, Wages and Public Policy",
+    "hours": "24L/12T",
+    "description": "Using tools from microeconomic theory and statistics, this course introduces students to the study of labour markets, focusing on employment and wage determination, and the application of labour economics to public policy. Topics may include: labour supply, labour demand, estimating the impact of welfare programs, minimum wages, and other labour market interventions. Note: hands-on analysis of real-world data using computer programs is a course requirement. The course is open to all students who meet the prerequisites and necessary support for applicable software is provided.",
+    "exclusions": "ECO343H5,  ECO344H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO340H1": {
+    "code": "ECO340H1",
+    "name": "Labour Economics: The Distribution of Earnings",
+    "hours": "24L/12T",
+    "description": "Using tools from microeconomic theory and statistics, this course studies the determinants of wages across labour markets. Topics include: the theory of compensating differentials, human capital, discrimination, immigration, unions, and alternative models of compensation. In addition, students are introduced to microeconomic models of unemployment. Throughout the course, there is an emphasis on the evaluation of empirical evidence. Note: hands-on analysis of real-world data using computer programs is a course requirement. The course is open to all students who meet the prerequisites and necessary support for applicable software is provided.",
+    "exclusions": "ECO343H5,  ECO344H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO341H1": {
+    "code": "ECO341H1",
+    "name": "The Economic History of the 20th Century: Trade, Migration, Money and Finance before 1945",
+    "hours": "24L/12T",
+    "description": "Tailored to advanced students in Economics, Commerce, International Relations and History. The focus is on growth and fluctuations in Europe and North America between roughly 1870 and 1939, with a particular emphasis on international trade and payments, migration, investment, and monetary arrangements.",
+    "exclusions": "ECO303H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO230Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO231H1",
+            "ECO232H1",
+            "POL208Y1"
+          ]
+        },
+        "POL208H1"
+      ]
+    }
+  },
+  "ECO342H1": {
+    "code": "ECO342H1",
+    "name": "Twentieth Century Economic History: Institutions, Growth and Inequality",
+    "hours": "24L/12T",
+    "description": "Tailored to advanced students in Economics, Commerce, International Relations and History. The focus is on institutions, growth and inequality in countries across the world.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO230Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO231H1",
+            "ECO232H1",
+            "POL208Y1"
+          ]
+        },
+        "POL208H1"
+      ]
+    }
+  },
+  "ECO349H1": {
+    "code": "ECO349H1",
+    "name": "Money, Banking and Financial Markets",
+    "hours": "24L/12T",
+    "description": "This course studies the interaction of the monetary and banking sectors with financial markets and the broader economy. It builds especially on tools developed in intermediate macroeconomics, but also focuses on the institutional structure of the Canadian monetary sector, including the role and operation of the Bank of Canada.",
+    "exclusions": "ECO348H5/  ECO349H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO202Y1",
+        "ECO208Y1",
+        "ECO209Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO350Y1": {
+    "code": "ECO350Y1",
+    "name": "Special Topics in Economics",
+    "hours": "48L/24T",
+    "description": "Courses may be offered in one or more subjects each year.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO351H1": {
+    "code": "ECO351H1",
+    "name": "Special Topics in Economics",
+    "hours": "24L/12T",
+    "description": "Courses may be offered in one or more subjects each year.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO352H1": {
+    "code": "ECO352H1",
+    "name": "Special Topics in Economics",
+    "hours": "24L/12T",
+    "description": "Courses may be offered in one or more subjects each year.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO202Y1",
+        "ECO208Y1",
+        "ECO209Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO353H1": {
+    "code": "ECO353H1",
+    "name": "Special Topics in Economics with Data Analytics",
+    "hours": "24L/12T",
+    "description": "Seminars or workshops in economics with a data analytics component may be offered in one or more topics each year. Note: hands-on analysis of real-world data using computer programs is a course requirement. The course is open to all students who meet the prerequisites and necessary support for applicable software is provided.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO206Y1",
+            "ECO220Y1"
+          ]
+        },
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1",
+            "ECO225H1"
+          ]
+        },
+        "GGR272H1"
+      ]
+    }
+  },
+  "ECO354H1": {
+    "code": "ECO354H1",
+    "name": "Special Topics in Economics with Data Analytics",
+    "hours": "24L/12T",
+    "description": "Seminars or workshops in economics with a data analytics component may be offered in one or more topics each year. Note: hands-on analysis of real-world data using computer programs is a course requirement. The course is open to all students who meet the prerequisites and necessary support for applicable software is provided.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO206Y1",
+            "ECO202Y1"
+          ]
+        },
+        "ECO208Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO209Y1",
+            "ECO220Y1"
+          ]
+        },
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1",
+            "ECO225H1"
+          ]
+        },
+        "GGR272H1"
+      ]
+    }
+  },
+  "ECO356H1": {
+    "code": "ECO356H1",
+    "name": "Special Topics in Financial Economics",
+    "hours": "24L/12T",
+    "description": "Courses may be offered in one or more subjects each year. Students must meet the prerequisites announced by the Department.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ECO358H1": {
+    "code": "ECO358H1",
+    "name": "Financial Economics I",
+    "hours": "24L/12T",
+    "description": "An introduction to economics of financial assets and financial markets. Topics: inter-temporal choice, expected utility theory, security valuation, selected asset pricing models, market efficiency, and the term structure of interest rates - essential materials for an understanding of the role and operation of financial markets.",
+    "exclusions": "ACT349H1,  ECO358H5,  MGT231H5,  RSM332H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO359H1": {
+    "code": "ECO359H1",
+    "name": "Financial Economics II: Corporate Finance",
+    "hours": "24L/12T",
+    "description": "Agency and incomplete information problems inherent in financial transactions; the role of contractual arrangements in overcoming them. Financial constraints on investment decisions of firms; the financial system in economic growth; the legal system in the functioning of financial markets. A look at theoretical and empirical literature covering these issues.",
+    "exclusions": "ACT349H1,  ECO359H5,  MGT232H5,  RSM333H1",
+    "breadth": 3,
+    "prereq_tree": "ECO358H1"
+  },
+  "ECO362H1": {
+    "code": "ECO362H1",
+    "name": "Economic Growth",
+    "hours": "24L/12T",
+    "description": "The course considers a broad range of issues that underlie economic growth, including technical progress and the accumulation of human and physical capital. Beyond these factors, the course also investigates the efficiency with which capital is used, the role of foreign trade, and the possible roles of institutions and geography.",
+    "exclusions": "ECO362H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO202Y1",
+        "ECO208Y1",
+        "ECO209Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO364H1": {
+    "code": "ECO364H1",
+    "name": "International Trade Theory",
+    "hours": "24L/12T",
+    "description": "An examination of the causes and consequences of international trade. The first half develops traditional models of comparative advantage. The second half examines more recent theoretical and empirical work on trade & wages, the political economy of trade, outsourcing, and firm heterogeneity.",
+    "exclusions": "ECO230Y1,  ECO231H1,  ECO364H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO365H1": {
+    "code": "ECO365H1",
+    "name": "International Monetary Economics",
+    "hours": "24L/12T",
+    "description": "Introduction to open economy macroeconomics and international finance. The core objective of the course is to develop macroeconomic models of open economies that can be applied towards gaining an understanding of recent events such as US deficits, financial crises, China's exchange rate policy and the Euro.",
+    "exclusions": "ECO230Y1,  ECO232H1,  ECO365H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO202Y1",
+        "ECO208Y1",
+        "ECO209Y1"
+      ]
+    }
+  },
+  "ECO367H1": {
+    "code": "ECO367H1",
+    "name": "The Economics of Inequality",
+    "hours": "24L/12T",
+    "description": "This course critically analyzes the causes and recent dynamics of economic inequality both between countries as well as within a particular country, with a particular emphasis on the role of public policy. While theoretical models are employed, there is a focus on the critical assessment of empirical evidence. Topics may include the roles of traditional market forces (e.g., globalisation, technological change), institutions (e.g., minimum wage, unions) as well as race and gender. Note: hands-on analysis of real-world data using computer programs is a course requirement. The course is open to all students who meet the prerequisites and necessary support for applicable software is provided.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO206Y1",
+            "ECO220Y1"
+          ]
+        },
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO368H1": {
+    "code": "ECO368H1",
+    "name": "Economics of Conflict",
+    "hours": "24L/12T",
+    "description": "This course explores the links between violent conflict and socioeconomic development. It focuses on micro-level processes leading to conflict, and how conflict and political violence affect people's lives at the household and community levels. It also examines how these processes are linked to wider political and economic issues including governance and the role of institutions. Tools from economic theory are applied alongside country-specific and cross-country empirical evidence.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1",
+            "ECO101H1",
+            "ECO102H1"
+          ]
+        },
+        "ECO105Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "POL222H1",
+            "POL232H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO369H1": {
+    "code": "ECO369H1",
+    "name": "Health Economics",
+    "hours": "24L/12T",
+    "description": "The provision of health care provides many special problems of informational asymmetry, regulation, insurance and redistribution. A consideration of the demand and supply side problems. Alternative reform proposals for health care are explored.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO372H1": {
+    "code": "ECO372H1",
+    "name": "Data Analysis and Applied Econometrics in Practice",
+    "hours": "24L/12T",
+    "description": "How multiple regression can be used to answer causal questions. Implications of, and how to interpret different model specifications and identification strategies. Students will read, critically evaluate and replicate existing research, and conduct their own original analyses. Statistical software STATA or R will be used.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO206Y1",
+            "ECO220Y1"
+          ]
+        },
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO374H1": {
+    "code": "ECO374H1",
+    "name": "Forecasting and Time Series Econometrics",
+    "hours": "24L/12T",
+    "description": "Introduction to time series econometrics and forecasting. Statistical foundations and economic applications of stochastic processes including ARMA, neural networks with machine learning, VAR, VEC, and volatility models. Students gain practical experience working with economic and financial data, making use of statistical software.",
+    "exclusions": "STA457H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ECO375H1": {
+    "code": "ECO375H1",
+    "name": "Applied Econometrics I",
+    "hours": "24L/12T",
+    "description": "Introduction to econometrics. Statistical foundations and the interpretation of multiple regression models, with an emphasis on cross-sectional data. Application of regressions to a wide variety of economic questions and data sources, including the use of statistical software. Problems in the identification of causality, and an introduction to methods of addressing common statistical issues.",
+    "exclusions": "ECO375H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO200Y1",
+        "ECO204Y1",
+        "ECO206Y1",
+        "ECO220Y1",
+        "ECO227Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA237H1",
+            "STA238H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA247H1",
+            "STA248H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA261H1"
+          ]
+        }
+      ]
+    }
+  }
+}

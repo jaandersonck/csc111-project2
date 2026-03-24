@@ -1,0 +1,1705 @@
+{
+  "CSC454H1": {
+    "code": "CSC454H1",
+    "name": "The Business of Software",
+    "hours": "24L/12T",
+    "description": "Designed and delivered by industry experts in successful commercialization of tech startups, this course focuses on the development of a viable business and startup in partnership and mentorship from industry businesses and entrepreneurs. The course is designed to be taken by students from any faculty or discipline. It focuses on helping them understand and develop business sense, introduce modern customer development, and teach skills in product development, financial management, marketing, and leadership. Alongside the software engineering abilities of  CSC491H1 teammates, skills learned in  CSC454H1 will aid the development of a viable startup. For more details visit our website at https://www.dcsil.ca/student-courses. Not eligible for CR/NCR option. Students must submit an application to the course describing relevant interests, experience, and skills and general academic history. On this application, you will indicate whether you wish to be considered for  CSC454H1 only, or  CSC454H1 and  CSC491H1. Application questions are set and assessed by the instructor. Applications from St. George students enrolled in a Computer Science program or the Data Science Specialist program will be considered first. Applications by students from other programs with appropriate prerequisites will be considered as space permits. Please visit https://q.utoronto.ca/courses/221753/pages/400-level-course-balloting-and-applications for application deadlines and details. A decision on your application will be confirmed approximately 2-3 weeks after the application deadline, so students should enrol in an alternate course until the results of their application are confirmed.",
+    "exclusions": "CSCD54H3. NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": {
+      "credits": 2.5,
+      "department": ""
+    }
+  },
+  "CSC456H1": {
+    "code": "CSC456H1",
+    "name": "High-Performance Scientific Computing",
+    "hours": "24L/12T",
+    "description": "Computationally-intensive applications in science and engineering are implemented on the fastest computers available, today composed of many processors operating in parallel. Parallel computer architectures; implementation of numerical algorithms on parallel architectures; performance evaluation. Topics from: matrix-vector product, solution of linear systems, sparse matrices, iterative methods, domain decomposition, Fourier solvers. For students in computer science, applied mathematics, science, engineering. Ordinarily offered in years alternating with  CSC446H1.",
+    "exclusions": "NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSC436H1",
+        "CSC336H1",
+        "CSC338H5",
+        "CSC209H1"
+      ]
+    }
+  },
+  "CSC457H1": {
+    "code": "CSC457H1",
+    "name": "Principles of Computer Networks",
+    "hours": "24L/12T",
+    "description": "The course covers fundamental principles of computer networks, as well as currently used network architectures and protocols. Its emphasis is 1) to explain why reliable data transfer, addressing, routing and congestion control are the fundamental concepts, 2) to explore the design principles behind algorithms/protocols for reliable data transfer, addressing, routing and congestion control and 3) to use current protocols such as TCP/IP, ARQ, Ethernet, CSMA/CD, DNS and Internet routing protocols as examples of concrete implementations/designs of these protocols. It will highlight the trade-offs (and approaches to navigate these trade-offs) in the design of computer network protocols.",
+    "exclusions": "NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSC373H1",
+        "CSC373H5",
+        "STA247H1",
+        "STA255H1",
+        "STA257H1",
+        "STA237H1"
+      ]
+    }
+  },
+  "CSC458H1": {
+    "code": "CSC458H1",
+    "name": "Computer Networking Systems",
+    "hours": "24L/12T",
+    "description": "Computer networks with an emphasis on network systems, network programming, and applications. Networking basics: layering, routing, congestion control, and the global Internet. Network systems design and programming: Internet design, socket programming, and packet switching system fundamentals. Additional topics include network security, multimedia, software-defined networking, peer-to-peer networking, and online social networks.",
+    "exclusions": "CSC458H5,  CSCD58H3. NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSC209H1",
+        "CSC209H5",
+        "CSC258H1",
+        "CSC258H5",
+        "CSC263H1",
+        "CSC263H5",
+        {
+          "operator": "AND",
+          "items": [
+            "CSC265H1",
+            "STA247H1"
+          ]
+        },
+        "STA255H1",
+        "STA257H1",
+        "STA237H1",
+        "ECO227Y1"
+      ]
+    }
+  },
+  "CSC463H1": {
+    "code": "CSC463H1",
+    "name": "Computational Complexity and Computability",
+    "hours": "24L/12T",
+    "description": "Introduction to the theory of computability: Turing machines and other models of computation, Church\u2019s thesis, computable and noncomputable functions, recursive and recursively enumerable sets, many-one reductions. Introduction to complexity theory: P, NP, polynomial time reducibility, NP-completeness, self-reducibility, space complexity (L, NL, PSPACE and completeness for those classes), hierarchy theorems, and provably intractable problems.",
+    "exclusions": "CSC363H1/  CSC363H5/  CSCC63H3/  CSC365H1. NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSC236H1",
+        "CSC240H1",
+        "CSC236H5"
+      ]
+    }
+  },
+  "CSC465H1": {
+    "code": "CSC465H1",
+    "name": "Formal Methods in Software Design",
+    "hours": "24L",
+    "description": "Using mathematics to write error-free programs. Proving each refinement; identifying errors as they are made. Program development to meet specifications; modifications that preserve correctness. Useful for all programming; essential for programs that lives depend on. Basic logic, formal specifications, refinement. Conditional, sequential, parallel, interaction, probabilistic programming, and functional programming.",
+    "exclusions": "NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSC236H1",
+        "CSC240H1",
+        "MAT309H1",
+        "CSC236H5"
+      ]
+    }
+  },
+  "CSC466H1": {
+    "code": "CSC466H1",
+    "name": "Numerical Methods for Optimization Problems",
+    "hours": "36L",
+    "description": "Numerical methods for unconstrained optimization problems, in particular line search methods and trust region methods. Topics include steepest descent, Newton's method, quasi-Newton methods, conjugate gradient methods and techniques for large problems. This course will normally be offered every other year.",
+    "exclusions": "NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSC336H1",
+        "CSC338H5",
+        "MAT223H1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT240H1",
+            "MAT235Y1"
+          ]
+        },
+        "MAT237Y1",
+        "MAT257Y1"
+      ]
+    }
+  },
+  "CSC469H1": {
+    "code": "CSC469H1",
+    "name": "Operating Systems Design and Implementation",
+    "hours": "24L/12T",
+    "description": "An in-depth exploration of the major components of operating systems with an emphasis on the techniques, algorithms, and structures used to implement these components in modern systems. Project-based study of process management, scheduling, memory management, file systems, and networking is used to build insight into the intricacies of a large concurrent system.",
+    "exclusions": "CSC469H5. NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSC369H1",
+        "CSC369H5"
+      ]
+    }
+  },
+  "CSC473H1": {
+    "code": "CSC473H1",
+    "name": "Advanced Algorithm Design",
+    "hours": "24L/12T",
+    "description": "Advanced algorithm design techniques, with emphasis on the role that geometry, approximation, randomization, and parallelism play in modern algorithms. Examples will be drawn from linear programming and basics of continuous optimization; randomized algorithms for string matching, graph problems, and number theory problems; streaming algorithms and parallel algorithms in the Map-Reduce model.",
+    "exclusions": "NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSC373H1",
+        "CSC373H5",
+        "MAT223H1",
+        "MAT240H1"
+      ]
+    }
+  },
+  "CSC485H1": {
+    "code": "CSC485H1",
+    "name": "Computational Linguistics",
+    "hours": "36L",
+    "description": "Computational linguistics and the processing of language by computer. Topics include: context-free grammars; chart parsing, statistical parsing; semantics and semantic interpretation; ambiguity resolution techniques; reference resolution. Emphasis on statistical learning methods for lexical, syntactic, and semantic knowledge.",
+    "exclusions": "NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSC209H1",
+        "CSC209H5",
+        "STA237H1",
+        "STA247H1",
+        "STA255H1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "APS105H1"
+          ]
+        },
+        "APS106H1",
+        "ESC180H1",
+        "CSC180H1",
+        "ECE302H1",
+        "STA286H1",
+        "CHE223H1",
+        "CME263H1",
+        "MIE231H1",
+        "MIE236H1",
+        "MSE238H1",
+        "ECE286H1"
+      ]
+    }
+  },
+  "CSC486H1": {
+    "code": "CSC486H1",
+    "name": "Knowledge Representation and Reasoning",
+    "hours": "24L/12T",
+    "description": "Representing knowledge symbolically in a form suitable for automated reasoning, and associated reasoning methods. Topics from: first-order logic, entailment, the resolution method, Horn clauses, procedural representations, production systems, description logics, inheritance networks, defaults and probabilities, tractable reasoning, abductive explanation, the representation of action, planning.",
+    "exclusions": "NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSC384H1",
+        "CSC384H5",
+        "ROB311H1"
+      ]
+    }
+  },
+  "CSC488H1": {
+    "code": "CSC488H1",
+    "name": "Compilers and Interpreters",
+    "hours": "24L/12T",
+    "description": "The structure of compilers, Programming language processing. Scanning based on regular expressions, Parsing using context free grammars, Semantic analysis (type and usage checking), Compiler dictionaries and tables. Runtime organization and storage allocation, code generation, optimization. Use of modern compiler building tools. Course project involves building a complete compiler.",
+    "exclusions": "CSC488H5,  CSCD70H3. NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSC258H1",
+        "CSC258H5",
+        "CSC324H1",
+        "CSC324H5",
+        "CSC263H1",
+        "CSC265H1",
+        "CSC263H5"
+      ]
+    }
+  },
+  "CSC490H1": {
+    "code": "CSC490H1",
+    "name": "Capstone Design Project",
+    "hours": "36L",
+    "description": "This half-course gives students experience solving a substantial problem that may span several areas of Computer Science. Students will define the scope of the problem, develop a solution plan, produce a working implementation, and present their work using written, oral, and (if suitable) video reports. Class time will focus on the project, but may include some lectures. The class will be small and highly interactive. Project themes change each year. Contact the Computer Science Undergraduate Office for information about this year\u2019s topic themes, required preparation, and course enrolment procedures. Not eligible for CR/NCR option. A refundable deposit of $90 will be charged for the use of Arduino kit in lab activities. Students must submit an application to the course describing relevant interests, experience, and skills and general academic history. Application questions are set and assessed by the instructor. Applications from St. George students enrolled in a Computer Science program or the Data Science Specialist program will be considered first. Applications by students from other programs with appropriate prerequisites will be considered as space permits. Please visit https://q.utoronto.ca/courses/221753/pages/400-level-course-balloting-and-applications for application deadlines and details. A decision on your application will be confirmed approximately 2-3 weeks after the application deadline, so students should enrol in an alternate course until the results of their application are confirmed.",
+    "exclusions": "NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": {
+      "credits": 1.5,
+      "department": ""
+    }
+  },
+  "CSC491H1": {
+    "code": "CSC491H1",
+    "name": "Capstone Design Project",
+    "hours": "36L",
+    "description": "This course is designed and delivered by industry experts from the Software/Tech fields. Students will work with teammates from  CSC454H1 to develop a marketable startup on a selected theme. The class will be small and highly interactive. You will work to develop working software industry best practices. You are expected to have experience writing software and be able to learn on the go. For more details, visit our website at https://www.dcsil.ca/student-courses. Not eligible for CR/NCR option. Students submit a single application for  CSC491H1 and  CSC454H1, describing relevant interests, experience, and skills and general academic history. Application questions are set and assessed by the instructor. Applications from St. George students enrolled in a Computer Science program or the Data Science Specialist program will be considered first. Applications by students from other programs with appropriate prerequisites will be considered as space permits. Please visit https://q.utoronto.ca/courses/221753/pages/400-level-course-balloting-and-applications for application deadlines and details. A decision on your application will be confirmed approximately 2-3 weeks after the application deadline, so students should enrol in an alternate course until the results of their application are confirmed.",
+    "exclusions": "CSCD90H3. NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "CSC494H1": {
+    "code": "CSC494H1",
+    "name": "Computer Science Project",
+    "hours": null,
+    "description": "This half-course involves a significant project in any area of Computer Science. The project may be undertaken individually or in small groups. The course is offered by arrangement with a Computer Science faculty member, and is restricted to students in an Arts & Science Computer Science program or Data Science Specialist program. Not eligible for CR/NCR option. Students must submit an application to the course. Applications request information about students\u2019 planned project and project supervisor. Applications for each term are due no later than the end of the first week of classes in that term. Please visit https://q.utoronto.ca/courses/221753/pages/400-level-course-balloting-and-applications for application deadlines and details. A decision on your application will be confirmed approximately 2-3 weeks after the application deadline, so students should enrol in an alternate course until the results of their application are confirmed.",
+    "exclusions": "NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": {
+      "credits": 1.5,
+      "department": ""
+    }
+  },
+  "CSC494Y1": {
+    "code": "CSC494Y1",
+    "name": "Computer Science Project",
+    "hours": null,
+    "description": "This course involves a significant multidisciplinary project in an area of Computer Science completed in partnership with another academic unit. Not eligible for CR/NCR option. Students must submit an application to the course. Application requirements and timelines are set and assessed by the instructor or partnering program. Please visit https://q.utoronto.ca/courses/221753/pages/400-level-course-balloting-and-applications for application deadlines and details.",
+    "exclusions": "NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": {
+      "credits": 1.5,
+      "department": ""
+    }
+  },
+  "CSC495H1": {
+    "code": "CSC495H1",
+    "name": "Computer Science Project",
+    "hours": null,
+    "description": "This half-course involves a significant project in any area of Computer Science. The project may be undertaken individually or in small groups. The course is offered by arrangement with a Computer Science faculty member, and is restricted to students in an Arts & Science Computer Science program or Data Science Specialist program. Not eligible for CR/NCR option.  Students must submit an application to the course. Applications request information about students\u2019 planned project and project supervisor. Applications for each term are due no later than the end of the first week of classes in that term. Please visit https://q.utoronto.ca/courses/221753/pages/400-level-course-balloting-and-applications for application deadlines and details. A decision on your application will be confirmed approximately 2-3 weeks after the application deadline, so students should enrol in an alternate course until the results of their application are confirmed.",
+    "exclusions": "NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 1.5,
+          "department": ""
+        },
+        "CSC494H1"
+      ]
+    }
+  },
+  "CSE240H1": {
+    "code": "CSE240H1",
+    "name": "Introduction to Critical Equity and Solidarity Studies",
+    "hours": "24L/12T",
+    "description": "An interdisciplinary intersectional interrogation and examination of systemic inequity, structural oppression and social justice in local and global contexts. Provides a foundation for studies in critical equity and solidarity through a concentrated focus on theory and practice as it relates to major concepts, historical perspectives, key debates, lived experience and radical grassroots community resistance to inequity and oppression. Introduces critical equity as a theoretical framework through which to approach social relations of race, ethnicity, class, gender, sexuality and disability and as a site for thinking through formations of solidarity and transformative social change. The concept of self-defense articulated historically by the Black Panther Party for Self-Defense among others is a key component.",
+    "exclusions": "NEW240H1,  NEW240Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CSE241Y1": {
+    "code": "CSE241Y1",
+    "name": "Introduction to Critical Disability Studies",
+    "hours": "48L/24T",
+    "description": "Draws on an intersectional history and politics of normativity and bodily difference to understand disability as a diverse and materially salient social category that can be used as a lens to better understand systems and experiences of colonization, race, class, gender, age, etc. Explores scenes of disability or 'crip' solidarity, resistance and cultural production, disability D/deaf and mad arts, coalitional movements for disability justice, collective approaches to access and other non-normative ways of knowing and being.",
+    "exclusions": "NEW241Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CSE270H1": {
+    "code": "CSE270H1",
+    "name": "Community Dis/Engagement and Solidarity",
+    "hours": "24L/12T",
+    "description": "An introduction to issues and questions arising from the field of 'community engagement'. Explores the meaning, practices and implications of/for 'community' and 'community (dis)engagement' from multiple perspectives (e.g. the State and its agencies, institutional power, colonial discourse, communities of embodied difference, etc.) Takes a multi-media and arts-based approach to examining self-care from an anti-colonial perspective of central importance in the practice and pedagogy of critical equity and solidarity in the collective struggle for freedom and transformation.",
+    "exclusions": "NEW270H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CSE339H1": {
+    "code": "CSE339H1",
+    "name": "Special Topics in Equity and Solidarity Studies",
+    "hours": "24L",
+    "description": "An upper-level course. Topics of study vary from year to year, depending on the instructor.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        "NEW240H1",
+        "NEW240Y1"
+      ]
+    }
+  },
+  "CSE340H1": {
+    "code": "CSE340H1",
+    "name": "Abolition in the Global Context: Theorizing Uprisings and Youth Activism against Policing and Prisons",
+    "hours": "24L",
+    "description": "Considers the question: what does abolition mean in a global context? An analysis of how nation-states use prisons, (im)migrant detention centers, black sites, detention camps, military prisons, border checkpoints, refugee camps, walls, and concentration camps, to surveil, contain, and lock up disposable populations, and/or to suppress those that resist state violence. Explores these carceral spaces through a historical and political economic investigation of the processes that have produced these sites. Draws on anti-carceral perspectives on abolition and reform to examine uprisings and political activism, particularly youth activism, against prisons, policing, and forms of militarized, capitalist violence transnationally.",
+    "exclusions": "NEW340H1 (Special Topics in Equity Studies: Youth, Activism and Social Change), offered in Fall 2017, Fall 2018, Fall 2019 and Fall 2020",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        "NEW240H1",
+        "NEW240Y1"
+      ]
+    }
+  },
+  "CSE341H1": {
+    "code": "CSE341H1",
+    "name": "Theorizing Settler Colonialism, Capitalism and Race",
+    "hours": "24S",
+    "description": "Provides students with a theoretical background for understanding settler colonialism, capitalist social relations and difference (including race, class, gender, disability and sexuality) and solidarity. Provides an analysis of state violence and the formation of hegemonic power relations. Introduces students to the method of thinking dialectically to examine the social world as a set of relations between multiple phenomena occurring at the same time. Articulates an emancipatory politics of knowledge production and strategies of building solidarities to enable the imagination of a different future.",
+    "exclusions": "NEW341H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        "NEW240Y1"
+      ]
+    }
+  },
+  "CSE342H1": {
+    "code": "CSE342H1",
+    "name": "Theory and Praxis in Food Security",
+    "hours": "24S",
+    "description": "Explores the concept of food security in the context of equity issues related to global food systems. Students participate in food-related field work activities outside of regular classroom time.",
+    "exclusions": "NEW342H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        "NEW240Y1"
+      ]
+    }
+  },
+  "CSE344H1": {
+    "code": "CSE344H1",
+    "name": "Body Matters: Oppression, Solidarity and Justice",
+    "hours": "24L",
+    "description": "Through lectures, small-group discussions and experiential activities, explores how intersecting cultural stories impact our bodies and how stories inscribed upon us shape and constrain our relations, perceptions, experiences and vulnerabilities as embodied subjects. Draws on work in cultural studies, critical race and decolonial theory, gender studies, queer, trans and disability theory and fat studies to ask: Whose bodies matter? How do bodies come to matter? And, how are we - as embodied beings - engaged in acts of rewriting, resisting and otherwise transforming the body means and what it can do?",
+    "exclusions": "NEW344H1,  NEW344Y1,  CSE344Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        "NEW240Y1",
+        "CSE241Y1"
+      ]
+    }
+  },
+  "CSE344Y1": {
+    "code": "CSE344Y1",
+    "name": "Body Matters: Oppression, Solidarity and Justice",
+    "hours": "48L",
+    "description": "Through lectures, small-group discussions and experiential activities, explores how intersecting cultural stories impact our bodies and how stories inscribed upon us shape and constrain our relations, perceptions, experiences and vulnerabilities as embodied subjects. Draws on work in cultural studies, critical race and decolonial theory, gender studies, queer, trans and disability theory and fat studies to ask: Whose bodies matter? How do bodies come to matter? And, how are we - as embodied beings - engaged in acts of rewriting, resisting and otherwise transforming the body means and what it can do?",
+    "exclusions": "NEW344Y1,  NEW344H1,  CSE344H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        "NEW240Y1",
+        "CSE241Y1"
+      ]
+    }
+  },
+  "CSE345H1": {
+    "code": "CSE345H1",
+    "name": "Equity and Activism in Education",
+    "hours": "24L",
+    "description": "Examines contemporary issues in education and schooling from a social justice and equity perspective. Engages with a variety of theoretical frameworks including anti-homophobia education, critical pedagogy, critical race theory, decolonizing knowledges, and intersectionality. Includes an overview of educational activist projects.",
+    "exclusions": "NEW345H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        "NEW240Y1"
+      ]
+    }
+  },
+  "CSE346H1": {
+    "code": "CSE346H1",
+    "name": "Community Organizing and Global Solidarity",
+    "hours": "24L",
+    "description": "Considers, from an interdisciplinary perspective, the evolution of community organizations and non-profits in the context of neoliberalism, settler colonialism, and imperialism. Examines the inter-woven relations of political economy, local community development, marginalized communities in Canada, and emergent forms of global/local solidarity.",
+    "exclusions": "NEW346H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        "NEW240Y1"
+      ]
+    }
+  },
+  "CSE347H1": {
+    "code": "CSE347H1",
+    "name": "Critical Race and Anti-Racism Studies",
+    "hours": "36L",
+    "description": "Considers what it means to pursue integrative anti-racism in organizational/institutional settings such as the workplace, justice system, media and education through a study of theories on race and philosophical tenets of anti-racism. Examines the concept of race as a pedagogical discourse and social-political practice across local, national and global contexts.",
+    "exclusions": "NEW347H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        "NEW240Y1"
+      ]
+    }
+  },
+  "CSE348H1": {
+    "code": "CSE348H1",
+    "name": "Special Topics in Equity Studies",
+    "hours": "24L",
+    "description": "An upper level course. Topics of study vary from year to year.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        "NEW240Y1"
+      ]
+    }
+  },
+  "CSE349H1": {
+    "code": "CSE349H1",
+    "name": "Disability Arts and Culture",
+    "hours": "24S",
+    "description": "Explores the work of disabled, mad, sick and/or Deaf artists and considers how disability disrupts - or 'crips' - artistic spaces and cultural movements. Engages with contemporary debates emanating from within these spaces and movements to reveal disability as a dynamic range of bodily practices, aesthetics and relations.",
+    "exclusions": "NEW349H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        "NEW240Y1"
+      ]
+    }
+  },
+  "CSE439H1": {
+    "code": "CSE439H1",
+    "name": "Advanced Topics in Equity and Solidarity Studies",
+    "hours": "24S",
+    "description": "An upper-level seminar course. Topics of study vary from year to year, depending on the instructor.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        "NEW240H1",
+        {
+          "operator": "AND",
+          "items": [
+            "NEW240Y1",
+            {
+              "credits": 0.5,
+              "department": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "CSE440Y1": {
+    "code": "CSE440Y1",
+    "name": "Advanced Special Topics in Equity Studies",
+    "hours": "72L",
+    "description": "An advanced level seminar course. Topics of study vary from year to year.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        {
+          "operator": "AND",
+          "items": [
+            "NEW240Y1",
+            {
+              "credits": 0.5,
+              "department": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "CSE441H1": {
+    "code": "CSE441H1",
+    "name": "Advanced Topics in Equity Studies",
+    "hours": "24S",
+    "description": "An advanced level seminar course. Topics vary from year to year.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        "NEW240Y1"
+      ]
+    }
+  },
+  "CSE442H1": {
+    "code": "CSE442H1",
+    "name": "Food Systems and the Politics of Resistance",
+    "hours": "36L",
+    "description": "Examines the food we eat in the local and global context of food systems, food sovereignty and food movements. Explores the possibilities for food as a catalyst for learning, resistance and social change. Enrolment is by application. Application forms are available on the CSES webpage prior to the start of course enrolment, and are accepted up to the end of the enrolment period, space permitting. Note: This is a joint graduate/undergraduate course.",
+    "exclusions": "NEW442H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 14.0,
+              "department": ""
+            },
+            "CSE240H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "NEW240Y1",
+            "CSE342H1",
+            {
+              "credits": 0.5,
+              "department": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "CSE443H1": {
+    "code": "CSE443H1",
+    "name": "Advanced Special Topics in Equity Studies",
+    "hours": "36S",
+    "description": "An advanced level seminar course. Topics of study vary from year to year.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        "NEW240Y1"
+      ]
+    }
+  },
+  "CSE444H1": {
+    "code": "CSE444H1",
+    "name": "Anti-Colonization and the Politics of Violence",
+    "hours": "36S",
+    "description": "This advanced seminar interrogates how the theorizations, embodied lived experiences and lived resistance to structural violence can create social, epistemological, ontological and political decolonizing/anti-colonial transformation. The work of Frantz Fanon, John Akomfrah, The Black Panther Party for Self-Defense, Elaine Brown and Assata Shakur amongst others are utilized to search for alternative and oppositional ways to rethink and re-respond to violence. The seminar pursues a nuanced understanding of violence as it relates to de/anticolonization as a lived praxis of resistance and as a practice of self-defense that is grounded in the assertion that there can be no decolonization without anticolonization.",
+    "exclusions": "NEW444H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        {
+          "operator": "AND",
+          "items": [
+            "NEW240Y1",
+            {
+              "credits": 0.5,
+              "department": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "CSE445H1": {
+    "code": "CSE445H1",
+    "name": "Rethinking Palestine:  Colonialism, Revolution and Transnational Solidarity",
+    "hours": "24S",
+    "description": "Aims at decolonizing the study of Palestine by providing an overview of Palestine\u2019s modern history that is grounded in critical perspectives that challenge dominant scholarly paradigms about Palestine. Provides specific theoretical approaches in the study of Palestinian history, culture and politics through such concepts as settler colonialism, occupation, revolution, nationalism, indigeneity, racial capitalism, imperialism, sovereignty, collective memory, resistance, liberation and transnational solidarity. Engages with memoirs, oral histories, archival documents, films, poetry, music and literature to understand the historical, political-economic and juridical foundations that have produced a century of oppression, violence, resistance and solidarity within, across and beyond Palestine.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        "NEW240H1",
+        {
+          "operator": "AND",
+          "items": [
+            "NEW240Y1",
+            "CSE341H1"
+          ]
+        },
+        "NEW341H1"
+      ]
+    }
+  },
+  "CSE446H1": {
+    "code": "CSE446H1",
+    "name": "Community Development and Social Change",
+    "hours": "36L",
+    "description": "Explores the significance of community development as a social change strategy, through a critical social analysis of local and global case studies and policies.",
+    "exclusions": "NEW446H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 14.0,
+              "department": ""
+            },
+            "CSE240H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "NEW240Y1",
+            "CSE346H1",
+            {
+              "credits": 0.5,
+              "department": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "CSE447H1": {
+    "code": "CSE447H1",
+    "name": "Race, Ethnicity and Educational Praxis",
+    "hours": "36L",
+    "description": "An application of critical race, ethnicity and social difference discourse to educational praxis. Examines the articulation of theoretical perspectives to explain particular incidents in society, and to understand forms of institutional racism and emerging minority responses. Explores the implications for pedagogical practices in education.",
+    "exclusions": "NEW447H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        {
+          "operator": "AND",
+          "items": [
+            "NEW240Y1",
+            "CSE347H1",
+            {
+              "credits": 0.5,
+              "department": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "CSE448H1": {
+    "code": "CSE448H1",
+    "name": "Disability and the Child",
+    "hours": "24S",
+    "description": "Examines a range of historical and present-day meanings associated with the figure of the disabled child. Draws on work emanating from a variety of disciplines, including history, psychology, neuroscience, visual arts, film and literature, and engaging with critical theories of race, class, gender, sexuality and disability, to discuss ideas and issues relevant to the construction of 21st century disabled childhoods. Counters the near monolithic story of disability as threat to the presumed goodness of normative childhood by asking: what alternate depictions and narratives of disabled childhood exist and what can they teach us?",
+    "exclusions": "NEW448H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        "NEW240Y1",
+        "CSE241Y1"
+      ]
+    }
+  },
+  "CSE449H1": {
+    "code": "CSE449H1",
+    "name": "Contemporary Theories in Critical Disability Studies",
+    "hours": "24S",
+    "description": "Explores competing conceptions, definitions and practices of disability through a range of critical disability theories, including crip-of-colour critique, decolonial theories of disability studies and black feminist disability frameworks. Enacts disability studies as a justice-oriented methodology or practice that has value for understanding and responding to colonial systems of race, class, gender and disability. Interrogates the shape and limits of disability and disability studies to ask the provocative question: what can disability studies do?",
+    "exclusions": "NEW449H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSE240H1",
+        {
+          "operator": "AND",
+          "items": [
+            "NEW240Y1",
+            {
+              "credits": 0.5,
+              "department": ""
+            },
+            "CSE241Y1"
+          ]
+        },
+        "CSE344Y1",
+        "CSE349H1",
+        "CSE448H1"
+      ]
+    }
+  },
+  "CSE469Y1": {
+    "code": "CSE469Y1",
+    "name": "Decolonizing Research Methodologies for New Researchers",
+    "hours": "48S",
+    "description": "A feminist/anti-racist/anti-colonial/anti-imperialist exploration of research methods. Examines the work of researchers and scholar-activists who seek to humanize research with communities detrimentally impacted by colonial, imperialist, heteropatriarchal research agendas and processes. Supports students' independent research projects through guidance from the course instructor. Prepares students for graduate studies or research-oriented careers. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CSE240H1",
+        {
+          "credits": 1.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "CSE499H1": {
+    "code": "CSE499H1",
+    "name": "Advanced Topics in Critical Studies in Equity and Solidarity",
+    "hours": "24S",
+    "description": "A joint graduate/undergraduate upper-level seminar. Topics vary from year to year, depending on the instructor. Consult the Program Office for course enrolment procedures.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CSE240H1",
+        {
+          "credits": 1.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "CTA200H1": {
+    "code": "CTA200H1",
+    "name": "Computational Astrophysics",
+    "hours": "24L/12T",
+    "description": "Research in theoretical astrophysics encompasses cosmology, galaxy formation and black holes. This course introduces students to modern computational techniques using large scale parallel numerical simulations, carried out at CITA and SciNet. This is an intensive two-week course taught in May.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MAT135Y1",
+        "MAT137Y1",
+        "MAT157Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHY131H1",
+            "PHY132H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PHY151H1",
+            "PHY152H1"
+          ]
+        }
+      ]
+    }
+  },
+  "CTA299H1": {
+    "code": "CTA299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MAT135Y1",
+        "MAT137Y1",
+        "MAT157Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHY131H1",
+            "PHY132H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PHY151H1",
+            "PHY152H1"
+          ]
+        }
+      ]
+    }
+  },
+  "CTA299Y1": {
+    "code": "CTA299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MAT135Y1",
+        "MAT137Y1",
+        "MAT157Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "PHY131H1",
+            "PHY132H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PHY151H1",
+            "PHY152H1"
+          ]
+        }
+      ]
+    }
+  },
+  "CTA395Y1": {
+    "code": "CTA395Y1",
+    "name": "Research Topic",
+    "hours": null,
+    "description": "Course credit for research under the supervision of a faculty member. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 8.5,
+          "department": ""
+        },
+        {
+          "credits": 14.0,
+          "department": ""
+        },
+        "CTA200H1"
+      ]
+    }
+  },
+  "CTA396Y0": {
+    "code": "CTA396Y0",
+    "name": "Research Topic Abroad",
+    "hours": null,
+    "description": "Course credit for research or field studies abroad under the supervision of a faculty member. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 8.5,
+          "department": ""
+        },
+        {
+          "credits": 14.0,
+          "department": ""
+        },
+        "CTA200H1"
+      ]
+    }
+  },
+  "CTA398Y0": {
+    "code": "CTA398Y0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CTA399H1": {
+    "code": "CTA399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CTA399Y1": {
+    "code": "CTA399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CTA495Y1": {
+    "code": "CTA495Y1",
+    "name": "Independent Topics in Astrophysics",
+    "hours": null,
+    "description": "A research project done in consultation with an individual staff member in the Institute leading to a detailed written report and oral presentation. This course is intended primarily for students in the final year of the Astronomy and Physics specialist program, although it is available to students in Engineering Science, Computer Science, or Mathematics. Students must enroll with the Undergraduate Secretary, Prof. Pen. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 1.0,
+              "department": ""
+            },
+            "PHY324H1",
+            "PHY350H1",
+            "PHY354H1",
+            "PHY356H1",
+            "PHY357H1",
+            "PHY358H1",
+            "PHY395H1",
+            "PHY404H1",
+            "PHY408H1",
+            "AST325H1"
+          ]
+        },
+        "AST326Y1"
+      ]
+    }
+  },
+  "DHU235H1": {
+    "code": "DHU235H1",
+    "name": "Introduction to Digital Humanities",
+    "hours": "24L/12P",
+    "description": "Digital Humanities (DH) studies human culture -- art, literature, history, geography, religion -- using computational tools and methodologies, and at the same time studies digital technologies and communities through humanist lenses, as complex cultural objects shaped by wider social and political concerns and the ways we construct knowledge and meaning.",
+    "exclusions": "WDW235H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "DHU236H1": {
+    "code": "DHU236H1",
+    "name": "Virtual Worlds: Introduction to Spatial Digital Humanities",
+    "hours": "24L/12P",
+    "description": "A Digital Humanities perspective on the virtual worlds in which we are increasingly immersed, from scholarly digital archives to video games. We study the theory and methods of geospatial humanities research and explore the technical and cultural implications of computer vision, augmented reality, the Internet of Things, and 3D printing.",
+    "exclusions": "WDW236H1",
+    "breadth": 1,
+    "prereq_tree": "DHU235H1"
+  },
+  "DHU334H1": {
+    "code": "DHU334H1",
+    "name": "Innovation Through a Digital Lens",
+    "hours": "24L",
+    "description": "After some preliminary study of the nature of innovation and the social, political, and economic implications of new ideas and technologies throughout human history, students will select a single innovation to work on as a case study over a series of term assignments, culminating in an online exhibit. Using both traditional research methods and digital tools student will examine the origins and evolution of their chosen innovation, as well as aspects of its impact. The assignments will also give students opportunities to reflect on the ways the digital lens has impacted both their research and their understanding.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DHU235H1",
+        "DHU236H1"
+      ]
+    }
+  },
+  "DHU335H1": {
+    "code": "DHU335H1",
+    "name": "From Book to Map to Video Game: Texts and their Digital Transformations",
+    "hours": "24L/12P",
+    "description": "An examination of the new forms of storytelling made possible by digital media from two perspectives, that of the maker and that of the scholarly reader. Students learn to critically analyze storytelling in new media and experiment with their own adaptations of a literary text to various digital platforms.",
+    "exclusions": "WDW335H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DHU235H1",
+        "DHU236H1"
+      ]
+    }
+  },
+  "DHU336H1": {
+    "code": "DHU336H1",
+    "name": "Research and Writing in Digital Humanities",
+    "hours": "24L",
+    "description": "This course explores the future of digital humanities from two perspectives. We will examine some successful contributions to the humanities employing digital technology, and also look at some critical assessments of digital technology\u2019s impact on humanistic studies. Students will then develop and report on their own digital humanities research projects.",
+    "exclusions": "WDW336H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DHU235H1",
+        "DHU236H1"
+      ]
+    }
+  },
+  "DHU337H1": {
+    "code": "DHU337H1",
+    "name": "Historical Archives in the Digital Age",
+    "hours": "24L/12P",
+    "description": "How do digital surrogates of texts and objects change how we use them? This course examines texts and archives in the digital age: the aims of building them; the new scholarly approaches that they enable; the preservation, access, and equity questions that they raise and require us to answer responsibly.",
+    "exclusions": "WDW337H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DHU235H1",
+        "DHU236H1"
+      ]
+    }
+  },
+  "DHU338H1": {
+    "code": "DHU338H1",
+    "name": "Data: Access, Creation, Curation, and Interpretation",
+    "hours": "24L/12P",
+    "description": "A central challenge of digital humanities is the complexity of representing interpretive, narrative, and perspective-dependent humanities data through digital tools and environments. Topics include the history of \u201cdata\u201d as term and concept; data standards, databases, and linked data; datasets, data curation and analytics, both qualitative and quantitative; and data visualization.",
+    "exclusions": "WDW338H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DHU235H1",
+        "DHU236H1"
+      ]
+    }
+  },
+  "DHU339H1": {
+    "code": "DHU339H1",
+    "name": "Special Topics in Digital Humanities",
+    "hours": "24L/12P",
+    "description": "Topics will vary from year to year. Open to students not enrolled in the Digital Humanities Minor by permission of the program coordinator.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DHU235H1",
+        "DHU236H1"
+      ]
+    }
+  },
+  "DHU339Y0": {
+    "code": "DHU339Y0",
+    "name": "Special Topics in Digital Humanities",
+    "hours": "48L",
+    "description": "Topics will vary from year to year. For more information check the Summer Abroad website.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "DHU435H1": {
+    "code": "DHU435H1",
+    "name": "The Internet Archive",
+    "hours": "24L/12P",
+    "description": "Digital environments change how knowledge is created, communicated, and used. Using the Internet Archive as case study, this course examines the significance of such changes from a variety of perspectives: knowledge representation; technical infrastructure; gender, class, and race issues; disability rights; intellectual property questions; and algorithmic and interpretive scholarly approaches.",
+    "exclusions": "WDW435H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DHU235H1",
+        "DHU236H1"
+      ]
+    }
+  },
+  "DHU436H1": {
+    "code": "DHU436H1",
+    "name": "Advanced Topics in Digital Humanities",
+    "hours": "24L/12P",
+    "description": "This course serves as a capstone for the Digital Humanities Minor program. It includes opportunities for students to conduct original research. The topics for this course will vary from year to year.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DHU235H1",
+        "DHU236H1"
+      ]
+    }
+  },
+  "DHU437H1": {
+    "code": "DHU437H1",
+    "name": "Research Projects in Digital Humanities",
+    "hours": null,
+    "description": "This course is for students who wish to pursue a significant research project, usually participation in a faculty-led DH research project, though it may take other forms. Students must be enrolled in the DH Minor program or obtain special permission of the program coordinator.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DHU235H1",
+        "DHU236H1"
+      ]
+    }
+  },
+  "DRM101Y1": {
+    "code": "DRM101Y1",
+    "name": "Introduction to Drama, Theatre and Performance Studies",
+    "hours": "48L/24T",
+    "description": "The course introduces students to key concepts and issues in the three related disciplines at the core of our program: drama, theatre, and performance studies. We consider broader questions of performance and performativity in daily life. Engaging critically with theoretical and dramatic texts and live performances, students learn how to think about performance in its cultural, social, historical, aesthetic and political dimensions, and how to acknowledge and navigate their own responsibilities as culture workers situated in specific historical and contemporary contexts. This course combines weekly two-hour lectures with one-hour tutorials.",
+    "exclusions": "( DRE121H5,  DRE122H5)/ ( ENG121H5,  DRE122H5)/ ( THRA10H3,  THRB20H3)/ ( THRA10H3,  UNI102H1)",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "DRM200Y1": {
+    "code": "DRM200Y1",
+    "name": "Performance I",
+    "hours": "48T/96P",
+    "description": "Emphasis is initially placed on ensemble, non-verbal, and improvisational work. Students proceed to the application of their acquired skills to scripted material. Students may apply in their first or second year of University. The Application Deadline is March 10th for the first round of auditions; August 1st for the second round. Priority is given to Drama Specialists and Majors. See CDTPS Application Guidelines for information on how to apply.",
+    "exclusions": "( DRS121H5/  DRE201H5,  DRS122H5), ( DRS221H5,  DRS222H5)",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "DRM202H1": {
+    "code": "DRM202H1",
+    "name": "Directing I",
+    "hours": "36P",
+    "description": "A practical introduction to directing theatre and to the different styles, concerns, and goals that guide directors as they pursue their vision. Through lectures, discussions, and practical exercises, students learn how directors prepare for their work by generating ideas, breaking down a text, animating space, and communicating with actors. The majority of the learning takes place during contact time within the class and regular attendance is key. A letter of interest is required. The Application Deadline is March 10th for the first round; August 1st for the second round. Priority is given to Drama Specialists and Majors. See CDTPS Application Guidelines for information on how to apply.",
+    "exclusions": "VPDC02H3,  THRD30H3",
+    "breadth": 1,
+    "prereq_tree": "DRM101Y1"
+  },
+  "DRM220Y1": {
+    "code": "DRM220Y1",
+    "name": "Comparative Theatre Histories",
+    "hours": "48L/24T",
+    "description": "This course will introduce students to major developments in world theatre history through the exploration of a wide range of plays, performances, and practices. In the Fall term our trajectory will go roughly from antiquity to the 16th Century; in the Winter term, from the 16th Century to the present. We will examine material from Africa, America, Asia, Europe, and Oceania, with close attention to the social, religious, historical, aesthetic, and political parameters in which theatre and performance take place. Nurturing ethnically sensitive approaches to world theatre history, this course considers the many ways theatre and performance interact with the globalized world. Students will have an opportunity to participate in collaborative projects and focus on writing for research in the performing arts.",
+    "exclusions": "THRB20H3,  THRB21H3",
+    "breadth": 2,
+    "prereq_tree": "DRM101Y1"
+  },
+  "DRM224H1": {
+    "code": "DRM224H1",
+    "name": "Robots, Automata, and Avatars",
+    "hours": "18L/18P",
+    "description": "Across centuries and global traditions, theatre has staged imaginations - and real demonstrations - of mechanical humans and other animals. This course introduces students to a wide range of technological performers, from science-fiction drama to drone ballets, from baroque automata to virtual puppeteering. Special attention will be paid to how these figures both construct and dismantle concepts of race, gender, and the human. Hands-on sessions will introduce students to the problems such performers present in the studio. Priority will be given to students in the Drama Specialist and Major.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "DRM101Y1",
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "DRM228H1": {
+    "code": "DRM228H1",
+    "name": "Playwriting I",
+    "hours": "36L",
+    "description": "A hands-on study of the craft of dramatic writing. The class examines the basic elements of playwriting such as plot, structure, theme, character, dialogue, setting, with an emphasis on story-making. Attention is given to the development of students own work through written assignments and in-class exercises. Priority will be given to students in the Drama Specialist and Major.",
+    "exclusions": "DRE362H5",
+    "breadth": 1,
+    "prereq_tree": "DRM101Y1"
+  },
+  "DRM254H1": {
+    "code": "DRM254H1",
+    "name": "Design and Production I",
+    "hours": "36L/24T",
+    "description": "A practical and theoretical introduction to the fundamentals of theatrical performance design. This course touches on theatre architecture, conceptual approaches to theatrical design and spatial considerations of live performance. Students will work on case studies and practical projects geared toward understanding theatre terminology, design, and production processes. Students will also explore concrete aspects of technical theatre production, particularly as they pertain to theatrical design elements. Priority will be given to students in the Drama Specialist and Major.",
+    "exclusions": "VPDB03H3,  VPDC03H3,  THRB50H3,  THRC30H3",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "DRM101Y1",
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "DRM286H1": {
+    "code": "DRM286H1",
+    "name": "Special Topics in Drama, Theatre and Performance Studies",
+    "hours": "36P",
+    "description": "An introduction to selected issues in drama, theatre and performance studies.Special Topics vary for Breadth distribution and Group assignment depending on the course content. Please consult the Undergraduate Drama office and check Special Topics on the website for more details.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "DRM288H1": {
+    "code": "DRM288H1",
+    "name": "Introduction to Communication",
+    "hours": "48P",
+    "description": "Effective communication is a pivotal skill when public speaking, persuasive discourse, and personal presence are key to success. In this introductory course, students will strengthen and develop confidence in a supportive, playful, highly participatory and collaborative environment. This course is suited to students in professional programs or for those who would like to learn a full range of communication skills. Exploration of language structure, argumentation, grounding, alignment, vocal resonance, clarity and effective listening will be part of each class with an emphasis on enhancing individual potential.",
+    "exclusions": "DRM286H1 (Special Topics in Drama: Introduction to Communications) offered in Summer 2013, Summer 2014, Summer 2015, Summer 2016, Summer 2017, Summer 2018, Summer 2019, and Summer 2020.",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "DRM299H1": {
+    "code": "DRM299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "DRM299Y1": {
+    "code": "DRM299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "DRM300Y1": {
+    "code": "DRM300Y1",
+    "name": "Performance II",
+    "hours": "48T/96P",
+    "description": "Building upon the work of  DRM200Y1, students concentrate on scene study, styles of acting, and the development of ensemble work with an intensive focus on voice and movement practices. Restricted to students in the Drama Specialist and Major or by permission from the Centre. NB: To enroll in this course, you will need to complete an application by March 10th. See CDTPS Application Guidelines for more information.",
+    "exclusions": "( DRS221H5,  DRS222H5), ( DRS321H5,  DRS322H5)",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DRM101Y1",
+        "DRM200Y1"
+      ]
+    }
+  },
+  "DRM301H1": {
+    "code": "DRM301H1",
+    "name": "Voice and Movement I",
+    "hours": "48P",
+    "description": "A practice-based exploration of voice and movement in relation to performance. Through an exploration of the connections between breath, movement, voice, impulse, emotion, space, character and text, students learn to use their voice and body in informed and efficient ways in practice and performance and to develop a wide expressive range. Emphasis is placed on both personal awareness and ensemble work. Taken in conjunction with  DRM300Y1: Performance II.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DRM101Y1",
+        "DRM200Y1"
+      ]
+    }
+  },
+  "DRM302H1": {
+    "code": "DRM302H1",
+    "name": "Directing II",
+    "hours": "12T/36P",
+    "description": "A continuation of  DRM202H1, concentrating on deepening the exploration of what it means to think and work like a director. Through practical exercises and scene study, students learn how to conceptualize a production and how to communicate their vision, as well as deepen their understanding of what is involved in directing actors and collaborating with a production team. Restricted to students in the Drama Specialist and Major or by permission from the Centre (requests can be made once the priority period has opened on Acorn).",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DRM101Y1",
+        "DRM202H1"
+      ]
+    }
+  },
+  "DRM303H1": {
+    "code": "DRM303H1",
+    "name": "Theories of Acting",
+    "hours": "36L",
+    "description": "A critical survey of the major theorists and practitioners whose writing has influenced the art of the actor, with a focus on Twentieth Century acting and actor training. Students will be introduced to the work of Konstantin Stanislavsky and his American followers (such as Lee Strasberg), Vsevolod Meyerhold, Bertolt Brecht, and Michael Chekhov, among others.",
+    "exclusions": "VPDB15H3",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "DRM101Y1",
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "DRM308H1": {
+    "code": "DRM308H1",
+    "name": "Dancing Black in Canada",
+    "hours": "36L",
+    "description": "This course explores the role of dance within Canada\u2019s Black population with a focus on 1900-1970. Both social and theatrical dance for the stage will be explored within the contexts of legislation, immigration, transnational relations, social and cultural heritage, media reception, and representations of Blackness. We will consider the influence of this era on social, street, and theatrical dance in the late 20th and 21st century.",
+    "exclusions": "DRM388H1 (Dancing Black in Canada) offered in Fall 2023 and 2024",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": ""
+        },
+        "DRM101Y1"
+      ]
+    }
+  },
+  "DRM311H1": {
+    "code": "DRM311H1",
+    "name": "Voice and Movement II",
+    "hours": "3T/36P",
+    "description": "Building on  DRM301H1, students deepen their exploration of vocal and physical practices and techniques. Taken in conjunction with  DRM300Y1: Performance II.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DRM101Y1",
+        "DRM200Y1"
+      ]
+    }
+  },
+  "DRM320H1": {
+    "code": "DRM320H1",
+    "name": "Concepts of Theatre in the Twentieth and Twenty-first Centuries",
+    "hours": "36L",
+    "description": "An exploration of the shifting landscapes of European theatre theory, history and practice in the late 19th century and their repercussions throughout the 20th and 21st centuries. The course focuses on the developments of modern and post-dramatic theatre. It also includes critical analysis of the annual Drama Mainstage production and current Canadian theatre.",
+    "exclusions": "DRM230Y1",
+    "breadth": 1,
+    "prereq_tree": "DRM101Y1"
+  },
+  "DRM328H1": {
+    "code": "DRM328H1",
+    "name": "Playwriting II",
+    "hours": "36L/12T",
+    "description": "A continuation of  DRM228H1, concentrating on the in-depth knowledge and practice of playwriting with an emphasis on style and technique of writing for the stage. Students develop their own work through written assignments, in-class exercises, and a final public presentation. Restricted to students in the Drama Specialist and Major or by permission from the Centre. NB: You will need to complete an application by March 10th and submit writing samples by April 10th in order to be considered for enrollment in this course. See CDTPS Application Guidelines for more information.",
+    "exclusions": "DRE363H5",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DRM101Y1",
+        "DRM228H1"
+      ]
+    }
+  },
+  "DRM331H1": {
+    "code": "DRM331H1",
+    "name": "Dramaturgy",
+    "hours": "36L",
+    "description": "An introduction to the theory and practice of dramaturgy in its many theatrical manifestations: from preparatory research to script analysis, from new play development to audience dramaturgy.",
+    "exclusions": "DRE222H5,  DRE348H5,  DRE360H5,  VPDD01H3",
+    "breadth": 1,
+    "prereq_tree": "DRM101Y1"
+  },
+  "DRM342H1": {
+    "code": "DRM342H1",
+    "name": "The Contemporary Avant-Garde",
+    "hours": "36L",
+    "description": "This class, while exploring significant artistic and sociopolitical developments of the historical avant-garde, will primarily concentrate on the experimental theatre and performance of the past 25 years\u2014a contemporary avant-garde that, as Paige McGinley describes, \u201chinge[s] on a networked spatiality, rather than on linear teleology\u201d and reflects a growing collective investment on part of audiences and artists alike in the work of a work of art.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "DRM101Y1",
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "DRM354H1": {
+    "code": "DRM354H1",
+    "name": "Design II",
+    "hours": "72P",
+    "description": "An intermediate-level investigation of various aspects of theatrical performance design, with a focus on scenic and costume design, though also considering the impact of projections and lighting. Using skills developed through practical study in the Design Studio, the students form the core of the design team for Mainstage production. The course requires active students\u2019 participation in a theatre setting, within and outside of regular class time. Restricted to students in the Drama Specialist and Major or by permission from the Centre (requests can be made once the priority period has opened on Acorn).",
+    "exclusions": "DRM354Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DRM101Y1",
+        "DRM254H1"
+      ]
+    }
+  },
+  "DRM355H1": {
+    "code": "DRM355H1",
+    "name": "Production II",
+    "hours": "36L/36P",
+    "description": "An intermediate-level hands-on investigation of various aspects of theatrical production, including stage management, lighting and sound design, and video design. Using the skills developed in this course, students will form the core of the production team for a number of CDTPS productions. Restricted to students in the Drama Specialist and Major or by permission from the Centre (requests can be made once the priority period has opened on Acorn).",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DRM101Y1",
+        "DRM254H1"
+      ]
+    }
+  },
+  "DRM355Y1": {
+    "code": "DRM355Y1",
+    "name": "Production II",
+    "hours": "72L/72P",
+    "description": "An intermediate-level hands-on investigation of various aspects of theatrical production, including stage management, lighting and sound design, and video design. Using the skills developed in this course, students will form the core of the production team for a number of CDTPS productions. Restricted to students in the Drama Specialist and Major or by permission from the Centre (requests can be made once the priority period has opened on Acorn).",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "DRM101Y1",
+        "DRM254H1"
+      ]
+    }
+  },
+  "DRM360H1": {
+    "code": "DRM360H1",
+    "name": "Race, Gender and Performance",
+    "hours": "36L",
+    "description": "This course will enable students to look at performance in generative new ways by introducing them to theoretical frameworks and critical perspectives from postcolonial theory and queer theory, critical race studies and gender studies. As well as learning to apply these critical tools to works that they are already familiar with, students will be introduced to work in feminist, queer, and anti-racist performance from outside the mainstream.",
+    "exclusions": "DRM387H1 (Special Topics in Drama, Theatre and Performance Studies: Race, Gender & Performance), offered in Summer 2021",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "DRM101Y1",
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "DRM362H1": {
+    "code": "DRM362H1",
+    "name": "Theatre and the World",
+    "hours": "36L",
+    "description": "An intercultural, post-colonial and comparative analysis of innovative processes in the national and cross-cultural theatre around the world. Focusing on selected periods and cultures, the course explores the cultural backgrounds of key turning points in pre-modern and modern theatre and their impact on the developments of the post-modern theatre in a globalizing world.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "DRM101Y1",
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "DRM363H1": {
+    "code": "DRM363H1",
+    "name": "Story-ing the Possible: Talking Treaties, Rehearsing (Re) conciliation",
+    "hours": "36L",
+    "description": "This half course offers a comprehensive examination of Indigenous history in the territories (now called Canada), Treaty Relationships, and Indigenous-Settler Relationships, as they have shifted and evolved since first contact. Students will enter into conversation with this history and the contemporary issues confronting all Canadians today through the writings of Indigenous playwrights, oral history keepers, academic historians, and Indigenous theorists.",
+    "exclusions": "INS201Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "DRM101Y1",
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "DRM366H1": {
+    "code": "DRM366H1",
+    "name": "Canadian Theatre",
+    "hours": "36L",
+    "description": "Since the 1960s, actors, directors, and writers have been architects of Canadian identity. This course will study the history of Canadian theatre, with an emphasis on how Canadian playwrights and creators have been engaged with social and political issues. A survey of post-colonial theatre, cultural diversity, and gender politics on the Canadian stage.",
+    "exclusions": "DRE200H5,  VPDB13H3,  THRB22H3",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "DRM101Y1",
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "DRM368H1": {
+    "code": "DRM368H1",
+    "name": "Devised Theatre",
+    "hours": "36P",
+    "description": "An in-depth, hands-on study of devising theatre in a group context. This course offers an intensive exploration of the history and practice of devised theatre within the late 20th and early 21st centuries that will culminate in a number of in-class and public presentations.",
+    "exclusions": "THRB31H3",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "DRM101Y1",
+            "DRM200Y1"
+          ]
+        },
+        "DRM202H1",
+        "DRM224H1",
+        "DRM228H1",
+        "DRM254H1"
+      ]
+    }
+  },
+  "DRM375H1": {
+    "code": "DRM375H1",
+    "name": "Special Topics in Studio Practice",
+    "hours": "36P",
+    "description": "A focused, in-depth practice-based examination of specific performance disciplines, styles, and genres, considered within their historical and critical context. Content will vary depending on instructor. Please check Studio Topics under Group B on the CDTPS undergraduate web page for more details. Priority will be given to students in the Drama Specialist and Major.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "DRM101Y1",
+            "DRM200Y1"
+          ]
+        },
+        "DRM202H1",
+        "DRM224H1",
+        "DRM228H1",
+        "DRM254H1"
+      ]
+    }
+  },
+  "DRM375Y1": {
+    "code": "DRM375Y1",
+    "name": "Special Topics in Studio Practice",
+    "hours": "72P",
+    "description": "A focused, in-depth practice-based examination of specific performance disciplines, styles, and genres, considered within their historical and critical context. Content will vary depending on instructor. Please check Studio Topics under Group B on the CDTPS undergraduate web page for more details. Priority will be given to students in the Drama Specialist and Major.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "DRM101Y1",
+            "DRM200Y1"
+          ]
+        },
+        "DRM202H1",
+        "DRM224H1",
+        "DRM228H1",
+        "DRM254H1"
+      ]
+    }
+  },
+  "DRM376H1": {
+    "code": "DRM376H1",
+    "name": "Special Topics in Studio Practice",
+    "hours": "36P",
+    "description": "A focused, in-depth practice-based examination of specific performance disciplines, styles, and genres, considered within their historical and critical context. Content will vary depending on instructor. Please check Studio Topics under Group B on the CDTPS undergraduate web page for more details. Priority will be given to students in the Drama Specialist and Major.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "DRM101Y1",
+            "DRM200Y1"
+          ]
+        },
+        "DRM202H1",
+        "DRM224H1",
+        "DRM228H1",
+        "DRM254H1"
+      ]
+    }
+  },
+  "DRM377H1": {
+    "code": "DRM377H1",
+    "name": "Special Topics in Studio Practice",
+    "hours": "36P",
+    "description": "A focused, in-depth practice-based examination of specific performance disciplines, styles, and genres, considered within their historical and critical context. Content will vary depending on instructor. Please check Studio Topics under Group B on the CDTPS undergraduate web page for more details.\u00a0 Priority will be given to students in the Drama Specialist and Major.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "DRM101Y1",
+            "DRM200Y1"
+          ]
+        },
+        "DRM202H1",
+        "DRM224H1",
+        "DRM228H1",
+        "DRM254H1"
+      ]
+    }
+  },
+  "DRM378H1": {
+    "code": "DRM378H1",
+    "name": "Special Topics in Studio Practice",
+    "hours": "36P",
+    "description": "A focused, in-depth practice-based examination of specific performance disciplines, styles, and genres, considered within their historical and critical context. Content will vary depending on instructor. Please check Studio Topics under Group B on the CDTPS undergraduate web page for more details. Priority will be given to students in the Drama Specialist and Major.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "DRM101Y1",
+            "DRM200Y1"
+          ]
+        },
+        "DRM202H1",
+        "DRM224H1",
+        "DRM228H1",
+        "DRM254H1"
+      ]
+    }
+  },
+  "DRM385H1": {
+    "code": "DRM385H1",
+    "name": "Special Topics in Drama, Theatre and Performance Studies",
+    "hours": "36L",
+    "description": "A focused, in-depth examination of specific issues in drama, theatre and performance studies. Special Topics vary for Breadth distribution depending on the course content. Please check Special Topics under Group A on the CDTPS undergraduate web page for more details.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "DRM101Y1",
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  }
+}

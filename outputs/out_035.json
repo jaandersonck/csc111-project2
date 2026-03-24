@@ -1,0 +1,1092 @@
+{
+  "NMC368H1": {
+    "code": "NMC368H1",
+    "name": "Coptic Art & Archaeology",
+    "hours": "24L",
+    "description": "A survey of Coptic art, archaeology and architecture. The course will cover aspects of the religious, civil and daily life of the Copts: their houses, religious architecture, funerary monuments, art and artefacts",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC369H1": {
+    "code": "NMC369H1",
+    "name": "Archaeology of Mesopotamia II: States and Empires",
+    "hours": "36L",
+    "description": "A comprehensive survey class on the archaeology of Mesopotamia during historic time periods (Sumer, Assyria, and Babylon; 2300 \u2013 333 BC), covering the rise of the Akkadian Empire, the Neo-Sumerian \u201crenaissance\u201d of the Ur III State, Hammurapi\u2019s Babylon, the Late Bronze Age under Kassite and Mittani rule, the rise and dominance of Assyria, and the splendor and fall of Babylon. This class will focus on the area of modern-day Iraq but also will consult materials from western Iran, eastern Syria, and southeastern Turkey.",
+    "exclusions": "NMC363H1",
+    "breadth": 3,
+    "prereq_tree": "NMC102H1"
+  },
+  "NMC370H1": {
+    "code": "NMC370H1",
+    "name": "History of Ancient Israel",
+    "hours": "24L",
+    "description": "The course is concerned with the political and cultural history of ancient Israel and the Hebrew people from origin stories set in the pre-monarchic period to early Roman Palestine. Israel is the land that bequeathed the Bible, the Jewish people, and hosted the birth of Christianity. Much of its history witnessed hostile interactions with imperial forces, from Babylon to Rome. While the focus is on key people, events, and essential chronology, the course also addresses critical questions concerning the use of sources (primary among which is the Hebrew Bible/Old Testament); differences between ancient history-writing and modern history-writing; and the assumptions and methods involved in reconstructing historical events.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "NMC104H1",
+        "NMC252H1"
+      ]
+    }
+  },
+  "NMC371H1": {
+    "code": "NMC371H1",
+    "name": "Topics in Hebrew Bible",
+    "hours": "24S",
+    "description": "This course will cover various aspects of the Hebrew Bible, from the study of a book (e.g., Genesis), a group of books (e.g., the Prophetic books) to a topic (e.g., women in the Bible).",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 2.0,
+      "department": ""
+    }
+  },
+  "NMC372H1": {
+    "code": "NMC372H1",
+    "name": "Islam and Muslims in the Balkans",
+    "hours": "24L",
+    "description": "The Balkans has been in contact with Islam and inhabited by Muslims for six centuries. Nowadays it is the home of over eight million Muslims of various ethnic backgrounds who constitute the second largest religious group in the region. This course examines the history of Islam, Muslims, and Muslim culture in the Balkans from the Ottoman conquest in the fourteenth century until the present day while placing it in a wider transregional context. Topics covered include formation of Muslim communities, Sufi groups, the Muslims and the Balkan national imagination, responses to modernity, Muslims as minorities, Muslim experiences in communist states, and the breakup of Yugoslavia.",
+    "exclusions": "HIS306H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "NMC103H1",
+        "NMC273Y1",
+        "NMC278H1",
+        "NMC377Y1",
+        "NMC355H1",
+        "NMC386H1"
+      ]
+    }
+  },
+  "NMC373H1": {
+    "code": "NMC373H1",
+    "name": "Modern Iran",
+    "hours": "24L",
+    "description": "This course covers the history of Iran from the early modern period to the present. Following an overview of the Safavid revolution and the empire it created (1501\u20131722), we examine the political upheavals experienced in post-Safavid Iran throughout the 18th century that culminated in the rise of the Qajar polity. This review of early modern Iranian history will set the stage for our investigation of the defining moments in the modern history of Iran, including the Constitutional Revolution (1905\u20131911), the subsequent toppling of the Qajar dynasty, and the establishment of Pahlavi rule under Reza Shah. We then focus on the events leading up to and including the Islamic Revolution of 1979 and the making of the Islamic Republic. The course concludes with an exploration of society and culture in contemporary Iran.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC375H1": {
+    "code": "NMC375H1",
+    "name": "Conversion to Islam in Medieval History",
+    "hours": "24S",
+    "description": "How did Islam spread in the world? The question has puzzled historians for years. For centuries after the rise of Islam, much of the Middle East was still largely comprised of diverse communities of non-Muslims. This course on the complex history of \u201cIslamization\u201d examines when, how, and why various societies became majority Muslim, through a close look at case studies and sources from across the medieval world including Spain, North Africa, Central Asia and India. Topics covered include religious tolerance, polemic, cultural assimilation, minority identities, interreligious marriages, children of mixed families, and the contentious issues of apostasy and forced conversion.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "NMC103H1",
+        "NMC273Y1"
+      ]
+    }
+  },
+  "NMC376H1": {
+    "code": "NMC376H1",
+    "name": "History of Islamic Spain and North Africa (640-1492)",
+    "hours": "24L",
+    "description": "Muslim conquest of North Africa and Spain, history of Spain under Muslim rule to 1492. Attention given to institutional and cultural development, Islamic Spain's relations with the Islamic east and neighbours in Europe.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "NMC273Y1"
+  },
+  "NMC378H1": {
+    "code": "NMC378H1",
+    "name": "Modern Arab History",
+    "hours": "36L",
+    "description": "A thematic treatment of the Arab lands of the Middle East and North Africa from 1700 onward, focusing on the Ottoman and colonial periods.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "NMC278H1"
+  },
+  "NMC379H1": {
+    "code": "NMC379H1",
+    "name": "Capital, Technology, and Utopia in the Modern Middle East",
+    "hours": "12L/12S",
+    "description": "How does the workings of capital intersect with technological innovation and political visions in the modern Middle East? This course approaches this question through critical reading in the histories of capitalism, crisis, science, politics, and intersections between cultural history and technology studies using the Middle East as a starting point for the study of global phenomena. We will examine the ways in which constructions like race and ethnicity, gender, and the human/non-human divide have mediated the social and spatial expansion of capital in the region, especially through technological infrastructure and utopias between the late 18th and the 21st centuries.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": "NMC"
+    }
+  },
+  "NMC380H1": {
+    "code": "NMC380H1",
+    "name": "Religion in the Ancient Near East",
+    "hours": "48S",
+    "description": "This course examines a variety of different sources of evidence for religion in the ancient Near East, especially in Mesopotamia, the Levant, and Anatolia, including original written sources, archaeological evidence and iconography. Where possible, the focus will be on reading primary Near Eastern texts, and interpreting them within their contemporary social and political context. We also will discuss links between ancient Near Eastern texts and material that later came to be incorporated into Jewish, Christian and Islamic religious texts.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 3.0,
+      "department": "ANY"
+    }
+  },
+  "NMC381H1": {
+    "code": "NMC381H1",
+    "name": "Modern Islamic Thought",
+    "hours": "24L",
+    "description": "Survey of major intellectual trends in the Islamic tradition, particularly those identified with Middle Eastern Muslim thinkers, from the early 19th century to the present. Topics include reformism, modernism, hermeneutics, feminism, Islamism, and liberal and progressive trends in contemporary Muslim thought. Readings in English translation.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "NMC103H1"
+  },
+  "NMC384H1": {
+    "code": "NMC384H1",
+    "name": "Marking Time: Legal Issues and Personal Status in Judaism",
+    "hours": "24S",
+    "description": "This course will examine certain aspects of status and family law in Judaism, as well as Zoroastrianism, Eastern Christianity, and Islam. We will review some literature in legal theory to test its applicability to religious-based law. Our main topics include virginity (marital age, proof of virginity or its absence, rape or seduction of virgins, economics and theology of virginity); menstrual laws (impurity, punishment, sexuality, purification); mysticism (practitioners, purity requirements, theology); and sexuality (marriageability, prohibited partners, sex acts). Sectarian approaches to these legal issues will be examined, for example, how biblical law is interpreted in Qumran, by the rabbis, and how these topics are addressed by Zoroastrian law, the Eastern Church Fathers and the Four Schools in Islamic law.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": "HUM"
+    }
+  },
+  "NMC386H1": {
+    "code": "NMC386H1",
+    "name": "Muslims, Christians, and Jews in the Ottoman Empire",
+    "hours": "24L",
+    "description": "Although ruled by a Muslim dynasty and frequently characterized as an Islamic empire, the Ottoman state was inhabited by diverse religious and ethnic populations, many of them non-Muslim. This course examines how the Ottoman Empire governed and organized its subjects, Muslims and non-Muslims alike, of various ethnic backgrounds. It explores the relations among these communities and their interactions with the state, raising questions about tolerance, co-existence, conflict, loyalty, and identity. By looking into a selection of topics from the wide territorial span of the Ottoman Empire (Anatolia, the Balkans, and the Arab Middle East) the course seeks to provide insights into the organization, functioning, and transformation of a multi-confessional state and society in the premodern and modern eras.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC387H1": {
+    "code": "NMC387H1",
+    "name": "Women, Gender, and Sexuality in the Ottoman Empire",
+    "hours": "24L",
+    "description": "The course explores key aspects of the history of women, gender, and sexuality in the Ottoman Empire from the early fourteenth century until the empire\u2019s collapse over the course of the First World War. It examines the experiences of women of various social and religious backgrounds, and the transformation of concepts and expressions of sexuality. Topics include gender and law, the harem as a social and political institution, discourses of sexuality, reproductive politics, women\u2019s movements, labour history, fashion, and gendered experiences of displacement, violence, and war.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 2.0,
+      "department": ""
+    }
+  },
+  "NMC388H1": {
+    "code": "NMC388H1",
+    "name": "The Rise of the Ottomans",
+    "hours": "24L",
+    "description": "A survey of the Ottoman Turks from their late 13th\u2013early 14th century origins on the frontiers of the Seljuk, Mongol, and Byzantine empires to their establishment of an Islamic empire. Topics include the principalities known as beyliks that came into being in Anatolia as the above empires declined, the nature of the early Ottoman beylik, conquests in the Balkans, the destruction of the early Ottoman state by Timur and its rebirth, and Mehmed II\u2019s conquest of Constantinople. Coverage includes Ottoman institutions, economy, society, and culture.",
+    "exclusions": "NMC377Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC389H1": {
+    "code": "NMC389H1",
+    "name": "The Ottoman Empire in its Classical Age",
+    "hours": "24L",
+    "description": "A survey of the Ottoman Empire in the 16th and 17th centuries. From the victory by Selim I the Grim over Safavid Iran and conquest of Syria and Egypt to the resplendent age of S\u00fcleyman the Magnificent to the internal and external challenges that forced transformation or decline. Topics include wars in Europe, the Mediterranean and Black Seas, and with Iran; internally, the rise of the harem and \u201csultanate of the women,\u201d rebellions in Anatolia, military reform, religious controversies, and art and architecture. The endpoint is the Treaty of Karlowitz (1699) when the expansion of the empire ended.",
+    "exclusions": "NMC377Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC394H1": {
+    "code": "NMC394H1",
+    "name": "Persianate Art and Architecture",
+    "hours": "24L",
+    "description": "Covering art and material culture in the eastern Islamic lands from the late 13th century to the modern period. Objects from the collections of Islamic art in the Royal Ontario Museum will also be studied.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": ""
+    }
+  },
+  "NMC395H1": {
+    "code": "NMC395H1",
+    "name": "Iconography of the Art and Material Culture of the Islamic World",
+    "hours": "24S",
+    "description": "The art and material culture of the Islamic world is rich in iconography - from Persian paintings to Afghan war rugs - with complex layers of meaning that are not necessarily understood at first glance. Such imagery can be comprehended through numerous lenses, from pre-Islamic concepts and literary themes to politically-driven motivations or religious beliefs and practices. Through a series of case studies of examples of painting, ceramics, metalwork, textiles, and contemporary art, the course examines the meanings behind the iconography on objects from across the Middle East and Central Asia, dating from the medieval period to the present day.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC396H1": {
+    "code": "NMC396H1",
+    "name": "The Art of the Qur\u2019an",
+    "hours": "24L",
+    "description": "The holy Qur\u2019an, believed by Muslims to be the Word of God, has been a source of creative and artistic inspiration for Muslims around the world and through the ages. The language and interpretation of the Qur\u2019an have engaged the minds of artists, craftspeople, and patrons of the arts as much as the minds of theologians and jurists. This course explores expressions of the Qur\u2019an through a wide range of visual and material culture\u2013from illuminated manuscripts to the use of the sacred text on coins, amulets, architecture, ceramics, metalwork, textiles, and modern and contemporary works of art. The course will include visits to the Royal Ontario Museum to examine Qur\u2019ans in its Islamic collection.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": "HUM"
+    }
+  },
+  "NMC398Y0": {
+    "code": "NMC398Y0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "NMC399H1": {
+    "code": "NMC399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "NMC399Y1": {
+    "code": "NMC399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "NMC445H1": {
+    "code": "NMC445H1",
+    "name": "Sacred versus Secular Space: Mesopotamian Architecture in Context",
+    "hours": "36L",
+    "description": "When and where did the first buildings come about? Learn how some 10,000 years ago, the first permanent dwellings were constructed in the ancient Near East. Discover how the agricultural revolution and the domestication of animals resulted in the formation of villages during the Neolithic period (9,000\u20135,000 BC) with house types that grew in size and complexity. Observe how religious architecture evolved from simple, household-based cultic installations to large public complexes that dominated cities during the Uruk and Early Dynastic periods (4,000\u20132,300 BC). See how the rise and manifestation of powerful political leaders is reflected in the development, layout and decoration of their palaces. Beyond a typological approach to architecture, this course will also address challenges created by environmental conditions and limitations in available building materials. While focusing on Mesopotamia and Syria, it will also incorporate examples from Iran, Anatolia and the Levant.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC446H1": {
+    "code": "NMC446H1",
+    "name": "The Babylonian City",
+    "hours": "24L",
+    "description": "Ancient Mesopotamia is well known as the birthplace of some of the world\u2019s earliest cities. This course investigates the physical form of the city in 2nd and 1st millennium BC Babylonia (southern Mesopotamia) as the setting for the daily activities of its inhabitants. It examines the key components of the Babylonian city: houses; neighbourhoods and city districts; palaces; temples and ziggurats; streets and alleys; shops and markets; city walls, gates, and moats, as well as canals, orchards and gardens. The course emphasizes the reading and critical evaluation of written sources in translation, including selected royal inscriptions, topographical texts, and legal and administrative documents. It also considers ways of approaching the study of ancient cities and addresses the integration of textual and archaeological evidence. The focus is on investigating the relationship between Babylonian city form and contemporary social structure.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": "ANY"
+    }
+  },
+  "NMC447H1": {
+    "code": "NMC447H1",
+    "name": "The Neo-Assyrian Empire",
+    "hours": "24L",
+    "description": "The course offers a detailed introduction to the Neo-Assyrian empire and how it functioned, based on study of a representative selection of written sources (in translation). It examines Assyrian kingship, imperial administration, and daily life as reflected in the texts, including the royal inscriptions, official correspondence, astrological reports, and everyday legal and administrative documents. The course studies a cross-section of Assyrian society taking into account various perspectives, from the king and his highest officials and court scholars to the lowest-ranking subjects and deportees. It also investigates the economic basis of the Assyrian empire, including taxation and tribute, booty from military conquest, specialist craft production, and agriculture. The course emphasizes the historical evaluation and interpretation of the primary written sources.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": "ANY"
+    }
+  },
+  "NMC449H1": {
+    "code": "NMC449H1",
+    "name": "Mesopotamian Society and Economy",
+    "hours": "24L",
+    "description": "This course presents a thematic overview of Mesopotamian society and economy from the third millennium to the 1st millennium BC. The emphasis is on critical evaluation of the primary sources (in translation), such as everyday legal contracts and the so-called \u201cLaws\u201d. It also explores different approaches to the study of ancient social structures and economies. Topics include: freedom, slavery, and social class; ethnicity; women, children, and the elderly; marriage, family, and household; crime and punishment, and the judicial system; the priesthood; palace and temple, private and state; merchants and trade; money, markets, and prices, and the question of whether there was a market economy; labour and wages; land ownership and tenure, and wealth and social inequality.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": "ANY"
+    }
+  },
+  "NMC450H1": {
+    "code": "NMC450H1",
+    "name": "Research Seminar on Ancient Jewish Literature",
+    "hours": "24S",
+    "description": "A seminar focusing on the critical analysis of the Hebrew Bible and related ancient Jewish texts. Literary genre and critical topics will vary according to instructor\u2019s research interests. Focus will be given to developing research skills by working with accepted critical methodologies. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC452H1": {
+    "code": "NMC452H1",
+    "name": "Iranian Modernity",
+    "hours": "36S",
+    "description": "This course explores competing conceptions of Iranian modernity within a comparative historical framework on \u201cmultiple modernities.\u201d A major theme is the exploration of the temporality and historicity in discussions of Iranian modernity.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "NMC454H1": {
+    "code": "NMC454H1",
+    "name": "Mapping the Ottoman World",
+    "hours": "24S",
+    "description": "This highly visual course explores the history of cartography in the Ottoman World between the 15th and 20th centuries. Focusing on the social life of images, it examines how the Ottomans and their rivals governed the territory through navigation, astronomy, architecture, property, and geographical surveys. From religious to scientific visualizations, maps make history. Yet not long ago, they were rare and strange technical objects, and their value as historical source has shifted again and again. Each week illuminates moments of this story by centering on a topic including empire, image, boundaries, print, reform, visualization, infrastructure, spatial literacy, map wars, and verticality.",
+    "exclusions": "NMC471H1 (Advanced Topics in Near and Middle Eastern Civilizations: Mapping the Ottoman World), offered in Fall 2021",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "NMC"
+    }
+  },
+  "NMC459H1": {
+    "code": "NMC459H1",
+    "name": "Advanced Data Science Applications in Archaeology",
+    "hours": "12P/24S",
+    "description": "Digital technology and \u201cbig data\u201d are transforming not only the ways in which archaeologists present and communicate their research, but also increasingly the ways they collect and analyze data. Modern archaeology is also becoming progressively more multi-disciplinary, and reliant on the analysis of growing bodies of disparate forms of data, both archaeological data and data from related fields. This course exposes students to common approaches to the analysis of archaeological data (e.g. settlement scaling theory, summed probability distributions, agent-based modelling, etc.) and helps them develop hands-on skills in these critical techniques in archaeological data analysis. Where possible, this course will focus on case studies from the Near Eastern world.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": ""
+            },
+            "NMC268H1"
+          ]
+        },
+        "ARH312Y1"
+      ]
+    }
+  },
+  "NMC460H1": {
+    "code": "NMC460H1",
+    "name": "The Archaeology of Borders in Egypt and the Ancient Near East",
+    "hours": "24S",
+    "description": "Borders impact all kinds of aspects of our daily lives, and the same was true for peoples in the ancient Near East. This course will analyze premodern societies from the perspective of these boundaries, from \u201cnatural\u201d geographic boundaries to the strict registers of action that define the aesthetics of Pharaonic and Near Eastern art. Using cutting edge theoretical approaches developed by anthropologists, geographers, art historians, and archaeologists to study modern (and ancient) border-making, this course will investigate Pharaonic and Near Eastern societies through the prism of the political, cultural, administrative, and economic boundaries they created and maintained.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": ""
+    }
+  },
+  "NMC461H1": {
+    "code": "NMC461H1",
+    "name": "The History and Archaeology of the Horn of Africa and South Arabia",
+    "hours": "24S",
+    "description": "The cultures of the Horn of Africa and South West Arabia, separated by the Red Sea, have long been intertwined. This course explores the history and archaeology from the emergence of the hominids in Ethiopia, to the rise of the Sabean and Axumite kingdoms, until the Middle Ages, highlighting their interactions and the roles they played in the development of their respected cultures.",
+    "exclusions": "NMC461Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "NMC260H1",
+        "NMC262H1"
+      ]
+    }
+  },
+  "NMC462H1": {
+    "code": "NMC462H1",
+    "name": "Polarized-light Microscopy in Archaeology I: Foundations",
+    "hours": "24L/24P",
+    "description": "This course provides students with training in the use of polarized-light microscopy in the examination of archaeological materials, particularly pottery (ceramic petrology). Students will apply the knowledge they gain from lectures to hands-on work with materials in the lab, covering instruction in crystallography, optics, mineralogy, lithology, and other aspects of the petrology of ceramics and other materials. Labs comprise eight three-hour sessions during the term, working with the polarized-light microscope to examine and analyze thin-sections. No prior knowledge of geology is required. Students should plan to take  NMC470H1 Polarized-light Microscopy in Archaeology II: Applications, in the following term to complete their training.",
+    "exclusions": "NMC462Y1",
+    "breadth": 5,
+    "prereq_tree": "NMC264H1"
+  },
+  "NMC463H1": {
+    "code": "NMC463H1",
+    "name": "Warfare: The Archaeology of Conflict in the Ancient Near East",
+    "hours": "36L",
+    "description": "When did humans start fighting each other, and how far back can we trace the history of warfare? This course investigates the origin, nature, and manifestation of military conflicts in the ancient Near East and studies their impact on political, economic, and social developments in the region. Following a review of the relevant terminology (e.g., \u201cwarfare\u201d vs \u201cskirmish\u201d) in archaeological literature, we will investigate the archaeological and historical data for a time span that extends from 9,000 to 300 BC. Evidence from archaeological sites (notably violent destructions of ancient settlements) will be compared with available artistic representations of warfare in sculpture, reliefs, inlays, and glyptics, complemented by textual accounts. While the course focuses on Mesopotamia, evidence from Syria, Turkey, Iran, the Levant, and Egypt will also be included.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "NMC260H1"
+  },
+  "NMC464H1": {
+    "code": "NMC464H1",
+    "name": "The Archaeology of Stuff at the ROM",
+    "hours": "36P",
+    "description": "Hands-on analysis of actual materials from the Middle and Near East, including Egypt, Iraq, Iran, Syria, and Turkey. Students learn the techniques by which archaeologists understand objects from the past: what they are made of, how they were made, and what they reveal about the people who made them.",
+    "exclusions": "NMC369Y1",
+    "breadth": 1,
+    "prereq_tree": "NMC264H1"
+  },
+  "NMC465H1": {
+    "code": "NMC465H1",
+    "name": "Ceramic Analysis",
+    "hours": "6P/36S",
+    "description": "A survey of methods of classification and analysis (form, fabric and style) involved in the study of archaeological ceramics, and the use of ceramics to infer patterns of production, distribution, and social organization; linking research questions with appropriate analytical techniques.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        "ARH312Y1",
+        "NMC260H1",
+        "NMC262H1",
+        "NMC264H1",
+        "NMC360H1",
+        "NMC361H1",
+        "NMC464H1"
+      ]
+    }
+  },
+  "NMC466H1": {
+    "code": "NMC466H1",
+    "name": "Near Eastern Ceramics",
+    "hours": "36S",
+    "description": "An introduction to the basic corpus of Near Eastern ceramics, from the invention of pottery production in the Neolithic until the Persian period, utilizing existing collections at the University and in the Royal Ontario Museum.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        "ARH312Y1",
+        "NMC260H1",
+        "NMC262H1",
+        "NMC264H1",
+        "NMC360H1",
+        "NMC361H1",
+        "NMC464H1",
+        "NMC465H1"
+      ]
+    }
+  },
+  "NMC467H1": {
+    "code": "NMC467H1",
+    "name": "Seminar in Egyptian Archaeology I",
+    "hours": "24S",
+    "description": "Seminar focuses on the social and cultural development of Egypt from the Predynastic Period through the Middle Kingdom, engaging with major theories regarding social complexity, state formation, urbanism, social organization, and regionalism. An independent research project and hands-on experience with artifacts at the ROM are important features of the course.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "NMC101H1",
+        "NMC343H1"
+      ]
+    }
+  },
+  "NMC468H1": {
+    "code": "NMC468H1",
+    "name": "Seminar in Egyptian Archaeology II",
+    "hours": "24S",
+    "description": "Seminar focuses on the social and cultural development of Egypt from the Middle Kingdom through the Ptolemaic Period, engaging with major theories regarding urbanism, ethnicity, core-periphery relationships, cultural interaction, and social organization. An independent research project and hands-on experience with artifacts at the ROM are important features of the course.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "NMC101H1",
+        "NMC344H1"
+      ]
+    }
+  },
+  "NMC469Y1": {
+    "code": "NMC469Y1",
+    "name": "Medieval Middle Eastern Ceramics",
+    "hours": "72S",
+    "description": "An introduction to the ceramics of the Middle or Near East from the time of Alexander until recent times. A particular emphasis will be the elite glazed wares of the mediaeval and Islamic periods. Apart from providing a history of the production of ceramics and their social and archaeological context, this course is intended to train archaeologists and art-historians in the fundamental field recognition and identification of the various types and their production origins, and the course will rely heavily on the collections of the ROM.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "NMC260H1",
+        "NMC262H1",
+        {
+          "credits": 0.5,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "NMC470H1": {
+    "code": "NMC470H1",
+    "name": "Polarized-light Microscopy in Archaeology II: Applications",
+    "hours": "24L/24P",
+    "description": "This course explores further applications of polarized-light microscopy in the examination of archaeological materials, particularly pottery (ceramic petrology). The focus is on foundational research and case-studies of materials from around the world with particular attention to material culture from the Middle East, Central America, and East Asia, where University of Toronto researchers have worked, ranging in date from the Neolithic period to the modern day. Class and lab discussions will include critical examination of the application and integration of ceramic petrology in archaeological research design and how petrology can address relevant research questions successfully. Labs comprise eight three-hour sessions during the term, working with the polarized-light microscope to examine and analyze thin-sections.",
+    "exclusions": "NMC462Y1",
+    "breadth": 5,
+    "prereq_tree": "NMC462H1"
+  },
+  "NMC471H1": {
+    "code": "NMC471H1",
+    "name": "Advanced Topics in Near and Middle Eastern Civilizations",
+    "hours": "24S",
+    "description": "An advanced seminar organized around readings on a topic selected by the instructor.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC472H1": {
+    "code": "NMC472H1",
+    "name": "Theory & Method in Middle East Studies",
+    "hours": "24S",
+    "description": "Examines current theoretical and methodological trends in the study of the Near/Middle East. A seminar course, it consists of presentations, discussions, lectures, guest speakers, and documentaries. No previous knowledge of methodology required. Special attention will be paid to the politics, culture, political economy, gender, and ethics of various research practices. Intended for 4th year students only.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC473H1": {
+    "code": "NMC473H1",
+    "name": "Intellectuals of the Modern Arab World",
+    "hours": "24S",
+    "description": "The course is designed to re-examine the role of intellectuals in the Arab world and political events that shaped their thinking. It introduces the life and thought of some leading thinkers of the Arab world and relates their thought to the lived experience of political, social, economic and cultural change in the Middle East.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 1.0,
+          "department": ""
+        },
+        "NMC278H1",
+        "NMC377Y1",
+        "NMC378H1"
+      ]
+    }
+  },
+  "NMC474H1": {
+    "code": "NMC474H1",
+    "name": "The Archaeology of Death",
+    "hours": "36S",
+    "description": "Death is an unavoidable part of the human experience, and each culture has its own unique ways of handling the loss of family and community members and conceptualizing the relationships between the living and the dead. This course represents an intensive education in the archaeology of death. Participants in this class will read a variety of theoretical and methodological literature outlining several approaches to reconstructing the ways that people have disposed of the dead throughout history, and will use these frameworks to examine in detail the primary archaeological data for mortuary practices from sites in the ancient Near East.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ANT200Y1",
+        "NMC260H1",
+        "NMC262H1"
+      ]
+    }
+  },
+  "NMC475H1": {
+    "code": "NMC475H1",
+    "name": "Orientalism & Occidentalism",
+    "hours": "24S",
+    "description": "This course probes the contemporaneous formation of modern Oriental Studies in Europe and the emergence of discourses on Europe (Ifranj/Farang) in the Middle East from the eighteenth century to the present. Special emphasis will be devoted to encounters between scholars in Western Europe, Iran, India, and the Ottoman Empire. This seminar-style course explains that Orientals gazed and returned the gaze, and in the process of cultural looking, they, like their Occidental counterparts, exoticized and eroticized the Farangi-Other. In the interplay of looks between Orientals and Occidentals, there was no steady position of spectatorship, no objective observer, and no aperspectival position. Intended for upper year students.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC476H1": {
+    "code": "NMC476H1",
+    "name": "Politics of Archaeology in the Modern Middle East",
+    "hours": "24S",
+    "description": "This course examines the role nineteenth and twentieth-century archaeology played in Middle Eastern politics, the culture of colonialism and in nationalist struggles. The course will first familiarize the students with the diplomatic and intellectual context of the formation of archaeology as a field of study in Europe and analyse the role archaeology played in the production of knowledge about the Middle East. Next, the course will examine the archaeological practices on the ground (and underground) and inquire what happens in the contact zone between foreign and local archaeologists. Finally, we will trace the ways in which emergent nationalist discourse challenge, appropriate and imitate the historical narratives of Western archaeology.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC477H1": {
+    "code": "NMC477H1",
+    "name": "Modern Turkey",
+    "hours": "24S",
+    "description": "The course examines the history of modern Turkey from the beginning of the 20th century until the present day. Topics include transition from empire to nation-state; the establishment of the Turkish republic; the Kemalist reforms and legacy; nationalism and nation-building; Islam and politics; gender and sexuality; as well as recent political, social, and cultural developments. The course seeks to situate the history of Turkey in a broader regional context and introduces students to some historiographical debates. In seminar discussions, students are encouraged to explore topics from a critical post-nationalist perspective and to think about current events in a historical context.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "NMC478H1": {
+    "code": "NMC478H1",
+    "name": "Modern Arab Societies",
+    "hours": "24S",
+    "description": "A weekly seminar built around thematic readings of social and economic history of the modern Arab world. Sometimes, the course is geographically extensive, encompassing the predominantly Arabic-speaking lands of North Africa and the Middle East from Morocco in the west to Iraq in the east. At other times, the course focuses on a more narrowly defined geographic region\u2014one country or a group of countries in the Arabic-speaking lands. Readings and discussions emphasize the experiences of broad sectors of the population, not just of elites. This framework of \u201chistory from below\u201d also invites scrutiny of historically-marginalized populations (\u201csubalterns\u201d), or at least of silences in the literature about these populations.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "NMC378H1"
+  },
+  "NMC479H1": {
+    "code": "NMC479H1",
+    "name": "Nationalism in the Arab World",
+    "hours": "24S",
+    "description": "A seminar that critically examines the types and varieties of national expression in Arab societies of the Middle East and North Africa, through a reading of common texts and students' individual research projects.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "NMC378H1"
+  },
+  "NMC480H1": {
+    "code": "NMC480H1",
+    "name": "Structural Development of the Iranian Languages",
+    "hours": "24S",
+    "description": "This interdisciplinary course focuses on the structural development and contrastive analysis of Iranian languages including Dari, Farsi, Tajiki, Balochi, Kurdish, Pashto, and Zazaki. The lectures begin with an overview of ancient and medieval Iranian languages and then describe modern Iranian languages' historical and structural development. The course also examines the role of language in maintaining cultural identity and demonstrates the type and mechanism of the development of Iranian languages. The lecture materials are based on texts and articles written by theoretical linguists, sociolinguists, typologists, and descriptive and historical linguists.",
+    "exclusions": "NML463H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "NMC484H1": {
+    "code": "NMC484H1",
+    "name": "Gender Issues in Jewish Law",
+    "hours": "36S",
+    "description": "Among the topics addressed in this course in various years are the requirement for women divorced or widowed (either from betrothal or marriage) to wait three months before remarriage to determine paternity or for pregnant or nursing women to protect the fetus or infant; legal disabilities for women in marriage and divorce (consent, unilateral acquisition, power differentials, exit options); legal status according to age (fetus, infant, before and after age six, approaching legal majority, legal majority, anomalies); sexuality (age, sexual acts and their legal repercussions, prohibitions, consent, intergenerational sexual connections, homosexuality); rabbinic ordination of women in the various streams of Judaism; and abortion (contraception, status of embryo or fetus, viability, reasons). These issues will be discussed in terms of gender and modern law.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": "HUM"
+    }
+  },
+  "NMC491H1": {
+    "code": "NMC491H1",
+    "name": "Mesopotamian Material Culture: Art versus Artifact",
+    "hours": "36L",
+    "description": "What is an artifact, and to what degree does it represent art? At what point in the evolution of ancient human society does art emerge? What does it express, what is its purpose, and who are the agents that create and propagate it? This course addresses these questions by examining artifacts from the Palaeolithic to the Iron Age (15,000-300 BC). Students will learn to categorize works of ancient Near Eastern art using descriptive (materials, size, object type) as well as interpretive (iconography, style, themes) parameters, in order to engage critically with art-historical studies. Techniques of reading visual narratives will be exemplified by discussing selected examples in detail, showing ways of identifying a messenger and the message that they are trying to convey, the selective inclusion or omission of elements within a visual narrative, and the possible propagandistic intent in doing so.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NMC495Y1": {
+    "code": "NMC495Y1",
+    "name": "Independent Studies",
+    "hours": null,
+    "description": "The student must obtain the consent of an appropriate full-time NMC faculty member to supervise the proposed topic, which is subject to approval by the Associate Chair, Undergraduate. The course application form is available from the NMC Undergraduate Administrator. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "NMC496H1": {
+    "code": "NMC496H1",
+    "name": "Independent Studies",
+    "hours": null,
+    "description": "The student must obtain the consent of an appropriate full-time NMC faculty member to supervise the proposed topic, which is subject to approval by the Associate Chair, Undergraduate. The course application form is available from the NMC Undergraduate Administrator. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "NMC497H1": {
+    "code": "NMC497H1",
+    "name": "Independent Studies",
+    "hours": null,
+    "description": "The student must obtain the consent of an appropriate full-time NMC faculty member to supervise the proposed topic, which is subject to approval by the Associate Chair, Undergraduate. The course application form is available from the NMC Undergraduate Administrator. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "NMC499Y1": {
+    "code": "NMC499Y1",
+    "name": "Senior Thesis",
+    "hours": null,
+    "description": "A 40-60 page (15,000-20,000 word) research paper (100% of the final mark) written under the supervision of a full-time NMC faculty member. Not eligible for CR/NCR option.",
+    "exclusions": "NMC495Y1/ NMC496H1/ NMC497H1 may not be taken in the same session",
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "NML110Y1": {
+    "code": "NML110Y1",
+    "name": "Elementary Standard Arabic",
+    "hours": "96L/24T",
+    "description": "This course is designed for students with no prior knowledge of Arabic. It places equal emphasis on the development of all language skills: reading, writing, listening, and speaking. The learning philosophy underlying this approach is that proficiency in a foreign language is best achieved through consistent, deliberate, and systematic practice. From the outset, students are strongly encouraged to develop the habit of consistently practicing learned material.",
+    "exclusions": "Native speakers/ NML210Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NML155H1": {
+    "code": "NML155H1",
+    "name": "Elementary Modern Hebrew I",
+    "hours": "48L",
+    "description": "See  MHB155H1 in Religion.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "NML156H1": {
+    "code": "NML156H1",
+    "name": "Elementary Modern Hebrew II",
+    "hours": "48L",
+    "description": "See  MHB156H1 in Religion.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "NML210Y1": {
+    "code": "NML210Y1",
+    "name": "Intermediate Standard Arabic I",
+    "hours": "96L/24T",
+    "description": "This course assumes active knowledge of the content covered in NML110Y. It places equal emphasis on the development of all language skills. As the course progresses, students are introduced to the fundamentals of Arabic morphology and syntax. This is achieved through analysis of texts covering a wide range of topics. By the end of the course, students are expected to achieve upper intermediate level of proficiency.",
+    "exclusions": "Native speaker. Priority enrollment will be given to declared NMC majors/specialists.",
+    "breadth": 1,
+    "prereq_tree": "NML110Y1"
+  },
+  "NML211H1": {
+    "code": "NML211H1",
+    "name": "Arabic Poetry: the Abbasid Period",
+    "hours": "24S",
+    "description": "Read the classics in the original Arabic! Learn how to decipher a poem on your own and how to identify the meters. We will read famous and lesser-known Arabic poems composed between 750-1258 CE, including poems by Abu Nuwas, Abu al-Atahiya, al-Buhturi, al-Mutanabbi, Abu Firas, al-Ma\u02bfarri, as well as various muwashshahat. Themes include love, piety, battle, carousing, poverty, and grief. We will focus on close reading, historical context, and the historical development of genres and styles over time. Heritage speakers of Arabic are encouraged to register; please contact the intructor to confirm your Arabic level before the start of class.",
+    "exclusions": "NML413H1",
+    "breadth": 1,
+    "prereq_tree": "NML310Y1"
+  },
+  "NML212H1": {
+    "code": "NML212H1",
+    "name": "Classical Arabic Prose",
+    "hours": "24S",
+    "description": "Read the classics in the original Arabic! This class surveys the rich and varied literary prose traditions in the Arabic language from early Islam to the Mamluk period, including an early Arabic version of Majn\u016bn Layl\u0101, the Maq\u0101m\u0101t, al-J\u0101\u1e25i\u1e93, Ibn Qutayba, and stories from the 1001 Nights. The course focuses on developing reading skills specific to classical Arabic texts, and on developing an ability to analyze the themes, literary techniques, genres, and ideas within those texts. Throughout, we will seek an understanding of the historic notion of adab as a concept that overlaps with, but is also distinct from, the modern concept of literature. Heritage speakers of Arabic are encouraged to register; please contact the instructor to confirm your Arabic level before the start of class.",
+    "exclusions": "NML412H1",
+    "breadth": 1,
+    "prereq_tree": "NML310Y1"
+  },
+  "NML220Y1": {
+    "code": "NML220Y1",
+    "name": "Introductory Aramaic",
+    "hours": "72S",
+    "description": "Introduction to Aramaic grammar. Readings from biblical Aramaic.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NML250Y1"
+  },
+  "NML230H1": {
+    "code": "NML230H1",
+    "name": "Elementary Coptic I",
+    "hours": "48S",
+    "description": "Introduces the student to the last stage of the Egyptian language, written mostly in Greek characters. The course will first concentrate on the grammar of the language and go on to read short texts.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NML231H1": {
+    "code": "NML231H1",
+    "name": "Elementary Coptic II",
+    "hours": "48S",
+    "description": "A continuation of  NML230H1.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NML240Y1": {
+    "code": "NML240Y1",
+    "name": "Introduction to Middle Egyptian",
+    "hours": "72S",
+    "description": "This course introduces students to the hieroglyphic script and the classical form of the Ancient Egyptian language. After the basic elements of grammar are mastered, the class will begin reading simple hieroglyphic texts.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NML250Y1": {
+    "code": "NML250Y1",
+    "name": "Introductory Biblical Hebrew",
+    "hours": "24T/72S",
+    "description": "An introduction to biblical Hebrew prose. Grammar and selected texts. For students with no previous knowledge of Hebrew.",
+    "exclusions": "Those who have completed Grade 8 Hebrew (or Grade 6 in Israel)",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NML255H1": {
+    "code": "NML255H1",
+    "name": "Intermediate Modern Hebrew I",
+    "hours": "48L",
+    "description": "Intensive study of written and spoken Hebrew.",
+    "exclusions": "Those who have completed Grade 8 Hebrew (or Ulpan level 2 in Israel),  MHB255H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MHB156H1",
+        "NML156H1"
+      ]
+    }
+  },
+  "NML256H1": {
+    "code": "NML256H1",
+    "name": "Intermediate Modern Hebrew II",
+    "hours": "48L",
+    "description": "Continued intensive study of written and spoken Hebrew.",
+    "exclusions": "Those who have completed Grade 8 Hebrew (or Ulpan level 2 in Israel),  MHB256H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "NML255H1",
+        "MHB255H1"
+      ]
+    }
+  },
+  "NML260Y1": {
+    "code": "NML260Y1",
+    "name": "Introductory Persian",
+    "hours": "72L/24T",
+    "description": "This course is for students who have minimal or no prior knowledge of Persian focusing on reading, writing and conversation. Students start by learning how to write and pronounce the sound and alphabet, how to connect letters to form basic vocabulary in Persian in order to express basic ideas orally and in writing; then they develop their language comprehension through expanding their vocabulary and grammar. By the end of the course, students\u2019 skills in listening, speaking, reading, and writing in Persian improves and they should be able to read, write and translate sentences in Persian at intermediate low level.",
+    "exclusions": "Native speakers,  PRS210Y5,  PRS210H5,  PRS211H5",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NML270Y1": {
+    "code": "NML270Y1",
+    "name": "Introductory Turkish",
+    "hours": "96L",
+    "description": "This course is designed to provide an introduction to Turkish for learners with no previous experience with the language. A variety of speaking, listening, reading, and writing activities will be included to develop both spoken and written language skills. By the end of the course, students will be able to carry out basic conversations in Turkish in everyday social encounters, have a grasp of the basics of the Turkish grammar, and understand elementary texts such as simple excerpts from news articles or literary works. They will also have gained a basic understanding of the cultural contexts in which Turkish is spoken.",
+    "exclusions": "Native speakers",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NML305Y1": {
+    "code": "NML305Y1",
+    "name": "Introduction to Akkadian",
+    "hours": "48S",
+    "description": "Introduction to Old Babylonian. Grammar and the reading of selected texts.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NML310Y1": {
+    "code": "NML310Y1",
+    "name": "Intermediate Standard Arabic II",
+    "hours": "96L",
+    "description": "This course assumes active knowledge of the content covered in  NML210Y1. As the course progresses, students are introduced to increasingly complex morphological and syntactic patterns of Arabic. This is achieved through analysis of texts covering a wide range of genres. By the end of the course, students are expected to achieve advanced level of proficiency.",
+    "exclusions": "Native speakers. Priority enrollment will be given to declared NMC majors/specialists.",
+    "breadth": 1,
+    "prereq_tree": "NML210Y1"
+  },
+  "NML320H1": {
+    "code": "NML320H1",
+    "name": " Targum - Aramaic Bible Translations",
+    "hours": "36S",
+    "description": "This course is an intensive study of various Aramaic Bible translations (Targumim) to the Pentateuch: Onkelos, Pseudo-Jonathan, Neophyti, Samaritan and Syriac (both transliterated into Hebrew letters), and Fragment Targumim. A comparative study of the Targumim will be made in reference to vocabulary, syntax, verb usage, and translation strategies. We will address their relationship to the Palestinian midrashim. Students will learn to use the online Comprehensive Aramaic Lexicon and the relevant dictionaries and grammars. The texts studied will be from legal sections of the Pentateuch, generally from Deuteronomy on levirate marriage or war captives, Exodus on abortion and personal injury, as well as narrative sections from Genesis such as the Garden of Eden, the binding of Isaac, and the accounts of the Matriarchs.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "NML220Y1"
+  },
+  "NML340Y1": {
+    "code": "NML340Y1",
+    "name": "Intermediate Middle Egyptian",
+    "hours": "72S",
+    "description": "A continuation of  NML240Y1, in which the student is exposed to a wide range of hieroglyphic texts in the Middle Egyptian dialect. Sources of historical, literary, religious, and economic significance will be studied. The grammar and syntax covered in  NML240Y1 are reviewed intensively.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NML240Y1"
+  },
+  "NML350H1": {
+    "code": "NML350H1",
+    "name": "Intermediate Biblical Hebrew I",
+    "hours": "48S",
+    "description": "A continuation of the study of ancient Hebrew grammar and texts. Focus is given to covering a wide variety of genres, e.g., narrative, chronicle, genealogy, oracle, prayer, hymn, and proverb.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NML250Y1"
+  },
+  "NML351H1": {
+    "code": "NML351H1",
+    "name": "Intermediate Biblical Hebrew II",
+    "hours": "48S",
+    "description": "A continuation of the study of ancient Hebrew grammar and texts. Focus is given to covering a wide variety of genres, e.g., narrative, chronicle, genealogy, oracle, prayer, hymn, and proverb.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NML350H1"
+  },
+  "NML355H1": {
+    "code": "NML355H1",
+    "name": "Advanced Modern Hebrew I",
+    "hours": "48S",
+    "description": "Advanced intensive study of written and spoken Hebrew.",
+    "exclusions": "OAC Hebrew,  MHB355H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MHB256H1",
+        "NML256H1"
+      ]
+    }
+  },
+  "NML356H1": {
+    "code": "NML356H1",
+    "name": "Advanced Modern Hebrew II",
+    "hours": "48S",
+    "description": "Continued advanced intensive study of written and spoken Hebrew.",
+    "exclusions": "OAC Hebrew,  MHB356H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "NML355H1",
+        "MHB355H1"
+      ]
+    }
+  },
+  "NML357H1": {
+    "code": "NML357H1",
+    "name": "Legends of the Jews (Aggadah)",
+    "hours": "24S",
+    "description": "This course is an introduction to the exegetical methods of the rabbinic sages in their analysis of biblical texts, with special attention to issues of intertextuality. After a quick overview of the genres of midrashic literature, we shall examine the midrashic methods used to transition from the biblical text to the midrash. Our main focus will be on Original Sin in the Garden of Eden and its repercussions. Our primary texts will be Bereishit Rabbah, Avot de Rabbi Natan, and Alphabeta deBen Sirah. We shall follow these midrashim in other midrash collections such as Midrash HaGadol, Tanhuma, Bereishit Rabbati, and Aggadat Bereishit. The motif of Original Sin has had significant reverberations in Judaism and Christianity and societies influenced by these traditions.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "NML358H1": {
+    "code": "NML358H1",
+    "name": "Middle Hebrew: Mishnah and Tosefta",
+    "hours": "24S",
+    "description": "This course introduces Mishnah and Tosefta which are two of the three foundational documents of Middle Hebrew I from the Tannaitic period ending circa 250 CE in the Galilee. In addition to studying specific features of this level of Hebrew (e.g. syntax, grammar, vocabulary), we shall examine these compositions independently and analyze their interaction (textuality and intertextuality). Students will read recent scholarly literature on these documents and their relationship to each other and to orality. Students will be introduced to the manuscripts of these documents and the variant readings will be studied philologically. Decisions on original readings will be made. Finally, we shall explore redaction and source critical issues allowing identifications of anonymous statements with specific authorities (sages). The Tractate may vary from year to year.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "NML359Y1": {
+    "code": "NML359Y1",
+    "name": "Eastern Aramaic \u2013 Babylonian Talmud",
+    "hours": "72S",
+    "description": "This course introduces the student to Talmudic texts through selections from a particular tractate for representative study. We shall study the Mishnah of the chapter in preparation for the Talmud. Recognition of the dialogic structure of the legal discussions centered on the Mishnah and its elucidation is emphasized. The classical commentaries (Rashi, Tosafot, R. Hananel), the use of dictionaries, concordances, biographies of sages, parallels and other sources will gradually become familiar to the student as aids in understanding the text under consideration. A brief presentation of the essential features of Babylonian Aramaic will be included in the course to facilitate study. Students will also be taught to make use of the Bar Ilan Responsa Project, the Lieberman database, and the Friedberg Jewish Manuscript Society database. We shall also discuss redactional issues as they appear.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "NML360Y1": {
+    "code": "NML360Y1",
+    "name": "Intermediate Persian",
+    "hours": "96L",
+    "description": "This course is an intermediate/advanced level of Persian language for students who passed  NML260Y1 or demonstrate commensurate Persian skills. The course continues to develop students\u2019 Persian language knowledge by focusing on more complex readings, writing, grammatical structure, translation, audio/visual, and conversational activities such as group discussion, language games, movies, dialogue, and playing roles at an advanced level. By the end of this course, students are able to reach the intermediate high/advanced level of proficiency in Persian. The course also serves as preparation for courses on classical and contemporary Persian literature.",
+    "exclusions": "Native speakers,  PRS310H5",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NML362Y1": {
+    "code": "NML362Y1",
+    "name": "Middle Persian (Pahlavi)",
+    "hours": "48L",
+    "description": "An introduction to the grammar and syntax of Middle Persian, or Pahlavi, language; the special script it was written in; and the connections of Pahlavi to Old Persian and New Persian languages. Knowledge of Pahlavi provides access to the most important Zoroastrian religious texts, and the epic and wisdom literature composed during the period of the Sasanian empire (3rd\u20137th centuries CE) and early Islamic Iran (8th\u201310th centuries CE). Students will read excerpts, in the original Pahlavi, from such works as Arda Wiraz Namag (Book of the Righteous Wiraz, describing his journey to heaven and hell), Karnamag i Ardakhshir i Pabagan (Chronicle of Ardakhshir, Son of Pabag, narrating the deeds of the first Sasanian king), and Bundahishn (Primordial Creation, on Zoroastrian cosmology).",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NML370Y1": {
+    "code": "NML370Y1",
+    "name": "Intermediate Turkish",
+    "hours": "96L",
+    "description": "This course is designed for students who have already completed  NML270Y1 Introductory Turkish or have an equivalent level of proficiency in Turkish. It aims to expand students\u2019 communicative skills, grammatical knowledge, and vocabulary. A variety of intermediate-level speaking, listening, reading, and writing activities will be included to further develop both spoken and written language skills. By the end of the course, students will be able to read, understand, and translate various authentic texts of intermediate difficulty. They will be able to write short essays and talk about a wide range of general topics. They will also have gained a deeper understanding of the cultural contexts in which Turkish is spoken. The course also serves as a preparation for the advanced study of Turkish.",
+    "exclusions": "Advanced speakers of Turkish",
+    "breadth": 1,
+    "prereq_tree": "NML270Y1"
+  },
+  "NML371H1": {
+    "code": "NML371H1",
+    "name": "Conversational Turkish: Oral Communication in Context",
+    "hours": "24S",
+    "description": "This course is designed for students who wish to consolidate their communicative and conversational skills in Turkish. Emphasis is placed on improving listening and speaking skills in diverse formal and informal contexts to prepare the students for real-life oral communication situations. Students will gain experience with different styles and registers while also improving their grasp of the Turkish culture.",
+    "exclusions": "Permission of instructor required for native speakers",
+    "breadth": 1,
+    "prereq_tree": "NML270Y1"
+  },
+  "NML372H1": {
+    "code": "NML372H1",
+    "name": "Turkish Language through Television, Film, and Media",
+    "hours": "24S",
+    "description": "This dynamic Turkish language course aims to enhance students\u2019 proficiency through Turkish television series which have gained significant international popularity in recent years and through Turkish films from both classical and modern \u201cYe\u015fil\u00e7am\u201d, the Turkish cinema industry. The course will also familiarize the students with the use of the Turkish language in traditional and social media. By the end of the course, students will have improved their receptive, expressive, and interactional skills in spoken and written modalities.",
+    "exclusions": "Native speakers",
+    "breadth": 1,
+    "prereq_tree": "NML270Y1"
+  },
+  "NML380H1": {
+    "code": "NML380H1",
+    "name": "Introduction to Ge'ez (Classical Ethiopic)",
+    "hours": "36L",
+    "description": "This course covers the essentials of Ge'ez (Classical Ethiopic) grammar, and introduces students to Ge'ez texts of elementary to intermediate difficulty. Designed for students with no previous knowledge of Ge'ez.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "NML110Y1",
+        "NML220Y1",
+        "NML250Y1"
+      ]
+    }
+  },
+  "NML381H1": {
+    "code": "NML381H1",
+    "name": "Intermediate Ge'ez",
+    "hours": "36L",
+    "description": "This course continues the study of Ge'ez (Classical Ethiopic) grammar and progresses to a survey of classical Ge\u2019ez literature. Linguistic connections to Amharic and Tigrinye will also be introduced.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NML380H1"
+  },
+  "NML405Y1": {
+    "code": "NML405Y1",
+    "name": "Selected Standard Babylonian Texts",
+    "hours": "48S",
+    "description": "This intermediate Akkadian course is devoted to the study of the literary Akkadian dialect of the late second and first millennia, usually known as Standard Babylonian. Students will read excerpts of literary texts and royal inscriptions in R. Borger\u2019s Babylonisch-Assyrische Lesest\u00fccke and eventually proceed to more ambitious compositions such as The Annals of Sennacherib and Enuma Elish. Students are also expected to deepen their knowledge of the NeoAssyrian cuneiform script. (Offered in alternate years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NML305Y1"
+  },
+  "NML410Y1": {
+    "code": "NML410Y1",
+    "name": "Advanced Standard Arabic",
+    "hours": "96S",
+    "description": "This course assumes active knowledge of the content covered in NML310Y. Its goal is to strengthen the students reading and writing skills, refine their knowledge of syntax and morphological patterns, and enrich their cultural background. This is achieved through analysis of sophisticated authentic texts covering a wide range of genres. In addition, Classical Arabic literary texts will be incrementally introduced. By the end of the course, students are expected to reach a superior level of proficiency.",
+    "exclusions": "Native speakers.",
+    "breadth": 1,
+    "prereq_tree": "NML310Y1"
+  },
+  "NML411H1": {
+    "code": "NML411H1",
+    "name": "Media Arabic",
+    "hours": "24S",
+    "description": "This course familiarizes advanced students of Arabic with structural properties, styles, and discourse features of the language used in the Arabic media. Class time is devoted to analysis of authentic texts covering a wide range of topics and drawn from various online media outlets.",
+    "exclusions": "Native speakers of Arabic must obtain permission of instructor.",
+    "breadth": 1,
+    "prereq_tree": "NML310Y1"
+  },
+  "NML415H1": {
+    "code": "NML415H1",
+    "name": "The Arabic Short Story",
+    "hours": "24S",
+    "description": "This course examines the origins and development of the modern Arabic short story as a literary genre by reading selected works in Arabic of major figures in the genre. The course historicizes the emergence of the short story, exploring the genre\u2019s consolidation as a major literary form in Arabic in the early 20th century. As part of an exploration of modern narrative in Arabic, students will read literary criticism that theorizes the emergence of modern Arabic narrative prose, paying close attention to questions of language, form, style and theme. The course also focuses on issues such as innovations in narrative technique, plot structure, complexity of characterization, and point of view. Authors include Mahmud Tahir Lashin, Yusif Idris, Zakariyya Tamir, Ghada al-Samman, Hanan al-Shaykh, and Fu\u2019ad al-Takarli.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NML310Y1"
+  },
+  "NML420Y1": {
+    "code": "NML420Y1",
+    "name": "Western Aramaic \u2013 Jerusalem Talmud",
+    "hours": "72S",
+    "description": "The Talmud of the Land of Israel, also called Talmud Yerushalmi or Palestinian Talmud, is written in a mixture of Jewish Western Aramaic and Middle Hebrew. It is the principal document of the Land of Israel in Late Antiquity. The course examines the legal argumentation, terminology and language which differ from those of the Babylonian Talmud. Recognition of the dialogical structure of the legal discussions concerning the Mishnah and its elucidation will be emphasized. Terminology, grammar, and syntax of Western Aramaic will be addressed. We shall also investigate when the text uses Hebrew versus Aramaic. Students will be taught the use of the Bar Ilan Responsa Project and the Lieberman bibliographic database. Close attention will be paid to its relationship to Tosefta.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "NML421Y1": {
+    "code": "NML421Y1",
+    "name": "Classical Syriac",
+    "hours": "48S",
+    "description": "This course is primarily a reading course in Syriac literature with reference to specific points in grammar and syntax as contrasted with Aramaic. The texts are read with reference to the history of Syriac literature.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NML220Y1"
+  },
+  "NML440H1": {
+    "code": "NML440H1",
+    "name": "Ancient Egyptian Historical Texts",
+    "hours": "36S",
+    "description": "This is an advanced language seminar that introduces the student to the analysis, in terms of both language/grammar and content, of Ancient Egyptian texts of historical significance. Texts from the periods of the Old Kingdom up to the Late Period will be studied, and all texts will be read in the (mostly Middle Egyptian) original. Particular attention will be paid to the cultural and social context of the texts, and questions such as how to best define \u201chistorical texts,\u201d and to what extent literary texts may be used as historical sources, will be discussed.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NML340Y1"
+  },
+  "NML441H1": {
+    "code": "NML441H1",
+    "name": "Ancient Egyptian Religious and Funerary Texts",
+    "hours": "36S",
+    "description": "This is an advanced language seminar that introduces the student to the analysis, in terms of both language/grammar and content, of texts that elucidate ancient Egyptian religious conceptions. Texts from all periods of Pharaonic history will be studied and all texts will be read in the original. While the focus will be on texts from funerary contexts, for which the most complete sources can be found, cultic, magical, and theological sources will also be studied.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NML340Y1"
+  },
+  "NML442Y1": {
+    "code": "NML442Y1",
+    "name": "Late Egyptian Texts",
+    "hours": "72S",
+    "description": "The course introduces students to the Late Egyptian dialect attested from the New Kingdom and spanning the period from ca. 1300 to 700 BCE. Students will be introduced to grammar, syntax, and orthography through readings of original texts; these will include stories, letters, business documents, and formal inscriptions. Standard grammars and dictionaries are supplemented by the instructor\u2019s notes and handouts. Students will also be provided a basic introduction to the hieratic script through contemporary manuscripts.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NML240Y1"
+  }
+}

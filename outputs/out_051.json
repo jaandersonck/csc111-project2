@@ -1,0 +1,1046 @@
+{
+  "TRN321H1": {
+    "code": "TRN321H1",
+    "name": "Selected Topics in Ethics, Society, and Law",
+    "hours": "24S",
+    "description": "The course examines a set of selected topics in ethics, society, and law. The topics will be based on the research interests of an individual instructor. Both the topics and the instructor may change with each offering of the course, and the course is not expected to be offered every year.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "TRN350H1": {
+    "code": "TRN350H1",
+    "name": "Scarcity, Sustainability, and the Future of International Relations",
+    "hours": "24L/12T",
+    "description": "International Relations are changing, and changing quickly. Major challenges in global affairs, including the interrelated problems of climate change, resource scarcity, great power competition, and changes in mass politics will shape our future in uncertain and possibly dangerous ways. This course seeks to evaluate the effect of these interconnected issues on our world today, and their implications for the future. Through a series of case studies, students will be encouraged to identify future international challenges and work to develop sustainable and innovative solutions to the problems that will confront our world in the next decades and beyond.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "TRN250Y1"
+  },
+  "TRN377Y1": {
+    "code": "TRN377Y1",
+    "name": "Trinity Comprehensive Paper I",
+    "hours": null,
+    "description": "Students are individually mentored by faculty experts through readings from primary literature towards preparation of a quality review article. For students in third year, students identify their faculty mentor during second year and agree to become familiar with the available textbook level material during that year in their chosen topic. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 8.0,
+      "department": ""
+    }
+  },
+  "TRN399H1": {
+    "code": "TRN399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "TRN399Y1": {
+    "code": "TRN399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "TRN400H1": {
+    "code": "TRN400H1",
+    "name": "Trinity Independent Studies",
+    "hours": null,
+    "description": "Trinity Independent Studies. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "TRN404Y1": {
+    "code": "TRN404Y1",
+    "name": "Trinity Independent Studies",
+    "hours": null,
+    "description": "Trinity Independent Studies. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "TRN405Y1": {
+    "code": "TRN405Y1",
+    "name": "Trinity Independent Studies",
+    "hours": null,
+    "description": "Trinity Independent Studies. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "TRN406H1": {
+    "code": "TRN406H1",
+    "name": "Community Research Partnerships in Ethics",
+    "hours": null,
+    "description": "Students undertake research projects designed to meet the knowledge needs of ethics-oriented organizations in the broader community.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "TRN407Y1": {
+    "code": "TRN407Y1",
+    "name": "Community Research Partnerships in Ethics",
+    "hours": null,
+    "description": "Students undertake research projects designed to meet the knowledge needs of ethics-oriented organizations in the broader community.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "TRN303H1"
+  },
+  "TRN409H1": {
+    "code": "TRN409H1",
+    "name": "Selected Topics in International Studies",
+    "hours": null,
+    "description": "Selected Topics in International Studies",
+    "exclusions": "TRN409Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "TRN250Y1",
+        {
+          "credits": 14.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "TRN409Y1": {
+    "code": "TRN409Y1",
+    "name": "Selected Topics in International Studies",
+    "hours": null,
+    "description": "Selected Topics in International Studies",
+    "exclusions": "TRN409H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN410H1": {
+    "code": "TRN410H1",
+    "name": "Researching Critical Cases in Contemporary International Relations",
+    "hours": null,
+    "description": "This course allows students with majors in International Relations to apply some of the techniques and skills they have developed during their undergraduate careers to an original research project. The course introduces several theoretical and methodological tools that are used to understand and analyze a variety of major developments affecting contemporary international relations. Students will examine the strengths and weaknesses of each research method and apply those that are most appropriate to their own IR study.",
+    "exclusions": "TRN410Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "TRN250Y1",
+        {
+          "credits": 14.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "TRN411Y1": {
+    "code": "TRN411Y1",
+    "name": "Selected Topics in International Studies",
+    "hours": null,
+    "description": "Selected Topics in International Studies",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "TRN412H1": {
+    "code": "TRN412H1",
+    "name": "Seminar in Ethics, Society, and Law",
+    "hours": "24S",
+    "description": "Capstone Seminar in Ethics, Society, and Law. Students must be in their final year of registration in the Major Program: Ethics, Society and Law. For detailed description of topics, please visit https://www.trinity.utoronto.ca/study-arts-science/ethics-society-law/courses-program-requirements/. Students are not eligible to enrol in this course more than once, for credit.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "TRN303H1"
+  },
+  "TRN419Y1": {
+    "code": "TRN419Y1",
+    "name": "Comparative American, British and Canadian Foreign Policy",
+    "hours": "48S",
+    "description": "The origins and evolution of American, British and Canadian foreign policy from the late 18th century to the present. Policies are compared in order to understand the development of these countries as nations and actors in the international community.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "TRN421Y1": {
+    "code": "TRN421Y1",
+    "name": "Fragile and Conflict-Affected States in Global Politics",
+    "hours": "48S",
+    "description": "Since the end of the Cold War, fragile and conflict-affected states have been widely viewed in the international relations field as one of the preeminent challenges to international security and global governance. Western countries have typically responded to this challenge by launching interventions aimed at building new states that can be integrated into the global, liberal order. This course will dissect the liberal peacebuilding and statebuilding project and explore its broader impact and implications for the international system.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN425Y1": {
+    "code": "TRN425Y1",
+    "name": "Law Workshops Course",
+    "hours": null,
+    "description": "Students attend workshops in the Faculty of Law, meet for related discussion and complete related assignments. Enrolment is restricted to qualified fourth-year students registered in the Major Program Ethics, Society, and Law.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "TRN303H1"
+  },
+  "TRN477H1": {
+    "code": "TRN477H1",
+    "name": "Trinity Comprehensive Paper II",
+    "hours": null,
+    "description": "The preparation of a publication quality review article typically involves extensive editing. Students are individually mentored by faculty experts to take the review paper generated in  TRN377Y1 and edit the structure, content and style to produce a publication quality review article. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": "TRN377Y1"
+  },
+  "TRN478H1": {
+    "code": "TRN478H1",
+    "name": "Science Writing for Non-Scientific Audiences",
+    "hours": null,
+    "description": "The course aims to train senior-level science students in a wide range of writing genres, focusing on a diversity of non-scientific audiences and writing styles. In addition, students learn to read and analyze texts in order to understand rhetorical strategies and devices.",
+    "exclusions": "Non-science students, first or second year students.",
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "UNI101H1": {
+    "code": "UNI101H1",
+    "name": "Citizenship in the Canadian City",
+    "hours": "36S",
+    "description": "Who belongs? Who governs? Who decides? In this course, you will examine the concepts of citizenship, public space, political membership, civic responsibility, and belonging. You will address topics such as Indigenous sovereignty claims, urban multiculturalism, public housing, and greening the city. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "UNI102H1": {
+    "code": "UNI102H1",
+    "name": "Performing the City I",
+    "hours": "36S",
+    "description": "In this course we learn about different practices of performative engagement with the city and experiment with them through exercises and creative activities. The goal is to gain, through this mode of embodied engagement with the city, a critical understanding of urban space as a diverse social, cultural, and physical environment. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "UNI103H1": {
+    "code": "UNI103H1",
+    "name": "Gradients of Health in an Urban Mosaic",
+    "hours": "36S",
+    "description": "In this course, you will examine how Toronto\u2019s varied communities access and use health care, and how they may encounter barriers in doing so. You will study how economic disparities, shifting demographics, and government policies affect health policy and the right to access resources. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "UNI104H1": {
+    "code": "UNI104H1",
+    "name": "Sex in the City",
+    "hours": "36S",
+    "description": "You will learn about the sexual politics of the city and how cities and their neighbourhoods become sexualized and desexualized spaces. In Sex in the City, you will examine what \u201csex\u201d means to Toronto\u2019s varied, multicultural communities by looking at urban space, cultural productions, law enforcement, safety and health resources and more. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "UNI106H1": {
+    "code": "UNI106H1",
+    "name": "Performing the City II",
+    "hours": "36S",
+    "description": "Further exploration of connections between the performing arts, urban spaces, and cultural diversity; complementing  UNI102H1. How does theatrical performance affect how people perceive the city? What are the alternatives to established theatres, and how does community activism inform performing arts in Toronto? Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "UNI197H1": {
+    "code": "UNI197H1",
+    "name": "Hamilton: Musical and History",
+    "hours": "24S",
+    "description": "This course examines the American revolution and its reception in the musical \u201cHamilton.\u201d The American revolution generated multiple stories that included and excluded actors, peoples, perspectives, and more. This course delves into the American revolution and the diversity of those engaged in it and affected by it. The songs, performances, and reception of the musical \u201cHamilton\u201d are a key resource for exploring the events and role of the American Revolution. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "UNI198H1": {
+    "code": "UNI198H1",
+    "name": "Why Go to University? The Changing Role and Purpose of Higher Education",
+    "hours": "24S",
+    "description": "Is higher education about job preparation or about giving students an opportunity to learn about themselves and the world around them? Can higher education in Canada achieve both these aims? This course engages with the spirited conversations and scholarly debates about the ideals of a liberal arts education and how these connect with ancient and contemporary arguments about citizenship. We explore the impact on higher education of globalization and what some call the \u201ccorporatization\u201d of universities. Students will be encouraged to think, read, research and write about various models of higher education and explore questions suggested by these debates. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "UNI199H1": {
+    "code": "UNI199H1",
+    "name": "The Construction of Race in America: A History",
+    "hours": "24S",
+    "description": "The course will explore the origins of racial categories in America. Drawing on primary sources such as memoirs, film, and government records as well as writings by scholars, we will examine how beliefs about these categories changed over time and with what consequences for the unfolding of American history. Arriving at the present day, we will consider such contradictory developments as the accelerating influence of Black Lives Matter and the headline-grabbing white nationalism on display at the \u201cUnite the Right\u201d rally in Charlottesville, Virginia, August, 2017. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "UNI299H1": {
+    "code": "UNI299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "UNI299Y1": {
+    "code": "UNI299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "UNI393Y1": {
+    "code": "UNI393Y1",
+    "name": "University College Independent Studies",
+    "hours": null,
+    "description": "An opportunity to design an independent research course of study at the 300 level not otherwise available within the Faculty of Arts and Science. Students must be registered at UC or in a UC-affiliated program. Not eligible for CR/NCR option. Students must submit an application form that includes a written proposal and confirms that a faculty member has agreed to supervise. Applications must be submitted to the UC Programs Office (UC 173) for approval by the Vice-Principal. Applications are due before the first day of course enrolment. Application form is available at the University College website at https://www.uc.utoronto.ca/programs-study-academic-programs-independent\u2026.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "UNI394H1": {
+    "code": "UNI394H1",
+    "name": "University College Independent Studies",
+    "hours": null,
+    "description": "An opportunity to design an independent research course of study at the 300 level not otherwise available within the Faculty of Arts and Science. Students must be registered at UC or in a UC-affiliated program. Not eligible for CR/NCR option. Students must submit an application form that includes a written proposal and confirms that a faculty member has agreed to supervise. Applications must be submitted to the UC Programs Office (UC 173) for approval by the Vice-Principal. Applications are due before the first day of course enrolment. Application form is available at the University College website at\u00a0https://www.uc.utoronto.ca/programs-study-academic-programs-independent\u2026.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "UNI399H1": {
+    "code": "UNI399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "UNI399Y1": {
+    "code": "UNI399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "UNI495Y1": {
+    "code": "UNI495Y1",
+    "name": "University College Independent Studies",
+    "hours": null,
+    "description": "An opportunity to design an independent research course of study at the 400 level not otherwise available within the Faculty of Arts and Science. Students must be registered at UC or in a UC-affiliated program. Not eligible for CR/NCR option. Students must submit an application form that includes a written proposal and confirms that a faculty member has agreed to supervise. Applications must be submitted to the UC Programs Office (UC 173) for approval by the Vice-Principal. Applications are due before the first day of course enrolment. Application form is available at the University College website at\u00a0https://www.uc.utoronto.ca/programs-study-academic-programs-independent\u2026.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 15.0,
+      "department": ""
+    }
+  },
+  "UNI496H1": {
+    "code": "UNI496H1",
+    "name": "University College Independent Studies",
+    "hours": null,
+    "description": "An opportunity to design an independent research course of study at the 400 level not otherwise available within the Faculty of Arts and Science. Students must be registered at UC or in a UC-affiliated program. Not eligible for CR/NCR option. Students must submit an application form that includes a written proposal and confirms that a faculty member has agreed to supervise. Applications must be submitted to the UC Programs Office (UC 173) for approval by the Vice-Principal. Applications are due before the first day of course enrolment. Application form is available at the University College website at https://www.uc.utoronto.ca/programs-study-academic-programs-independent\u2026.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 15.0,
+      "department": ""
+    }
+  },
+  "URB234H1": {
+    "code": "URB234H1",
+    "name": "Cities in Popular Culture",
+    "hours": "24L",
+    "description": "By exploring different popular culture phenomena such as the emergence of hip-hop in the Bronx, Batman's Gotham, and Nollywood, this course works to examine the contributions of popular culture in shaping our understandings of cities (as well as providing different perspectives of the city and the urban experience than is generally captured in scholarly/academic literature). Popular culture becomes a vehicle by which we will explore different aspects of urban life and urban representation.",
+    "exclusions": "INI234H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "URB235H1": {
+    "code": "URB235H1",
+    "name": "A Multidisciplinary Introduction to Urban Studies I: Theoretical Foundations of City Building",
+    "hours": "24L",
+    "description": "Focuses on the theoretical foundations of urbanization, urban change, and city building, with particular attention on global urban growth, history of contemporary urbanization, urban planning, governance, built form, and economic development. These topics are explored through a multidisciplinary lens, with an emphasis on understanding urban transitions over time and their meaning for contemporary urban experience.",
+    "exclusions": "INI235H1,  INI235Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": ""
+        },
+        {
+          "credits": 1.0,
+          "department": ""
+        },
+        "ECO101H1",
+        "ECO102H1",
+        "ECO105Y1",
+        "GGR107H1",
+        "GGR112H1",
+        "GGR124H1",
+        "POL101H1",
+        "POL106H1",
+        "POL107H1",
+        "POL109H1",
+        "SOC100H1",
+        "SOC150H1",
+        "JAV120H1",
+        "JAV151H1",
+        "JAV152H1",
+        "ARC181H1"
+      ]
+    }
+  },
+  "URB236H1": {
+    "code": "URB236H1",
+    "name": "A Multidisciplinary Introduction to Urban Studies II: Urban Challenges and Theoretical Application",
+    "hours": "24L",
+    "description": "Cities are centres of innovation and creative energy, but they also face significant and pressing challenges. This course explores various urban issues including inequality, eroding infrastructure, and concerns arising from globalization, while also examining the ways in which municipal governments and urban citizens are imagining and implementing potential solutions to these challenges.",
+    "exclusions": "INI235Y1,  INI236H1",
+    "breadth": 3,
+    "prereq_tree": "URB235H1"
+  },
+  "URB333H1": {
+    "code": "URB333H1",
+    "name": "Social Justice in the City",
+    "hours": "24L",
+    "description": "How do power and dominance consolidate in urban settings? How do individuals and communities contest this consolidation, and claim spaces and rights in the city? These questions will be taken up through a range of critical approaches, including Indigenous, critical race feminist, political economy, queer, and anarchist perspectives. Students will have the opportunity to carry out interview-based research on an issue of equality and social justice that matters to them.",
+    "exclusions": "INI333H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "URB334H1": {
+    "code": "URB334H1",
+    "name": "Urban Field Course",
+    "hours": "12S",
+    "description": "Students will have the opportunity to travel to a destination city for a week-long examination of specific social, economic, physical, and/or environmental issues. The trip will include meetings with municipal representatives and other decision-makers (public and possibly private). The findings of the trip supplemented by bibliographic research and in-class discussion will form the basis of a major research essay. Each student is required to pay the cost of transportation and accommodation. Not eligible for CR/NCR option.",
+    "exclusions": "INI334H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "URB235H1",
+        "URB236H1"
+      ]
+    }
+  },
+  "URB335H1": {
+    "code": "URB335H1",
+    "name": "City Challenges, City Opportunities in a 21st Century Toronto",
+    "hours": "12L/12S",
+    "description": "Over the last 50+ years, Toronto has become a national and international centre of economic activity, with a vibrant arts and culture scene and world-renowned research, educational, and health institutions. Additionally, the City has become one of the most culturally diverse cities in the world. That said, Toronto also struggles with deep inequalities along many different axes, an affordable housing crisis, underfunded infrastructure needs, and many other challenges. This course provides a window into how the leadership at the City of Toronto think and approach these and other issues as the City works to plan for the recovery from COVID-19.",
+    "exclusions": "URB338H1 (Advanced Topics in Urban Studies I: City Challenges, City Opportunities in a 21st Century Toronto), offered in Fall 2021",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "URB336H1": {
+    "code": "URB336H1",
+    "name": "Creative Cities",
+    "hours": "24L",
+    "description": "A prominent thesis in the fields of planning and economic geography is that the presence of creative occupations in a city correlates positively with the overall health of urban regions. This course will investigate the nature of this link from theoretical and empirical perspectives and examine its potential usefulness in a planning/policy context.",
+    "exclusions": "INI336H1,  INI336Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "URB337H1": {
+    "code": "URB337H1",
+    "name": "Housing and Homelessness",
+    "hours": "24L",
+    "description": "Toronto, like other global cities, is characterized by a stark dichotomy: upscale residential and commercial development transforms the landscape, even while increasing numbers of residents are forced to live on the streets, in encampments, in shelters, or crowded into unaffordable and substandard housing. This course will examine that paradox and activism that is trying to achieve the federal government\u2019s stated goal: \u201cBy 2030, everyone in Canada has a home that they can afford and that meets their needs\u201d. Through readings, discussions, guest presenters, and activities, we will trace the links between housing, homelessness, and urban politics; review policies and trends at the municipal, provincial/territorial and national levels; and connect with urban movements to contest displacement.",
+    "exclusions": "INI337H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "URB338H1": {
+    "code": "URB338H1",
+    "name": "Advanced Topics in Urban Studies I",
+    "hours": "24L",
+    "description": "This course will expose students to a range of contemporary theoretical, analytical, and policy oriented debates in Urban Studies. The emphasis will be on establishing a broad knowledge base in the multifaceted field of urban studies. The exact topics to be covered will fall broadly under the banner of urban socioeconomic change, and specific syllabi, year to year, will follow contemporary and emerging debates.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "URB339H1": {
+    "code": "URB339H1",
+    "name": "Divided City / United City",
+    "hours": "24L",
+    "description": "Focus on the impact of increased economic inequality and economic polarization trends that are reshaping Canada's metropolitan areas, changing neighbourhoods, and affecting the lives of our diverse urban population. Using the Toronto area as an example, students explore the consequences of these trends and the implications for public policy.",
+    "exclusions": "INI339H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 8.0,
+      "department": ""
+    }
+  },
+  "URB342H1": {
+    "code": "URB342H1",
+    "name": "Qualitative Research in Urban Studies",
+    "hours": "24S",
+    "description": "This course provides students an opportunity to craft and initiate an Urban Studies capstone research project. Students will gain knowledge, experience and insight in utilizing qualitative research methods including interviewing, focus groups, observational analysis and other techniques. Seminars and assignments focus on the application of qualitative methods to each student\u2019s selected urban research question.",
+    "exclusions": "INI342H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "URB430H1": {
+    "code": "URB430H1",
+    "name": "Advanced Topics in Urban Studies II",
+    "hours": "24L",
+    "description": "This course is meant to be a senior complement to  URB338H1 whereby important theoretical, analytical and/or policy debates are addressed in a research seminar format. Students in  URB430H1 will be expected to extend, or refine research topics identified and explored in  URB338H1 in a major independent research project. Students will present their proposals, their progress reports, and their final results to the instructor and the class.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        "URB235H1",
+        "URB236H1"
+      ]
+    }
+  },
+  "URB431Y1": {
+    "code": "URB431Y1",
+    "name": "Special Topics in Urban Studies",
+    "hours": null,
+    "description": "Special topics courses are offered periodically for senior students in the Urban Studies Program. Offerings in any given year will depend on program priorities, availability of specialized expertise and funding. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "URB432H1": {
+    "code": "URB432H1",
+    "name": "Special Topics in Urban Studies",
+    "hours": null,
+    "description": "Special topics courses are offered periodically for senior students in the Urban Studies Program. Offerings in any given year will depend on program priorities, availability of specialized expertise and funding. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "URB433H1": {
+    "code": "URB433H1",
+    "name": "Special Topics in Urban Studies",
+    "hours": "24S",
+    "description": "Special topics courses are offered periodically for senior students in the Urban Studies Program. Offerings in any given year will depend on program priorities, availability of specialized expertise and funding. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "URB434Y1": {
+    "code": "URB434Y1",
+    "name": "Independent Research in Urban Studies",
+    "hours": null,
+    "description": "Designed to allow strong students in the Major and Specialist programs to extend a piece of urban research under the supervision of a faculty member from any aligned department. Choice of \u2018H\u2019 or \u2018Y\u2019 session pursuant to the scope of the research envisioned, the proposed supervisor\u2019s assessment of depth of the inquiry, and the approval of the program director. Proposals, including a letter from an agreeable supervisor should be submitted to the program director by June 1 for a Fall or Year session course and by November 1 for a Spring session course. Not eligible for CR/NCR option.",
+    "exclusions": "INI434Y1",
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 14.0,
+          "department": ""
+        },
+        "URB235H1",
+        "URB236H1"
+      ]
+    }
+  },
+  "URB435H1": {
+    "code": "URB435H1",
+    "name": "Independent Research in Urban Studies",
+    "hours": null,
+    "description": "Designed to allow strong students in the Major and Specialist programs to extend a piece of urban research under the supervision of a faculty member from any aligned department. Choice of \u2018H\u2019 or \u2018Y\u2019 session pursuant to the scope of the research envisioned, the proposed supervisor\u2019s assessment of depth of the inquiry, and the approval of the program director. Proposals, including a letter from an agreeable supervisor should be submitted to the program director by June 1 for a Fall or Year session course and by November 1 for a Spring session course. Not eligible for CR/NCR option.",
+    "exclusions": "INI435H1",
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 14.0,
+          "department": ""
+        },
+        "URB235H1",
+        "URB236H1"
+      ]
+    }
+  },
+  "URB436H1": {
+    "code": "URB436H1",
+    "name": "Independent Research in Urban Studies",
+    "hours": null,
+    "description": "Designed to allow strong students in the Major and Specialist programs to extend a piece of urban research under the supervision of a faculty member from any aligned department. Choice of \u2018H\u2019 or \u2018Y\u2019 session pursuant to the scope of the research envisioned, the proposed supervisor\u2019s assessment of depth of the inquiry, and the approval of the program director. Proposals, including a letter from an agreeable supervisor should be submitted to the program director by June 1 for a Fall or Year session course and by November 1 for a Spring session course. Not eligible for CR/NCR option.",
+    "exclusions": "INI436H1",
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 14.0,
+          "department": ""
+        },
+        "URB235H1",
+        "URB236H1"
+      ]
+    }
+  },
+  "URB437Y1": {
+    "code": "URB437Y1",
+    "name": "Urban Experiential Learning in Toronto & the GTA",
+    "hours": "72S",
+    "description": "A method of studying city issues that combines readings, seminar discussions, and field trips with an 8 hour / week internship in the office of a municipal politician, local government, or non-profit organization. Readings focus on community development, urban planning, economic development and local governance. Students must fill out a ballot for the course (available by contacting the Urban Studies Program Office) by June 1st. Enrolment in this course is competitive and at the discretion of the Urban Studies Director and/or course instructor.",
+    "exclusions": "INI437Y1,  INI306Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "URB235H1",
+        "URB236H1"
+      ]
+    }
+  },
+  "URB438H1": {
+    "code": "URB438H1",
+    "name": "Advanced Urban Research Project",
+    "hours": "24S",
+    "description": "This course will allow students to investigate an urban topic of their choice in a guided seminar environment. This course will guide students through the various steps of the research process including: proposal writing and refinement, secondary research, primary data acquisition, analysis and the production of a senior research paper. The course emphasizes the connections between the design, implementation and write-up of an in-depth research paper. Not eligible for CR/NCR option.",
+    "exclusions": "INI438H1,  INI438Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "URB235H1",
+        "URB236H1"
+      ]
+    }
+  },
+  "URB439H1": {
+    "code": "URB439H1",
+    "name": "Cities and Mega-events: Place-making, Contestation and Urban Citizenship",
+    "hours": "24S",
+    "description": "Mega-events, like the Olympics, give cities the opportunity to showcase themselves to the world, but the production of television-friendly urban images do much to obscure the processes, compromises and social consequences in host cities. These events are powerful tools for city branding. They are also potential opportunities for social movements and other groups and individuals to highlight their own sets of concerns. This course will explore the challenges and opportunities that cities face in hosting such events.",
+    "exclusions": "INI439H1;  INI430H1 (Advanced Topics in Urban Studies II: Cities and Mega-Events: Conflicts and Opportunity) offered in Winter 2014;  INI332H1;  INI432H1 (Special Topics in Urban Studies: Cities and Mega-Events), offered in Fall 2016",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 12.0,
+      "department": ""
+    }
+  },
+  "URB440H1": {
+    "code": "URB440H1",
+    "name": "The Changing Culture of Regent Park",
+    "hours": "24L",
+    "description": "This course is a collaboration with the organization Regent Park Focus Youth Media Arts Centre, a not-for-profit organization that was established to counter negative stereotypes about the Regent Park community. Together, University of Toronto students and Regent Park Focus youth members will learn about media projects initiated by young people across the world, and how these creative forms of communication, organizing, and expression spurred change and social movements in their respective communities. U of T students and Regent Park Focus youth will work together to create their own media project about the neighborhood.",
+    "exclusions": "URB430H1 (The Changing Culture of Regent Park, offered in Fall 2022, Winter 2024),  INI430H1 (Youth, Arts and Engagement in Cities, offered in Winter 2019, Winter 2020)",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "URB235H1",
+        "URB236H1",
+        "URB342H1"
+      ]
+    }
+  },
+  "URB442H1": {
+    "code": "URB442H1",
+    "name": "Urban Studio: Public Participation in Policy Making",
+    "hours": "24S",
+    "description": "This course will provide a broad overview of the roles of both the citizen and the professional practitioner in advancing effective and meaningful public participation in the policy-making process, particularly as it relates to city planning. Through an examination of a mix of theoretical frameworks and case studies from Toronto and elsewhere, you will gain an understanding of the ways in which effective public participation can contribute to the maintenance of a healthy democratic society while also exploring some of the key challenges and opportunities faced by public participation practitioners today. The course has two key objectives: to give you a practical understanding of all of the elements of an effective public participation process, and to explore how public participation processes can be designed to be more inclusive and effective. In addition, students will be able to apply this knowledge towards the development of a project or report for a client.",
+    "exclusions": "Urban Studio: Public Participation in Policy Making taken under  URB432H1 (offered in Fall 2022)/  INI432H1 (offered in Summer 2017, 2018, 2019, 2020, 2021)",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "UTP100H1": {
+    "code": "UTP100H1",
+    "name": "Themes in World History",
+    "hours": "24L",
+    "description": "Surveys the development of human societies from their origins to the present. Topics may include the environment, cultural development and interaction, the creation and nature of belief systems, political, economic and social structures, gender relations, and the relationship between global patterns and local development. Restricted to students enrolled in the UTPrep program.",
+    "exclusions": "IFP100H1/ IFP100Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "VIC101H1": {
+    "code": "VIC101H1",
+    "name": "Conflict Theory and Practice",
+    "hours": "24S",
+    "description": "This course is a general orientation to conflict theory, and develops a basic understanding of essential conflict resolution principles that will complement the study of conflict theory. The course will examine the differences between conflicts and disputes, the functions and desirability of conflict, and the conditions that facilitate conversion of conflicts from destructive to constructive. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "VIC102H1": {
+    "code": "VIC102H1",
+    "name": "Ethics and Choices in Times of Crisis",
+    "hours": "24S",
+    "description": "This course examines a specific event, or events, in relation to the public sphere. The course will use events or an event as an entry point to discuss the nature of society including topics such as major revolutions, economic crises, the impact of the appearance of significant artistic or cultural works, and the impact of technological changes. Not eligible for CR/NCR option.",
+    "exclusions": "VIC102Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC103H1": {
+    "code": "VIC103H1",
+    "name": "Leadership, Narrative, and Creativity",
+    "hours": "24S",
+    "description": "This course examines what it means to be a leader through narrative presented in media such as text or film. Such works of creative fiction aspire not simply to depict actions and events, but also to lay bare the inner psychology of protagonists. They capture and convey realities with a psychological depth that social scientists cannot always replicate. Students will study such narratives to understand various kinds of leadership skills and leadership types. By creating narratives of their own, students will practice the communication skills that leaders need. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC105H1": {
+    "code": "VIC105H1",
+    "name": "Odysseys: The Search for Meaning",
+    "hours": "24S",
+    "description": "Metaphors and motivations of journeying have long intrigued human beings as they have attempted to understand the meaning of their existence: the setting out, the seeking for a desired object, the pilgrimage of religious observance, and the longing to return home. Through texts, art, music and film, this course will explore some of the shaping journey-myths of our culture from classical, Hebrew, medieval and modern sources. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "VIC106H1": {
+    "code": "VIC106H1",
+    "name": "Psychology and Society",
+    "hours": "24S",
+    "description": "This course explores central developments and ongoing controversies in the scientific study of the human mind, brain and behaviour. It examines topics such as: psychoanalysis, behaviourism, humanistic psychology, evolutionary psychology, intelligence testing, and feminist perspectives. Goals include understanding the historical evolution and social relevance of scientific psychology. Not eligible for CR/NCR option.",
+    "exclusions": "VIC206H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC107H1": {
+    "code": "VIC107H1",
+    "name": "Evolution, Genetics, and Behaviour",
+    "hours": "24S",
+    "description": "In this course we examine major episodes in the history of evolution and genetics in the twentieth century. Topics include Darwinian evolution, sociobiology and evolutionary psychology, eugenics, and genetic screening and therapy. We will examine different views about the control of evolution and genetic manipulation in their socio-cultural-economic context and discuss the ethical and social implications of those views. Not eligible for CR/NCR option.",
+    "exclusions": "VIC207H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC108H1": {
+    "code": "VIC108H1",
+    "name": "Belonging, Imagination, and Indigenous Identity",
+    "hours": "24S",
+    "description": "This course will examine a number of questions related to Indigenous identities as they have been constituted through collective belonging and cultural representation. Topics covered may include: language, the arts, cinema, ecology, religion, ritual, and the enduring legacy of colonialism. Not eligible for CR/NCR option.",
+    "exclusions": "VIC108Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "VIC109H1": {
+    "code": "VIC109H1",
+    "name": "Innovators and Their Ideas",
+    "hours": "24S",
+    "description": "A study of the ideas and concerns of innovators who questioned traditional views and values. The course includes creative thinkers who challenged basic concepts on politics, literature, religion, and society. Not eligible for CR/NCR option.",
+    "exclusions": "VIC109Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC110H1": {
+    "code": "VIC110H1",
+    "name": "Critical Perspectives on Society",
+    "hours": "24S",
+    "description": "By means of short texts, film or art works this course explores such themes as the effect of technology on the political, the nature of democracy, the question of resistance through art and the role of violence in the social. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC112H1": {
+    "code": "VIC112H1",
+    "name": "Puzzles, Discovery and the Human Imagination",
+    "hours": "24S",
+    "description": "There has never been a period of time, nor has there ever been a culture, without some kind of puzzle tradition. Are puzzles just playful artefacts, intended merely to entertain? Or are they mirrors of something much more fundamental in human life? The course will take a close look at what puzzles tell us about the human mind and human culture. Not eligible for CR/NCR option.",
+    "exclusions": "VIC112Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC113H1": {
+    "code": "VIC113H1",
+    "name": "Encountering Distant Climes: The Literature of Travel and Exploration",
+    "hours": "24S",
+    "description": "This course will study accounts of world travelers and explorers from the Middle Ages to the present, including representative examples drawn from the Age of Exploration, the Grand Tour, scientific and map-making expeditions, and the contemporary genre of travel writing. Particular attention will be given to the trans-cultural nature of travel, and the interactive aspects of the gulf between the observer and those observed. Students will analyze the diverse motivational factors behind excursions and expeditions, and apply a critique to written accounts in light of such factors as self-discovery, knowledge and imagination, Eurocentrism, orientalism, cultural relativism, colonialism/imperialism, race, gender, and eco-tourism. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "VIC114H1": {
+    "code": "VIC114H1",
+    "name": "Renaissance in Popular Culture",
+    "hours": "24S",
+    "description": "This course explores the depiction of the Renaissance in a wide range of plays, films and novels. The focus is on the exchange between film, fiction, and \u2018fact\u2019, and on how the values and concerns of the present shape creative recreations of the past in popular culture. Not eligible for CR/NCR option.",
+    "exclusions": "VIC114Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "VIC115H1": {
+    "code": "VIC115H1",
+    "name": "Imagined Power: Literature and Film",
+    "hours": "24S",
+    "description": "In this course we will study a number of literary and cinematic works that take up questions of power, duty, rights, responsibility, and freedom. Our texts will be drawn from a long history, and from many parts of the world. The sequence however will not be chronological. Not eligible for CR/NCR option.",
+    "exclusions": "VIC115Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "VIC116H1": {
+    "code": "VIC116H1",
+    "name": "Politics of the Pen",
+    "hours": "24S",
+    "description": "A study of how literature challenges prevailing political beliefs and social norms. We will situate our discussion in the broader context of human rights and freedoms. We will examine cases where literature has been censored and writers have been imprisoned or driven into exile. Part of this course involves a community service-learning component. We will consider how this literature contributes to debate and advocacy around issues of social justice. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC117H1": {
+    "code": "VIC117H1",
+    "name": "Understanding the Performing Arts: Interpretation and Expression",
+    "hours": "24S",
+    "description": "This course examines two key issues about the performing arts that concern both artists and theorists: the nature of interpretation and of expression. What might we mean when we say that a work, a piece of music or a dance for example expresses something? What is it to express? And what is the nature of interpretation? Are there any constraints or boundaries on interpretation? We will draw on both philosophers and non-philosophers to explore these sorts of questions. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "VIC119H1": {
+    "code": "VIC119H1",
+    "name": "Myths and Legends in Modern Contexts",
+    "hours": "24S",
+    "description": "This course provides an introduction to modern forms of ancient narratives, exploring the ways in which selected ancient literary sources and myths have been adapted to modern Canadian literature. Ancient narratives or \u2018old stories\u2019 are often reused, reinterpreted or reconstructed in modern narratives and given new relevance in a contemporary context. Students will encounter sources and contexts of ancient narratives. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "VIC121H1": {
+    "code": "VIC121H1",
+    "name": "Evaluating Healthcare: Problems and Solutions",
+    "hours": "24S",
+    "description": "This course introduces students to the study of healthcare by asking foundational questions about how evidence and knowledge are produced in the context of healthcare problems. Students will explore how different frameworks for clinical practise (e.g. Evidence-based Medicine, Person-Centered Healthcare) conceptualize evidence and how different methodologies impact how healthcare research is conceived, reported, and understood. Students will learn to critically appraise healthcare research studies and assess their evidence value and implications for clinical practice. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "VIC122H1": {
+    "code": "VIC122H1",
+    "name": "Scientific Evidence in Public Policy",
+    "hours": "24S",
+    "description": "This course investigates issues arising from the translation of scientific evidence for public consumption, including in the development of public policy and in confronting problems of social and global significance. Areas of focus will include climate change, global health, and clinical medicine. Students will explore concepts including the perception and communication of risk, the generalizability of research findings, probabilistic and mechanistic thinking, and the use and abuse of scientific authority and \u201cexpertise\u201d in public discourse. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "VIC134H1": {
+    "code": "VIC134H1",
+    "name": "Globalization",
+    "hours": "24S",
+    "description": "This interdisciplinary course explores the contemporary character of globalization. The world is shrinking as money, goods, people, ideas, weapons, and information flow across national boundaries. Some commentators assert that a more tightly interconnected world can exacerbate financial disruptions, worsen the gap between rich and poor nations, undermine democracy, imperil national cultures, harm the environment, and give unconstrained freedom to predatory corporations. Others proclaim that globalization - understood as capitalism and free markets - fosters economic growth, encourages creative collaboration, inspires technological breakthroughs, and enhances human prospects for a better life, in rich and poor countries alike, in unprecedented ways. Our task is to evaluate the evidence and draw our own conclusions. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "VIC135H1": {
+    "code": "VIC135H1",
+    "name": "The Death of Meaning",
+    "hours": "24S",
+    "description": "In The Origin of Species, Darwin concluded there was no evidence to suggest that life was designed by a higher power. A corollary of this is that our lives lack any necessary purpose or meaning. Our readings will be directed to the question of what it means to lack \u2018Meaning\u2019. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC136H1": {
+    "code": "VIC136H1",
+    "name": "How to Study Everyday Life",
+    "hours": "24S",
+    "description": "An introduction to the academic study of everyday life. A cross-disciplinary discussion class drawing on a wide variety of examples from ordinary life, fantasy, and culture. We situate the apparently innocuous within larger patterns of social relations and social change. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "VIC137H1": {
+    "code": "VIC137H1",
+    "name": "Science and Science Fiction",
+    "hours": "24S",
+    "description": "Based on reading and discussion of science fiction and popular science in the context of social issues, this seminar course explores the fantastic visions of humanity's future inspired by scientific advances during the twentieth century. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC141H1": {
+    "code": "VIC141H1",
+    "name": "Discovery and Revolution",
+    "hours": "24S",
+    "description": "This course examines the emergence of a global modern world in relation to the upheavals of the Renaissance (1350-1700) and its discoveries and innovations in culture and society. Not eligible for CR/NCR option.",
+    "exclusions": "VIC141Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC142H1": {
+    "code": "VIC142H1",
+    "name": "Machiavelli: The Politics of Power",
+    "hours": "24S",
+    "description": "The name of Machiavelli unleashes powerful opinions and responses and conjures up trickery, duplicity and cynicism. Yet Machiavelli himself is arguably the least Machiavellian of political figures of the Italian Renaissance. This course examines the writings of Niccol\u00f2 Machiavelli, placing them in their historical context in order to understand this most controversial figure of the Renaissance, his influence and his lasting legacy. Not eligible for CR/NCR option.",
+    "exclusions": "ITA198H1 (Machiavelli and Machiavellianism);  VIC141Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC145H1": {
+    "code": "VIC145H1",
+    "name": "Mental Health Literacy in Education",
+    "hours": "24L",
+    "description": "This course introduces students to fundamental concepts and issues related to wellbeing and mental health through the lens of mental health literacy. Mental health literacy refers to the knowledge and understanding of mental health conditions, including the ability to recognize symptoms, seek help and know how to support others. Students will investigate varied and global approaches towards achieving wellbeing and situate mental health within individual and social contexts with an emphasis on lived experience. Indigenous, Eastern and spiritual conceptions of wellbeing will be introduced. Mental health literacy in schools and other contexts of learning, will be discussed. The course will equip students with knowledge of how to support their own wellbeing, community wellbeing, and the wellbeing of those they serve now and will serve in the future. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": "VIC150H1,  VIC151H1,  VIC152H1,  VIC153H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "VIC150H1": {
+    "code": "VIC150H1",
+    "name": "Theory and Practice of Teaching: Theoretical Perspectives",
+    "hours": "24S",
+    "description": "This course introduces past and contemporary theories and perspectives on teaching and learning in schools and broader society. While there is consensus on the fundamental role that both learning and teaching play in society, a range of perspectives exists on what comprises \u201cteaching\u201d and \u201clearning\u201d, how they occur, and how they might be facilitated through designed environments. The course begins with an exploration of major theories of learning and their implications for practice. It then examines several pedagogical frameworks and perspectives of teaching and their implications for educational practice. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "VIC151H1": {
+    "code": "VIC151H1",
+    "name": "Theory and Practice of Teaching: Professional Practice",
+    "hours": "24S",
+    "description": "This course introduces the theories and practices of teaching through analysis of three main themes: planning and implementing inclusive instruction, establishing a classroom context to support diverse learners, and analyzing professional concerns for teachers. Students will be involved in a volunteer placement in a school or community-based setting. Field experience is central to the course with students expected to apply course ideas in their volunteer work and reflect on their experiences in seminars. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "VIC152H1": {
+    "code": "VIC152H1",
+    "name": "School and Society: Historical and Contemporary Contexts",
+    "hours": "24S",
+    "description": "This course investigates the historical and contemporary roles of the school and formal education system and explore changes in these organizations over time. The course examines schools and learning as social, political, intellectual, and economic phenomena. Topics covered include the history of Canada' education system, the purposes of formal schooling, the role of the school, education and the law, education policy and school curriculum. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "VIC153H1": {
+    "code": "VIC153H1",
+    "name": "School and Society: Equity and Social Justice in Education",
+    "hours": "24S",
+    "description": "This course will examine education as a human right and through a human-rights- based lens, explore themes of equity and diversity, global education, Indigenous knowledge and perspectives, and decolonizing education. Contexts of discussion will include early-years learning, elementary and secondary school, post-secondary education, and other community-based learning settings, both locally and globally. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "VIC159H1": {
+    "code": "VIC159H1",
+    "name": "Vic One Hundred Special Topics Seminar",
+    "hours": "24S",
+    "description": "Topics vary from year to year. Not eligible for CR/NCR option. Breadth requirement will vary from year to year depending on the course topic. Please refer to course website for more information: https://vic.utoronto.ca/academic-programs/special-topics-courses/vic159h",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "VIC159Y1": {
+    "code": "VIC159Y1",
+    "name": "Vic One Hundred Special Topics Seminar",
+    "hours": "48S",
+    "description": "Topics vary from year to year. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC162H1": {
+    "code": "VIC162H1",
+    "name": "Cultural Forms and Their Meanings",
+    "hours": "24S",
+    "description": "A study of culture with a view to developing basic concepts with examples drawn from the visual arts, music, film, literature, architecture, and/or local urban artefacts. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "VIC163H1": {
+    "code": "VIC163H1",
+    "name": "Cultural Forms and Their Meanings: People and Ideas",
+    "hours": "24S",
+    "description": "A study of culture with a view to developing basic concepts with examples drawn from the visual arts, music, film, architecture, and/or local urban artefacts. We will emphasize how contemporary thought has affected the practice of everyday life. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC164H1": {
+    "code": "VIC164H1",
+    "name": "Ideas and Their Consequences: Literary and Artistic Realms of the Imagination",
+    "hours": "24S",
+    "description": "A study of the ideas and concerns of creative thinkers and their impact upon cultures. The course includes literary, scientific and/or religious intellectuals from the major traditions. Attention to modes of reasoning, cultural definition and expression. Emphasis on philosophical and artistic concepts. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "VIC165H1": {
+    "code": "VIC165H1",
+    "name": "Ideas and Their Consequences: Isolation and Communion in Modern Culture",
+    "hours": "24S",
+    "description": "A study of art, with a focus on poetry, as an essential mode of experience and knowledge, in the context of contemporary and modern society. Along with literary artists, the course includes writers on history and sociology and presents the interplay between artistic vision and socio-political situations. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC166H1": {
+    "code": "VIC166H1",
+    "name": "Common Vices and Neglected Virtues: Intro to Ethics of Character",
+    "hours": "24S",
+    "description": "Vice is popular: a prestigious university press has brought out a series of seven books on the Seven Deadly Sins. This course examines such questions as the following. Are greed, lust and gluttony just bad names for necessary and otherwise acceptable instincts? What is the place, in a good human life, of such qualities as honesty, trust, civility and the like? Are vices and virtues culturally determined or a matter of individual preference? Can character be taught, or is it rather a matter of genes and luck? Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC167H1": {
+    "code": "VIC167H1",
+    "name": "Ideas and Fine Thoughts",
+    "hours": "24S",
+    "description": "This course examines how political ideas are formed and developed through literature, art, plays, essays and philosophical works in the twentieth century. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "VIC168H1": {
+    "code": "VIC168H1",
+    "name": "Identity and Equality in the Public Sphere",
+    "hours": "24S",
+    "description": "This course explores current legal and philosophical debates around equality, discrimination, and the shaping of individual and group identities. It addresses the way values, affiliation, and identities have an impact on the public sphere of law and policy-making \u2013 and the ways in which law and policy, in turn, shape our conceptions (and misconceptions) of people's identities. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "VIC169H1": {
+    "code": "VIC169H1",
+    "name": "Ethical Living in a Pluralistic World",
+    "hours": "24S",
+    "description": "This course examines different values, beliefs, and traditions relating to the natural and social world, ethical living, and the common good. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "VIC170Y1": {
+    "code": "VIC170Y1",
+    "name": "The Impact of Science on Our Society",
+    "hours": "48S",
+    "description": "How rhetoric and statistical analysis are used to communicate scientific observations and theories to different audiences will be examined in lectures and seminars. Uncertainty, belief, evidence, risk assessment, random error and bias will be discussed using examples drawn from literature, the arts and the physical, life and social sciences. Students will prepare a research grant application on a scientific topic of their own choice. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  }
+}

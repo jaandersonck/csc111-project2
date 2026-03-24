@@ -1,0 +1,1214 @@
+{
+  "CIN337H1": {
+    "code": "CIN337H1",
+    "name": "Black Cinema",
+    "hours": "24L/24P",
+    "description": "This course explores the cultural, aesthetic, technological, and political category of \u201cBlack cinema.\u201d Across the diaspora, Black cinema is an artistic praxis that utilizes techniques like improvisation and collaboration in order to make and remake the cinematic archive. The films and filmmakers in this category intervene in cinematic histories by responding to exclusionary narratives, technologies, and critical discourse by imagining alternative stories, spaces, and temporalities. Thus, these films help articulate both the pervasiveness of anti-blackness in our visual culture and help us understand the difference (film) aesthetics can make (Chun, 2019). Our goal is to 1) develop a critical language to discuss Black cinema (its techniques, its aims, and its political contexts) and 2) articulate research questions, methods, and arguments that consider what is happening inside and outside the frame in these films.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN338H1": {
+    "code": "CIN338H1",
+    "name": "Environmental Media",
+    "hours": "24L/24P",
+    "description": "This course is interested in exploring the many relationships between media and the environment. We not only analyze the representations of environmentality in film, photography, video games, and digital media, but also the material entanglements of media technologies and infrastructures with environment\u2014broadly defined. Adopting conceptual approaches in elemental, infrastructural, and architectural media studies, we seek to uncover and politicize media's troubled relationship with environmentality.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN339H1": {
+    "code": "CIN339H1",
+    "name": "Adult Film Histories",
+    "hours": "24L/24P",
+    "description": "From the birth of cinema and the legal emergence of \u201chardcore\u201d to the rise of the internet, adult \ufb01lm covers a broad span of periods, genres, geographies, venues, and technical formats: stag and grindhouse \ufb01lms, peepshows, sexploitation \ufb01lms, avant-garde cinema, \u201cGolden Age\u201d pornography, video, animation, adult theatres, and digital contexts. This course o\ufb00ers a critical and historical survey of adult \ufb01lms in social, legal, technical, and political contexts of production, consumption, and circulation. The course balances global and U.S. perspectives with attention to entanglements of race, class, gender, sexuality, feminism, and labor. Course content augmented by guest lectures from the adult industry.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN340H1": {
+    "code": "CIN340H1",
+    "name": "Special Topics in Cinema as Social and Cultural Practice",
+    "hours": "24L/24P",
+    "description": "Courses in special topics designed for Specialists and Majors in Cinema Studies. Past topics include: \"History of Cinematography,\" and \"Everyday Life in the Digital Age.\"",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN341H1": {
+    "code": "CIN341H1",
+    "name": "Special Topics in Cinema as Social and Cultural Practice II",
+    "hours": "24L/24P",
+    "description": "Courses in special topics designed for Specialists and Majors in Cinema Studies.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN349H1": {
+    "code": "CIN349H1",
+    "name": "Screenwriting",
+    "hours": "24S",
+    "description": "Students will develop screenwriting skills under the guidance of a renowned Canadian screenwriter through a combination of writing workshops and individual consultations. Like the course, the appointment of the Universal Screenwriter-in-Residence occurs biannually.  Prospective students must submit an application form that will be found at Cinema Studies Institute Undergraduate Forms and provide a creative writing sample to the Cinema Studies Undergraduate Office by email to cinema.studies@utoronto.ca by April 30. A screenplay (or excerpt) is preferred, but a submission that the students feel best expresses their talent is also acceptable. The course instructor and/or Undergraduate Coordinator will assess student potential based on the writing samples to determine student eligibility to enrol in the course. Enrolment priority will be given to upper year Cinema Studies program students.",
+    "exclusions": "VIC276H1,  CRE276H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN352H1": {
+    "code": "CIN352H1",
+    "name": "Issues in Film Authorship I",
+    "hours": "24L/24P",
+    "description": "Advanced study of issues in film authorship through intensive examination of one or more major filmmakers.",
+    "exclusions": "ENGD52H3,  CIN206H5",
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN353H1": {
+    "code": "CIN353H1",
+    "name": "Issues in Film Authorship II",
+    "hours": "24L/24P",
+    "description": "Advanced study of issues in film authorship through intensive examination of one or more major filmmakers.",
+    "exclusions": "ENGD52H3,  CIN206H5",
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN360H1": {
+    "code": "CIN360H1",
+    "name": "Special Topics in Theory and Criticism",
+    "hours": "24L/24P",
+    "description": "Courses in special topics designed for Specialists and Majors in Cinema Studies. Past topics include: \"Cinema and Intermediality.\"",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN361H1": {
+    "code": "CIN361H1",
+    "name": "Special Topics in Theory and Criticism II",
+    "hours": "24L/24P",
+    "description": "Courses in special topics designed for Specialists and Majors in Cinema Studies.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN362H1": {
+    "code": "CIN362H1",
+    "name": "Animals and Cinema",
+    "hours": "24L/24P",
+    "description": "This course explores cinema's century-long fascination with animals. Its investigations are organized around three central questions. First, what does cinema teach us about animals (why and how we look at animals on film, how we represent and understand animals through film, and what lessons we hope to gain from animals on film)? Second, what do animal films reveal or teach us about the cinema? Third, what are the aesthetic, theoretical, and ethical stakes of such encounters between animals and cinema?",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN363H1": {
+    "code": "CIN363H1",
+    "name": "Ecocinema: The Nature of Film",
+    "hours": "24L/24P",
+    "description": "This course takes a broad approach to the growing field \u2013 sometimes termed \u201cecocinema\u201d or \u201cfilm ecology\u201d \u2013 devoted to cinema\u2019s relationship to the natural environment. We will consider that relationship through a combination of historical, textual, and theoretical analysis.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN364H1": {
+    "code": "CIN364H1",
+    "name": "Theories of Media",
+    "hours": "48L",
+    "description": "In-depth history of humanistic theories of media and mediation, with a focus on aesthetics. Authors discussed may include Karl Marx, Walter Benjamin, Sigmund Freud, Marshall McLuhan, Friedrich Kittler, Donna Haraway, Bernard Stiegler, Katherine Hayles, and others. Includes substantial discussion of contemporary problems and authors in digital media studies and media theory. Includes extensive consideration of aesthetic forms, including animation, cinema, television, installation art, video games, net.art, and others.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN365H1": {
+    "code": "CIN365H1",
+    "name": "Nonfiction Video Practice",
+    "hours": "24L/24P",
+    "description": "This course is designed to introduce students to the basics of creative video production, with an emphasis on documentary and nonfiction film and video. Students will be introduced to the theory and practice of documentary filmmaking, including the creative, ethical, conceptual, and practical dimensions of artistic moving-image production. This is a hands-on course that will include off-site practical workshops and in-course group critique. Students are expected to have some prior technical knowledge of video recording and video editing, as technical skill-building will fall outside the purview of this course. We will explore the diverse approaches adopted by nonfiction filmmakers and video artists in order to consider what constitutes a cinematic practice. Students will work on creative assignments individually and in groups, coming up with conceptual ideas, creative treatments, and artistic methods for translating their ideas and questions into non-fiction moving image media.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN366H1": {
+    "code": "CIN366H1",
+    "name": "Durable Empires and Medias of Mass Culture",
+    "hours": "24L/24P",
+    "description": "Taking a deliberately broad view of \u201cempire\u201d to include formations of power under colonialism, nationalism, neoliberalism, and more, we seek to understand how visible and invisible structures of power define our world through cinematic and mediated forms. In particular, we are interested in how hegemony (and resistance) articulates with medias of mass culture. How do mass media such as cinema, television, the internet, and big data represent, disseminate, intercept, and/or resist imperial formations?",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN369H1": {
+    "code": "CIN369H1",
+    "name": "Critical Writing on Film",
+    "hours": "48L",
+    "description": "The practice of film criticism: studies of examples of journalistic and scholarly critical writing, practical sessions of process writing, and collaborative editing. Course includes regular film screenings. This course is offered biannually. Prospective students must submit an application form that will be found at Cinema Studies Institute Undergraduate Forms and provide a brief (one to two paragraphs) explanation of why they would like to take  CIN369H1 to the Cinema Studies Undergraduate Office by email to cinema.studies@utoronto.ca by April 30. The course instructor and/or Undergraduate Coordinator will assess the applications to determine student eligibility to enrol in the course: prerequisites, program of study, and experience. Enrolment priority will be given to upper year Cinema Studies program students.",
+    "exclusions": "ENGB71H3",
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN370H1": {
+    "code": "CIN370H1",
+    "name": "Canadian Cinemas",
+    "hours": "24L/24P",
+    "description": "History and diversity of Canadian and Qu\u00e9b\u00e9cois cinemas. Analyses of film and critical frameworks examine how co-productions, multiculturalism, and post-national arguments are re-shaping the production and reception contexts of national cinema. Annual emphasis will be placed on one of the following topics: the emergence of the feature film, Qu\u00e9b\u00e9cois cinema, documentary, or experimental cinema.",
+    "exclusions": "FCS391H1",
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN371H1": {
+    "code": "CIN371H1",
+    "name": "(New) Media Aesthetics",
+    "hours": "48L",
+    "description": "Investigates the theory and history of media technologies as sites of aesthetic investment in a wide variety of artistic practices, focusing on contemporary digital media work, including experimental cinema, gallery installation, net.art, and avant-garde videogames. One important emphasis lies in the aesthetic possibilities new (and newly inexpensive) media technologies have made available to marginalized artists, including especially women and queer artists. We will study the work of Maya Deren, John Cage, Tony Conrad, Yoko Ono, Jack Smith, Andy Warhol, Michael Snow, Marina Abramovic, Marlon Riggs, Felix Gonzales-Torres, Anna Anthropy, and others.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN372Y1": {
+    "code": "CIN372Y1",
+    "name": "Contemporary World Cinema",
+    "hours": "48L/72P",
+    "description": "Major contemporary developments beyond Hollywood and European filmmaking, examining a select number of national/regional cinemas: Africa, Korea, Iran, India (Hindi cinema), and Latin America. Topics include: transnationalism, indigenization of generic and stylistic conventions, cultural contexts, distribution networks, film festivals, and reception within a global economy.",
+    "exclusions": "ENGC83H3",
+    "breadth": 3,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN374Y1": {
+    "code": "CIN374Y1",
+    "name": "American Filmmaking in the Studio Era",
+    "hours": "24L/24T/72P",
+    "description": "Industrial, economic, ideological, and aesthetic dimensions of the American studio era.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN376Y0": {
+    "code": "CIN376Y0",
+    "name": "Chinese Cinemas",
+    "hours": null,
+    "description": "Examination of Chinese films in their three post-World War II production centres: The People's Republic of China, Taiwan, and Hong Kong. Includes study of Shanghai films of the 1930s and 1940s. Commercial, political, and aesthetic trends; international reception; major auteurs and genres (including melodrama, wuxia pian and crime films). Directors include Tsui Hark, Chen Kaige, Zang Yimou, John Woo, Wong Kar-Wai, Hou Hsiao-hsien, and Feng Xiaogang. This course is offered through the Summer Abroad program.",
+    "exclusions": "CIN376Y1",
+    "breadth": 3,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN376Y1": {
+    "code": "CIN376Y1",
+    "name": "Chinese Cinemas",
+    "hours": "48L/72P",
+    "description": "Examination of Chinese films in their three post-World War II production centres: The People's Republic of China, Taiwan, and Hong Kong. Commercial, political, and aesthetic trends; international reception; major auteurs and genres. Directors include Tsui Hark, Chen Kaige, Zang Yimou, Edward Yang, John Woo, and Wong Kar-Wai.",
+    "exclusions": "CIN376Y0",
+    "breadth": 3,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN378H1": {
+    "code": "CIN378H1",
+    "name": "Aspects of a National Cinema",
+    "hours": "24L/24P",
+    "description": "In-depth treatment of a national cinema. Past courses include: \"British Cinema,\"\u00a0\"Australian and New Zealand Cinema,\" and \"The Other Europe.\"",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN378Y0": {
+    "code": "CIN378Y0",
+    "name": "Aspects of a National Cinema",
+    "hours": null,
+    "description": "This course offers a critical study of British film cultures, with an emphasis on British film genres, movements and cycles from the 1960s to the present day. Earlier representative works, to include the British documentary movement, will provide a foundation for a comparative study of contemporary British cinema. Major and minor film cultures will be studied in their institutional, social, and cultural contexts to include: the long standing tradition of British realism; the Free Cinema Movement; the \u201cNew Wave;\u201d \u201cSwinging London;\u201d \u201cThatcherite\u201d cinema, including its heritage, art cinema, Brit-grit and Black British iterations; in addition to the recent \u201clad boy\u201d underclass cycle that reconfigures the traditional conceptualization of British cinema as strictly oppositional \u201crealism or tinsel.\u201d Debates pertinent to the way in which British films and relate to a shifting sense of national identity, towards examining the \u201cEnglishness\u201d of British national cinema, will be highlighted. This course is offered through the Summer Abroad program.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CIN379H1": {
+    "code": "CIN379H1",
+    "name": "Hungarian Cinema",
+    "hours": "24L/24P",
+    "description": "Examines historical trends, influential filmmakers, and social and cultural factors influencing the development of Hungarian cinema, assessing its impact within the context of Eastern Europe and internationally.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN380H1": {
+    "code": "CIN380H1",
+    "name": "Special Topics in History and Nation",
+    "hours": "24P/24S",
+    "description": "Courses in special topics designed for Specialists and Majors in Cinema Studies.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN381H1": {
+    "code": "CIN381H1",
+    "name": "Special Topics in History and Nation II",
+    "hours": "24L/24P",
+    "description": "Courses in special topics designed for Specialists and Majors in Cinema Studies.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN381Y1": {
+    "code": "CIN381Y1",
+    "name": "Special Topics in History and Nation",
+    "hours": "48P/48S",
+    "description": "Courses in special topics designed for Specialists and Majors in Cinema Studies.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "CIN105Y1"
+  },
+  "CIN410H1": {
+    "code": "CIN410H1",
+    "name": "Advanced Study in Genre and Modes",
+    "hours": "24P/24S",
+    "description": "Consideration of the status of a selected film genre or mode from historical and theoretical perspectives. Past seminars include: \u201cFilm Comedy,\u201d \u201cMelodrama,\u201d \u201cFilm Noir,\u201d \u201cThe End in Cinema,\u201d and \u201cThe Musical.\u201d Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN411H1": {
+    "code": "CIN411H1",
+    "name": "Advanced Study in Genre and Modes",
+    "hours": "24P/24S",
+    "description": "Consideration of the status of a selected film genre or mode from historical and theoretical perspectives. Past seminars include: \u201cFilm Comedy,\u201d \u201cMelodrama,\u201d \u201cFilm Noir,\u201d \u201cThe End in Cinema,\u201d and \u201cThe Musical.\u201d Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN412H1": {
+    "code": "CIN412H1",
+    "name": "Advanced Study in Genre and Modes",
+    "hours": "24P/24S",
+    "description": "Consideration of the status of a selected film genre or mode from historical and theoretical perspectives. Past seminars include: \u201cFilm Comedy,\u201d \u201cMelodrama,\u201d \u201cFilm Noir,\u201d \u201cThe End in Cinema,\u201d and \u201cThe Musical.\u201d Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN420H1": {
+    "code": "CIN420H1",
+    "name": "Advanced Studies in Cinema",
+    "hours": "24P/24S",
+    "description": "Seminars in special topics designed for advanced Specialist and Major students in Cinema Studies. Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN430H1": {
+    "code": "CIN430H1",
+    "name": "Advanced Study in Cinema as Social and Cultural Practice",
+    "hours": "24P/24S",
+    "description": "Consideration of cinema and its social relations. Past seminars include: \u201cAmerican Independent Film,\u201d \u201cChildren in the Movies,\u201d \u201cSub-Saharan African Cinema,\u201d \u201cInternational Film Festivals,\u201d \u201cInteractive Documentary,\u201d \u201cGraphic!,\" \u201cThe Revolution Will/Will Not Be Televised,\u201d \"Social Problem Films,\" and \"Programming and Curation.\" Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN431H1": {
+    "code": "CIN431H1",
+    "name": "Advanced Study in Cinema as Social and Cultural Practice",
+    "hours": "24P/24S",
+    "description": "Consideration of cinema and its social relations. Past seminars include: \u201cAmerican Independent Film,\u201d \u201cChildren in the Movies,\u201d \u201cSub-Saharan African Cinema,\u201d \u201cInternational Film Festivals,\u201d \u201cInteractive Documentary,\u201d \u201cGraphic!,\" \u201cThe Revolution Will/Will Not Be Televised,\u201d \"Social Problem Films,\" and \"Programming and Curation.\" Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN432H1": {
+    "code": "CIN432H1",
+    "name": "Advanced Study in Cinema as Social and Cultural Practice",
+    "hours": "24P/24S",
+    "description": "Consideration of cinema and its social relations. Past seminars include: \u201cAmerican Independent Film,\u201d \u201cChildren in the Movies,\u201d \u201cSub-Saharan African Cinema,\u201d \u201cInternational Film Festivals,\u201d \u201cInteractive Documentary,\u201d \u201cGraphic!,\" \u201cThe Revolution Will/Will Not Be Televised,\u201d \"Social Problem Films,\" and \"Programming and Curation.\" Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN433Y1": {
+    "code": "CIN433Y1",
+    "name": "Sensory Ecologies: Theory and Praxis in Environmental Media Studies",
+    "hours": "48P/48S",
+    "description": "Practitioners of environmental filmmaking struggle with a fundamental challenge: how to represent the dimensionality, and immersivity of the so-called natural world within the flat space and linear temporalities of the cinematic medium. These challenges resonate with larger questions about loss, extinction, and degradation; one cannot capture what is now disappeared, elusive, or destroyed. What then, should the role of media be amid a period of environmental ruination? This experiential learning course seeks to investigate these questions, and more. Through a combination of praxis and theory, students will collaborate with community partners on a series of applied learning outcomes. Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN440H1": {
+    "code": "CIN440H1",
+    "name": "Advanced Studies in Cinema",
+    "hours": "24P/24S",
+    "description": "Seminars in special topics designed for advanced Specialist and Major students in Cinema Studies. Past seminars include: \"Experiential Learning.\" Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN450H1": {
+    "code": "CIN450H1",
+    "name": "Advanced Study in Theory and Criticism",
+    "hours": "24P/24S",
+    "description": "Advanced study of select approaches to film theory and criticism. Past seminars include: \u201cCorporeality and the Cinema,\u201d \u201cThe Cinematic City: Urban Spaces in Film,\u201d \u201cSound and Music in Film,\u201d \u201cExpanded Cinema,\u201d \u201cDigital Cinema,\u201d and \"Cinema and Architecture: Scenes, Screens, Studios.\" Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN451H1": {
+    "code": "CIN451H1",
+    "name": "Advanced Study in Theory and Criticism",
+    "hours": "24P/24S",
+    "description": "Advanced study of select approaches to film theory and criticism. Past seminars include: \u201cCorporeality and the Cinema,\u201d \u201cThe Cinematic City: Urban Spaces in Film,\u201d \u201cSound and Music in Film,\u201d \u201cExpanded Cinema,\u201d \u201cDigital Cinema,\u201d and \"Cinema and Architecture: Scenes, Screens, Studios.\" Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN452H1": {
+    "code": "CIN452H1",
+    "name": "Advanced Study in Theory and Criticism",
+    "hours": "24P/24S",
+    "description": "Advanced study of select approaches to film theory and criticism. Past seminars include: \u201cCorporeality and the Cinema,\u201d \u201cThe Cinematic City: Urban Spaces in Film,\u201d \u201cSound and Music in Film,\u201d \u201cExpanded Cinema,\u201d \u201cDigital Cinema,\u201d and \"Cinema and Architecture: Scenes, Screens, Studios.\" Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN460H1": {
+    "code": "CIN460H1",
+    "name": "Advanced Studies in Cinema",
+    "hours": "24P/24S",
+    "description": "Seminars in special topics designed for advanced Specialist and Major students in Cinema Studies. Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN461H1": {
+    "code": "CIN461H1",
+    "name": "Advanced Study in Cinema and Media Practice",
+    "hours": "24L/24P",
+    "description": "This seminar uses research creation, critical making, digital humanities, videographic criticism, or other practice-based methods to the humanistic study of cinema and moving-image media, at an advanced level. Students will pursue advanced research projects grounded in these approaches. Topics and methods vary by semester and instructor. This seminar is designed for advanced Specialist and Major students in Cinema Studies, but it does not presume prior practice-based knowledge. Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in the Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN470H1": {
+    "code": "CIN470H1",
+    "name": "Advanced Study in History and Nation",
+    "hours": "24P/24S",
+    "description": "Seminars in historiography and questions of national cinema. Past seminars include: \u201cFilm Historiography,\u201d \u201cEarly Cinema,\u201d \u201cReviewing Hollywood Classicism,\u201d \u201cWomen Pioneers,\u201d \u201cLocal Film Cultures: Toronto Sites and Scenes,\u201d and \u201cDebating Transnational Cinema.\" Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN471H1": {
+    "code": "CIN471H1",
+    "name": "Advanced Study in History and Nation",
+    "hours": "24P/24S",
+    "description": "Seminars in historiography and questions of national cinema. Past seminars include: \u201cFilm Historiography,\u201d \u201cEarly Cinema,\u201d \u201cReviewing Hollywood Classicism,\u201d \u201cWomen Pioneers,\u201d \u201cLocal Film Cultures: Toronto Sites and Scenes,\u201d and \u201cDebating Transnational Cinema.\" Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN472H1": {
+    "code": "CIN472H1",
+    "name": "Advanced Study in History and Nation",
+    "hours": "24P/24S",
+    "description": "Seminars in historiography and questions of national cinema. Past seminars include: \u201cFilm Historiography,\u201d \u201cEarly Cinema,\u201d \u201cReviewing Hollywood Classicism,\u201d \u201cWomen Pioneers,\u201d \u201cLocal Film Cultures: Toronto Sites and Scenes,\u201d and \u201cDebating Transnational Cinema.\" Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN480H1": {
+    "code": "CIN480H1",
+    "name": "Advanced Studies in Cinema",
+    "hours": "24P/24S",
+    "description": "Seminars in special topics designed for advanced Specialist and Major students in Cinema Studies. Pre-enrolment balloting for 400-Level seminars will start in late May to early June, opening roughly five weeks before the July enrolment period begins. More information on balloting procedures, the balloting form and the submission deadline can be found in Cinema Studies Undergraduate Forms.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1"
+      ]
+    }
+  },
+  "CIN490Y1": {
+    "code": "CIN490Y1",
+    "name": "Independent Studies in Cinema",
+    "hours": null,
+    "description": "Independent research projects devised by students and supervised by Cinema Studies faculty. Open to advanced Specialist and Major students in the Program. Submit applications to the Cinema Studies Undergraduate Office prior to requesting enrolment: Fall term courses, June 1/ Winter term courses, November 1/ Summer term courses, April 1. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1",
+        "CIN301Y1"
+      ]
+    }
+  },
+  "CIN491H1": {
+    "code": "CIN491H1",
+    "name": "Independent Studies in Cinema",
+    "hours": null,
+    "description": "Independent research projects devised by students and supervised by Cinema Studies faculty. Open to advanced Specialist and Major students in the Program. Submit applications to the Cinema Studies Undergraduate Office prior to requesting enrolment: Fall term courses, June 1/ Winter term courses, November 1/ Summer term courses, April 1. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1",
+        "CIN301Y1"
+      ]
+    }
+  },
+  "CIN492H1": {
+    "code": "CIN492H1",
+    "name": "Independent Studies in Cinema",
+    "hours": null,
+    "description": "Independent research projects devised by students and supervised by Cinema Studies faculty. Open to advanced Specialist and Major students in the Program. Submit applications to the Cinema Studies Undergraduate Office prior to requesting enrolment: Fall term courses, June 1/ Winter term courses, November 1/ Summer term courses, April 1. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "CIN105Y1",
+        "CIN201Y1",
+        "CIN301Y1"
+      ]
+    }
+  },
+  "CJH332H1": {
+    "code": "CJH332H1",
+    "name": "Cellular and Molecular Neurobiology of the Synapse",
+    "hours": "36L",
+    "description": "Examination of all aspects of the synapse in both the peripheral and central nervous systems of invertebrates and vertebrates. Topics include: neuroplasticity, synapse formation, synaptic transmission, synaptic modulation, and the molecular biological basis of neurodegenerative disorders.",
+    "exclusions": "CSB332H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO271H1",
+        "PSL300H1"
+      ]
+    }
+  },
+  "CJS200H1": {
+    "code": "CJS200H1",
+    "name": "Introduction to Jewish Thought",
+    "hours": "24L",
+    "description": "A balanced presentation of the multifaceted approach to the discipline by treating Jewish religion and thought.\u00a0 The course introduces students not only to a chronological and thematic overview of the subject, but also to different methodological approaches.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CJS201H1": {
+    "code": "CJS201H1",
+    "name": "Introduction to Jewish Cultures",
+    "hours": "24S",
+    "description": "General introduction to history, literatures and cultures of Jewish people from antiquity to contemporary. A balanced presentation of multi-disciplinary approaches and multi-methodological approaches to Jewish studies, with a special emphasis on Jewish cultural studies and Jewish secularity.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CJS205H1": {
+    "code": "CJS205H1",
+    "name": "People of the Books: The Classics of Jewish Literature",
+    "hours": "24L",
+    "description": "This course introduces some of the most influential and evocative books of the Jewish tradition. Students will explore how these books reflect central themes of Jewish history and questions about Judaism, Jewish life, and Jewish identity. Possible texts include excerpts from the Bible, Midrash, Talmud, Zohar and Lurianic kabbalah, Maimonides\u2019 Mishneh Torah and responsa, the poetry and trickster tales of the Takhkemoni, the autobiographies of Leon of Modena and Solomon Maimon, the travelogues of Haim Azulai and Hayyim Habshush, and the tales of Rabbi Nachman of Bratslav. This course will delve into the historical contexts of each of the books and analyze both how they reflect the concerns of the particular communities that produced them and how they helped to shape future Jewish communities worldwide. Through close reading and discussion, participants will gain insight into the Jewish literary heritage. All readings will be given in English.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CJS207H1": {
+    "code": "CJS207H1",
+    "name": "The Jewish Life Cycle",
+    "hours": "24L",
+    "description": "This course introduces the events and rituals that demarcate key moments in Jewish lives including birth, coming-of-age, marriage, and death. Through close textual analysis, we will explore the historical development of Jewish life cycle rituals and how they sometimes shifted in meaning over time. We will explore these rituals as they developed among Jewish communities living in both the Christian and Islamic worlds. Special attention will be paid to how these rituals reflect attitudes towards gender and how they have been shaped in response to the presence of the majority non-Jewish culture, so as to adapt and adopt attractive ideas and respond to the threats and temptations the majority culture posed. By the end of the course, students will have developed a rich understanding of the diversity within Jewish traditions and the complex interplay between ritual and interpersonal religious law, and between individual, familial and communal forms of religious practice.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CJS220H1": {
+    "code": "CJS220H1",
+    "name": "The Holocaust in Fiction",
+    "hours": "24S",
+    "description": "The course examines literary works written in different languages, in ghettos and concentration camps during the Holocaust, as well as those reflecting on the genocide in its aftermath. We focus on literature as a means of engaging with the unimaginable and on the cross analysis of eye-witness and memory writing.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CJS230H1": {
+    "code": "CJS230H1",
+    "name": "God, Nation, and Self Transformed: The Secularization of the Jewish Experience",
+    "hours": "24S",
+    "description": "The course provides a theoretical background to the issue of secularization and examines the diverse attempts to define on a secular basis the Jew, the Jewish nation, and the Jewish God since the breakdown of traditional Jewish society. A variety of Jewish secularisms are examined in a larger, non-Jewish context.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CJS290H1": {
+    "code": "CJS290H1",
+    "name": "Topics in Jewish Studies",
+    "hours": "24L/24T",
+    "description": "An examination of issues in Jewish Studies. Content in any given year depends on instructor.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CJS301H1": {
+    "code": "CJS301H1",
+    "name": "Community",
+    "hours": "24L",
+    "description": "Ethno-religious groups like Jewry or the Jews are not merely aggregates of individuals but rather collectives whose members are bound to each other in a common historical identity, life, and fate. To understand any such group, we must therefore understand what binds these people together into a community, why the burdens and benefits or responsibilities and resources of the community are distributed among its members as they are, and both how and how well internal conflicts are managed. This course considers the ways in which the Jewish community -- in its local and global guises -- has reflected upon and dealt with these issues in classical and contemporary contexts.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CJS320H1": {
+    "code": "CJS320H1",
+    "name": "Jews in the Modern World",
+    "hours": "24L",
+    "description": "Jews of all sorts today are the product of historical processes that have changed the place of religion in their lives, their intellectual and moral outlook, their political standing and aspirations, their social relations and opportunities, and their means and modes of culture expression. In this course, we will try to understand the forces and counterforces as well as the decisions and reactions that determine ways of being Jews in the modern world.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CJS325H1": {
+    "code": "CJS325H1",
+    "name": "Authority in Judaism",
+    "hours": "24L",
+    "description": "Why should Jews obey God\u2019s commands? Does Judaism understand the relation of God\u2019s rule over His people to the sovereign\u2019s rule over his? Why and to what extent do Jews respect the decisions of rabbis, and how do the rabbis enforce their decision when their power to coerce compliance is limited? What force do prophetic criticisms of the people\u2019s religious and moral failings have? All of these are question of authority discussed in Judaism until today, and we will explore them together in this course.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CJS330H1": {
+    "code": "CJS330H1",
+    "name": "Who's a Jew? Theory, Myth, and Practice",
+    "hours": "24L",
+    "description": "This course introduces students to the host of core concepts in terms of which Jewish identity has been and continues to be defined and debated. Topics include: the difference between insiders and outsiders; collective vs individual identity; the nature of the bond between group members; identification across time, space, and disagreements; social and gendered hierarchies; joining and leaving the group; the identities of outsiders.",
+    "exclusions": "CJS290H1 (Topics in Jewish Studies: Who is a Jew?), offered in Fall 2014 and Fall 2015",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CJS331H1": {
+    "code": "CJS331H1",
+    "name": "Encounters between Jewish and Modern Thought",
+    "hours": "24L",
+    "description": "A detailed exploration of how Jewish thought develops in relationship to key figures or moments in modern European philosophy (e.g., Spinoza, Kant, Hegel, Kierkegaard, Marx, Nietzsche, Heidegger). The particular focus varies from year to year.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CJS340H1": {
+    "code": "CJS340H1",
+    "name": "Mizrahim in Israel: History, Politics, and Culture",
+    "hours": "24L",
+    "description": "What is the significance of the designation \u201cMizrahi\u201d in Israel today? Does it refer to people who share a common geographical and ethnic origin or does it indicate a shared worldview that draws upon Middle Eastern Arabic culture? What are its relations with other terms, such as \u201cSephardi,\u201d \u201cOriental,\u201d or \u201cLevantine\u201d? What kind of political membership does it entail? Does it possess a certain cultural, religious, or political vocabulary? And, ultimately, does the diasporic concept of \u201cMizrahiyut\u201d (mizrahiness) undermine national homogeneity or rather facilitate and enable its enforcement?",
+    "exclusions": "CJS390H1 (Special Topics in Jewish Studies: Mizrahim in Israel: History, Politics, and Culture), offered in Summer 2017",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CJS383H1": {
+    "code": "CJS383H1",
+    "name": "Jews and Power",
+    "hours": "24L",
+    "description": "This course will explore the relationship of Jews to political power. Among the themes to be covered are: How has the relationship of the Jewish community to political authority changed over time? What is the Jewish conception of political authority? How did Jews protect their communal and individual rights in the absence of sovereignty? How did the dynamics of antisemitism, philosemitism, and anti-Jewish violence change over time? How did Zionism and the revival of Jewish sovereignty change the position of Jews in the political order? What are the political and moral dilemmas posed by statehood? And what are the implications of Jewish sovereignty for Jews in the Diaspora?",
+    "exclusions": "POL383H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "POL101Y1",
+        "CJS200H1",
+        "CJS201H1"
+      ]
+    }
+  },
+  "CJS389H1": {
+    "code": "CJS389H1",
+    "name": "Jewish Secularism and Messianic Thought: From Spinoza to Derrida",
+    "hours": "24S",
+    "description": "This course examines the critical role that Messianic thought plays in the emergence of modern Jewish secular thought. A study of the secular dimension of Messianism in the writings of Jewish philosophers, from Spinoza to Derrida, leading to the larger question of its place in the project of Jewish modernity.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CJS390H1": {
+    "code": "CJS390H1",
+    "name": "Special Topics in Jewish Studies",
+    "hours": "24L",
+    "description": "An examination of issues in Jewish Studies. Content in any given year depends on instructor.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CJS391H1": {
+    "code": "CJS391H1",
+    "name": "Special Topics in Jewish Studies",
+    "hours": "24L",
+    "description": "An examination of issues in Jewish Studies. Content in any given year depends on instructor.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CJS392H1": {
+    "code": "CJS392H1",
+    "name": "Special Topics in Jewish Studies",
+    "hours": "24L",
+    "description": "An examination of issues in Jewish Studies. Content in any given year depends on instructor.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CJS396H1": {
+    "code": "CJS396H1",
+    "name": "Independent Study",
+    "hours": null,
+    "description": "A scholarly project on an approved topic supervised by a faculty affiliated with the Centre for Jewish Studies. For details, please visit the ATCJS webpage on Independent Studies Courses. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CJS200H1",
+        "CJS201H1"
+      ]
+    }
+  },
+  "CJS400H1": {
+    "code": "CJS400H1",
+    "name": "Research Seminar in Jewish Studies",
+    "hours": "24S",
+    "description": "An interdisciplinary seminar in which Jewish Studies topics are explored intensively, culminating in a major research paper by each student. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CJS200H1",
+        "CJS201H1"
+      ]
+    }
+  },
+  "CJS401H1": {
+    "code": "CJS401H1",
+    "name": "Identity & Conflict",
+    "hours": "24L",
+    "description": "A well-known saying \"two Jews, three opinions\" captures succinctly just how ubiquitous conflicts and disagreements are in Jewish life. These contestations are indeed not only common but also deep: they run all the way down to very foundations of Jewish identity, to questions of who belongs to and who should be excluded from the community. This course looks at some historical and current conflicts that have fundamentally divided Jew from Jew as well as various responses to such conflicts from within the Jewish tradition, asking why some conflicts are managed successfully while others aren't and how the answer to that question might be applicable within the groups to which we each belong. Not eligible for CR/NCR option.",
+    "exclusions": "CJS401Y1",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CJS200H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CJS201H1",
+            {
+              "credits": 0.5,
+              "department": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "CJS440H1": {
+    "code": "CJS440H1",
+    "name": "The Arab Jew: A History of a Concept",
+    "hours": "24L",
+    "description": "This course invites students to explore the debates around the term \u201cArab Jews.\u201d A cultural, historical, and historiographical designation, the term encompasses a range of experiences for Arabic-speaking Jews. These Jews lived in diverse cultural worlds across the Middle East and North Africa, where they developed deep and enduring relationships with non-Jews, and were instrumental in shaping local, regional and national cultures and politics. By engaging with the term \u201cArab Jews\u201d in its various incarnations, the course offers new perspectives on questions of Zionism and nationalism, colonialism and geography, religion and secularization, as well as historiography and memory.",
+    "exclusions": "CJS491H1 (Advanced Topics in Jewish Studies: The Arab Jew: A History of a Concept), offered in Winter 2017",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CJS444H1": {
+    "code": "CJS444H1",
+    "name": "Topics in the Study of Antisemitism",
+    "hours": "24L",
+    "description": "This seminar explores in depth one of the many theoretical or methodological issues that confront scholars of antisemitism. Possible topics include: definitions of antisemitism and their purposes; philosemitism and its conceptual and real connection with antisemitism; Jewish self-hatred; contextualist vs eternalist accounts of antisemitism; classic and contemporary theories of antisemitism.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CJS490H1": {
+    "code": "CJS490H1",
+    "name": "Advanced Topics in Jewish Studies",
+    "hours": "24S",
+    "description": "An in-depth investigation of topics in Jewish Studies. Content in any given year depends on instructor.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CJS491H1": {
+    "code": "CJS491H1",
+    "name": "Advanced Topics in Jewish Studies",
+    "hours": "24S",
+    "description": "An in-depth investigation of topics in Jewish Studies. Content in any given year depends on instructor.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CJS498Y1": {
+    "code": "CJS498Y1",
+    "name": "Independent Study",
+    "hours": null,
+    "description": "A scholarly project on an approved topic supervised by a faculty affiliated with the Centre for Jewish Studies. For details, please visit the ATCJS webpage on Independent Studies Courses. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CJS200H1",
+        "CJS201H1"
+      ]
+    }
+  },
+  "CJS499H1": {
+    "code": "CJS499H1",
+    "name": "Independent Study",
+    "hours": null,
+    "description": "A scholarly project on an approved topic supervised by a faculty affiliated with the Centre for Jewish Studies. For details, please visit the ATCJS webpage on Independent Studies Courses. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CJS200H1",
+        "CJS201H1"
+      ]
+    }
+  },
+  "CLA160H1": {
+    "code": "CLA160H1",
+    "name": "Introduction to Classical Studies",
+    "hours": "36L/10T",
+    "description": "An introduction to major themes in the development of Greek and Roman civilization, literature and culture.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLA170H1": {
+    "code": "CLA170H1",
+    "name": "Ancient Texts, Modern Worlds",
+    "hours": "36L/10T",
+    "description": "An introduction to Greek and Latin literature and culture which highlights the theoretical issues involved in the translation and reception of ancient texts. It introduces key works of literature, questions what it means to talk about an \u201coriginal\u201d text, asks what makes for an \u201caccurate\u201d translation, and sharpens awareness of linguistic issues even for students without Latin and Greek.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLA195H1": {
+    "code": "CLA195H1",
+    "name": "Julius Caesar",
+    "hours": "24S",
+    "description": "Gaius Julius Caesar (100 \u2013 44 BC) was a writer, an orator, a reformer, and a builder, as well as a general, a conqueror, an explorer, and a dictator. After his death, he was even worshipped as a god with a temple in the very heart of Rome. According to his critics, both ancient and modern, he was also a megalomaniac, an enemy of the state, a war criminal, and a tyrant. Only a very few individuals have left such an extensive and controversial mark on the history of the ancient world. We shall consider as many aspects of his life and his legacy as we can, from his conquest of Gaul to his decision to plunge Rome into a horrific civil war, from his love-affair with Queen Cleopatra of Egypt to his brutal assassination on the Ides of March. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLA196H1": {
+    "code": "CLA196H1",
+    "name": "Unhappy Families",
+    "hours": "24S",
+    "description": "Unhappy families appear throughout Greco-Roman literature and culture. Spectacular Tragic Houses were filled with several generations of disasters. These inspired a variety of poets to retell select moments in their histories. But even the comic household can mobilize hatred, suspicion, and other ugly feelings to humorous effect. Conflict between domineering fathers and the rest of the household was a staple of rhetorical training. And in many homes we can see the misery of slaves, members who are also not members of the family. This course will survey a variety of intimate disasters. We will explore norms and ideals as well as the sense that the same are fragile, contradictory, or even impossible. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLA197H1": {
+    "code": "CLA197H1",
+    "name": "Inventing the Ancient Mediterranean: Roman Technology",
+    "hours": "24S",
+    "description": "Two thousand years ago Roman hydraulic engineers designed aqueducts and provided hundreds of cities in the Mediterranean region with a richer water supply than any nation could boast before the late 1800s. Ever more sophisticated ships transported goods from harbour to harbour and Roman experts on construction built the Colosseum and other amphitheatres, as well as countless temples, theatres, roads, bridges, and even high-rise apartment buildings, which in some cases survive to this very day. What was the secret of Roman civilization, and what did this level of technology mean for the empire\u2019s inhabitants? This course presents for discussion the many achievements of centuries of Roman presence on three continents around the Mediterranean Sea, while bringing into the equation also the issue of standard of living and the ecological costs. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CLA198H1": {
+    "code": "CLA198H1",
+    "name": "Homer's Odyssey down through Time",
+    "hours": "24S",
+    "description": "This course will survey creative works inspired by Homer's Odyssey. First we will read through the Odyssey, contextualizing the Homeric epic within the larger story of the Trojan War and the subsequent heroic return in the \"Epic Cycle.\" Then we will study various \"receptions\" of the Odyssey, ancient and modern. Ancient works will include the satyr play Cyclops by Euripides and portrayals of a love-sick Cyclops in Theocritus and Ovid. In True Story Lucian calls Odysseus a liar but rivals his travel tale with episodes placed on the moon and inside a whale. Modern works include Atwood's Penelopiad, Walcott's stage version of the Odyssey, and the film \"O Brother, Where Art Thou?\" Themes will include travel literature, truth and lying, localization of the wanderings of Odysseus, culture clash, and the definition of home. All this material, various in date, media, and fidelity to their Homeric source, will provide us with a well-rounded sense of how the Odyssey has been re-imagined over the ages. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLA199H1": {
+    "code": "CLA199H1",
+    "name": "The \u201cDecline and Fall\u201d of the Roman Empire",
+    "hours": "24S",
+    "description": "After a high water mark of territorial reach and economic success in the middle of the 2nd century CE, the Roman Empire eventually disintegrated. How? Why? When? In this course, we will consider some of the historical features that may have contributed to its political collapse, and we will consider some modern scholarly analyses from Edward Gibbon (late 18th century) to the present. But we will also investigate \u201cdecline and fall\u201d as a narrative trope. Why is this story arc always with us? Who decides what qualifies as \u201cdecline\u201d? Is the \u201cfall\u201d of some systems necessarily a bad thing? Among the topics to be considered in the context of the Later Roman Empire are several of relevance in the modern world, not least: climate change, disease, human migration, religious difference, and economic inequality. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLA201H1": {
+    "code": "CLA201H1",
+    "name": "Latin & Greek in Scientific Terminology",
+    "hours": "36L",
+    "description": "The study of technical and scientific terms derived from Latin and Greek: word elements, formation, analysis. The course is designed to give students in any field of specialization a better grasp of the derivation and basic meaning of English words derived from Latin and Greek elements.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CLA203H1": {
+    "code": "CLA203H1",
+    "name": "Science in Antiquity",
+    "hours": "36L",
+    "description": "The first scientific traditions in the classical Mediterranean and the Near East, with emphasis on Greek science. Discussions of early physical science, biology, mathematics, and astronomy, and their place in ancient life and thought, based on primary sources in translation. Designed for students in both the sciences and humanities.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CLA204H1": {
+    "code": "CLA204H1",
+    "name": "Introduction to Classical Mythology",
+    "hours": "36L",
+    "description": "A survey of the myths and legends of ancient Greece (and their extension to Rome) with some consideration of their role in ancient and modern literature and art.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CLA208H1": {
+    "code": "CLA208H1",
+    "name": "Socrates and His World",
+    "hours": "36L",
+    "description": "Already in antiquity, Socrates was viewed as a watershed in philosophical history, and a reference-point for everything that came after him. This course explores the evidence for his beliefs and methods and the context in which he lived and worked, and it introduces a lively circle of interlocutors and pupils going far beyond the most famous, Plato and Xenophon.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CLA209H1": {
+    "code": "CLA209H1",
+    "name": "Magic, Religion, and Science",
+    "hours": "36L",
+    "description": "A study of the overlapping and contested categories of \u201cmagic\u201d, \u201creligion\u201d, and \u201cscience\u201d in ancient Greek and Roman thought and practice.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CLA210H1": {
+    "code": "CLA210H1",
+    "name": "Greek and Roman Archaeology",
+    "hours": "36L",
+    "description": "A survey of the practices and theory of archaeology in the Classical Mediterranean, from the Greek Bronze Age through the Roman Empire. This course introduces students to the archaeological record of the Greco-Roman past, as well as the means by which we access it. Students will develop essential skills to recognize and analyze ancient material culture in preparation for upper level classes, or for fieldwork. No previous knowledge of the discipline is required.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CLA215H1": {
+    "code": "CLA215H1",
+    "name": "Classical Warfare",
+    "hours": "36L",
+    "description": "An introduction to the military history of ancient Greece and Rome from the 8th century BCE to the 7th century CE, with an emphasis on the political, social and economic implications of warfare and military institutions.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CLA217H1": {
+    "code": "CLA217H1",
+    "name": "Marginal Identities in the Ancient Mediterranean",
+    "hours": "36L",
+    "description": "An exploration of the groups and individuals who could be considered \"marginal\" in Greek and Roman antiquity. Includes discussion of ancient ideas about race, ethnicity, social status, economic class, gender, sexuality, and disability.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CLA219H1": {
+    "code": "CLA219H1",
+    "name": "Women in Antiquity",
+    "hours": "36L",
+    "description": "A survey of the position of women in ancient Greece and Rome, with focus on women's sexuality and socialization; their economic, religious, and political roles; and their creative production in the arts.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CLA222H1": {
+    "code": "CLA222H1",
+    "name": "Sex, Death, and Poetry",
+    "hours": "36L",
+    "description": "A study of the themes of sex and death and the connection between them in the poetry of ancient Greece and Rome. Readings will be drawn from Greek and Roman lyric, epic, tragedy, and other genres.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLA223H1": {
+    "code": "CLA223H1",
+    "name": "Literature and Empire",
+    "hours": "36L",
+    "description": "A study of the relation between literature and empire in ancient Greece and Rome. The course covers a variety of genres and historical moments, examining how literature can support or challenge imperial power.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLA224H1": {
+    "code": "CLA224H1",
+    "name": "Letters from the Past",
+    "hours": "36L",
+    "description": "A study of letters and letter writing in Greek and Roman Antiquity. Students will be introduced to ancient theories of epistolography and a wide variety of texts, including letters by famous historical figures, philosophical letters, poetic letters, and fictional letters in prose.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLA230H1": {
+    "code": "CLA230H1",
+    "name": "Introduction to Greek History",
+    "hours": "36L",
+    "description": "A historical survey of the most significant features in the development of the civilization and states of ancient Greece from the Bronze Age to the second century B.C.E.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CLA231H1": {
+    "code": "CLA231H1",
+    "name": "Introduction to Roman History",
+    "hours": "36L",
+    "description": "A historical survey of the most significant features in the development of the civilization and state of ancient Rome from the mythical beginnings to the fourth century C.E.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CLA236H1": {
+    "code": "CLA236H1",
+    "name": "Greek and Roman Epic",
+    "hours": "36L",
+    "description": "A study of one or more of the epic poems of Greek and Roman antiquity (e. g. The Iliad and Odyssey of Homer and the Aeneid of Virgil).",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CLA260H1": {
+    "code": "CLA260H1",
+    "name": "Method and Theory in Classics",
+    "hours": "36L",
+    "description": "An introduction to key issues in methodology and theory in the study of the classical world.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  }
+}

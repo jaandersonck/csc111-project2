@@ -1,0 +1,1232 @@
+{
+  "HIS293H1": {
+    "code": "HIS293H1",
+    "name": "The Making of the Atlantic World, 1480-1804",
+    "hours": "24L/10T",
+    "description": "This course introduces students to the social, economic, cultural and political history of the Atlantic world resulting from European exploration and colonization in the Americas beginning in the 1490s and the growth of the transatlantic slave trade. It focuses on interactions between Africans, Europeans, and Amerindians around the Atlantic Ocean.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS295Y1": {
+    "code": "HIS295Y1",
+    "name": "History of Africa",
+    "hours": "48L/24T",
+    "description": "An introduction to African history and the methodology of history more broadly, this course sets out to question how historians do history, examine differences in theories of knowledge, and explore the relationship between academic and cultural representations of the past. The course also draws on anthropology and related disciplines.",
+    "exclusions": "HIS295H5",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "HIS297Y1": {
+    "code": "HIS297Y1",
+    "name": "History of Africa from a Gender Perspective",
+    "hours": "48L/20T",
+    "description": "This survey of African history is analytical rather than narrative in its approach. It rethinks the way that African history has hitherto been conceptualized and taught by placing the question of gender at the center of the story of Africa.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS298Y0": {
+    "code": "HIS298Y0",
+    "name": "Themes & Issues in History",
+    "hours": "48L/20T",
+    "description": "This is a thematic survey course addressing issues of gender, class, ethnicity, religion, war, economics and political strife through broad-sweep coverage of a region\u2019s history. Prepares students for upper-level study through exposure to eyewitness primary sources and conflicting secondary interpretations of events.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS299H1": {
+    "code": "HIS299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities\u2026. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "HIS299Y1": {
+    "code": "HIS299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities\u2026. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "HIS300H1": {
+    "code": "HIS300H1",
+    "name": "Energy and Environment in Canadian History",
+    "hours": "24L",
+    "description": "This course examines the history of energy in Canada from the perspective of environment, business, state, daily life, and culture, with emphasis on the twentieth century. Topics include Big Oil, large dams, nuclear power, energy colonialism, pipeline disputes, climate change, daily life, and the relationship between energy and social power.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS301H1": {
+    "code": "HIS301H1",
+    "name": "World War II France",
+    "hours": "24L",
+    "description": "This third-year lecture course examines the experience of the Second World War in France. Special attention is paid to questions of collaboration, resistance and accommodation. Other topics include the role of the French overseas colonies in this era, the issue of internal vs. external resistance, and the fate of civilian populations. Students engage with a set of primary and secondary sources as well as visual material that includes films.",
+    "exclusions": "VIC102H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS302H1": {
+    "code": "HIS302H1",
+    "name": "Material Culture in Victorian Britain",
+    "hours": "24L",
+    "description": "An examination of the products of the first and second industrial revolutions in Victorian England, including food, drugs, clothing, and trains. This course focuses on the cultural history of commercialization and consumerism.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "HIS"
+    }
+  },
+  "HIS304H1": {
+    "code": "HIS304H1",
+    "name": "Topics in Middle East Histories",
+    "hours": "24L",
+    "description": "An in-depth examination of Middle East historical issues. Content in any given year depends on instructor. See History Website for more details.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS305H1": {
+    "code": "HIS305H1",
+    "name": "Death and Life in Plantation America",
+    "hours": "24L",
+    "description": "This course examines the experiences of enslaved people in the Americas and introduces students to the complex history of the \u2018plantation\u2019 as a site of violence; social, economic, labour and political organization and experimentation; kinship, culture and community recreation and rebellion. The course will focus on the 17th to 19th century Caribbean in comparative and transnational relationship to the continental Americas.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS230H1",
+        "HIS271Y1",
+        "HIS291H1",
+        "HIS295Y1"
+      ]
+    }
+  },
+  "HIS307H1": {
+    "code": "HIS307H1",
+    "name": "Oral Histories of Asian Canadians",
+    "hours": "24L",
+    "description": "This course explores the cultural and social history of everyday life as it affected Asian Canadians with focus on Chinese, Filipinos and South Asians from the 1960s to present. It introduces oral history and documentary film as key research methods for understanding changing cultural practices and identities within families, in food, and in social settings within and beyond ethnic communities.",
+    "exclusions": "HIS286H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS309H1": {
+    "code": "HIS309H1",
+    "name": "Global Reformations",
+    "hours": "36L",
+    "description": "The Reformation has traditionally been approached as a 16th century European phenomenon. This course will consider religious reform movements from the 15th to 18th centuries and set these into a global framework, considering spatial and sensory dimensions, cross-cultural engagements and exchanges, and intersections with race and colonization.",
+    "exclusions": "HIS340H5/  RLG346H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS102Y1",
+        "HIS109Y1",
+        "HIS243H1"
+      ]
+    }
+  },
+  "HIS310H1": {
+    "code": "HIS310H1",
+    "name": "Democracy and Dissent in Postwar Canada",
+    "hours": "24L",
+    "description": "This course will explore the background, experience, and legacy of protest movements in Canada in the post-1945 era. The course will draw on the latest historical literature and will situate Canadian social movements in the broad transnational context in which they unfolded. Topics will include anti-racist movements, feminism, nationalism, Indigenous politics, environmentalism, labour, and the New Right and the New Left.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS311H1": {
+    "code": "HIS311H1",
+    "name": "Canada in the World",
+    "hours": "24L",
+    "description": "Ranging from the fifteenth through to the turn of the twenty-first century, students will learn about the treaties, trade agreements and alliances, as well as the informal traditions, working relationships and cultural ties that shape relations of people living within the boundaries of present-day Canada with the world. For this course, \u201cinternational relations\u201d is broadly defined, including military, political, economic, environmental and immigration policies, both official and informal.",
+    "exclusions": "HIS311Y1/  HIS311H5/  HISC46H3",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS312H1": {
+    "code": "HIS312H1",
+    "name": "Immigration to Canada",
+    "hours": "24L",
+    "description": "From the colonial settlement to 21st century, immigration has been a key experience and much debated in Canadian life. Drawing on primary sources, as well as historical and contemporary scholarship, this course will discuss migration, citizenship and belonging as central features in Canada\u2019s experience of immigration. This course focuses on the individuals, groups, and collectives who built, defined, contested, and reimagined this country, to help make and remake Canada through immigration.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS313H1": {
+    "code": "HIS313H1",
+    "name": "People and Other Animals in History",
+    "hours": "24L",
+    "description": "What happens to history when we consider nonhuman animals as subjects and actors alongside humans? This course revisits episodes, events, and historical processes with nonhuman animals in mind to explore the interpretive and analytic possibilities that emerge when other animals are considered as full participants in the historical record. Thematic focus is located in the Atlantic world since the early modern period.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS314H1": {
+    "code": "HIS314H1",
+    "name": "Twentieth-Century Quebec",
+    "hours": "24L",
+    "description": "This course will explore the history of Quebec in the 20th century. In addition to looking at more traditional themes focused on nationalism and constitutional politics, we will also look at the history of encounter between groups of different backgrounds and origins. As such, we will place a large emphasis on colonialism and Indigenous history, and the politics of language, race, and immigration. Themes will include, among others, the history of Quebec in an era of British imperialism, jazz, the art world, literature, the Oka Crisis, and Quebec\u2019s ties to Haiti and other parts of the non-Western world.",
+    "exclusions": "HIS314Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS315H1": {
+    "code": "HIS315H1",
+    "name": "Decolonial Vietnamese Histories",
+    "hours": "24L",
+    "description": "This course introduces students to the narratives that diverse actors have used to talk about Vietnamese histories. We will focus on the histories and perspectives of the indigenous peoples of the peninsula, ethnic minority groups, as well as that of the majority \"Kinh people.\" We'll explore themes which have been central to shaping the geographic space, the socio-political regimes, and the cultural entity we now call \"Viet Nam,\" while examining how varying types of historical method and archival strategies can influence the telling of histories. What kinds of techniques did Vietnamese and Western political actors, scholars, and writers, employ to narrate the Vietnamese past(s) and how do these visions tell us about the crafter of these narratives? What counts as \u201chistory\u201d and who gets/got to decide? Whose experiences were relevant in the different epistemological approaches?",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS316H1": {
+    "code": "HIS316H1",
+    "name": "Competing Colonialism in Northeast China The Harbin Experiment",
+    "hours": "24L",
+    "description": "This course explores the political, social, and cultural history of Harbin, one of the major cities of Manchuria/Northeast China, the product of competing Russian, Japanese, and international colonialism during the first half of the twentieth century, and an early case of multi-ethnic emigration and multiculturalism.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS250Y1",
+        "HIS280Y1",
+        "HIS281Y1"
+      ]
+    }
+  },
+  "HIS317H1": {
+    "code": "HIS317H1",
+    "name": "20th Century Germany",
+    "hours": "36L",
+    "description": "A survey of modern German history in the twentieth century. Topics include World War I and the postwar settlement, the Weimar Republic, the National Socialist dictatorship, the Holocaust, the division of Germany, the Cold War, German reunification, Germany and the European Union, nationalism, political culture, war and revolution, religious and ethnic minorities and questions of history and memory.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS103Y1",
+        "HIS109Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "HIS241H1",
+            "HIS242H1"
+          ]
+        },
+        "EUR200Y1"
+      ]
+    }
+  },
+  "HIS318H1": {
+    "code": "HIS318H1",
+    "name": "Histories of the \"Wild\" West",
+    "hours": "24L",
+    "description": "What happens when histories of North America begin in the West? This course examines the critical challenges that the myths and legacies of the West pose to North American history, from pre-contract to 1990. Themes include First Nations and colonialism, immigration, racism, economic development, regionalism, prostitution and illegal economies.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS319H1": {
+    "code": "HIS319H1",
+    "name": "Histories of the Horn of Africa",
+    "hours": "24L",
+    "description": "A critical, introductory survey exploring major themes in the political, social, economic, and cultural histories of the Horn of Africa [Somalia, Ethiopia, Djibouti, Eritrea, Sudan, South Sudan] and surrounding Red Sea and Indian Ocean from prehistoric times to the present.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS320H1": {
+    "code": "HIS320H1",
+    "name": "Barbarian Invasions and the Fall of the Roman Empire",
+    "hours": "24L",
+    "description": "Covers major events and themes for the period 300-600, including decline of Greco-Roman paganism, conversion to Christianity, individual barbarian groups (Ostrogoths, Visigoths, Huns, Burgundians, Vandals, Franks, Lombards), their culture and impact on empire, Justinian's reconquests.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS321H1": {
+    "code": "HIS321H1",
+    "name": "Dark Age Europe, 7th-10th Centuries",
+    "hours": "24L",
+    "description": "Surveys major events and figures for the period c. 600-1000, including: Pope Gregory the Great, the Merovingian Franks, Lombard Italy, Byzantine civilization, the rise of Islam, Charlemagne, the Carolingian Renaissance, the Vikings, Anglo-Saxon England to King Alfred, the Ottonians.",
+    "exclusions": "HIS320Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS322H1": {
+    "code": "HIS322H1",
+    "name": "Topics in African History",
+    "hours": "24L",
+    "description": "Selected topics on a specific period, aspect or themes in African history. Topics in any given year depend on the instructor.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS323H1": {
+    "code": "HIS323H1",
+    "name": "Rites of Passage and Daily Life in the Middle Ages",
+    "hours": "36L",
+    "description": "Reflecting on the life cycle and rites of passage in the medieval period gives the opportunity to study the daily lives of peasants, nobles, monks, nuns, and (Christian and Jewish) burghers, and to observe from an interesting angle the differences between female and male life experiences.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS324H1": {
+    "code": "HIS324H1",
+    "name": "The Criminalization of Protest in Latin American History",
+    "hours": "24L",
+    "description": "The criminalization of protest is generally understood in terms of policing, and the use of legal measures, including states of exception, to quell dissent. Criminalization can also refer to the stigmatization of individuals, groups, and communities by the state, and the marginalization of working class or racialized groups. This course invites students to study lived experiences of criminalization in Latin American history.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "HIS292H1"
+  },
+  "HIS325H1": {
+    "code": "HIS325H1",
+    "name": "Imperial Russia",
+    "hours": "24L",
+    "description": "This course focuses on Russia's history during a period of remarkable change and turbulence, when the country more firmly established its far-flung empire while simultaneously attempting to define itself as a nation. From the wars and reforms of Peter the Great through the end of the empire during the First World War, the course touches on questions of social and cultural change, and the political events that allowed or constrained them.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "HIS"
+    }
+  },
+  "HIS326H1": {
+    "code": "HIS326H1",
+    "name": "Topics in Asian Histories",
+    "hours": "24L",
+    "description": "A specific period in some aspect of Asian histories. Topics in any given year depend on the instructor.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "HIS280Y1"
+  },
+  "HIS327H1": {
+    "code": "HIS327H1",
+    "name": "Rome: The City in History",
+    "hours": "24L",
+    "description": "This course investigates the development of Rome from its mythical foundations, through the Empire, the Middle Ages, Renaissance and Baroque to the modern city, illustrating the shift from the pagan to the papal city and its emergence as the capital of a united Italy after 1870 and a modern European metropolis.",
+    "exclusions": "VIC348Y1 (offered in Fall/Winter 2012-2013, 2013-2014, 2014-2015 and 2015-2016) and  VIC162H1 (offered in Fall 2016, Fall 2017 and Fall 2018)",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": ""
+    }
+  },
+  "HIS328H1": {
+    "code": "HIS328H1",
+    "name": "Modern China",
+    "hours": "24L",
+    "description": "An examination of political, social and economic developments in modern Chinese history to the present day. Main topics may include the decline of the Imperial order and the challenge of Western imperialism; the Republican period; the rise of the Communist movement; the People's Republic of China.",
+    "exclusions": "JMC201Y1,  HIS328Y1,  EAS285H1",
+    "breadth": 3,
+    "prereq_tree": "HIS280Y1"
+  },
+  "HIS329H1": {
+    "code": "HIS329H1",
+    "name": "Central Middle Ages (900-1200)",
+    "hours": "36L",
+    "description": "A chronological survey from 900, with the foundation of Cluny by the Duke of Aquitaine, the last waves of Vikings, and the decline and end of the Carolingian Empire, up to 1200, with the Battle of Bouvines, the more formal organization of the first universities and the construction of the Gothic cathedrals. The main question will be: what happens when there is no real central power? Why did the term \u201cFeudalism,\u201d now nicknamed the F word by medievalists, was judged inappropriate to describe the situation?",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS330H1": {
+    "code": "HIS330H1",
+    "name": "Germany from Frederick the Great to the First World War",
+    "hours": "24L",
+    "description": "Topics include German reactions to the French Revolution, Napoleonic occupation, the Wars of Liberation, industrial expansion, the Revolutions of 1848, unification in 1871, Bismarck and Kaiser Wilhelm II, everyday life, gender relations, avant-garde culture, nationalism, antisemitism, colonialism, and the Great War of 1914-18.",
+    "exclusions": "HIS341Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "credits": 1.0,
+          "department": "HIS"
+        },
+        "HIS262H1"
+      ]
+    }
+  },
+  "HIS331H1": {
+    "code": "HIS331H1",
+    "name": "Modern Baltic History",
+    "hours": "24L",
+    "description": "The history of the Baltic countries, Estonia, Latvia and Lithuania from 1900 to the present day, with emphasis on the emergence of independent Baltic states, World War II, communist era, the Baltic Revolution, the restoration of independence and European integration.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS332H1": {
+    "code": "HIS332H1",
+    "name": "Crime and Society in England, 1500-1800",
+    "hours": "24L",
+    "description": "The changing nature of crime and criminal justice in early-modern England; the emergence of modern forms of policing, trial and punishment.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        {
+          "credits": 1.0,
+          "department": "HIS"
+        },
+        "HIS262H1"
+      ]
+    }
+  },
+  "HIS333H1": {
+    "code": "HIS333H1",
+    "name": "Catholic Asia in the Early Modern Era, 1500-1800",
+    "hours": "24L",
+    "description": "This course examines the impact of Catholicism in Asia, from its introduction to its relevance in the contemporary global order. Students will be introduced to how Catholicism and the technologies accompanying it affected historical transitions in local communities in Asia as well as how the growth of these communities has affected the global Catholic Church.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "EUR"
+    }
+  },
+  "HIS334H1": {
+    "code": "HIS334H1",
+    "name": "The Great Wall of China",
+    "hours": "24L",
+    "description": "Why was the Great Wall built? Did it keep the people of Mongolia out, or to keep the people of China in? How has it come to represent China's past and present as a paradoxical symbol of civilizational glory and political tyranny? For almost 2,000 years, the question of how to handle the nomads of Mongolia was a central question of China's foreign policy. Wall construction, in various places and times, was one of the consistent responses to the \"nomad problem.\" The Great Wall came to symbolize the economic, military, political, and cultural clash between China and Mongolia. It was also a site of diplomacy, markets, and peace-making. Students will explore fundamental questions in frontier history and international relations: do contrasting environments create contrasting cultures? do culture and ideology constrain the responses of policy makers to foreign threats? does crossing a frontier change us? The class covers the 3rd century BCE to the 20th century CE, considering perspectives from both sides of the wall, and the legacy of the Great Wall as an international symbol in the present day.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS335H1": {
+    "code": "HIS335H1",
+    "name": "Canadian Legal Histories",
+    "hours": "24L",
+    "description": "This course examines Canadian legal history through differing Indigenous, civil, and common law legal traditions, using multiple categories of analysis, including race, gender, class, spirituality and sexuality. Legal history is a strong and engaging field of study in Canada. Topics will include constitutional histories, treaties, law-making, differing systems of land tenure, the franchise and the structure of deliberative bodies (e.g. legislatures), courts and systems of justice, policing and criminal law, punishment (including histories of incarceration and alternatives).",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 4.0,
+              "department": ""
+            },
+            "HIS263Y1"
+          ]
+        },
+        "HIS264H1"
+      ]
+    }
+  },
+  "HIS336H1": {
+    "code": "HIS336H1",
+    "name": "The History of Amazonia",
+    "hours": "24L",
+    "description": "Contrary to traditional images, Amazonia is not a pristine forest with sparse human presence. This course explores the complex societies developed around the Amazon River Basin and how they shaped the forest\u2019s configuration. The course centers on the development of European colonialism in the region, the different modes of commodity extraction, and projects to incorporate Amazonia into nation-states. Amazonia\u2019s history \u2013 and the history of the people who live there \u2013 helps us imagine the region\u2019s role in our era of acute climate challenges. Topics may include empire, Indigenous history, economic development, and environment.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "HIS337H1": {
+    "code": "HIS337H1",
+    "name": "Culture, Politics and Society in 18th Century Britain",
+    "hours": "24L",
+    "description": "Deals with England, Scotland, Ireland and the Atlantic World. Addresses major political, social, economic, intellectual and cultural highlights of the \"long\" eighteenth century. Deals with enlightenment, industrialization and the loss of the first British empire. Interrogates Britain's emerging status as a world power.",
+    "exclusions": "HIS337Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS338H1": {
+    "code": "HIS338H1",
+    "name": "The Holocaust, to 1942",
+    "hours": "24L/5T",
+    "description": "German state policy towards the Jews in the context of racist ideology, bureaucratic structures, and varying conditions in German-occupied Europe. Second Term considers responses of Jews, European populations and governments, the Allies, churches, and political movements.",
+    "exclusions": "HIS388Y1/ HIS398Y1/ HIS338H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "HIS339H1": {
+    "code": "HIS339H1",
+    "name": "History of Modern Israel",
+    "hours": "24L",
+    "description": "This course explores the history of the Jewish state from the rise of Zionism to the present. Topics include the Zionist-Arab conflict, immigration, the construction of a new Hebrew identity, interactions between religion and state, the impact of the Holocaust, and the relationship between Israel and the Jewish diaspora.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "HIS208Y1"
+  },
+  "HIS340H1": {
+    "code": "HIS340H1",
+    "name": "The Ottoman Empire, 1800-1922",
+    "hours": "24L",
+    "description": "The course examines the history of the Ottoman Empire from the beginning of the 19th c. until its dissolution in the course of World War I. Topics include Ottoman reforms, relations between the Empire\u2019s populations and the state, the diplomatic interactions known as \u201cthe Eastern Question,\u201d the Young Turk revolution, gender, and intellectual, cultural and artistic developments.",
+    "exclusions": "HIS389H1 (The Ottoman Empire, 1800-1922)",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 1.0,
+          "department": "HIS"
+        },
+        "HIS262H1"
+      ]
+    }
+  },
+  "HIS341Y1": {
+    "code": "HIS341Y1",
+    "name": "Germany Among the Global Empires 1840-2010",
+    "hours": "48L",
+    "description": "This course places Germany's long national history in a transnational and global context, exploring its place among the global empires of Britain, Russia, France and the United States from the mid-seventeenth century to the present. Events of the German nation-state's political, social and cultural developments are analyzed through a framework focused on both military expansion and the development of the world economy after 1700. Particular attention is paid to the interplay between strategies for a global expansion and transformations in national culture, looking at Germany in the world and the world in Germany.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS102Y1",
+        "HIS103Y1",
+        "HIS107Y1",
+        "HIS109Y1",
+        "HIS241H1",
+        "HIS242H1",
+        "HIS243H1",
+        "HIS244H1",
+        "EUR200Y1",
+        "HIS250Y1",
+        "HIS271Y1"
+      ]
+    }
+  },
+  "HIS342H1": {
+    "code": "HIS342H1",
+    "name": "Political and Psychological Liberation in 20th Century Africa",
+    "hours": "24L",
+    "description": "This course examines the growth of movements for the political liberation of Africa and the psychological liberation of Africans from Western imperialism and cultural hegemony. Postcolonial thinking and art was fundamental to the project of decolonization. It uses primary text and films to explore African cultural and intellectual history.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS343H1": {
+    "code": "HIS343H1",
+    "name": "History of Modern Intelligence",
+    "hours": "24L",
+    "description": "This course explores the rise of modern intelligence over the long 20th century, from Anglo-Russian imperial competition before World War I through to the post-9/11 era. Students will study the contribution of intelligence services to victories and defeats in war, peace, and the grey areas in between. The course will also examine the relationship between intelligence services and society.Occasionally, this course will emphasize a specific theme of modern intelligence history; a specific type of intelligence; or the evolution of intelligence in a particular state. Details regarding specific topics will be available on the department\u2019s website on an annual basis.",
+    "exclusions": "HIS343Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "HIS344H1": {
+    "code": "HIS344H1",
+    "name": "The Global Cold War",
+    "hours": "24L",
+    "description": "This course examines the Cold War through its global dimensions, going beyond the American-Soviet bipolar rivalry to explore the impact of the Cold War in Latin America, Asia, and Africa. Students will work closely with original primary sources and interrogate historical interpretations of the Cold War through different regional and thematic perspectives.",
+    "exclusions": "HIS344Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS345H1": {
+    "code": "HIS345H1",
+    "name": "History and Film",
+    "hours": "24L",
+    "description": "This course is designed to further students knowledge of films relationship to the events they depict and their undeniable power as representational systems to render history effectively. This will necessarily entail both close examination of the formal systems film rely upon and an understanding of the distinction between fictional and non-fictional forms in film.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "HIS"
+        },
+        "HIS262H1"
+      ]
+    }
+  },
+  "HIS346H1": {
+    "code": "HIS346H1",
+    "name": "Rice, Sugar, and Spice in Southeast Asia: a History of Food in the Region",
+    "hours": "24L",
+    "description": "This course examines the importance of food products in the livelihoods of the inhabitants of Southeast and in the world economy. It traces the circulation of these products within the Southeast Asian region in the pre-modern period, into the spice trade of the early modern era, and the establishment of coffee and sugar plantations in the late colonial period, and the role of these exports in the contemporary global economy.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "HIS347H1": {
+    "code": "HIS347H1",
+    "name": "The Country House in England 1837-1939",
+    "hours": "24L",
+    "description": "This course examines class distinction and community through the lens of the English country house from 1837 to 1939. Topics include owners, servants, houses, collections, gardens and rituals such as fox hunting.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "HIS"
+    }
+  },
+  "HIS348H1": {
+    "code": "HIS348H1",
+    "name": "Topics in Gender History",
+    "hours": "24L",
+    "description": "An in-depth examination of issues in gender history. Content in any given year depends on instructor. See History website for more details.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS349H1": {
+    "code": "HIS349H1",
+    "name": "History of Britain: Struggle for Power",
+    "hours": "24L",
+    "description": "An introduction to the history of modern Britain with emphasis on the crown, class, gender, political parties, race, ethnicity, European Union and Brexit.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "HIS350H1": {
+    "code": "HIS350H1",
+    "name": "Topics in European Histories",
+    "hours": "24L",
+    "description": "Selected topics on a specific period and/or region in European Histories",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "HIS351H1": {
+    "code": "HIS351H1",
+    "name": "The Soviet Union and After",
+    "hours": "24L",
+    "description": "A survey of the history of the Soviet Union and its successor states beginning with the collapse of the Russian Empire. The course draws on scholarly literature, memoirs, and often film to understand the social, cultural, and political developments of the Soviet state, including famine, terror, and war.",
+    "exclusions": "HIS351Y1/  HIS351H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "HIS"
+    }
+  },
+  "HIS352H1": {
+    "code": "HIS352H1",
+    "name": "A History of Women in Pre-colonial East Africa",
+    "hours": "24L",
+    "description": "This course examines the lived experience of women in societies, communities and polities of varying sizes across territories that cover eight contemporary East African states. It encompasses the period from 1000 B.C to the end of the nineteenth century. Topics covered are clustered under four broad themes: a) Ecology, work in commodity production, wealth and exchange relations; b) \u201cInstitutional\u201d power, ideology and structures; c) \u201cCreative\u201d power particularly in the areas of healing, resistance/contestation and transformation; and d) Violence, war and vulnerability. The course challenges present day gender and identity categories applied to Africa\u2019s deep past and highlights critical nuances of gender, identity and power dynamics in Africa.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "AFR150Y1"
+  },
+  "HIS353Y1": {
+    "code": "HIS353Y1",
+    "name": "Poland: A Crossroads of Europe",
+    "hours": "48L",
+    "description": "Social and political history of Poland from the 10th to the 20th century. Analysis of the political history in a broader, central European context; consequences of Christianization of medieval Poland and the Polish-Lithuanian union; Sarmatian culture, Antemurale, Polish Messianism and Cordon sanitaire.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "HIS251Y1"
+  },
+  "HIS354H1": {
+    "code": "HIS354H1",
+    "name": "Jews of Arab Lands: From the Prophet Muhammad to European Colonialism",
+    "hours": "24L",
+    "description": "This course introduces the Jewish communities of Arab lands by examining their social, cultural, and political experiences from the Arab conquests to European colonialism. We will examine the sometimes \u201csymbiotic\u201d relationship that existed between Jews and Muslims as well as the factors that threatened it by considering both the history of everyday life and of high culture. Many of Judaism\u2019s formative institutions and literary works were developed in the Middle East and we will explore how they developed in dialogue with Islamic culture. Finally, we will study the impact of Western colonialism and nineteenth-century encounters between \u201cWestern\u201d and \u201cEastern\u201d Jews.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "HIS355H1": {
+    "code": "HIS355H1",
+    "name": "A History of Pre-modern Medicine",
+    "hours": "24L",
+    "description": "This course surveys major themes and developments in the history of medicine from c.600 BCE to 1800 CE. Topics include: Hippocrates, Galen and their reception in the Middle Ages; monasteries, medicinal gardens and hospitals; medieval licensing of physicians and pharmacists; medieval scholastic medicine; the Black Death; Renaissance anatomy and charlatans; New World drug discoveries; William Harvey's heart, William Withering's foxglove, the isolation of morphine.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "MED"
+    }
+  },
+  "HIS356H1": {
+    "code": "HIS356H1",
+    "name": "War in Canadian History",
+    "hours": "24L",
+    "description": "This course examines war as a major force in the history of Canada from the so-called colonial period to recent times. In addition to key dynamics in military history (e.g. battles, military organization), the course will stress the links between war and society, politics, empire and colonialism, technology and environment, memory and commemoration, and identity. Topics may include indigenous warfare and diplomacy, imperial rivalry in early North America, Canada and the British Empire, the world wars, the Cold War, and peacekeeping. Soldiers and peaceniks are both welcome and will be equally happy and annoyed.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS357Y0": {
+    "code": "HIS357Y0",
+    "name": "The Renaissance",
+    "hours": null,
+    "description": null,
+    "exclusions": "HIS357Y1/ HIS357H1/ HIS357Y5/ HIS357H5",
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "HIS358H1": {
+    "code": "HIS358H1",
+    "name": "Canadian History in 100 Objects",
+    "hours": "24L",
+    "description": "The Canadian history course focuses on museums and material culture (history of objects). Using museum visits, lectures, and workshops, students in this course have an opportunity to conduct original research on how artefacts (and the institutions that house them) offer us new ways of thinking about the past.",
+    "exclusions": "HIS389H1 (Material Culture in Canada)",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS264H1",
+        "HIS263Y1"
+      ]
+    }
+  },
+  "HIS359H1": {
+    "code": "HIS359H1",
+    "name": "Regional Politics and Radical Movements in the 20th Century Caribbean",
+    "hours": "24L",
+    "description": "The role of nationalism, race and ethnicity, class conflict and ideologies in the recent development of Caribbean societies; Europe's replacement by the United States as the dominant imperial power in the Caribbean; how this mixture of regional and international pressures has led to widely differing political systems and traditions.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS360H1": {
+    "code": "HIS360H1",
+    "name": "Critical Histories of the Black Canadian Experience",
+    "hours": "24L",
+    "description": "This course addresses the long and diverse historical experiences of black people in Canada. Each year the course is offered, it will emphasize a specific theme which may include slavery and its afterlife, black liberation and resistance, black geographies, (im)migration, education, black diasporic communities, and black womanhood and gendered politics. Discussions in this course will consider the place of Canada within broader transnational debates about race and blackness. Details regarding specific topics will be available on the department\u2019s website on an annual basis.",
+    "exclusions": "HIS360Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "HIS"
+    }
+  },
+  "HIS361H1": {
+    "code": "HIS361H1",
+    "name": "The Holocaust, from 1942",
+    "hours": "24L/5T",
+    "description": "Follows on  HIS338H1. Themes include: resistance by Jews and non-Jews; local collaboration; the roles of European governments, the Allies, the churches, and other international organizations; the varieties of Jewish responses. We will also focus on postwar repercussions of the Holocaust in areas such as justice, memory and memorialization, popular culture and politics.",
+    "exclusions": "HIS338Y1/ HIS361H5",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 6.0,
+          "department": ""
+        },
+        "HIS338H1"
+      ]
+    }
+  },
+  "HIS362H1": {
+    "code": "HIS362H1",
+    "name": "Topics in Early American History",
+    "hours": "24L",
+    "description": "Special topics in Early American History (to 1830). Topics will vary by the instructor and year.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "HIS363H1": {
+    "code": "HIS363H1",
+    "name": "Dynamics of Gender in Canadian History",
+    "hours": "24L",
+    "description": "A lecture course which deals thematically with gender issues in Canadian history (including familial roles, changing patterns of work and employment, and participation in the public sphere).",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS263Y1",
+        "HIS264H1"
+      ]
+    }
+  },
+  "HIS364H1": {
+    "code": "HIS364H1",
+    "name": "From Revolution to Revolution: Hungary Since 1848",
+    "hours": "24L",
+    "description": "This course offers a chronological survey of the history of Hungary from the 1848 revolution until the present. It is ideal for students with little or no knowledge of Hungarian history but who possess an understanding of the main trends of European history in the 19th and 20th centuries. The focus is on the revolutions of 1848-1849, 1918-1919, the 1956 Revolution against Soviet rule and the collapse of communism in 1989. The story has not been invariably heroic, violent and tragic.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS365H1": {
+    "code": "HIS365H1",
+    "name": "History of the Great Lakes Region",
+    "hours": "24L",
+    "description": "This course is a survey of the Great Lakes Region as a \u201ctrans-national space\u201d from the 1780s to recent times. Attention is focused on the development of the region from indigenous space to industrial heartland and its subsequent deindustrialization. Key themes include economic development, colonialism and re-settlement, environmental history (particularly of the lakes themselves), and the role of the Canada-US border in shaping the region. The course includes material from both Canadian and American history. Considerable attention is paid to Toronto as a Great Lakes city.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS367H1": {
+    "code": "HIS367H1",
+    "name": "The British Home Front: Britain in the Second World War, 1939-45",
+    "hours": "24L",
+    "description": "This course examines how British civilians responded to the Second World War at home in Britain. Topics include the Blitz, rationing, propaganda, directed labour, enemy internment, evacuees, the changing role of women, radio and movies.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS368H1": {
+    "code": "HIS368H1",
+    "name": "Early Modern Britain, 1485-1660",
+    "hours": "24L",
+    "description": "Introduction to the political, social and religious history of early modern England, Scotland and Ireland. Particular attention will be paid to the history of the monarchy, the Protestant Reformation, gender issues and relations between different parts of the British Isles.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS370H1": {
+    "code": "HIS370H1",
+    "name": "Modern Palestine",
+    "hours": "24L",
+    "description": "Weekly lectures provide an overview of the political struggles over Palestine between Zionist and Palestinian national movements in the twentieth century in the context of British colonialism, UN negotiations and resolutions, Third-Worldism, superpower rivalry and everyday cooperation and occupation on the ground.",
+    "exclusions": "HIS339H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS371H1": {
+    "code": "HIS371H1",
+    "name": "Canadian Political History",
+    "hours": "24L",
+    "description": "This course examines the history of Canadian politics from the late colonial period to the recent past. Lectures and discussions will focus attention on specific political issues (responsible government, Confederation, war, welfare, battles over voting rights, campaigns for social change, etc.) but also consider the deeper structural, social, economic, and cultural dynamics that shaped politics over time. The course takes a broad view of politics (elections and parties but also social movements, interest groups, bureaucracy). A key theme is the nature of political power in a democratic polity.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS264H1",
+        "HIS263Y1"
+      ]
+    }
+  },
+  "HIS372H1": {
+    "code": "HIS372H1",
+    "name": "Topics in U.S. History",
+    "hours": "24L",
+    "description": "In-depth examination of selected periods or themes in U.S. history. Topic in any given year depends on instructor. See History website for more details.",
+    "exclusions": "HIS372H5/ HISD36H3",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS373H1": {
+    "code": "HIS373H1",
+    "name": "Servants and Masters, 1000- 1700",
+    "hours": "36L",
+    "description": "To explore the history of all types of servants, from the domestic slaves to the ladies-in-waiting, in Western Europe between 1000 and 1700. The goal will be to observe their working and living conditions, including the ones of life-cycle servants (between adolescence and early adulthood), as well as the changing perception of service through time.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS374H1": {
+    "code": "HIS374H1",
+    "name": "Mass Incarceration in the United States",
+    "hours": "24L",
+    "description": "The United States is home to five percent of the world\u2019s population but twenty-five percent of the world\u2019s prisoners, including a disproportionate number of African American, Latinx, and Native American people. This vast carceral archipelago is the subject of extensive scholarly and public debate over the history, ethics, and function of incarceration in the United States. In this course, we will explore the rise of contemporary mass incarceration from an interdisciplinary perspective that draws upon history, sociology, and legal studies to reveal the linkages among state-formation, politics, capitalism, and modern punishment as well as community responses to mass incarceration.",
+    "exclusions": "HIS389H1 (Topics in History: Mass Incarceration in the United States) offered in Fall 2018, 2019, and 2022.",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS271Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "HIS221H1",
+            "HIS222H1"
+          ]
+        }
+      ]
+    }
+  },
+  "HIS375H1": {
+    "code": "HIS375H1",
+    "name": "Crime and Punishment in the Early Modern World",
+    "hours": "36L",
+    "description": "What did it take to break the law in the period 1400-1800, and how were people prosecuted and punished when they did? We will review the kinds of crimes that triggered arrest, the different types of law codes in place and the importance of the revival of Roman law, ways of avoiding prosecution, the criminalization of \u201cdeviance\u201d, judicial processes in colonization, and variations based on age and gender. We\u2019ll also look at forms of punishment, including the varieties of corporal and capital punishment, the operation of prisons, the use of exile and transportation.",
+    "exclusions": "HIS357Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "HIS377H1": {
+    "code": "HIS377H1",
+    "name": "The United States in the World",
+    "hours": "24L",
+    "description": "An exploration of the history of American foreign relations. Each year, this course will emphasize a specific era of the history of American foreign relations (For instance: foreign relations during the Revolution and Early Republic; the long nineteenth century; the rise of American power since 1898); or a specific theme (for instance: America as an imperial power; America at war; the presidency and foreign policy, etc.) Details regarding specific topics will be available on the department\u2019s website on an annual basis.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "HIS378H1": {
+    "code": "HIS378H1",
+    "name": "America in the 1960s",
+    "hours": "24L",
+    "description": "A survey of one of the most turbulent decades in American history. Examines the political, social, economic and cultural revolutions that transformed the face of America.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "HIS271Y1"
+  },
+  "HIS379H1": {
+    "code": "HIS379H1",
+    "name": "Vietnam at War",
+    "hours": "24L",
+    "description": "This course examines war in modern Vietnam, beginning with Vietnamese nationalism in the 19th century to the conflicts with France, the United States, and China. We will consider the military, political, economic, and cultural contexts of these complex and interconnected wars, especially from the viewpoint of the Vietnamese people.",
+    "exclusions": "HIS400H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 1.0,
+          "department": "HIS"
+        },
+        "HIS262H1"
+      ]
+    }
+  },
+  "HIS380H1": {
+    "code": "HIS380H1",
+    "name": "Chinese Canadian History",
+    "hours": "24L",
+    "description": "Explores histories of Chinese in Canada, and how scholars have researched, interpreted and analyzed them in ethnic, multicultural, transnational and diasporic contexts. Students will be exposed to a wide range of research approaches including: archives, oral history, community studies, visual studies, popular culture, racial-ethnic studies, and food studies. Chinese in Greater Toronto will be a focus.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS381H1": {
+    "code": "HIS381H1",
+    "name": "Youth in the Early Modern World",
+    "hours": "36L",
+    "description": "Adolescence is a time of adaptation between childhood and adulthood, and it\u2019s often described as a modern invention. This course will look at how people in their teens and twenties navigated social demands and expectations around work, law, education, and marriage in the period 1400-1700. The course will address issues around biology, gender, violence, sexuality, mobility, and forced labour, with attention to comparing experiences between distinct traditions in different parts of the early modern world.",
+    "exclusions": "HIS357Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "HIS382H1": {
+    "code": "HIS382H1",
+    "name": "China from the Mongols to the Last Emperor",
+    "hours": "24L",
+    "description": "This course traces the history of Chinese empire from its political reorganization, economic expansion, and cultural efflorescence in the 11th century, through its peak of power in the 18th century, and to its decline during the 19th. We will consider how these centuries broke with as well as continued previous developments, and how they have influenced Chinese and world history in the last 150 years.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS280Y1",
+        "EAS103H1",
+        "EAS209H1"
+      ]
+    }
+  },
+  "HIS383Y1": {
+    "code": "HIS383Y1",
+    "name": "Women in African History",
+    "hours": "48L",
+    "description": "This course subjects our increasing knowledge about African women\u2019s history from the mid-19th century to the present to critical analysis. It goes beyond restoring women to history and seeing African women as victims impacted upon and struggling against colonialism and neo-colonialism. It examines how African women\u2019s lived experiences have been represented, packaged, and delivered to different audiences.",
+    "exclusions": "HIS383H1/ HISC97H3",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS295Y1",
+        "HIS297Y1",
+        "AFR150Y1",
+        "AFR250Y1",
+        "AFR351Y1",
+        "POL301Y1"
+      ]
+    }
+  },
+  "HIS384H1": {
+    "code": "HIS384H1",
+    "name": "The Baltic Sea Region from the Vikings to the Age of Nationalisms",
+    "hours": "24L",
+    "description": "This course traces political, cultural and socio-economic developments in North-Eastern Europe, the Baltic Sea region, from the Viking Age to the end of the 19th century. Topics include the crusades, the Hanseatic League and trade, the Reformation, the struggle for hegemony between the Swedish and Russian empires, the Enlightenment, national movements, and industrialization.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "HIS386H1": {
+    "code": "HIS386H1",
+    "name": "Fascism",
+    "hours": "24L",
+    "description": "A comparative and transnational examination of fascist movements and regimes in Europe during 1919-1945. Beginning with Mussolini in Italy and Hitler in Germany, this course analyzes manifestations of the phenomenon in various European countries, including France, Spain, the Baltic states, Central Europe and Scandinavia. We analyze the factors that led to fascist movements obtaining power in certain countries and to their failure in others. Collaboration with Nazi Germany during the Second World War is also explored. Finally, we discuss whether the concept of \u2018generic\u2019 fascism can also be applied to other regions and periods.",
+    "exclusions": "HIS389H1 (Topics in History: Fascism), offered in Winter 2018 and Winter 2019",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        {
+          "credits": 1.0,
+          "department": "HIS"
+        },
+        "HIS262H1"
+      ]
+    }
+  },
+  "HIS387H1": {
+    "code": "HIS387H1",
+    "name": "France 1610-1830",
+    "hours": "24L",
+    "description": "This course considers the history of France, from the rise of absolutist monarchy under the seventeenth-century, Bourbon monarchs, through the Enlightenment, the Revolution and Napoleonic Empire, and the Restoration, to the fall of the constitutional monarchy in 1848.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS388H1": {
+    "code": "HIS388H1",
+    "name": "France Since 1830",
+    "hours": "24L",
+    "description": "A study of French society, politics and culture from 1830 to the present. Special attention is paid to watersheds like the Paris Commune, the Dreyfus Affair and the Vichy regime, to issues of regionalism/nationalism, cultural pluralism, women's rights, intellectual and cultural trends, and decolonization.",
+    "exclusions": "HIS388Y1",
+    "breadth": 3,
+    "prereq_tree": "EUR200Y1"
+  },
+  "HIS389H1": {
+    "code": "HIS389H1",
+    "name": "Topics in History",
+    "hours": "24L",
+    "description": "In-depth examination of historical issues. Content in any given year depends on the instructor and further prerequisites vary from year to year. See History website for more details.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": ""
+        },
+        {
+          "credits": 1.0,
+          "department": "HIS"
+        },
+        "HIS262H1"
+      ]
+    }
+  },
+  "HIS389Y1": {
+    "code": "HIS389Y1",
+    "name": "Topics in History",
+    "hours": "48L",
+    "description": "In-depth examination of historical issues. Content in any given year depends on instructor. See History website for more details.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        {
+          "credits": 1.0,
+          "department": "HIS"
+        },
+        "HIS262H1"
+      ]
+    }
+  },
+  "HIS390H1": {
+    "code": "HIS390H1",
+    "name": "Slavery in Latin America",
+    "hours": "24L",
+    "description": "This course focuses on the history of slavery in Latin America from its origins in the fifteenth century to its abolition in the nineteenth century. Readings will draw from primary sources and historical scholarship related to a range of topics, including the slave trade, gender, religious and cultural practices, and emancipation.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS231H1",
+        "HIS291H1"
+      ]
+    }
+  },
+  "HIS393H1": {
+    "code": "HIS393H1",
+    "name": "Digital History",
+    "hours": "24L",
+    "description": "Explores implications for history and its methods of the shift from print to digital sources. Imparts introductory skills in the manipulation digital media, such as the use of maps, GIS and big data.",
+    "exclusions": "HIS389H1 (Topics in History: Digital History), offered in Summer 2015, Winter 2016, and Winter 2017",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "DHU235H1",
+        "DHU236H1"
+      ]
+    }
+  },
+  "HIS394H1": {
+    "code": "HIS394H1",
+    "name": "20th and 21st Century African Icons: Media and Biography",
+    "hours": "24L",
+    "description": "Superseding 19th century European missionary and explorers' accounts of Africa; media in the 20th and 21st centuries have unequivocally played a key role in shaping the globe's views of Africa and Africans. In 2005, BBC Focus on Africa put out an impressive list of more than 100 \"African Icons\". Since then, a number of websites have come up with various lists of African icons. Who are the African icons and what makes them icons? How have the media contributed in making them icons?",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS295Y1",
+        "HIS297Y1",
+        "HIS383H1",
+        "HIS383Y1",
+        "HIS386H1",
+        "HIS481H1",
+        "NEW160Y1",
+        "NEW261Y1",
+        "AFR351Y1",
+        "POL301Y1",
+        "POL361H1"
+      ]
+    }
+  },
+  "HIS395H1": {
+    "code": "HIS395H1",
+    "name": "Independent Studies",
+    "hours": null,
+    "description": "This course provides an opportunity for exceptional third-year students to undertake an independent research project on a topic for which there is not a suitable course offering. Students must find an appropriate supervisor from the Department, submit a proposal, and receive approval for the project. Students must be enrolled in either a History Specialist or Major program; have taken at least 3.0 HIS credits with a B+ average; and have approval of an instructor willing to supervise the project. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 3.0,
+              "department": "HIS"
+            },
+            "HIS262H1"
+          ]
+        }
+      ]
+    }
+  },
+  "HIS395Y1": {
+    "code": "HIS395Y1",
+    "name": "Independent Studies",
+    "hours": null,
+    "description": "This course provides an opportunity for exceptional third-year students to undertake an independent research project on a topic for which there is not a suitable course offering. Students must find an appropriate supervisor from the Department, submit a proposal, and receive approval for the project. Students must be enrolled in either a History Specialist or Major program; have taken at least 3.0 HIS credits with a B+ average; and have approval of an instructor willing to supervise the project. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 3.0,
+              "department": "HIS"
+            },
+            "HIS262H1"
+          ]
+        }
+      ]
+    }
+  },
+  "HIS396H1": {
+    "code": "HIS396H1",
+    "name": "The Progressive Era and Rise of Big Business in America",
+    "hours": "24L",
+    "description": "This course examines the rise of big business in America and its relationship to social and economic changes in United States in the so-called Progressive Era (roughly 1880-1920). We will focus on several themes: the evolution and characteristics of big business; rise of organized labor; evolution of business-government relations; social and economic reform movements; and the changing status of immigrants, African Americans, and women (both white and African-American). In short, we will be studying a pivotal moment in the transformation of modern American society.",
+    "exclusions": "HIS389H1 (Topics in History: Business and Society), offered in Fall 2016 and  HIS372H1 (Topics in U.S. History: The Progressive Era and Rise of Big Business), offered in Winter 2018",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "HIS397H1": {
+    "code": "HIS397H1",
+    "name": "Political Violence and Human Rights in Latin America",
+    "hours": "24L",
+    "description": "This course will explore human rights theory and practice from a Latin American perspective.\u00a0 There will be a focus on the local derivation, development and impact of the movement for human rights in Latin America.\u00a0 The course will focus on the history of organized protest against violence in the twentieth century.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "HIS292H1"
+  },
+  "HIS398H0": {
+    "code": "HIS398H0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities\u2026. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "HIS398Y0": {
+    "code": "HIS398Y0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities\u2026. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "HIS399H1": {
+    "code": "HIS399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities\u2026. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  }
+}

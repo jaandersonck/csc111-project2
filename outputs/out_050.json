@@ -1,0 +1,1511 @@
+{
+  "SPA490H1": {
+    "code": "SPA490H1",
+    "name": "Independent Studies in Spanish",
+    "hours": null,
+    "description": "A unique opportunity for students interested in pursuing an in-depth study on a specific topic related to Spanish Studies, but beyond the scope of regular course offerings. The student, aided and advised by a faculty member in the Spanish program acting as supervisor, will produce a substantive written report on original and independent investigation of an appropriate topic. Students interested must contact the Associate Chair of Undergraduate Studies to learn about the process and request an application form. More details available in our website: https://www.spanport.utoronto.ca/ . Deadline for submission of application form is five business days before the first day of classes of the session in which student wishes to enroll in the course. Not elegible for CR/NCR.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": ""
+    }
+  },
+  "SPA491H1": {
+    "code": "SPA491H1",
+    "name": "Independent Studies in Spanish",
+    "hours": null,
+    "description": "A unique opportunity for students interested in pursuing an in-depth study on a specific topic related to Spanish Studies, but beyond the scope of regular course offerings. The student, aided and advised by a faculty member in the Spanish program acting as supervisor, will produce a substantive written report on original and independent investigation of an appropriate topic. Students interested must contact the Associate Chair of Undergraduate Studies to learn about the process and request an application form. More details available in our website: https://www.spanport.utoronto.ca/. Deadline for submission of application form is five business days before the first day of classes of the session in which student wishes to enroll in the course. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": ""
+    }
+  },
+  "STA130H1": {
+    "code": "STA130H1",
+    "name": "An Introduction to Statistical Reasoning and Data Science",
+    "hours": "24L/24P",
+    "description": "This course, intended for students considering a program in Statistical Sciences, discusses the crucial role played by statistical reasoning in solving challenging problems from natural science, social science, technology, health care, and public policy, using a combination of logical thinking, mathematics, computer simulation, and oral and written discussion and analysis.",
+    "exclusions": "Any of  STA220H1/  STA255H1/  STA238H1/  STA248H1/  STA261H1/  ECO220Y1/  ECO227Y1/  STAB22H3/  STA220H5/  STAB57H3/  STA258H5/  STA260H5/  ECO220Y5/  ECO227Y5/  STAA57H3 taken previously or concurrently",
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "STA197H1": {
+    "code": "STA197H1",
+    "name": "Thinking Better with Statistics",
+    "hours": "24S",
+    "description": "This course explores how our statistical intuitions and ways of thinking can let us down. There\u2019s no need to be a math whiz to be a better statistical thinker. Everyone can become a more critical consumer of claims presented in media, advertisements and by politicians\u2014especially those relevant to our own health and wealth. This course uses real-world examples and tours common and avoidable statistical traps and tricks. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "STA198H1": {
+    "code": "STA198H1",
+    "name": "Probabilities Everywhere",
+    "hours": "24S",
+    "description": "This course examines the meaning and mathematics of probabilities, and how they arise in our everyday lives. Specific topics may include: the nature of coincidences, the concept of luck, games involving dice and cards, long run averages in casinos, margins of error in polls, the interpretation of medical studies, crime statistics, decision making, pseudorandomness, and Monte Carlo algorithms. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "STA199H1": {
+    "code": "STA199H1",
+    "name": "Statistical Evidence: Truth or Myth?",
+    "hours": "24S",
+    "description": "This course explores the impact Statistics has made and continues to make on everyday life through science, law, and the modern methods for information processing. Statistical principles will be illustrated using examples from real life including business, romance and health.\u00a0Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "STA201H1": {
+    "code": "STA201H1",
+    "name": "Why Numbers Matter",
+    "hours": "36L",
+    "description": "This course teaches non-science students the importance of quantitative reasoning to many different areas. It explores a variety of applications to such diverse subjects as economics, gambling, politics, poetry, graphics, music, medicine, demographics, sports, secret codes, and more, using only basic high school level mathematics combined with logical thinking.",
+    "exclusions": "MAT133Y1/ MAT135H1/ MAT136H1/ MAT137Y1/ MAT157Y1/( MATA29H3,  MATA35H3)/( MATA32H3,  MATA33H3)/( MATA30H3,  MATA36H3)/( MATA31H3,  MATA37H3)/ MAT133Y5/( MAT132H5, MAT134H5)/( MAT135H5, MAT136H5)/ MAT137Y5/ MAT157Y5",
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "STA220H1": {
+    "code": "STA220H1",
+    "name": "The Practice of Statistics I",
+    "hours": "36L",
+    "description": "An introductory course in statistical concepts and methods, emphasizing exploratory data analysis for univariate and bivariate data, sampling and experimental designs, basic probability models, estimation and tests of hypothesis in one-sample and comparative two-sample studies. A statistical computing package is used but no prior computing experience is assumed. Note:  STA220H1 does not count as a distribution requirement course.",
+    "exclusions": "ECO220Y1/  ECO227Y1/  GGR270H1/  IRW220H1/  PSY201H1/  SOC202H1/  STA261H1/  STA238H1/  STA248H1/  STA288H1/  EEB225H1/  STAB22H3/  STAB57H3/  STA215H5/  STA220H5/  ECO220Y5/  ECO227Y5/  STA258H5/  STA260H5",
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "STA221H1": {
+    "code": "STA221H1",
+    "name": "The Practice of Statistics II",
+    "hours": "36L/12T",
+    "description": "Continuation of  STA220H1 (or similar course), emphasizing major methods of data analysis such as analysis of variance for one factor and multiple factor designs, regression models, categorical and non-parametric methods (Note:  STA221H1 does not count as a distribution requirement course).",
+    "exclusions": "ECO220Y1/  ECO227Y1/  GGR270Y1/  PSY202H1/  SOC202H1/  SOC252H1/  STA261H1/  STA248H1/  STAB27H3/  STA221H5/  ECO220Y5/  ECO227Y5/  STAB57H3/  STA258H5/  STA260H5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA220H1",
+        "STA288H1",
+        "PSY201H1",
+        "GGR270H1",
+        "EEB225H1",
+        "STA220H5"
+      ]
+    }
+  },
+  "STA237H1": {
+    "code": "STA237H1",
+    "name": "Probability, Statistics and Data Analysis I",
+    "hours": "36L/12T",
+    "description": "An introduction to probability using simulation and mathematical frameworks, with emphasis on the probability needed for more advanced study in statistical practice. Topics covered include probability spaces, random variables, discrete and continuous probability distributions, probability mass, density, and distribution functions, expectation and variance, independence, conditional probability, the law of large numbers, the central limit theorem, sampling distributions. Computer simulation will be taught and used extensively for calculations and to guide the theoretical development.",
+    "exclusions": "STA247H1,  STA201H1,  STA255H1,  STA257H1,  ECO227Y1,  MAT370H1,  STAB52H3,  STA256H5,  ECO227Y5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H5",
+            "MAT136H5"
+          ]
+        },
+        "MAT137Y5",
+        "MAT157Y5",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT137H5",
+            "MAT139H5"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT157H5",
+            "MAT159H5"
+          ]
+        }
+      ]
+    }
+  },
+  "STA238H1": {
+    "code": "STA238H1",
+    "name": "Probability, Statistics and Data Analysis II",
+    "hours": "36L/12T",
+    "description": "An introduction to statistical inference and practice. Statistical models and parameters, estimators of parameters and their statistical properties, methods of estimation, confidence intervals, hypothesis testing, likelihood function, the linear model. Use of statistical computation for data analysis and simulation.",
+    "exclusions": "ECO220Y1/  ECO227Y1/  GGR270H1/  PSY201H1/  SOC300H1/  SOC202H1/  SOC252H1/  STA220H1/  STA221H1/  STA255H1/  STA248H1/  STA261H1/  STA288H1/  EEB225H1/  STAB22H3/  STAB27H3/  STAB57H3/  STA220H5/  STA221H5/  STA258H5/  STA260H5/  ECO220Y5/  ECO227Y5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA237H1",
+        "STA247H1",
+        "STA257H1",
+        "STA256H5"
+      ]
+    }
+  },
+  "STA247H1": {
+    "code": "STA247H1",
+    "name": "Probability with Computer Applications",
+    "hours": "36L/12T",
+    "description": "An introduction to probability using simulation and mathematical frameworks, with emphasis on the probability needed for computer science applications and more advanced study in statistical practice. Topics covered include probability spaces, random variables, discrete and continuous probability distributions, probability mass, density, and distribution functions, expectation and variance, independence, conditional probability, the law of large numbers, the central limit theorem, sampling distributions. Computer simulation will be taught and used extensively for calculations and to guide the theoretical development.",
+    "exclusions": "ECO227Y1/  STA201H1/  STA237H1/  STA255H1/  STA257H1/  STAB52H3/  STA256H5/  ECO227Y5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H5",
+            "MAT136H5"
+          ]
+        },
+        "MAT137Y5",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT137H5",
+            "MAT139H5"
+          ]
+        },
+        "MAT157Y5",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT157H5",
+            "MAT159H5"
+          ]
+        },
+        "CSC111H1",
+        "CSC148H1",
+        "CSC148H5"
+      ]
+    }
+  },
+  "STA248H1": {
+    "code": "STA248H1",
+    "name": "Statistics for Computer Scientists",
+    "hours": "36L/12T",
+    "description": "An introduction to statistical inference and practice needed for computer science applications. Statistical models and parameters, estimators of parameters and their statistical properties, methods of estimation, confidence intervals, hypothesis testing, likelihood function, the linear model. Use of statistical computation for data analysis and simulation.",
+    "exclusions": "ECO220Y1/  ECO227Y1/  GGR270H1/  PSY201H1/  SOC300H1/  SOC202H1/  SOC252H1/  STA220H1/  STA221H1/  STA255H1/  STA238H1/  STA261H1/  STA288H1/  EEB225H1/  STAB22H3/  STAB27H3/  STAB57H3/  STA220H5/  STA221H5/  STA258H5/  STA260H5/  ECO220Y5/  ECO227Y5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA237H1",
+        "STA247H1",
+        "STA257H1",
+        "STA256H5",
+        "CSC111H1",
+        "CSC148H1",
+        "CSC148H5"
+      ]
+    }
+  },
+  "STA255H1": {
+    "code": "STA255H1",
+    "name": "Statistical Theory",
+    "hours": "36L/12T",
+    "description": "This courses deals with the mathematical aspects of some of the topics discussed in  STA220H1. Topics include discrete and continuous probability distributions, conditional probability, expectation, sampling distributions, estimation and testing, the linear model (Note:  STA255H1 does not count as a distribution requirement course).",
+    "exclusions": "ECO227Y1/  STA201H1/  STA237H1/  STA238H1/  STA257H1/  STA261H1/  STA247H1/  STA248H1/  STAB52H3/  STAB57H3/  STA256H5/  STA260H5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA220H1",
+        "STA221H1",
+        "STA288H1",
+        {
+          "operator": "AND",
+          "items": [
+            "ECO220Y1",
+            "ECO220Y1"
+          ]
+        },
+        "STA220H5",
+        "ECO220Y5",
+        "MAT133Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "MAT157Y1",
+        "MAT133Y5",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT132H5",
+            "MAT134H5"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H5",
+            "MAT136H5"
+          ]
+        },
+        "MAT137Y5",
+        "MAT157Y5",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT137H5",
+            "MAT139H5"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT157H5",
+            "MAT159H5"
+          ]
+        }
+      ]
+    }
+  },
+  "STA257H1": {
+    "code": "STA257H1",
+    "name": "Probability and Statistics I",
+    "hours": "36L/12T",
+    "description": "A mathematically rigorous introduction to probability, with applications chosen to introduce concepts of statistical inference. Probability and expectation, discrete and continuous random variables and vectors, distribution and density functions, the law of large numbers. The binomial, geometric, Poisson, and normal distributions. The Central Limit Theorem. (Note:  STA257H1 does not count as a distribution requirement course).",
+    "exclusions": "ECO227Y1,  STA201H1,  STA237H1,  STA247H1,  MAT370H1,  MAT377H1,  STAB52H3,  STA256H5,  ECO227Y5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MAT137Y1",
+        "MAT157Y1",
+        "MAT137Y5",
+        "MAT157Y5",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT137H5",
+            "MAT139H5"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT157H5",
+            "MAT159H5"
+          ]
+        }
+      ]
+    }
+  },
+  "STA261H1": {
+    "code": "STA261H1",
+    "name": "Probability and Statistics II",
+    "hours": "36L/12T",
+    "description": "A rigorous introduction to the theory of statistical inference and to statistical practice. Statistical models, parameters, and samples. Estimators for parameters, sampling distributions for estimators, and the properties of consistency, bias, and variance. The likelihood function and the maximum likelihood estimator. Hypothesis tests and confidence regions. Examples illustrating statistical theory and its limitations. Introduction to the use of a computer environment for statistical analysis. (Note:  STA261H1 does not count as a distribution requirement course).",
+    "exclusions": "ECO227Y1/  STA238H1/  STA248H1/  STAB57H3/  STA260H5/  ECO227Y5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA257H1",
+        "STA256H5"
+      ]
+    }
+  },
+  "STA272H1": {
+    "code": "STA272H1",
+    "name": "Statistical Models for Data Science",
+    "hours": "24L/12T",
+    "description": "Key areas of data science modeling including question formulation, data collection and cleaning, visualization, statistical inference, predictive modeling, and decision making.\u200b Through a strong emphasis on data-centric computing, quantitative critical thinking, and exploratory data analysis, this class covers key principles and techniques of data science. These include algorithms for statistical models and machine learning methods including regression, classification, neural networks, and clustering; principles behind creating informative data visualizations; and statistical concepts of measurement error and prediction.",
+    "exclusions": "Any 300+ level STA course,  CSC311H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSC108H1",
+        "CSC110Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "CSC148H1",
+            "STA220H1"
+          ]
+        },
+        "ECO220Y1",
+        "ECO227Y1",
+        "GGR270H1",
+        "IRW220H1",
+        "PSY201H1",
+        "STA261H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "EEB225H1"
+      ]
+    }
+  },
+  "STA288H1": {
+    "code": "STA288H1",
+    "name": "Statistics and Scientific Inquiry in the Life Sciences",
+    "hours": "36L/18P",
+    "description": "Introduction to statistics and its connection to all stages of the scientific inquiry process. Issues around data collection, analysis and interpretation are emphasized to inform study design and critical assessment of published research. Statistical software is used to conduct descriptive and inferential statistics to address basic life sciences research questions.",
+    "exclusions": "STA220H1,  PSY201H1,  GGR270H1,  ECO220Y1,  ECO227Y1,  SOC202H1,  EEB225H1,  HMB325H1,  STA238H1,  STA248H1,  STA261H1,  PCL376H1,  STA215H5,  STA220H5,  STAB22H3",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "BIO120H1",
+        "BIO130H1"
+      ]
+    }
+  },
+  "STA299H1": {
+    "code": "STA299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "STA299Y1": {
+    "code": "STA299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "STA302H1": {
+    "code": "STA302H1",
+    "name": "Methods of Data Analysis I",
+    "hours": "36L",
+    "description": "Introduction to data analysis with a focus on regression. Initial Examination of data. Correlation. Simple and multiple regression models using least squares. Inference for regression parameters, confidence and prediction intervals. Diagnostics and remedial measures. Interactions and dummy variables. Variable selection. Least squares estimation and inference for non-linear regression.",
+    "exclusions": "STAC67H3,  STA302H5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA238H1",
+        "STA248H1",
+        "STA255H1",
+        "STA261H1",
+        "ECO227Y1",
+        "STA258H5",
+        "STA260H5",
+        "ECO227Y5",
+        "CSC108H1",
+        "CSC110Y1",
+        "CSC120H1",
+        "CSC148H1",
+        "CSC108H5",
+        "CSC148H5",
+        "MAT223H1",
+        "MAT224H1",
+        "MAT240H1",
+        "MAT223H5",
+        "MAT240H5",
+        "MAT224H5"
+      ]
+    }
+  },
+  "STA303H1": {
+    "code": "STA303H1",
+    "name": "Methods of Data Analysis II",
+    "hours": "36L",
+    "description": "Analysis of variance for one-and two-way layouts, logistic regression, loglinear models, longitudinal data, introduction to time series.",
+    "exclusions": "STAC51H3",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA302H1",
+        "STA302H5"
+      ]
+    }
+  },
+  "STA304H1": {
+    "code": "STA304H1",
+    "name": "Surveys, Sampling and Observational Data",
+    "hours": "36L",
+    "description": "Design of surveys, sources of bias, randomized response surveys. Techniques of sampling; stratification, clustering, unequal probability selection. Sampling inference, estimates of population mean and variances, ratio estimation. Observational data; correlation vs. causation, missing data, sources of bias.",
+    "exclusions": "STAC50H3,  STAC53H3,  STA304H5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ECO227Y1",
+        "STA255H1",
+        "STA261H1",
+        "STA248H1",
+        "STA238H1",
+        "STA258H5",
+        "STA260H5",
+        "ECO227Y5"
+      ]
+    }
+  },
+  "STA305H1": {
+    "code": "STA305H1",
+    "name": "Design and Analysis of Experiments",
+    "hours": "36L",
+    "description": "Experiments vs observational studies, experimental units. Designs with one source of variation. Complete randomized designs and randomized block designs. Factorial designs. Inferences for contrasts and means. Model assumptions. Crossed and nested treatment factors, random effects models. Analysis of variance and covariance. Sample size calculations.",
+    "exclusions": "STAC50H3,  STAC53H3,  STA305H5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA302H1",
+        "STA302H5"
+      ]
+    }
+  },
+  "STA313H1": {
+    "code": "STA313H1",
+    "name": "Data Visualization",
+    "hours": "24L/12P",
+    "description": "An introduction to data visualization and the use of visual and interactive representations of data to support human cognition. This course covers visualization techniques and algorithms based on principles from graphic design, perceptual psychology, cognitive science, and human-computer interaction. Topics include: graphic design, interaction, perception and cognition, communication, and ethics. Computational tutorials involve design review, implementation, and testing of information visualizations.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CSC108H1",
+        "CSC110Y1",
+        "CSC120H1",
+        "CSC148H1",
+        "STA238H1",
+        "STA248H1",
+        "STA261H1",
+        "ECO227Y1"
+      ]
+    }
+  },
+  "STA314H1": {
+    "code": "STA314H1",
+    "name": "Statistical Methods for Machine Learning I",
+    "hours": "36L/12T",
+    "description": "Statistical methods for supervised and unsupervised learning from data: training error, test error and cross-validation; classification, regression, and logistic regression; principal components analysis; stochastic gradient descent; decision trees and random forests; k-means clustering and nearest neighbour methods. Computational tutorials will support the efficient application of these methods.",
+    "exclusions": "CSC311H1,  CSC311H5,  STA314H5,  STA315H5,  CSCC11H3",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA302H1",
+        "STA302H5",
+        "CSC108H1",
+        "CSC110Y1",
+        "CSC120H1",
+        "CSC148H1",
+        "CSC108H5",
+        "CSC148H5",
+        "MAT223H1",
+        "MAT224H1",
+        "MAT240H1",
+        "MAT223H5",
+        "MAT240H5",
+        "MAT224H5",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT232H5",
+            "MAT236H5"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT233H5",
+            "MAT236H5"
+          ]
+        }
+      ]
+    }
+  },
+  "STA347H1": {
+    "code": "STA347H1",
+    "name": "Probability",
+    "hours": "36L",
+    "description": "An overview of probability from a non-measure theoretic point of view. Random variables/vectors; independence, conditional expectation/probability and consequences. Various types of convergence leading to proofs of the major theorems in basic probability. An introduction to simple stochastic processes such as Poisson and branching processes.",
+    "exclusions": "MAT370H1,  MAT377H1,  STAC62H3,  STA348H5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA247H1",
+        "STA255H1",
+        "STA237H1",
+        "STA257H1",
+        "ECO227Y1",
+        "STA256H5",
+        "MAT223H1",
+        "MAT224H1",
+        "MAT240H1",
+        "MAT223H5",
+        "MAT240H5",
+        "MAT224H5",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT232H5",
+            "MAT236H5"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT233H5",
+            "MAT236H5",
+            "STA257H1",
+            "MAT223H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT240H1",
+            "MAT237Y1"
+          ]
+        },
+        "MAT257Y1"
+      ]
+    }
+  },
+  "STA355H1": {
+    "code": "STA355H1",
+    "name": "Theory of Statistical Practice",
+    "hours": "24L/12P",
+    "description": "STA355H1 provides a unifying structure for the methods taught in other courses, and will enable students to read methodological research articles or articles with a large methodological component. Topics covered include statistical models and distributions; fundamentals of inference: estimation, hypothesis testing, and significance levels; likelihood functions and likelihood-based inference; prior distributions and Bayesian inference.",
+    "exclusions": "STAC58H3",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA255H1",
+        "STA248H1",
+        "STA238H1",
+        "STA261H1",
+        "ECO227Y1",
+        "STA260H5",
+        "ECO227Y5",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT232H5",
+            "MAT236H5"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT233H5",
+            "MAT236H5"
+          ]
+        },
+        "MAT223H1",
+        "MAT224H1",
+        "MAT240H1",
+        "MAT223H5",
+        "MAT240H5",
+        "MAT224H5"
+      ]
+    }
+  },
+  "STA365H1": {
+    "code": "STA365H1",
+    "name": "Applied Bayesian Statistics",
+    "hours": "36L",
+    "description": "Bayesian inference has become an important applied technique and is especially valued to solve complex problems. This course first examines the basics of Bayesian inference. From there, this course looks at modern, computational methods and how to make inferences on complex data problems.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA302H1",
+        "STA302H5"
+      ]
+    }
+  },
+  "STA398H0": {
+    "code": "STA398H0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "STA398Y0": {
+    "code": "STA398Y0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "STA399H1": {
+    "code": "STA399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "STA399Y1": {
+    "code": "STA399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "STA410H1": {
+    "code": "STA410H1",
+    "name": "Statistical Computation",
+    "hours": "36L",
+    "description": "Programming in an interactive statistical environment. Generating random variates and evaluating statistical methods by simulation. Algorithms for linear models, maximum likelihood estimation, and Bayesian inference. Statistical algorithms such as the Kalman filter and the EM algorithm. Graphical display of data.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA302H1",
+        "STA302H5",
+        "CSC110Y1",
+        "CSC148H1",
+        "CSC148H5",
+        "MAT223H1",
+        "MAT224H1",
+        "MAT240H1",
+        "MAT223H5",
+        "MAT240H5",
+        "MAT224H5"
+      ]
+    }
+  },
+  "STA414H1": {
+    "code": "STA414H1",
+    "name": "Statistical Methods for Machine Learning II",
+    "hours": "36L",
+    "description": "Probabilistic foundations of supervised and unsupervised learning methods such as naive Bayes, mixture models, and logistic regression. Gradient-based fitting of composite models including neural nets. Exact inference, stochastic variational inference, and Marko chain Monte Carlo. Variational autoencoders and generative adversarial networks.",
+    "exclusions": "CSC412H1,  STAD68H3",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA314H1",
+        "CSC311H1",
+        "CSC311H5",
+        {
+          "operator": "AND",
+          "items": [
+            "STA314H5",
+            "STA315H5"
+          ]
+        },
+        "STA302H1",
+        "STA302H5",
+        "CSC108H1",
+        "CSC110Y1",
+        "CSC120H1",
+        "CSC148H1",
+        "CSC108H5",
+        "CSC148H5",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT232H5",
+            "MAT236H5"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT233H5",
+            "MAT236H5"
+          ]
+        },
+        "MAT223H1",
+        "MAT224H1",
+        "MAT240H1",
+        "MAT223H5",
+        "MAT240H5",
+        "MAT224H5"
+      ]
+    }
+  },
+  "STA422H1": {
+    "code": "STA422H1",
+    "name": "Theory of Statistical Inference",
+    "hours": "36L",
+    "description": "This course examines current theory of statistical inference, particularly likelihood-based methods and Bayesian methods with an emphasis on resolving present conflicts; log-model expansion and asymptotics are primary tools.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": "STA355H1"
+  },
+  "STA437H1": {
+    "code": "STA437H1",
+    "name": "Methods for Multivariate Data",
+    "hours": "24L/12P",
+    "description": "Practical techniques for the analysis of multivariate data; fundamental methods of data reduction with an introduction to underlying distribution theory; basic estimation and hypothesis testing for multivariate means and variances; regression coefficients; principal components and partial, multiple and canonical correlations; multivariate analysis of variance; profile analysis and curve fitting for repeated measurements; classification and the linear discriminant function.",
+    "exclusions": "STAD37H3,  STA437H5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA302H1",
+        "STA302H5"
+      ]
+    }
+  },
+  "STA442H1": {
+    "code": "STA442H1",
+    "name": "Methods of Applied Statistics",
+    "hours": "36L",
+    "description": "Advanced topics in statistics and data analysis with emphasis on applications. Diagnostics and residuals in linear models, introduction to generalized linear models, graphical methods, additional topics such as random effects models, designed experiments, model selection, analysis of censored data, introduced as needed in the context of case studies.",
+    "exclusions": "STA441H5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA303H1",
+        "CSC108H1",
+        "CSC110Y1",
+        "CSC120H1",
+        "CSC148H1",
+        "CSC108H5",
+        "CSC148H5"
+      ]
+    }
+  },
+  "STA447H1": {
+    "code": "STA447H1",
+    "name": "Stochastic Processes",
+    "hours": "36L",
+    "description": "Discrete and continuous time processes with an emphasis on Markov, Gaussian and renewal processes. Martingales and further limit theorems. A variety of applications taken from some of the following areas are discussed in the context of stochastic modeling: Information Theory, Quantum Mechanics, Statistical Analyses of Stochastic Processes, Population Growth Models, Reliability, Queuing Models, Stochastic Calculus, Simulation (Monte Carlo Methods).",
+    "exclusions": "STA348H5, STAC63H5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA347H1",
+        "MAT377H1"
+      ]
+    }
+  },
+  "STA450H1": {
+    "code": "STA450H1",
+    "name": "Topics in Statistics",
+    "hours": "36L",
+    "description": "Topics of current research interest are covered. Topics vary from year to year. As the necessary academic preparation for this course may vary from year to year, there may be additional prerequisites required, such as specific courses or an application to enrol. Students should contact the department at ug.statistics@utoronto.ca for information on this course, and enrolment in this course, for a given year.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "STA452H1": {
+    "code": "STA452H1",
+    "name": "Mathematical Statistics I",
+    "hours": "36L",
+    "description": "Statistical theory and its applications at an advanced mathematical level. Topics include probability and distribution theory as it specifically pertains to the statistical analysis of data. Linear models and the geometry of data, least squares and the connection to conditional expectation. The basic concept of inference and the likelihood function.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MAT223H1",
+        "MAT224H1",
+        "MAT240H1",
+        "MAT223H5",
+        "MAT240H5",
+        "MAT224H5",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT232H5",
+            "MAT236H5"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT233H5",
+            "MAT236H5"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA257H1",
+            "STA355H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "STA347H1",
+            "MAT237Y1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT257Y1",
+            "MAT223H1",
+            "MAT224H1"
+          ]
+        },
+        "MAT240H1"
+      ]
+    }
+  },
+  "STA453H1": {
+    "code": "STA453H1",
+    "name": "Mathematical Statistics II",
+    "hours": "36L",
+    "description": "Continuation of  STA452H1: statistical theory and its applications at an advanced mathematical level. Topics include classical estimation, theory with methods based on the likelihood function and the likelihood statistics. Testing hypothesis and the evaluation of confidence from both a Bayesian and frequentist point of view.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": "STA452H1"
+  },
+  "STA457H1": {
+    "code": "STA457H1",
+    "name": "Time Series Analysis",
+    "hours": "36L",
+    "description": "An overview of methods and problems in the analysis of time series data. Topics include: descriptive methods, filtering and smoothing time series, theory of stationary processes, identification and estimation of time series models, forecasting, seasonal adjustment, spectral estimation, bivariate time series models.",
+    "exclusions": "STAD57H3,  STA457H5",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA302H1",
+        "STA302H5",
+        "MAT235Y1",
+        "MAT237Y1",
+        "MAT257Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT232H5",
+            "MAT236H5"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT233H5",
+            "MAT236H5"
+          ]
+        }
+      ]
+    }
+  },
+  "STA465H1": {
+    "code": "STA465H1",
+    "name": "Spatial Data Analysis",
+    "hours": "36L",
+    "description": "Data acquisition in the environmental, physical, and health sciences are increasingly spatial, and novel in the sense that specialized methods are required for analysis. This course will cover different types of spatial and spatiotemporal data and their analytic methods. Students will learn a variety of advanced techniques for analyzing geostatistical, areal, and point referenced data. Focus will be placed on visualizing spatial data, choosing the correct method for a specific research question, and communicating analytic results clearly and effectively.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "STA302H1",
+        {
+          "operator": "AND",
+          "items": [
+            "STA302H5",
+            "STA303H1"
+          ]
+        }
+      ]
+    }
+  },
+  "STA475H1": {
+    "code": "STA475H1",
+    "name": "Survival Analysis",
+    "hours": "36L",
+    "description": "An overview of theory and methods in the analysis of survival data. Topics include survival distributions and their applications, parametric and non-parametric methods, proportional hazards regression, and extensions to competing risks and multistate modelling.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "STA480H1": {
+    "code": "STA480H1",
+    "name": "Fundamentals of Statistical Genetics",
+    "hours": "36L/9P",
+    "description": "Statistical analysis of genetic data is an important emerging research area with direct impact on population health. This course provides an introduction to the concepts and fundamentals of statistical genetics, including current research directions.\u00a0 The course includes lectures and hands-on experience with R programming and state-of-the-art statistical genetics software packages.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": "STA303H1"
+  },
+  "STA490Y1": {
+    "code": "STA490Y1",
+    "name": "Statistical Consultation, Communication, and Collaboration",
+    "hours": "48L/48P",
+    "description": "Through case studies and collaboration with researchers in other disciplines, students develop skills in the collaborative practice of Statistics. Focus is on pragmatic solutions to practical issues including study design, dealing with common complications in data analysis, and ethical practice, with particular emphasis on written communication. An application must be completed during the priority enrolment period the summer before the course is offered. Priority will be given to students who are completing all requirements of the Specialist in Statistical Science: Methods and Practice or the Applied Statistics Specialist that academic year. Space permitting, students in the Statistics Specialist, the Specialist in Statistical Science: Theory and Methods, the Data Science Specialist, or the Statistics Major will be considered for enrolment in the order in which they applied.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "STA303H1",
+            "STA304H1"
+          ]
+        },
+        "STA305H1"
+      ]
+    }
+  },
+  "STA492H1": {
+    "code": "STA492H1",
+    "name": "Seminar in Statistical Science",
+    "hours": "36S",
+    "description": "This course is intended for students completing the Statistical Science: Theory and Methods Specialist program. Novel influential ideas and current research topics in statistics will be explored through readings and discussion. Content will generally vary from semester to semester. Student presentations and written reports will be required.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": "STA355H1"
+  },
+  "STA496H1": {
+    "code": "STA496H1",
+    "name": "Readings in Statistics",
+    "hours": null,
+    "description": "Independent study under the direction of a Department of Statistical Sciences faculty member. There are a limited number of spaces in this course, and capacity varies from year to year based on the availability of faculty supervisors. Enrolment is subject to Department of Statistical Sciences and faculty supervisor approval. Students interested in this course should contact the department at ug.statistics@utoronto.ca for information on how to apply for enrolment in this course in a given year. Not eligible for CR/NCR option.",
+    "exclusions": "STA497H1/ STA498Y1/ STA499Y1",
+    "breadth": 5,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "STA"
+    }
+  },
+  "STA497H1": {
+    "code": "STA497H1",
+    "name": "Readings in Statistics",
+    "hours": null,
+    "description": "Independent study under the direction of a Department of Statistical Sciences faculty member. There are a limited number of spaces in this course, and capacity varies from year to year based on the availability of faculty supervisors. Enrolment is subject to Department of Statistical Sciences and faculty supervisor approval. Students interested in this course should contact the department at ug.statistics@utoronto.ca for information on how to apply for enrolment in this course in a given year. Not eligible for CR/NCR option.",
+    "exclusions": "STA496H1/ STA498Y1/ STA499Y1",
+    "breadth": 5,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "STA"
+    }
+  },
+  "STA498Y1": {
+    "code": "STA498Y1",
+    "name": "Readings in Statistics",
+    "hours": null,
+    "description": "Independent study under the direction of a Department of Statistical Sciences faculty member. There are a limited number of spaces in this course, and capacity varies from year to year based on the availability of faculty supervisors. Enrolment is subject to Department of Statistical Sciences and faculty supervisor approval. Students interested in this course should contact the department at ug.statistics@utoronto.ca for information on how to apply for enrolment in this course in a given year. Not eligible for CR/NCR option.",
+    "exclusions": "STA496H1/ STA497H1/ STA499Y1",
+    "breadth": 5,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "STA"
+    }
+  },
+  "STA499Y1": {
+    "code": "STA499Y1",
+    "name": "Readings in Statistics",
+    "hours": null,
+    "description": "Independent study under the direction of a Department of Statistical Sciences faculty member. There are a limited number of spaces in this course, and capacity varies from year to year based on the availability of faculty supervisors. Enrolment is subject to Department of Statistical Sciences and faculty supervisor approval. Students interested in this course should contact the department at ug.statistics@utoronto.ca for information on how to apply for enrolment in this course in a given year. Not eligible for CR/NCR option.",
+    "exclusions": "STA496H1/ STA497H1/ STA498Y1",
+    "breadth": 5,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "STA"
+    }
+  },
+  "SWE100H1": {
+    "code": "SWE100H1",
+    "name": "Elementary Swedish I",
+    "hours": "24L/24P",
+    "description": "Elementary Swedish I gives students a basic knowledge of Swedish. Students learn to understand and use Swedish in everyday situations, and to read and write short texts on familiar themes, and speak about their immediate social environment and learn something about everyday life in both Finland and Sweden.",
+    "exclusions": "SWE101H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SWE101H1": {
+    "code": "SWE101H1",
+    "name": "Elementary Swedish II",
+    "hours": "24L/24P",
+    "description": "Elementary Swedish II, a continuation of  SWE100H1 gives students a basic knowledge of Swedish. Students learn to understand and use Swedish in everyday situations, and to read and write short texts on familiar themes, and speak about their immediate social environment and learn something about everyday life in both Finland and Sweden.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "SWE100H1"
+  },
+  "TMU115H1": {
+    "code": "TMU115H1",
+    "name": "Musical Skills I & II",
+    "hours": null,
+    "description": "Reading and listening skills for diatonic and chromatic materials. Topics include sight singing, rhythm reading, keyboard harmony, and dictation.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "TMU140Y1": {
+    "code": "TMU140Y1",
+    "name": "Music Theory I & II",
+    "hours": null,
+    "description": "Diatonic harmony, including principles of voice leading and harmonic progression. Chromatic harmony, including modulation, mixture, Neapolitan and augmented sixths. Course requirements include part-writing, analysis, and keyboard harmony/skills.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "TMU240Y1": {
+    "code": "TMU240Y1",
+    "name": "Music Theory and Skills III & IV",
+    "hours": null,
+    "description": "The first semester focuses on the study of forms and analysis of repertoire from c.1700-c.1900; forms to be studied include binary, ternary, sonata, rondo, variation, and fugue. The second semester focuses on post-tonal theory and analysis of music post-1900 along with reading and listening skills suitable for understanding post-tonal music.",
+    "exclusions": "TMU230H1,  TMU231H1,  TMU232H1",
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "TMU115H1",
+        "TMU140Y1"
+      ]
+    }
+  },
+  "TRN125Y1": {
+    "code": "TRN125Y1",
+    "name": "Contemporary Issues in Health Science",
+    "hours": "48S",
+    "description": "Can the immune system be strengthened? Are some diseases incurable? What is the best way to stop the spread of a virus? This course examines the scientific principles underlying contemporary issues in the science of human health with the goal of exposing students to the current state of biomedical research. We will develop three distinct types of understanding that are essential to literacy about the science of human health: the basic concepts in science; the nature of scientific research; and the rules that govern how scientists do their work. This course will explore topics such as stem cells, gene editing, regenerative medicine, vaccination, drug development, and personalized medicine. Restricted to first-year students admitted to the Trinity One Program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN135Y1": {
+    "code": "TRN135Y1",
+    "name": "Science and Social Choice",
+    "hours": "48S",
+    "description": "Many of the decisions we make as a society rely on advances in scientific knowledge. In this course, we will discuss a number of contemporary medical topics that involve complex scientific discoveries about health, the human body, disease, and infection. We will consider genes and study the medical implications of our growing understanding of the human genome. We will study a number of recent cases in order to explore how scientific findings influence decision-making in hospitals and the selection of social policies. We will also discuss the background forces that shape medical research and how this affects the kinds of health problems that are prioritized. The objective of this course is to develop a solid understanding of biological concepts related to human health and consider them in their wider social and ethical contexts. Restricted to first-year students admitted to the Trinity One Program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN136Y1": {
+    "code": "TRN136Y1",
+    "name": "Canadian Health Policy in the Global Context",
+    "hours": "48S",
+    "description": "In this course we consider when our health policies support the highest standards of medical care, consistent with the latest discoveries in medical research. We examine the ways in which debates around ethics, effectiveness and efficiency shape global and national health policy. We begin by exploring the most important advancements in global health policy over the past two decades. We then assess Canada\u2019s experience in providing health care, identifying lessons for national policy reform and for Canada\u2019s role as a leader in global health research and policy. We explore a range of health challenges including universal health care, anti-microbial drug resistance, HIV AIDS, tuberculosis, reproductive, maternal, newborn and child health, cardiovascular care, oncology, environmental health, indigenous health, violence against women and mental health. Restricted to first-year students admitted to the Trinity One Program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN140Y1": {
+    "code": "TRN140Y1",
+    "name": "Ethics, Humans, and Nature",
+    "hours": "48S",
+    "description": "This course introduces students to ethical issues arising from the way humans interact with nature. Students will study some theoretical approaches for evaluating how human society affects the planet, ecosystems, and the other animals. Theories will be drawn from philosophy, theology, and ecology, and will include Western and non-Western approaches to living in harmony with one\u2019s environment. Key themes may include speciesism \u2013 the idea that human needs are the most important \u2013 as well as overpopulation, extinction, vegetarianism, and responsible resource management. The course will also look at how social policy shapes human choices and whether sustainability initiatives should be pursued through the public or private sector. The course will also discuss the spiritual connection between humans and the environment and how society can be organized to promote access to nature in urban communities. Restricted to first-year students admitted to the Trinity One Program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN141Y1": {
+    "code": "TRN141Y1",
+    "name": "Environmental Science and Pathways to Sustainability",
+    "hours": "48S",
+    "description": "This course introduces students to fundamental issues in environmental science with a multi-disciplinary focus on human impacts on physical and biological systems, and on identifying pathways to sustainability. Key themes will include energy and resources, climate change, land use, contaminants and protecting biodiversity in the context of the Anthropocene. The course challenges students to apply the scientific method to environmental monitoring, research and problem solving through project design, data collection and analysis. The course also emphases information literacy, skills to distinguish science from pseudo-science, and considerations around representation of environmental science in the media. Restricted to first-year students admitted to the Trinity One Program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "TRN150Y1": {
+    "code": "TRN150Y1",
+    "name": "National versus International",
+    "hours": "48S",
+    "description": "The international system today faces extraordinary challenges. Understanding these challenges requires understanding the past. This seminar course briefly reviews the origins and development of the international system from the 17th century through the age of empires and the great wars of the 20th century. It then concentrates on the clash of nationalism with internationalism in the world since 1945, looking at such issues as what drives nationalism and what alternatives there are to it. We will study ideas and ideologies as well as the institutions that make up the current geopolitical world. Restricted to first-year students admitted to the Trinity One Program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN151Y1": {
+    "code": "TRN151Y1",
+    "name": "Global Governance",
+    "hours": "48S",
+    "description": "Terrorism, the proliferation of arms (including weapons of mass destruction), environmental degradation, globalization, technological change, and the rise of non-state actors all pose challenges to statecraft and the management of global order. This seminar course explores the changing dynamics of global politics and the responses to them by states (and others). Topics will include an examination of new forms of international collaboration that have developed in the wake of crises in the years following the Second World War. Restricted to first-year students admitted to the Trinity One Program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN152Y1": {
+    "code": "TRN152Y1",
+    "name": "Justice & Global Conflict",
+    "hours": "48S",
+    "description": "Modern states face both new and familiar challenges to protecting national security. National insecurity threatens a country\u2019s capacity to protect the well-being of its citizens while at the same time participating in international organizations and treaties. This course explores the origins and management of international conflict from the 17th to the 21st century, focusing on the precursors to war and the markers of peace. We will also consider the ways in which our current global world order promotes and preserves justice between and within nations. Students will consider different theoretical approaches to justice between nations, and apply them to recent security issues. By studying the history of conflict and the difference between justice and injustice students will gain a deeper understanding of how current geopolitical actors can structure and affect the prospects for security policy reform moving forward. Restricted to first-year students admitted to the Trinity One Program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN160Y1": {
+    "code": "TRN160Y1",
+    "name": "Public Policy and the Public Good",
+    "hours": "48S",
+    "description": "This course examines the sense of the public good that undergirds Canada's domestic and international obligations. We examine the notion of the \u201cpublic\u201d through investigating possible answers to a central political question: what is the purpose of government? Drawing on readings in philosophy and political theory, the course considers a variety of approaches to defining the nature of the public good and how policy makers should respond when competing goods (e.g., freedom and security) clash with each other. In addition, the course looks at the treaties and conventions that articulate the responsibilities of signatory nations regarding challenges such as climate change mitigation, refugee resettlement, and foreign aid. Students will learn how international agreements either compel or encourage participation and multilateral cooperation in the absence of robust enforcement mechanisms. Restricted to first-year students admitted to the Trinity One Program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "TRN161Y1": {
+    "code": "TRN161Y1",
+    "name": "Making Public Policy Work",
+    "hours": "48S",
+    "description": "How do we know what kinds of public policy will work and what will not? How do we assess the effectiveness of a policy? An historical examination of ways in which Canadian governments have addressed a range of policy problems. Case studies of areas of federal and provincial activity today. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN162Y1": {
+    "code": "TRN162Y1",
+    "name": "Political Economy and Social Inequality",
+    "hours": "48S",
+    "description": "What is the relationship between capitalism and democracy? How can understanding rational choice theory inform public policy? This course will introduce students to the methods of studying the interplay between economics and politics. We will focus on specific topics to guide our quantitative analysis, which may include intergenerational poverty, the transfer of wealth, efficiency, and social stratification. We will analyse empirical results while developing critical skills for interpreting economic data and research. The course also considers global economic dynamics, transnational governance regimes, as well as the political-economic dimensions of setting global policies. By the end of the course, students will have a better understanding of global political economy, and its connection the fields of international relations and public policy. Restricted to first-year students admitted to the Trinity One Program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN170Y1": {
+    "code": "TRN170Y1",
+    "name": "Ethics and the Creative Imagination",
+    "hours": "48S",
+    "description": "A seminar course that explores ethical issues through the study of works of the creative imagination that pose or provoke questions of right and wrong, good and evil, justice and injustice. The selected works will be drawn from such fields as literature, film, and the visual and performing arts. Open only to students admitted to Trinity One. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "TRN171Y1": {
+    "code": "TRN171Y1",
+    "name": "Ethics and the Public Sphere",
+    "hours": "48S",
+    "description": "What does it mean to be morally required to do something? What rights do we have over ourselves, our bodies, our privacy, our choices? In this course, we will read texts from philosophy, history, political science, cultural studies and beyond that engage with the theme of ethics in the public arena. These will provide valuable analytic tools as we go on to confront contemporary issues that raise urgent ethical questions. Restricted to first-year students admitted to the Trinity One Program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "TRN172Y1": {
+    "code": "TRN172Y1",
+    "name": "Ethics and the Law",
+    "hours": "48S",
+    "description": "What is the relationship between moral values and the law? What role does the law play in enabling people to live better lives? Are legal institutions and actors subject to higher ethical standards? In this course we will read texts from legal theory and political philosophy to try to explain the connection between ethics and the law. This will provide the basis for thinking about some historical and contemporary legal cases, as well as ethical issues judges, lawyers, and lawmakers face in their professional roles. Restricted to first-year students admitted to the Trinity One Program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN191H1": {
+    "code": "TRN191H1",
+    "name": "Disaster and Terrorism: Religion and Ethics at Ground Zero",
+    "hours": "24S",
+    "description": "In response to contemporary terrorist attacks and natural disasters, many are led to cry, \u201cThe world will never be the same!\u201d How should such statements be evaluated? What impact do they have on social and political life? This course explores religious and cultural responses to human tragedy and cultural shock. Discussion will attend to debates over the meaning of suffering, public reactions to terrorism, the traumas of natural disasters, and the role of media in covering such events. These themes are engaged from the perspectives of ethics, cultural theory, religious studies, and theology. The course focuses on popular responses to events that include: the Lisbon Earthquake of 1755, the First World War, the Holocaust, Hurricane Katrina, the Japanese experiences of Hiroshima and Fukushima, 9/11, and more recent examples of terrorism and disaster. Attention will be given to concerns such as the impact of trauma on social and political debate, the function of religious discourse in the face of tragedy, the nature of ideology, and the relationship between religion and violence. A thematic concern throughout the course will be the nature of ethical commitment in the midst of confusion and social disruption. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "TRN192H1": {
+    "code": "TRN192H1",
+    "name": "Public Health in Canada: Health for the 21st Century",
+    "hours": "24L",
+    "description": "This course deals with preventive care and population health. It will also move into new areas like healthcare and the environment (climate change) and the greening of healthcare. It will look at health as an extension of democracy \u2013 of how health extends individual rights beyond the political realm to the social realm, of how it can build social capital and knit populations together. It will look at areas inimical to health, \u2018detriments to health\u2019 and how economic inequality can lead to health inequality. Along with this it will look at ways of empowering the individual, the public as agent and a role of public engagement by major institutions. It will also push beyond the popular determinants of health to engage students in a paradigm on next steps, the future challenges in population health. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN193H1": {
+    "code": "TRN193H1",
+    "name": "Canadian Health Policy: Past, Present and Future",
+    "hours": "24L",
+    "description": "This is a health systems course. It deals with illness care, individual health, and health insurance. It will take a comparative and historical approach. We will look at the genesis of Canadian healthcare, our benefits and those other countries provide (e.g., pharmacare, dental care). We will look at indirect contributors like childcare and basic income. We will examine the public-private debate. We will also take some novel approaches. One is that the university has an expanded role in the 21st century, one that involves public outreach, a role that includes healthcare. Recent academic literature on healthcare notes that it is nation-building. We will look at why. We will examine some cutting-edge ideas, like integrated care, the learning health system, the concept of customer-owners. We will explore whether our healthcare system needs to be anchored by \u2018institutions of excellence\u2019 and identify these. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN194H1": {
+    "code": "TRN194H1",
+    "name": "Literature and Wicked Problems",
+    "hours": "24L",
+    "description": "This course explores contemporary literature in relation to the interdisciplinary framework of \u201cwicked problems.\u201d Research emphasizes that complex, entrenched problems, like government relations with Indigenous peoples or human impacts on the climate, involve interconnected systems and require approaches that cross disciplines and types of knowledge. The course examines the role of literary works (mostly 21st-century fiction) in addressing these issues of pressing concern to students as global citizens. Critical thinking, scholarly reading and database research are foundational skills that this course strengthens in order to prepare students for their writing in disciplines across the university. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "TRN195H1": {
+    "code": "TRN195H1",
+    "name": "Poetry & The Public; Social Movements & The Ethics of Response",
+    "hours": "24L",
+    "description": "Poetry & The Public considers the motivation, intent, reception, and ethics of poetic response to major political events of the late 20th and 21st centuries. Through a wide survey of poems, we will investigate not only the contextual motivation for poets responding to political issues but interrogate the formal and performative means by which they present their work to the public. Poems will be read within a wider history of social movements and civil liberties; and touch upon major historical events such as the AIDS crisis, Black liberation struggles, movements for feminist and 2SLGBTQIA+ rights, ecological and climate-change concerns, and current calls for prison abolition. We will touch upon poetic \u201cschools\u201d or \u201cstyles,\u201d including the Poetics of Witness, persona poetry, the Black Arts Movement, and the Kootenay School of Writing. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "TRN196H1": {
+    "code": "TRN196H1",
+    "name": "Joy and Resistance in Diverse Storytelling",
+    "hours": "24L",
+    "description": "\"Can we speak about joy for once?\" In contemporary literature from Black, Indigenous and People of Colour (BIPOC) authors across Canada and Turtle Island, there is a resurgence in diasporic stories that capture the joy and resistance of carving space for community against the mechanisms of the state. This course explores how BIPOC literature has intersected with social problems and activist movements, creating spaces for readers to reflect on their own lived experiences. Students will expand their creative thinking, critical reading and scholarly writing skills through multi-modal assignments that offer connections to current issues and community knowledge. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "TRN197H1": {
+    "code": "TRN197H1",
+    "name": "In the Shadow of the Vikings: Depictions of the Early Norse in Medieval, Modern, and Post-Modern Culture",
+    "hours": "24L",
+    "description": "Although rarely attested during the historical era when they were active, since the early nineteenth century the word \u201cViking\u201d has been popularly applied to describe groups of Scandinavian adventurers who marauded along the frontiers of Medieval Europe: in this respect, the image of \u201cthe Viking\u201d may be regarded as much a modern, as it is a medieval, creation. The legacy of historical \u201cViking activities\u201d was a factor in the development of modern nation states in Scandinavia and the Baltic region, and their contributions to the heritage of people residing in Britain, continental Europe, the Middle East, and even the Atlantic coast of Canada have been and continue to be cited to the present day. Aspects of culture attributed to \u201cthe Vikings\u201d\u2014their assumed independence, courage, resourcefulness, and tenacity in the face of adversity, as well as the occult characteristics of their cosmology\u2014have, for better and worse, inspired modern artists, writers, composers, intellectuals, explorers and even political leaders, and persist in present day literature, art, music, sport and popular culture as well. Why and how do elements of historic Viking culture continue to evoke traditions and characteristics popularly attributed to \u201cthe Vikings\u201d? What are some implications of \u201cViking-ness\u201d for those people in the post-Viking Age past and/or present who we may regard\u2014or may regard themselves\u2014as the \u201ccultural descendants\u201d of the Vikings? In this seminar, participants will study selected cultural artifacts of the \u201cpost-Viking Age,\u201d along with recent multidisciplinary research, to observe how various \u201cpost-Viking Age\u201d cultures and subcultures have selectively appropriated elements of the \u201cViking\u201d past. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "TRN198H1": {
+    "code": "TRN198H1",
+    "name": "The Viking Phenomenon: Commerce, Conflict, and Communication along Europe\u2019s Frontiers, 7th \u2013 15th Century",
+    "hours": "24L",
+    "description": "Perspectives on the impact that the Scandinavian raiders and traders popularly referred to as \u201cVikings\u201d had on European and World history continue to develop as the work of historians, archaeologists, linguists, and scientists expands our understanding of the past. Recent research has revised the traditional view of the \u201cVikings\u201d as primarily marauding warriors; in its place, a more complex and nuanced conception of the implications that \u201cViking activity\u201d had on the social, economic, and political development of the peoples with whom they came in contact has emerged. This seminar will consider the relationship between the traditional conception of the \u201cViking warrior\u201d and recent research that suggests the broader impact that the \u201cViking Phenomenon\u201d had upon the economic revival and sociopolitical development of medieval Europe and its frontiers. In the course of the seminar, we will examine a selection of historical records and information concerning artifacts of the material culture of \u201cThe Viking Age\u201d in order to better understand the activities of early medieval \u201cVikings,\u201d not only as warriors, but also as agents of commerce, explorers, pioneers, and rulers. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "TRN199H1": {
+    "code": "TRN199H1",
+    "name": "Classical Social and Political Thought from the 18th Century Enlightenment to the 20th Century",
+    "hours": "24L",
+    "description": "We begin with European social and political thought during the 18th century, including ideas of enlightenment and revolution. We move on to the 19th century to engage with the critical Marxist theorisation of the new \u201ccapitalist\u201d social and political formation, and look at the reception of the Marxist view in the 20th century, all of which continues to affect the character of Western social and political thought. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "TRN200Y1": {
+    "code": "TRN200Y1",
+    "name": "Modes of Reasoning",
+    "hours": "24L/24S",
+    "description": "First term: students are taught how to recognize, analyze, evaluate, and construct arguments in ordinary English prose. Second term: one or more discipline-related modes of reasoning (e.g., scientific reasoning, ethical reasoning, legal reasoning) studied with reference to a selection of contemporary social issues.",
+    "exclusions": "PHL247H1/ PHI247H1/ TRN200H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "TRN203H1": {
+    "code": "TRN203H1",
+    "name": "Society, its Limits and Possibilities",
+    "hours": "24L/12T",
+    "description": "Key texts from various disciplines that articulate fundamental features, limitations, and possibilities of contemporary society are introduced. Political consent, economics, governmental administration, the global / post-colonial world, historical transformation, gender politics, and media may be addressed.",
+    "exclusions": "TRN321H1 taken in 2015 Fall",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN204H1": {
+    "code": "TRN204H1",
+    "name": "Introduction to Law and Legal Reasoning",
+    "hours": "24L/12T",
+    "description": "This course introduces students to legal reasoning through progressively complex exercises. First, hypotheticals expose students to basic skills required for legal reasoning. Second, they analyze simplified versions of specially selected concrete cases. Third, the course analyses real cases discussed in first year courses in law school.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN205H1": {
+    "code": "TRN205H1",
+    "name": "Independent Studies",
+    "hours": null,
+    "description": "Trinity Independent Studies. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "TRN225Y1": {
+    "code": "TRN225Y1",
+    "name": "The Art of Health Science Discovery",
+    "hours": "48S",
+    "description": "Illustrated by contemporary examples, students go through the stages of the scientific discovery process. From initial idea, through literature review, funding (grant writing and assessment), experimental design and critical analysis of data through to the public dissemination of results by publication, the patent process and development of intellectual property. Restricted to students admitted to the Trinity One Program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN250Y1": {
+    "code": "TRN250Y1",
+    "name": "Empire, Nationalism, and the History of International Relations",
+    "hours": "24L/48T",
+    "description": "Our modern world has its foundations in the development of a complex and changing system of international behaviours, customs, and rules. This course explores the global and often difficult transition from a world of empires to our contemporary world of nation-states, spanning the mid-eighteenth century to the present day. Using a global lens, this course offers an introductory historical survey using multiple perspectives and diverse settings, paying special attention to the dissolution of empire, popular revolution and mass movements, and the creation of international order. How global transformations were experienced, not only at the highest levels of power, but also by the people living amidst such change, will be an abiding concern of this course.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "TRN299H1": {
+    "code": "TRN299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "TRN299Y1": {
+    "code": "TRN299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "TRN300H1": {
+    "code": "TRN300H1",
+    "name": "Trinity Independent Studies",
+    "hours": null,
+    "description": "Trinity Independent Studies. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "TRN301Y1": {
+    "code": "TRN301Y1",
+    "name": "Trinity Independent Studies",
+    "hours": null,
+    "description": "Trinity Independent Studies. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "TRN302Y1": {
+    "code": "TRN302Y1",
+    "name": "Trinity Independent Studies",
+    "hours": null,
+    "description": "Trinity Independent Studies. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "TRN303H1": {
+    "code": "TRN303H1",
+    "name": "Ethics and Society",
+    "hours": "24S",
+    "description": "An exploration of the ethical dimensions of selected contemporary social issues. Restricted to students in the major program Ethics, Society, and Law.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "TRN203H1"
+  },
+  "TRN304H1": {
+    "code": "TRN304H1",
+    "name": "Law and Social Issues",
+    "hours": "24L",
+    "description": "An exploration of the legal dimensions of selected contemporary social issues. Restricted to students in the major program Ethics, Society, and Law.",
+    "exclusions": "TRN304Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN304Y1": {
+    "code": "TRN304Y1",
+    "name": "Law and Social Issues",
+    "hours": "48L",
+    "description": "An exploration of the legal dimensions of selected contemporary social issues, focusing on law as a practice of social justice, and led by instructors with considerable practical experience. Restricted to students in the major program Ethics, Society, and Law.",
+    "exclusions": "TRN304H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN305H1": {
+    "code": "TRN305H1",
+    "name": "Basic Principles of Law",
+    "hours": "24L",
+    "description": "An exploration of some basic legal principles in public and private law. Areas of law that may be studied include contract, tort, criminal and administrative law. Restricted to students in the major program Ethics, Society, and Law.",
+    "exclusions": "TRN305Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN305Y1": {
+    "code": "TRN305Y1",
+    "name": "Basic Principles of Law",
+    "hours": "48L",
+    "description": "The nature and justification of legal rules as preparation for the study of basic principles of law governing the relations between individual citizens, and the relations between individual citizens and the state. A selection of contract, tort, criminal and administrative law. Restricted to students in the major program Ethics, Society, and Law.",
+    "exclusions": "TRN305H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN307H1": {
+    "code": "TRN307H1",
+    "name": "International Experience I",
+    "hours": null,
+    "description": "A one semester research experience abroad. Students participate in a research project under the mentorship of a faculty supervisor in the host institution and gain experience of working and living abroad.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "TRN308H1": {
+    "code": "TRN308H1",
+    "name": "International Experience II",
+    "hours": null,
+    "description": "Students who have engaged in a research project abroad participate in a regular forum in which they present their research projects and discuss their varied experiences of work and social engagement in different foreign environments. Students prepare a detailed scholarly article based on their research.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": "TRN307H1"
+  },
+  "TRN312H1": {
+    "code": "TRN312H1",
+    "name": "Sustainability Issues in Ethics, Society, and Law",
+    "hours": "24L/12T",
+    "description": "This course focuses on core issues selected from the general domain of sustainability which are addressed through each of the three subject-area lenses of Trinity\u2019s Ethics, Society, and Law program, namely the ethics, the socio-political context, and the legal environment of sustainability issues and initiatives.",
+    "exclusions": "TRN321H1 (Selected Topics in Ethics, Society, and Law: The Ethics, Society and Law of Environmental Sustainability), offered in Winter 2020",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "TRN203H1",
+        "TRN204H1"
+      ]
+    }
+  },
+  "TRN320H1": {
+    "code": "TRN320H1",
+    "name": "Selected Topics in Ethics, Society, and Law",
+    "hours": "24S",
+    "description": "The course examines a selected topic in ethics, society, and law. The set of topics will be based on the research interests of an individual instructor. Both the topics and the instructor may change with each offering of the course, and the course is not expected to be offered every year.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  }
+}

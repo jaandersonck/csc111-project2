@@ -1,0 +1,1415 @@
+{
+  "NML443H1": {
+    "code": "NML443H1",
+    "name": "Demotic I",
+    "hours": "24L/24S",
+    "description": "Demotic refers to both a stage of the ancient Egyptian language and the associated cursive script, which was in use for over a millennium (from the 7th century BCE to the 5th century CE). Various types of texts were written in Demotic, ranging from epic tales, scientific treatises, and religious texts to court documents, letters, and tax receipts. This course aims to introduce students to Demotic grammar and script. A small selection of original texts will be read once the grammar review is completed.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "NML340Y1",
+        "NML442Y1"
+      ]
+    }
+  },
+  "NML444H1": {
+    "code": "NML444H1",
+    "name": "Demotic II",
+    "hours": "36S",
+    "description": "The course aims at improving reading proficiency in Demotic by studying a wide array of different text genres in original, including literary, para-literary, religious and documentary texts written in early, middle, and late Demotic. This will familiarize students with the grammatical, paleographical, and orthographical developments of the language.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NML443H1"
+  },
+  "NML450H1": {
+    "code": "NML450H1",
+    "name": "Advanced Biblical Hebrew",
+    "hours": "24S",
+    "description": "Continuation of the study of Biblical Hebrew language. Combination of reading more advanced texts and Hebrew composition exercises. Introduction to the standard reference works for advanced study of the phonology, morphology, syntax, and semantics of Biblical Hebrew.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "NML350H1",
+        "NML351H1"
+      ]
+    }
+  },
+  "NML452H1": {
+    "code": "NML452H1",
+    "name": "Halakhic Midrashim",
+    "hours": "36S",
+    "description": "Halakhic Midrash, the rabbinic continuation of biblical law, is written in Middle Hebrew I and is one of the three major literary creations of the Tannaitic period. It is an important part of ancient Jewish biblical interpretation which often differs from sectarian interpretation as found in Qumran. A study of the terminology and methodology indicates the existence of two midrashic systems: Devei R. Akiba and Devei R. Ishmael. This course familiarizes students with the methodology and terminology of these two midrashic schools. We will examine the scholarly debate concerning the exact time in which the halakhic midrashim were composed and redacted as well as the transfer of terminology and material between the schools. Sections from all the midrash halakhah (Mekhiltot, Sifra and Sifre) are studied and compared to other tannaitic materials.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "NML455H1": {
+    "code": "NML455H1",
+    "name": "Modern Hebrew Poetry",
+    "hours": "24S",
+    "description": "This course is designed for the advanced students of Modern Hebrew who wish to pursue the study of Hebrew literature. We will examine the way in which this literature relates to ideas of land, homeland, peoplehood, and religious identities. We will continue with Yehuda Amihai\u2019s poetry with particular attention to his love poetry. Our major concentration will be on \u1e24aim Na\u1e25man Bialik\u2019s poetry and include at least one of his major epic poems. We shall focus on what makes Amihai and Bialik national poets. Our method of poetic analysis will include an inter-textual examination of the sources of poetic inspiration. Students will be taught to use the Bar Ilan Responsa Project as an aid to tracking allusions. We will also use historical Hebrew dictionaries.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NML456H1": {
+    "code": "NML456H1",
+    "name": "Modern Hebrew Prose",
+    "hours": "24S",
+    "description": "This course is designed to introduce advanced students of Modern Hebrew to modern prose written primarily in today\u2019s state of Israel. To this end we will spend two weeks looking at the motifs and styles available in contemporary children\u2019s literature with an eye to their use of biblical allusions. This serves as background to a study of short stories by the Nobel laureate Agnon. The sources of the stories will be studied from the perspective of intertextuality where the source is both inspirational and in turn explicated by the novelist. The use of online search engines and databases will facilitate this analysis. The course teaches advanced reading skills in prose literature in Hebrew with emphasis on interpreting the texts, close readings, and tracking allusions. Use will be made of historical Hebrew dictionaries.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NML459H1": {
+    "code": "NML459H1",
+    "name": "Readings in Second Temple Period Texts",
+    "hours": "24S",
+    "description": "This course provides an advanced investigation of selected issues in ancient Jewish texts stemming from the Second Temple Period (5th cent. BCE 1st cent. CE), and includes comparative study of biblical writings, apocrypha and pseudepigrapha, the Dead Sea Scrolls, and writings of ancient Jewish historians and philosophers. The specific topic for the course varies from one semester to another. The course has a strong research and writing component.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "NML350H1",
+        "NML351H1"
+      ]
+    }
+  },
+  "NML460H1": {
+    "code": "NML460H1",
+    "name": "Advanced Persian I",
+    "hours": "36S",
+    "description": "This course is designed for students who have already completed  NML360Y1 Intermediate Persian or have an equivalent level of proficiency in Persian. This course aims to develop students\u2019 abilities at an advanced level, with a focus on complex reading materials including historical, socio-political, media and journalistic texts. Students will improve their reading comprehension, strengthen writing skills, and advance speaking and listening skills through class discussions and oral presentations.",
+    "exclusions": "Native Speakers",
+    "breadth": 1,
+    "prereq_tree": "NML360Y1"
+  },
+  "NML461H1": {
+    "code": "NML461H1",
+    "name": "Modern Persian Poetry",
+    "hours": "36S",
+    "description": "This course examines Persian literature, mainly modern Persian poetry from the 19th to the 21st centuries, focusing on linguistics and literary approaches in contemporary poetry. The course includes a brief overview of different factors which shaped modern Persian poetry, then concentrates on the works of well-known modern poets who had great influence on establishing and developing Persian contemporary poets such as Nima Yushij, Ahmad Shamlu, Mehdi Akhavan Sales, Sohrab Sepehri, Forugh Farrokhzad, Hushang Ebtehaj, Simin Behbahani, and Mohammad Reza Shafi\u2019i-Kadkani. After presenting a short biography and the works of each poet, students read selected poems of each poet and discuss the structure, poetic styles, figures of speech, themes and motifs in the poems. (Conducted in Persian)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NML360Y1"
+  },
+  "NML462H1": {
+    "code": "NML462H1",
+    "name": "Modern Persian Prose",
+    "hours": "36S",
+    "description": "This course examines contemporary Persian prose, focusing on fiction, especially the novel and short story. After an overview of different genres of prose writing, the main elements of a story, such as plot, scene, character, theme, topic, point of view, and conflict, are discussed. The literary knowledge and abilities of students will be developed by analyzing different genres of prose writing, especially Persian short stories. At the end of this course students will be able to examine and analyze any form of story-writing and compose their own short stories. (Conducted in Persian.)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NML360Y1"
+  },
+  "NML463H1": {
+    "code": "NML463H1",
+    "name": "Advanced Persian II",
+    "hours": "36S",
+    "description": "This course is designed for students who have already completed  NML460H1 Advance Persian I or have an equivalent level of proficiency in Persian. Its goal is to strengthen the students reading and writing skills and enrich their cultural and literary background. This is achieved through analysis of sophisticated authentic literary texts covering a wide range of literary genres.",
+    "exclusions": "Native Speakers",
+    "breadth": 1,
+    "prereq_tree": "NML460H1"
+  },
+  "NML464H1": {
+    "code": "NML464H1",
+    "name": "Old Persian",
+    "hours": "24L/24S",
+    "description": "This course will survey the language, main epigraphical texts, historical context, and political ideology of the Old Persian inscriptions of the Achaemenid Empire (550\u2013330 BCE). The Old Persian version of the famous inscriptions of Darius I in Bisotun will be read in the original, cuneiform script, linguistically analyzed, commented, and translated into English. By this training, students will be able to comfortably read the entire inscriptional corpus in Old Persian. By the end of the year, they will have acquired a strong understanding of the simplified Old Persian cuneiform script, the main phonological, morphological and syntactical features of the Old Persian language, and its connections with the Middle and modern Persian languages.",
+    "exclusions": "NML464Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "NML465Y1": {
+    "code": "NML465Y1",
+    "name": "Avestan",
+    "hours": "48L",
+    "description": "This course surveys the grammar and syntax of the language of the Young Avestan corpus, belonging to the Old Iranian linguistic group. The Avesta was a compendium of Zoroastrian texts composed orally in northern Iran and Central Asia in two dialects spoken in different periods: Old Avestan (2nd millennium BCE) and Young Avestan (1st millennium BCE). Most foundational texts of Zoroastrianism were composed in Young Avestan language, which attests a more simplified grammar than Old Avestan and in this regard is closer to Old Persian. Knowledge of Young Avestan provides access to the mythical and ritual context of pre-Islamic Iran and Central Asia. Students will be introduced to the main phonological, morphological, and syntactical features of the Young Avestan language; its script; its most important texts; and its connections with Old Persian and Middle Persian, or Pahlavi.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "NML466H1": {
+    "code": "NML466H1",
+    "name": "Theory and Practice of Translation from and into Persian",
+    "hours": "24S",
+    "description": "An introduction to theories and techniques involved in English/Persian translation, focusing on translation practice and theoretical discussions on linguistic, cognitive, socio-political, and cultural aspects of translation. Through analysis and application of translation theory, students practice the art of translation and develop awareness of issues that translators face.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NML360Y1"
+  },
+  "NML467H1": {
+    "code": "NML467H1",
+    "name": "Persian Literature: The Epic Tradition",
+    "hours": "36S",
+    "description": "Selected representative readings from the iconic masterpieces of classical heroic and romantic epic poetry, including the Persian national epic, Shahnameh, or Book of Kings; the magisterial ode of Khaqani on the ruins of a Sasanian palace; and tales from the Khamseh, or Quintet, of Nezami about the star-crossed lovers Laili and Majnun and the world-conqueror Iskandar, or Alexander the Great. Emphasis is on close reading and analysis of the linguistic and literary content and style of these works, and discussion of their historical and cultural backgrounds. All readings are in the original Persian. During the course, students will acquire essential skills in the technical requirements of classical Persian poetry, such as prosody, rhyme, and poetic devices.",
+    "exclusions": "NML460Y1",
+    "breadth": 1,
+    "prereq_tree": "NML360Y1"
+  },
+  "NML468H1": {
+    "code": "NML468H1",
+    "name": "Persian Literature: Ethical, Erotic, and Mystical",
+    "hours": "36S",
+    "description": "The companion course to  NML467H1 (Persian Literature: The Epic Tradition). Selected representative readings from the ethical works of Sa\u2018di (Bustan and Gulistan); the mystical parable Mantiq al-tayr of \u2018Attar and the Masnavi-i ma\u2018navi of Rumi; and the ghazals, or mystico-erotic lyrical poems, of Rumi and Hafiz. Emphasis is on close reading and analysis of the linguistic and literary content and style of these works, and discussion of their historical, cultural, and religious backgrounds. All readings are in the original Persian. During the course, students will acquire essential skills related to the technical requirements of classical Persian poetry, such as prosody, rhyme, and poetic devices, as well as an understanding of the key concepts and terminology of Persian Sufism.",
+    "exclusions": "NML460Y1",
+    "breadth": 1,
+    "prereq_tree": "NML360Y1"
+  },
+  "NML470Y1": {
+    "code": "NML470Y1",
+    "name": "Advanced Turkish",
+    "hours": "96L",
+    "description": "This course is designed for students who have already completed  NML370Y1 Intermediate Turkish or have an equivalent level of proficiency in Turkish. It aims to build upon the existing competence of the students in Turkish and to further improve their four skills through a variety of advanced speaking, listening, reading, and writing activities. By the end of this comprehensive course, students will be able to read, understand and translate various authentic texts of different genres such as literary works. They will be able to write essays on a wide range of topics. They will demonstrate the ability to express themselves both orally and in writing through complex grammatical structures and a rich vocabulary. They will also have gained thorough understanding of the social and cultural contexts in which Turkish is spoken. The course will enable students to pursue independent studies in Turkish.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "NML370Y1"
+  },
+  "NML471H1": {
+    "code": "NML471H1",
+    "name": "Selected Readings in Turkish Literature",
+    "hours": "24S",
+    "description": "This course focuses on the analysis of representative examples of both poetry and prose from various periods of Turkish literature. Students will gain familiarity with different literary genres, themes, and traditions. Focusing on major works, the course will enhance students' understanding of the cultural context in which the literature was produced. It will also help students further enrich their vocabulary and improve their grasp of grammatical phenomena.",
+    "exclusions": "NML490H1 (Topics in Near and Middle Eastern Languages: Readings From Modern Turkish Literature and Media), offered in Fall 2021",
+    "breadth": 1,
+    "prereq_tree": "NML370Y1"
+  },
+  "NML490H1": {
+    "code": "NML490H1",
+    "name": "Topics in Near and Middle Eastern Languages",
+    "hours": "36S",
+    "description": "An advanced language seminar organized around grammatical issues or texts selected by the instructor.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "PCJ200H1": {
+    "code": "PCJ200H1",
+    "name": "Introduction to Peace, Conflict and Justice",
+    "hours": "24L/12T",
+    "description": "This course introduces students to the theories, concepts, histories, and actors that are fundamental to the field of peace, conflict, and justice. Students will discuss meanings, causes, obstacles, and sustainability of peace and justice through the discussion of historical and contemporary cases from around the world. Stemming from the interdisciplinary aspect of the field, students will learn a wide range of theoretical, empirical, and policy-oriented perspectives on thematic topics such as protection and violation of human rights, social and economic inequalities, and causes of violence and oppression. This course is intended for first year PCJ students and it serves as a gateway for all other courses offered in the PCJ program. This course is a requirement for PCJ majors and specialists.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "PCJ210H1": {
+    "code": "PCJ210H1",
+    "name": "Research Methods in Peace, Conflict and Justice",
+    "hours": "24L/12T",
+    "description": "This course introduces students to key research methods employed in the study of peace, conflict and justice. It considers both qualitative, quantitative, and mixed-methods research frameworks prominent in PCJ research drawn from a range of disciplines and approaches. Some methods explored in this course might include: descriptive analysis, correlational studies, bivariate or multivariate regression models, surveys, interviews, focus groups, and country case studies. The class teaches students how to read, understand and critique these frameworks and the scholarship they influence/produce. Concepts of internal and external validity, inductive and deductive reasoning, and ethics in research will also be covered. This course is a requirement for PCJ majors and specialists.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "PCJ299H1": {
+    "code": "PCJ299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PCJ299Y1": {
+    "code": "PCJ299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PCJ310H1": {
+    "code": "PCJ310H1",
+    "name": "Data and Applications in PCJ",
+    "hours": "24L/12T",
+    "description": "The goal of this course is to introduce students to data literacy and applications in the topics of peace, conflict, and justice. The course is broadly divided into two parts. The first part will introduce data in the context of peace, conflict, and justice studies and outline the research process. Students will learn advanced quantitative research designs and will work with fundamental descriptive statistics tools. Students will work with different datasets, learn how to summarize data for different types of variables through graphs and tables, and explore measures of association between variables. In the second part of the course, students will work on data projects related to peace, conflict, and justice. Students will also design their own research relevant in PCJ. This course is a requirement for PCJ Specialists.",
+    "exclusions": "PCJ260H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PCJ200H1",
+        "PCJ210H1"
+      ]
+    }
+  },
+  "PCJ350H1": {
+    "code": "PCJ350H1",
+    "name": "The Violence of Inequality: Conflict Dynamics and Power Asymmetries",
+    "hours": "24L/12T",
+    "description": "This course builds on various multi-disciplinary approaches to explore how inequalities shape violence, conflict, and post-conflict dynamics. It teaches students to understand and engage critically in debates in the field and to discover connections between the power structures that shape the emergence of violent conflicts, their dynamics, and their legacies. In addition, this course will offer students practical tools to analyze the intersection of conflict and inequality, as well as the implications of that intersection for pursuing peace. This course is a requirement for PCJ majors and specialists.",
+    "exclusions": "PCJ261H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PCJ200H1",
+        "PCJ210H1"
+      ]
+    }
+  },
+  "PCJ360H1": {
+    "code": "PCJ360H1",
+    "name": "Topics in Peace, Conflict and Justice",
+    "hours": "24L",
+    "description": "This course explores selected issues in the field of Peace, Conflict ands Justice. Topics may vary from year to year. Through a suite of recent readings, students will strive to critically examine implications and challenges of, and solutions to the issues being studied. Please visit the Trudeau Centre for Peace, Conflict and Justice website for current offering information.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PCJ260Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "PCJ260H1",
+            "PCJ261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PCJ361H1": {
+    "code": "PCJ361H1",
+    "name": "Special Topics in Peace, Conflict and Justice Studies",
+    "hours": "24S",
+    "description": "An exploration of selected issues in the field of Peace, Conflict and Justice involving an overseas and/or practicum component.",
+    "exclusions": "PCS361H1,  UNI361Y1",
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PCJ361Y1": {
+    "code": "PCJ361Y1",
+    "name": "Special Topics in Peace and Conflict Studies",
+    "hours": "48S",
+    "description": "An exploration of selected issues in the field of Peace, Conflict and Justice involving an overseas and/or practicum component.",
+    "exclusions": "PCS361H1,  PCS361Y1,  UNI361Y1",
+    "breadth": 3,
+    "prereq_tree": "PCJ260Y1"
+  },
+  "PCJ362H1": {
+    "code": "PCJ362H1",
+    "name": "Experiential Learning in PCJ",
+    "hours": "12T/24S",
+    "description": "This course provides students an opportunity to learn by providing valuable services to local, national, or international organizations. This model of experiential learning is called organization partner experiences, in which students work in teams on a project that is of relevance to the partner organization. The overarching theme in this course is inclusion through access to public services. Access to public services such as education, health, and public provision of services is one of the most important ways in which disadvantaged populations experience upward socioeconomic mobility. Students will gain insights about inequality of access to public service, conduct critical analysis of current issues, and produce deliverables to understand issues of socio-economic inequality in societies around the world.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PCJ200H1",
+        "PCJ210H1",
+        "PCJ350H1"
+      ]
+    }
+  },
+  "PCJ380H1": {
+    "code": "PCJ380H1",
+    "name": "Justice Institutions: Crime, Violence, and Insecurity",
+    "hours": "24S",
+    "description": "This course examines the role of institutions that respond to crime and violence. We study the role of institutional actors centering on criminal justice: we focus in particular on criminal justice institutions, but also community organizations, government agencies, international organizations, journalists, and others\u2013in identifying, naming, and acting upon crime and violence. We also study the strategies these institutions adopt in responding to crime, violence, and insecurity, along with evidence about how they do so and outcomes of their interventions. Finally, we attend to the relationship between criminal justice and other social outcomes, including health and well-being, collective memory, skepticism, social movements, and civic participation. Throughout the course we rely on a wide range of materials, so that in most weeks students will engage with a combination of perspectives, including social science research, legal materials, testimonies, official documents, and journalistic accounts.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PCJ200H1",
+        "PCJ210H1"
+      ]
+    }
+  },
+  "PCJ399H1": {
+    "code": "PCJ399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PCJ399Y1": {
+    "code": "PCJ399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PCJ410H1": {
+    "code": "PCJ410H1",
+    "name": "Research Paper Seminar in PCJ",
+    "hours": "24S",
+    "description": "This course guides each student through their own individual research project, embedded in an interactive group learning process, to offer an applied introduction to research methods for peace, conflict and justice studies. Students work through the research in the field of peace, conflict and justice studies, such as: identifying a research question, learning how to write a critical literature review, developing a rigorous research design, and applying quantitative, qualitative, or mixed methods to answering research inquires. The final deliverable is a draft of a research proposal or an empirical research-based paper. This course is a requirement for PCJ Specialists and open to PCJ Majors with approval from the Director.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PCJ200H1",
+        "PCJ210H1",
+        "PCJ350H1"
+      ]
+    }
+  },
+  "PCJ444H1": {
+    "code": "PCJ444H1",
+    "name": "Special Topics in Peace and Conflict Studies",
+    "hours": null,
+    "description": "Topics vary annually. The objective of the course is to explore emerging issues in Peace and Conflict Studies. The focus of the course will be on a specific topic, rather than a broad survey of the field.",
+    "exclusions": "PCS444H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PCJ260Y1",
+        "PCJ360Y1"
+      ]
+    }
+  },
+  "PCJ460H1": {
+    "code": "PCJ460H1",
+    "name": "Advanced Topics in Peace, Conflict and Justice",
+    "hours": "24S",
+    "description": "This course explores selected issues in the field of Peace, Conflict and Justice. Topics may vary from year to year. Through a suite of recent readings, students will strive to critically examine implications and challenges of, and solutions to the issues being studied. Please visit the Trudeau Centre for Peace, Conflict and Justice website for current offering information.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PCJ360H1",
+        "PCJ362H1"
+      ]
+    }
+  },
+  "PCJ461H1": {
+    "code": "PCJ461H1",
+    "name": "Research Methods in Peace, Conflict and Justice",
+    "hours": "48S",
+    "description": "This course guides each student through their own individual research project, embedded in an interactive group learning process, in order to offer an applied introduction to research methods for peace, conflict and justice studies. Students work through the full research process, including: identifying a research question, learning how to conduct effective literature reviews, developing a rigorous research design, and applying quantitative and qualitative methods to answering questions. Rather than conducting research independently or studying research methods in isolation, the course combines the two: students learn collectively about the different steps in the research process while simultaneously applying those steps to their own research project. This is then complemented by presenting that research and discussing different research projects in class, so as to receive continuous feedback and be exposed to a variety of research methods and approaches.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "PCJ499H1": {
+    "code": "PCJ499H1",
+    "name": "Peace and Conflict Studies Independent Study Course",
+    "hours": null,
+    "description": "This course is designed to provide students with the opportunity to explore topics not covered in the curriculum, or to develop a more detailed focus on topics covered. Approval of the program director is required. The student must obtain written agreement of the instructor who will supervise the independent study, submit the proposal to and obtain approval from the director and program administrator, who will then add the student to the course. Not eligible for CR/NCR option. Applications are due two weeks before course enrolment deadlines.",
+    "exclusions": "PCS499H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PCJ260Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "PCJ260H1",
+            "PCJ261H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PCL102H1": {
+    "code": "PCL102H1",
+    "name": "The Art of Drug Discovery",
+    "hours": "24L",
+    "description": "This course introduces students to the processes and strategies for discovering new drugs with a special focus on current and emerging approaches for the rational design of drugs that are both effective and safe.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "PCL200H1": {
+    "code": "PCL200H1",
+    "name": "Drugs & the Brain",
+    "hours": "24L",
+    "description": "Lectures introduce students to prescribed and illicit drugs that affect the brain. Lectures cover drug pharmacology and explain how drugs alter mood, perception, cognition, and arousal by affecting different aspects of brain function. The societal impact of these prescribed and illicit drugs is also discussed. Note: This course is not intended for upper-year students in Life Sciences. Upper-year Life Science students interested in this content should look into  PCL475H1 and/or  PCL476H1 as the more appropriate choice.",
+    "exclusions": "PSY396H1,  PSYC62H3",
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "PCL201H1": {
+    "code": "PCL201H1",
+    "name": "Introduction to Pharmacology and Pharmacokinetic Principles",
+    "hours": "36L/6T",
+    "description": "A general introduction to the principles of pharmacology and pharmacokinetics. Topics include chemical (drug) absorption, distribution, biotransformation, elimination; the calculation of dosages and pharmacokinetic parameters, variability in drug response, adverse drug reactions and special interest topics.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO130H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BIO152H5",
+            {
+              "credits": 6.0,
+              "department": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PCL218H1": {
+    "code": "PCL218H1",
+    "name": "Cannabis the Drug",
+    "hours": "24L",
+    "description": "There is a critical need for a breadth of understanding regarding its mechanism of action, pharmacological effects and its potential benefits and harms (short- and long-term). Students will gain a breadth of understanding in cannabis-related topics including pharmacology and toxicology, its role in mental health and addictions, medical use, drug policy and new drug development that stems from increased access to cannabis constituents. They will learn to differentiate myths and anecdotes from evidence-based knowledge. Going forward it is imperative that students spanning basic sciences through business, arts and engineering have a comprehensive understanding of these topics.  PCL218H1 will give students for a variety of academic backgrounds a basic understanding of the health implications of cannabis which have broad implications for both our professional and personal lives.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "PCL297H1": {
+    "code": "PCL297H1",
+    "name": "Research Experience in Pharmacology & Toxicology I",
+    "hours": "60P",
+    "description": "A formal opportunity to gain hands-on experience and develop their skills within a research laboratory setting. Students will have a chance to become familiar and efficient at good lab practices, develop critical thinking and evaluation skills while applying their knowledge and developing trouble shooting skills to practical research questions. Students are required to participate in active research for the equivalent of a minimum of 60 hours of laboratory time. This course is Pass/Fail. Not eligible for CR/NCR option. NOTE: students are required to secure their own supervisor for the course. Permission of Faculty Supervisor and Department required. Additional student information resources and enrollment form for the course can be found on the Pharmacology & Toxicology website here: https://pharmtox.utoronto.ca/undergraduate-courses",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "PCL298H1": {
+    "code": "PCL298H1",
+    "name": "Research Experience in Pharmacology & Toxicology II",
+    "hours": "60P",
+    "description": "Following experience from  PCL297H1, this follow up course provides students an opportunity to expand their hands-on experience and skill set within a research laboratory setting. This course is only open to students who have completed  PCL297H1 and wish to continue their research opportunity with the same supervisor. Students will continue to develop good lab practices, critical thinking and evaluation skills while applying their knowledge and trouble shooting skills to practical research questions. Students are required to participate in active research for the equivalent of a minimum of 60 hours of laboratory time. Not eligible for CR/NCR option. NOTE: students are required to secure their own supervisor for the course. Permission of Faculty Supervisor and Department required. Additional student information resources and enrollment form for the course can be found on the Pharmacology & Toxicology website here: https://pharmtox.utoronto.ca/undergraduate-courses",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PCL297H1",
+        "PCL297H1"
+      ]
+    }
+  },
+  "PCL299H1": {
+    "code": "PCL299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PCL299Y1": {
+    "code": "PCL299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PCL302H1": {
+    "code": "PCL302H1",
+    "name": "Pharmacodynamic Principles",
+    "hours": "36L",
+    "description": "Topics include biological action of drugs on membranes, enzymes, receptors, neural and hormonal systems, transmission and modulation.",
+    "exclusions": "PHC300H1,  PHC301H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PSL300H1",
+        "PSL301H1"
+      ]
+    }
+  },
+  "PCL345H1": {
+    "code": "PCL345H1",
+    "name": "Experimental Approaches in Drug Discovery",
+    "hours": "24L",
+    "description": "Lecturers use their own research to demonstrate how they approach a biological question. The lectures emphasize why one approach is chosen over other possible approaches, and explain the strengths and limitations of techniques. Following the one-hour lecture there is an interactive discussion of the experimental approach covered in the lecture.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSL300H1",
+        "PSL301H1",
+        "BIO270H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BIO271H1",
+            {
+              "credits": 9.0,
+              "department": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PCL367H1": {
+    "code": "PCL367H1",
+    "name": "Drug Development Pipeline I: In vitro",
+    "hours": "8T/40P",
+    "description": "This course will provide a learning experience that simulates the process, techniques, analysis and evaluation methods used for early-stage in vitro drug development. Modules will build on the student\u2019s fundamental knowledge and will simulate and illustrate the thought processes and techniques that are used during new drug development in academic research institutes, clinical research organizations and pharmaceutical and biotechnology companies worldwide. Modules include target screening, cytotoxicity assays, transcriptional activation testing and metabolizing enzyme identification experiments. This experience will allow students to leverage their learned knowledge to improve their employability in this area, while honing their critical thinking and analytical skills. (Approximate Lab Materials Fee: $27)",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        "PSL300H1",
+        "PSL301H1"
+      ]
+    }
+  },
+  "PCL368H1": {
+    "code": "PCL368H1",
+    "name": "Drug Development Pipeline II: In vivo",
+    "hours": "8T/40P",
+    "description": "This course will provide a learning experience that parallels and simulates the process, protocols, methods and evaluation tools used for later-stage in vivo drug development. Modules will build on the student\u2019s fundamental knowledge and simulate the thought processes and techniques used during drug development in research institutes, clinical research organizations and pharmaceutical and biotechnology companies worldwide. Modules will include pharmacokinetic and pharmacogenetic screening approaches in model systems and humans, and students will participate in Randomized Controlled Trial (RCT) studies. Students will also gain insight into current large-data computational research approaches in the pharmaceutical industry, broaching topics such as data science and bioinformatics. This experience will allow students to leverage their learned skills and knowledge to improve their comprehension and employability in this area, while honing critical thinking and analytical skills. (Approximate Lab Materials Fee: $27)",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PSL300H1",
+        "PSL301H1",
+        "PCL201H1",
+        "PCL302H1"
+      ]
+    }
+  },
+  "PCL376H1": {
+    "code": "PCL376H1",
+    "name": "Experimental Design and Data Analysis for Pharmacology and Toxicology",
+    "hours": "30L/6T",
+    "description": "This course includes lectures focused on experimental design and the analysis of pharmacological and toxicological data. Topics include: principles of experimental design, data analysis and statistical tests appropriate for each type, use of computing statistical packages, analysis of dose-response and time-response curves and analysis of receptor binding assays. Practical applications and problem sets will be taken up in class and in tutorials. Not offered every year.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": "PCL201H1"
+  },
+  "PCL381H1": {
+    "code": "PCL381H1",
+    "name": "Molecular Toxicology Foundations",
+    "hours": "24L/24T",
+    "description": "This course introduces toxicology principles and the molecular basis underlying the toxicity of drugs and other chemicals. Lectures cover modulators of toxicity, toxicant-target interactions and the sequence of events that occur at a molecular level leading to impaired cell function.",
+    "exclusions": "PCL481H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO130H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BIO152H5",
+            "PCL201H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PCL382H1": {
+    "code": "PCL382H1",
+    "name": "Integrative Toxicology",
+    "hours": "24L/12T",
+    "description": "The routes and toxicokinetics/time course of toxicological insults disrupts and damages tissues and organs resulting in adverse outcomes, worsening clinical outcomes and triggering new pathologies and disorder. This course engages students in comprehensive and broad organ and system-based toxicology and its effects on human health.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PCL201H1",
+        "PCL302H1",
+        "PCL381H1"
+      ]
+    }
+  },
+  "PCL386H1": {
+    "code": "PCL386H1",
+    "name": "Pharmacology of Cancer Signaling",
+    "hours": "24L",
+    "description": "This course will expand on both classical and cutting edge pharmacological strategies proposed to mitigate the consequences of altered signal transduction in cancer. Students will have the opportunity to develop knowledge on these molecular events and how they can be targeted to improve clinical outcomes. Students will integrate lecture material with assigned readings and assignments.",
+    "exclusions": "PCL486H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH210H1",
+        "BCH242Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "CHM361H5",
+            "CHM362H5",
+            {
+              "credits": 9.0,
+              "department": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PCL389H1": {
+    "code": "PCL389H1",
+    "name": "Understanding the Role of Pharmacology and Toxicology in Society",
+    "hours": "24L",
+    "description": "This service learning course explores issues surrounding the effects that pharmaceuticals and chemicals have in society. Specifically, it integrates pharmacology and toxicology with social, health and political issues as they relate to drug abuse and addiction. Students are required to interact and work with community partners during the semester (approx. 20hrs). Classroom discussions will integrate community experiences with lecture material. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PCL201H1",
+        "PSL300H1",
+        "PSL301H1"
+      ]
+    }
+  },
+  "PCL397Y0": {
+    "code": "PCL397Y0",
+    "name": "Research Abroad in Pharmacology and Toxicology",
+    "hours": "200P",
+    "description": "An independent research project in a pharmacology and/or toxicology laboratory in an approved partner university. This international research experience will be supervised by a faculty member at the partner institution and will allow students to develop critical thinking and evaluation skills while applying their knowledge and trouble shooting skills to practical research questions. Information regarding eligibility, application process and upcoming information session dates can be found on the Department of Pharmacology and Toxicology website here:  PCL397Y0 Website. Not eligible for CR/NCR option. Contact undergrad.pharmtox@utoronto.ca for more information.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PCL201H1",
+        "PSL300H1",
+        "PSL301H1"
+      ]
+    }
+  },
+  "PCL397Y1": {
+    "code": "PCL397Y1",
+    "name": "Research Abroad in Pharmacology and Toxicology",
+    "hours": "200P",
+    "description": "An independent research project in a pharmacology and/or toxicology research laboratory for inbound exchange students coming to the University of Toronto from an approved partner university. This research experience will be supervised by a faculty member and will allow students to develop critical thinking, communication and evaluation skills while applying their knowledge and trouble shooting skills within leading edge research questions. Information regarding eligibility, application process and upcoming information session dates can be found on the Department of Pharmacology and Toxicology website here:  PCL397Y1 Website. Not eligible for CR/NCR option. Contact undergrad.pharmtox@utoronto.ca or the Centre for International Experience https://internationalexperience.utoronto.ca/ for more information.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "credits": 8.0,
+      "department": ""
+    }
+  },
+  "PCL399H1": {
+    "code": "PCL399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PCL399Y1": {
+    "code": "PCL399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PCL402H1": {
+    "code": "PCL402H1",
+    "name": "Pharmacology and Toxicology in Drug Development",
+    "hours": "24L/12T",
+    "description": "This course provides the basic principles of drug development, with a primary focus on the application of fundamental principles of pharmacology and toxicology to the design of preclinical assays and early phase clinical trials. Students in the course will have the opportunity to engage in experiential learning in drug development projects for rare diseases.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PCL201H1",
+        "PCL302H1"
+      ]
+    }
+  },
+  "PCL469H1": {
+    "code": "PCL469H1",
+    "name": "Systems Pharmacology I",
+    "hours": "31L/4T",
+    "description": "A culmination of pharmacological principles discussing concepts of drug properties and their interactions within the body. The mechanism of action, pharmacological properties including clinical use and adverse effects of drugs acting on the autonomic nervous systems, cardiovascular, renal, respiratory, gastrointestinal and endocrine systems will be examined. Critical evaluation of primary literature and examination of clinical problem-based case studies will be integrated with lecture material through small group sessions.",
+    "exclusions": "PCL470Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PCL201H1",
+        "PCL302H1",
+        "PSL300H1",
+        "PSL301H1"
+      ]
+    }
+  },
+  "PCL470H1": {
+    "code": "PCL470H1",
+    "name": "Systems Pharmacology II",
+    "hours": "31L/4T",
+    "description": "A culmination of pharmacological principles discussing concepts of drug properties and their interactions within the body. The mechanism of action, pharmacological properties including clinical use and adverse effects of drugs acting on the central nervous systems and immunological system; antimicrobial and cancer chemotherapeutic agents as well as the potential therapeutic use of endogenous/herbal compounds will be examined. Critical evaluation of primary literature and examination of clinical problem-based case studies will be integrated with lecture material through small group sessions.",
+    "exclusions": "PCL470Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PCL201H1",
+        "PCL302H1",
+        "PSL300H1",
+        "PSL301H1",
+        {
+          "credits": 14.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "PCL472Y1": {
+    "code": "PCL472Y1",
+    "name": "Project in Pharmacology",
+    "hours": null,
+    "description": "This course affords students an opportunity for hands-on research experience in a laboratory or applied pharmacology setting. Students will work under the supervision of a faculty member and will submit a final written report and oral presentation. Enrollment is limited to students in ASSPE2340/ASSPE2082 programs and requires permission from the Department of Pharmacology and Toxicology. It is the student\u2019s responsibility to secure a placement with an approved supervisor before the course begins (a list of potential supervisors will be provided by the Department of Pharmacology and Toxicology). Students will be registered in the course once their ballot form (obtained from the Department) is signed by an approved supervisor and approved by the Department of Pharmacology and Toxicology. Eligible students will be contacted by the Department during the Winter term, occurring prior to their final year of study (i.e. 3rd year of study for most), with details and instructions to apply. Students are expected to spend approximately 200 hours towards this project but this will be project/supervisor dependent. Not eligible for CR/NCR option.",
+    "exclusions": "PCL474Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "PCL201H1",
+            "PCL302H1",
+            "PCL367H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PCL368H1",
+            "STA288H1"
+          ]
+        },
+        "STA220H1",
+        "PSY201H1"
+      ]
+    }
+  },
+  "PCL474Y1": {
+    "code": "PCL474Y1",
+    "name": "Project in Toxicology",
+    "hours": null,
+    "description": "This course affords students an opportunity for hands-on research experience in a laboratory or applied toxicology setting. Students will work under the supervision of a staff member and will submit a final written report and oral presentation. Enrollment is limited to students in ASSPE2340/ASSPE2573/ASSPE0605 programs and requires permission from the Department of Pharmacology and Toxicology. It is the student\u2019s responsibility to secure a placement with an approved supervisor before the course begins (a list of potential supervisors will be provided by the Department of Pharmacology and Toxicology). Students will be registered in the course once their ballot form (obtained from the Department) is signed by an approved supervisor and approved by the Department of Pharmacology and Toxicology. Eligible students will be contacted by the Department during the Winter term, occurring prior to their final year of study (i.e. 3rd year of study for most), with details and instructions to apply. Students are expected to spend approximately 200 hours towards this project but this will be project/supervisor dependent. Not eligible for CR/NCR option.",
+    "exclusions": "PCL472Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "PCL201H1",
+            "PCL302H1",
+            "PCL367H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PCL368H1",
+            "STA288H1"
+          ]
+        },
+        "STA220H1",
+        "PSY201H1"
+      ]
+    }
+  },
+  "PCL475H1": {
+    "code": "PCL475H1",
+    "name": "Neuropsychopharmacology 1",
+    "hours": "36L/12T",
+    "description": "This course examines drugs whose primary effect is to alter the operation of the brain and mind (cognition, emotion). Key topics include the neurophysiology of: Pain, Anesthesia, Psychoactive Drug Effects, Addiction, Epilepsy, and Psychomotor Control. The brain mechanisms that mediate each of these processes or syndromes will be described along with pharmacological strategies to probe and regulate them. Chronic drug effects will be discussed to illustrate how the brain changes with ongoing exposure to different drugs.",
+    "exclusions": "PCL475Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "PCL476H1": {
+    "code": "PCL476H1",
+    "name": "Neuropsychopharmacology 2",
+    "hours": "36L/12T",
+    "description": "Students will explore the major CNS neurological syndromes which may include anxiety, schizophrenia and depression/mania and their relate neurological abnormalities. Lectures will discuss major classes of drugs used to mitigate and treat these disorders, their mechanisms of action, clinical use and unwanted effects.\u00a0Not offered every year.",
+    "exclusions": "PCL475Y1,  PSY396H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        "PCL475H1"
+      ]
+    }
+  },
+  "PCL477H1": {
+    "code": "PCL477H1",
+    "name": "The DNA Damage Response in Pharmacology and Toxicology",
+    "hours": "24L",
+    "description": "Many anticancer drugs and environmental agents exert their cytotoxic effects through DNA damage. This course explores specific pharmacological and toxicological agents that damage DNA and discusses how mammalian cells respond to this DNA damage.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH210H1",
+        "BCH242Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "CHM361H5",
+            "CHM362H5",
+            {
+              "credits": 9.0,
+              "department": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PCL482H1": {
+    "code": "PCL482H1",
+    "name": "Toxicants of Concern",
+    "hours": "24L",
+    "description": "This course explores several contemporary topics in biomedical toxicology with an emphasis on how chemicals adversely affect human health. Lectures cover principles of toxicology and the mechanisms of toxicity of major groups of chemical toxicants and biological toxins, including heavy metals, industrial pollutants, biological toxins and nanomaterials.",
+    "exclusions": "PCL473Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 14.0,
+          "department": ""
+        },
+        "PCL201H1",
+        "PCL302H1",
+        "PCL381H1",
+        "PCL382H1"
+      ]
+    }
+  },
+  "PCL483H1": {
+    "code": "PCL483H1",
+    "name": "Interdisciplinary Toxicology",
+    "hours": "24L",
+    "description": "This course explores several contemporary topics in biomedical and environmental toxicology with an emphasis on the applications and methodologies within toxicology. Course content includes risk assessments, adverse drug reaction monitoring, forensics and regulator toxicology.",
+    "exclusions": "PCL473Y1",
+    "breadth": 4,
+    "prereq_tree": "PCL482H1"
+  },
+  "PCL484H1": {
+    "code": "PCL484H1",
+    "name": "Seminars in Pharmacokinetics and Toxicokinetics",
+    "hours": "24S",
+    "description": "Each week a scientist affiliated with the Department of Pharmacology and Toxicology will discuss the application of pharmacokinetic and/or toxicokinetic principles to their research. This area of study plays an important role in clinical medicine and drug development",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": "PCL201H1"
+  },
+  "PCL490H1": {
+    "code": "PCL490H1",
+    "name": "Advanced Topics in Pharmacology and Toxicology",
+    "hours": "12L/12S",
+    "description": "An opportunity to expand on innovative and unique topics in Pharmacology and Toxicology that are not already extensively addressed. The course will reveal the dynamic nature of the field and the diverse interests of our faculty. Students will be introduced to leading edge topics and research within the discipline of Pharmacology and Toxicology.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "PCL302H1",
+            "STA288H1"
+          ]
+        },
+        "STA220H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PSY201H1",
+            {
+              "credits": 14.0,
+              "department": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PCL497H1": {
+    "code": "PCL497H1",
+    "name": "Advanced Research in Pharmacology or Biomedical Toxicology",
+    "hours": "60P",
+    "description": "Following experience from  PCL472Y1 or  PCL474Y1, this course provides students an opportunity to continue to expand and develop their research skills and knowledge within a research laboratory or applied pharmacology setting. Students will develop advanced collaboration skills, good lab practices, scientific literacy, critical thinking and evaluation skills while applying their knowledge and trouble shooting skills to practical research questions. Written and oral communication skills as well as laboratory skills will comprise course assessments. Students are required to participate in active research for the equivalent of a minimum of 60 hours of laboratory time. NOTE: As this is an opportunity to continue their experience within the same  PCL472Y1/ PCL474Y1 research laboratory/supervisor. Not eligible for CR/NCR option.",
+    "exclusions": "PCL498Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PCL472Y1",
+        "PCL474Y1"
+      ]
+    }
+  },
+  "PCL498Y1": {
+    "code": "PCL498Y1",
+    "name": "Advanced Research in Pharmacology or Biomedical Toxicology",
+    "hours": "200P",
+    "description": "Following experience from  PCL472Y1 or  PCL474Y1, this course provides students an opportunity to continue to expand and develop their research skills and knowledge within a research laboratory or applied pharmacology setting. Students will develop advanced collaboration skills, good lab practices, scientific literacy, critical thinking and evaluation skills while applying their knowledge and trouble shooting skills to practical research questions. Written and oral communication skills as well as laboratory skills will comprise course assessments. Students are required to participate in active research and related activities for the equivalent of a minimum of 200 hours of laboratory time. NOTE: As this is an opportunity to continue their research, students are required to continue within the same  PCL472Y1/ PCL474Y1 research laboratory/supervisor. Not eligible for CR/NCR option.",
+    "exclusions": "PCL497H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PCL472Y1",
+        "PCL474Y1"
+      ]
+    }
+  },
+  "PDC220H1": {
+    "code": "PDC220H1",
+    "name": "Arts & Science Internship Program - Maximizing Your Experience",
+    "hours": null,
+    "description": "This course is a mandatory component of the Arts & Science Internship Program (ASIP) for students admitted to the ASIP stream of their program for Year 2, and students admitted for Year 2 must successfully complete this course and receive a passing grade to gain access to the ASIP job board. The course will provide an opportunity for students to prepare for and maximize their learning and personal development through ASIP. Topics may include: self-assessment \u2013 skills, values, interests; building a career and co-op plan; skills articulation \u2013 how to identify, articulate and apply skills gained through courses and other life experiences; personal marketing documents; guided self-reflection on barriers to employment; resources and toolkits to support access for all; and co-op student panels. This course does not carry credit weight and is evaluated as Credit/No Credit. No tuition fee is associated, however an ancillary fee will be assessed. Refer to the ASIP Fees & Financial Aid website for further details. Students who enrolled in the ASIP stream of their program in Year 3 should enrol in  PDC230H1.",
+    "exclusions": "PDC230H1",
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PDC221H1": {
+    "code": "PDC221H1",
+    "name": "Arts & Science Internship Program - Essential Skills for ASIP Success",
+    "hours": null,
+    "description": "This course is a mandatory component of the Arts & Science Internship Program (ASIP) for students admitted to the ASIP stream of their program for Year 2, and students admitted for Year 2 must successfully complete this course and receive a passing grade before starting their first work term. The course will help students prepare for their first work term and optimize their chances of success in the first recruitment cycle. Topics may include: ASIP guidelines and requirements, resume and cover letter tailoring, professionalism essentials, job search essentials, interview preparation, workplace rights, health and wellbeing while in ASIP, and accessibility and EDI considerations. This course does not carry credit weight and is evaluated as Credit/No Credit. No tuition fee is associated, however an ancillary fee will be assessed. Refer to the ASIP Fees & Financial Aid website for further details.\u00a0 Students who enrolled in the ASIP stream of their program in Year 3 should enrol in  PDC231H1.",
+    "exclusions": "PDC231H1",
+    "breadth": null,
+    "prereq_tree": "PDC220H1"
+  },
+  "PDC230H1": {
+    "code": "PDC230H1",
+    "name": "Arts & Science Internship Program - Maximizing Your Experience",
+    "hours": null,
+    "description": "This course is a mandatory component of the Arts & Science Internship Program (ASIP) for students admitted to the ASIP stream of their program for Year 3, and students admitted for Year 3 must successfully complete this course and receive a passing grade to gain access to the ASIP job board. The course will provide an opportunity for students to prepare for and maximize their learning and personal development through ASIP. Topics may include: self-assessment \u2013 skills, values, interests; building a career and co-op plan; skills articulation \u2013 how to identify, articulate and apply skills gained through courses and other life experiences; personal marketing documents; guided self-reflection on barriers to employment; resources and toolkits to support access for all; and co-op student panels. This course does not carry credit weight and is evaluated as Credit/No Credit. No tuition fee is associated, however an ancillary fee will be assessed. Refer to the ASIP Fees & Financial Aid website for further details. Students who enrolled in the ASIP stream of their program in Year 2 should enrol in  PDC220H1.",
+    "exclusions": "PDC220H1",
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PDC231H1": {
+    "code": "PDC231H1",
+    "name": "Arts & Science Internship Program - Essential Skills for ASIP Success",
+    "hours": null,
+    "description": "This course is a mandatory component of the Arts & Science Internship Program (ASIP) for students admitted to the ASIP stream of their program for Year 3, and students admitted for Year 3 must successfully complete this course and receive a passing grade before starting their first work term. The course will help students prepare for their first work term and optimize their chances of success in the first recruitment cycle. Topics may include: ASIP guidelines and requirements, resume and cover letter tailoring, professionalism essentials, job search essentials, interview preparation, workplace rights, health and wellbeing while in ASIP, and accessibility and EDI considerations. This course does not carry credit weight and is evaluated as Credit/No Credit. No tuition fee is associated, however an ancillary fee will be assessed. Refer to the ASIP Fees & Financial Aid website for further details. Students who enrolled in the ASIP stream of their program in Year 2 should enrol in  PDC221H1.",
+    "exclusions": "PDC221H1",
+    "breadth": null,
+    "prereq_tree": "PDC230H1"
+  },
+  "PDC320H1": {
+    "code": "PDC320H1",
+    "name": "Arts & Science Internship Program - Professional Skill Development I",
+    "hours": null,
+    "description": "This course is a mandatory component of the Arts & Science Internship Program (ASIP) for students admitted to the ASIP stream of their program for Year 2. Students admitted for Year 2 must successfully complete this course to graduate from the ASIP Stream of their program of study. The course will help students build transferable skills essential for success in the workplace and in the evolving world of work. The course will also support and help guide students through the next recruitment cycle. Topics may include: post work-term reflection (if applicable), advanced interview skills, job search support for recruitment cycle II, and skills development modules. Skills development modules may include: design thinking, intercultural communication, problem solving, conflict resolution, universal design and ethical and sustainability-minded decision making. This course does not carry credit weight and is evaluated as Credit/No Credit. No tuition fee is associated, however an ancillary fee will be assessed. Refer to the ASIP Fees & Financial Aid website for further details. Students who enrolled in the ASIP stream of their program in Year 3 should enrol in  PDC330H1.",
+    "exclusions": "PDC330H1",
+    "breadth": null,
+    "prereq_tree": "PDC221H1"
+  },
+  "PDC321H1": {
+    "code": "PDC321H1",
+    "name": "Arts & Science Internship Program - Professional Skill Development II",
+    "hours": null,
+    "description": "This course is a mandatory component of the Arts & Science Internship Program (ASIP) for students admitted to the ASIP stream of their program for Year 2. Students admitted for Year 2 must successfully complete this course to graduate from the ASIP Stream of their program of study. The course will help students build transferable skills essential for success in the workplace and in the evolving world of work. The course will also support and help guide students through the next recruitment cycle. Topics will include: job search support for recruitment cycle II and skills development modules. Skills development modules topics will continue from  PDC320H1, with an additional focus on: Project management skills including, Problem Solving and Critical Thinking, Teamwork and Leadership, Goal Setting and Planning, professional responsibility, workplace organization skills, workplace writing and communication. This course does not carry credit weight and is evaluated as Credit/No Credit. No tuition fee is associated, however an ancillary fee will be assessed. Refer to the ASIP Fees & Financial Aid website for further details. Students who enrolled in the ASIP stream of their program in Year 3 should enrol in  PDC331H1.",
+    "exclusions": "PDC331H1",
+    "breadth": null,
+    "prereq_tree": "PDC320H1"
+  },
+  "PDC330H1": {
+    "code": "PDC330H1",
+    "name": "Arts & Science Internship Program - Professional Skill Development I",
+    "hours": null,
+    "description": "This course is a mandatory component of the Arts & Science Internship Program (ASIP) for students admitted to the ASIP stream of their program for Year 3. Students admitted for Year 3 must successfully complete this course to graduate from the ASIP Stream of their program of study. The course will help students build transferable skills essential for success in the workplace and in the evolving world of work. The course will also support and help guide students through the next recruitment cycle. Topics may include: post work-term reflection (if applicable), advanced interview skills, job search support for recruitment cycle II, and skills development modules. Skills development modules may include: design thinking, intercultural communication, problem solving, conflict resolution, universal design and ethical and sustainability-minded decision making. This course does not carry credit weight and is evaluated as Credit/No Credit. No tuition fee is associated, however an ancillary fee will be assessed. Refer to the ASIP Fees & Financial Aid website for further details. Students who enrolled in the ASIP stream of their program in Year 2 should enrol in  PDC320H1.",
+    "exclusions": "PDC320H1",
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PDC331H1": {
+    "code": "PDC331H1",
+    "name": "Arts & Science Internship Program - Professional Skill Development II",
+    "hours": null,
+    "description": "This course is a mandatory component of the Arts & Science Internship Program (ASIP) for students admitted to the ASIP stream of their program for Year 3. Students admitted for Year 3 must successfully complete this course to graduate from the ASIP Stream of their program of study. The course will help students build transferable skills essential for success in the workplace and in the evolving world of work. The course will also support and help guide students through the next recruitment cycle. Topics will include: job search support for recruitment cycle II and skills development modules. Skill development topics will continue from  PDC330H1, with an additional focus on: Project management skills including, Problem Solving and Critical Thinking, Teamwork and Leadership, Goal Setting and Planning, professional responsibility, workplace organization skills, workplace writing and communication. This course does not carry credit weight and is evaluated as Credit/No Credit. No tuition fee is associated, however an ancillary fee will be assessed. Refer to the ASIP Fees & Financial Aid website for further details. Students who enrolled in the ASIP stream of their program in Year 2 should enrol in  PDC321H1.",
+    "exclusions": "PDC321H1",
+    "breadth": null,
+    "prereq_tree": "PDC330H1"
+  },
+  "PHC230H1": {
+    "code": "PHC230H1",
+    "name": "Pharmaceutics 1",
+    "hours": "36L/12T",
+    "description": "This course introduces the key concepts in the design, manufacture, and use of efficacious dosage forms. The characteristics of different delivery routes are discussed. The course focuses on the role of pharmaceutics in drug development, and the role of anatomy and physiology in the conception and design of effective dosage forms. Topics covered include biopharmaceutical considerations, pharmaceutical solutions, sterilization theories and techniques, complexation and solubility enhancement, pre-formulation, colloids and dispersions, powders and micromeritics, and solid-state properties. Students will gain an appreciation of how the properties of drug components (such as pH, salt concentration, co-solvents, sterility, colloids, dispersions, powders, and solids) determine the stability, solubility, and efficacy of drug products.",
+    "exclusions": "PHM141H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "CHM135H1",
+            "CHM136H1"
+          ]
+        },
+        "CHM151Y1",
+        "CHM220H1",
+        "CHM222H1"
+      ]
+    }
+  },
+  "PHC300H1": {
+    "code": "PHC300H1",
+    "name": "Molecular Pharmacology 1",
+    "hours": "24L/12T",
+    "description": "Structural and mechanistic determinants of drug action at the molecular level. Topics include the physical-chemical properties of drugs per se as they relate to therapeutic intervention and the biophysical and biochemical properties of enzymes and nucleic acids that underlie and are affected by their interactions with drugs.",
+    "exclusions": "PCL302H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "CHM135H1",
+            "CHM136H1"
+          ]
+        },
+        "CHM151Y1",
+        "CHM220H1",
+        "CHM222H1"
+      ]
+    }
+  },
+  "PHC301H1": {
+    "code": "PHC301H1",
+    "name": "Molecular Pharmacology 2",
+    "hours": "36L/12T",
+    "description": "Structural and mechanistic determinants of drug action via macromolecules that effect cellular signalling. Neurohumoral receptors and other signalling proteins are grouped according to their structure and mechanism of action. Native properties and their modulation by drugs are discussed in the context of basic principles of molecular pharmacology.",
+    "exclusions": "PCL302H1,  PHM140H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "CHM135H1",
+            "CHM136H1"
+          ]
+        },
+        "CHM151Y1",
+        "CHM220H1",
+        "CHM222H1",
+        "BCH210H1"
+      ]
+    }
+  },
+  "PHC320H1": {
+    "code": "PHC320H1",
+    "name": "Chemistry and Technologies in Drug Discovery",
+    "hours": "36L",
+    "description": "This course provides interdisciplinary learning related to the chemistry of drugs and technologies of drug discovery as they are related to small molecules and biologics, their mechanisms of action, and the latest trends in the field of pharmaceuticals. Various important concepts such as structure-activity relationships, drug-like properties, computer modelling, combinatorial chemistry, small molecule drugs, biologics and related aspects in relation to new drugs will be covered. Novel concepts such as artificial intelligence in drug discovery will be introduced. After completing this course, students may practice entry-level medicinal chemistry with sound synthetic chemistry acquired from other chemistry courses, or take advanced courses in medicinal chemistry, drug discovery, and specialized courses in drug development. Students will also have a deeper understanding of drug discovery and development.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BCH210H1",
+            "CHM247H1"
+          ]
+        },
+        "CHM249H1"
+      ]
+    }
+  },
+  "PHC330H1": {
+    "code": "PHC330H1",
+    "name": "Pharmaceutics 2",
+    "hours": "36L/12T",
+    "description": "This course provides an understanding of advanced topics in pharmaceutics. It involves a detailed examination of the material properties of pharmaceuticals and the role of cellular processes in the delivery of a drug to its site of action. Selected topics include thermodynamic characterization of drug solubility, diffusion measurement and its use in pharmaceutics, liposomal drug delivery, excipient consideration and selection for liquid dosage forms, polymeric materials in pharmaceutical applications, rheology and its applicability to liquid drug vehicles, bioequivalence determination of dermatological dosage forms, and an introduction on the impact of physiochemical properties on dermatological dosage forms.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "CHM135H1",
+            "CHM136H1"
+          ]
+        },
+        "CHM151Y1",
+        "CHM220H1",
+        "CHM222H1"
+      ]
+    }
+  },
+  "PHC331H1": {
+    "code": "PHC331H1",
+    "name": "Establishing the Bioequivalence of Pharmaceutical Products",
+    "hours": "48L",
+    "description": "This course will introduce the practical and regulatory design elements and consideration of human clinical trials for the purposes of demonstrating bioequivalence between drug products. The principles discussed are currently used by generic and innovator drug companies in many countries. Students will learn about the regulations, methods, techniques, pharmacokinetics, and biostatistics involved in creating bioequivalence studies. The course has a heavy mathematical emphasis, with a large component dedicated to mathematical modeling (non-compartmental and compartmental pharmacokinetic modeling, and biostatistics). Also discussed are clinical trial sample size determination, bioequivalence study design elements, clinical study protocol and final report writing, disaster recovery and outlier analysis, and design of steady-state studies. A module is also included on developing and improving interview skills. After taking this course, students will understand the steps required to set up single-dose and steady-state pilot and pivotal bioequivalence trials using parallel, crossover, and semi-replicate designs, and be well-poised for entry-level scientific positions in industry.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BCH210H1",
+            "CHM247H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "CHM249H1",
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT137Y1",
+            "PHC230H1",
+            "PHC330H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PHC340Y1": {
+    "code": "PHC340Y1",
+    "name": "Pharmaceutical Chemistry Laboratory",
+    "hours": "24L/96P",
+    "description": "This course will introduce students to theoretical and applied concepts in pharmaceutical chemistry, in research, development, and manufacturing contexts. The course is designed with lectures and laboratories covering major areas in pharmaceutical chemistry, which have been carefully scheduled together to link concepts discussed during lectures to practical hands-on activities. The course covers selected topics pertinent to drug development such as acid/base equilibria, buffer preparation, drug solubility, drug polymorphs and salt selection, pKa, and co-solvency. The course also examines characterizing properties of common liquid, semi-solid and solid drug vehicles, such as viscosity, degradation kinetics/stability, diffusivity, tonicity, particle size distribution, and powder flowability. Emphasis is placed on the process of drug manufacture. Laboratory equipment used is commonly found in formulation labs, pharmacies, pharmaceutical research laboratories, and pharmaceutical manufacturing facilities. A lecture module on ethics and academic integrity will discuss cutting-edge applications of ethics in research, and issues arising when complex scientific solutions are proposed to regulatory bodies and to the public eye.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "CHM247H1",
+        "CHM249H1",
+        "CHM220H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CHM222H1",
+            "CHM223H1"
+          ]
+        },
+        "BCH210H1"
+      ]
+    }
+  },
+  "PHC401H1": {
+    "code": "PHC401H1",
+    "name": "Drug Transport across Biological Membranes",
+    "hours": "24L",
+    "description": "The goal of this course is to provide students with knowledge of the molecular processes involved in drug transport across biological cell membranes with emphasis on their physiological and clinical significance. This course is restricted to Pharmaceutical Chemistry Specialist program students.",
+    "exclusions": "JFK1122H",
+    "breadth": 4,
+    "prereq_tree": "PHC301H1"
+  },
+  "PHC420H1": {
+    "code": "PHC420H1",
+    "name": "Application of Medicinal Chemistry to Pharmacology",
+    "hours": "24L",
+    "description": "This online course will build upon basic pharmacology and medicinal chemistry to make links between the basic sciences and demonstrate how basic principles can be used to improve clinical therapy. It will also include a critical evaluation of evidence for specific mechanisms and therapies. Topics covered include the effect of metabolism on drug response and factors that influence drug metabolism and kinetics; interactions of drugs with receptors, genetic differences in response, and mechanisms of tolerance; antimicrobials and antineoplastics; autocoids, antihistamines, vasopressin, anticoagulants, iron, estrogens, androgens, and the use of drugs in the perinatal period; antithyroid drugs, drugs to treat diabetes, and corticosteroids; eicosanoids, antihyperlipidemic drugs, and vitamins; drugs affecting bone metabolism, cholinergic agonists and antagonists; adrenoreceptor agonists and antagonists, agents affecting muscles and movement; opioids; CNS organization; anticonvulsants, anesthetics, and anxiolytics; antipsychotics, antidepressants, inotropic agents, antiarrhythmic drugs, diuretics; anti-inflammatory drugs, respiratory drugs, immune system organization; drugs to treat acid-peptic disorders, intestinal motility disorders, and inflammatory bowel disease; and adverse drug reactions and poisoning. An emphasis is placed on developing critical reasoning and evaluation skills to discern between standard of care and complementary therapies that have been developed in the past showing poor safety and/or efficacy, with poor regard to the scientific process. This course is restricted to Pharmaceutical Chemistry specialist program students.",
+    "exclusions": "PHM240H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PHC301H1",
+        "PHC320H1"
+      ]
+    }
+  },
+  "PHC421H1": {
+    "code": "PHC421H1",
+    "name": "Biomolecular Interactions and Thermodynamics I",
+    "hours": "36L",
+    "description": "This course will consider many of the topics presented in the first half in much greater detail including a rigorous examination of the interpretation of experimental data. This course is intended for students whose research or interest is in the thermodynamics of biological molecules. This course is restricted to Pharmaceutical Chemistry specialist program students.",
+    "exclusions": "PHM1130H",
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "PHC430H1": {
+    "code": "PHC430H1",
+    "name": "Recent Developments in Dosage Form Design",
+    "hours": "24L",
+    "description": "Introduction to controlled drug delivery: Mechanisms and kinetics of controlled drug release. Fundamental theories and mathematical tools for the design of modern dosage forms. Development and applications of controlled drug delivery dosage forms. This course is restricted to Pharmaceutical Chemistry specialist program students.",
+    "exclusions": "PHM324H1, PHM1109H",
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "PHC431H1": {
+    "code": "PHC431H1",
+    "name": "Latest Developments in Drug Discovery",
+    "hours": "24L",
+    "description": "In-depth discussion of implementation of pharmaceutical sciences in drug development strategies. Students will apply fundamental principles of pharmaceutics and drug delivery to current problems in the pharmaceutical industry. This course is restricted to Pharmaceutical Chemistry specialist program students.",
+    "exclusions": "JFK1120H",
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "PHC432H1": {
+    "code": "PHC432H1",
+    "name": "Nanomedicines in Oncology",
+    "hours": "24L",
+    "description": "This course covers a range of topics that pertain to the development and application of nanomedicines in oncology. Students will gain an understanding of the biological barriers to drug delivery in oncology as well as the tremendous heterogeneity in cancer and the challenge this presents for treatment. The concepts of passive and active targeting of nanomedicines will be covered with critical assessment of the enhanced permeability and retention effect. A detailed overview of the most advanced nanotechnology-platforms for drug delivery (i.e., liposomes, block copolymer micelles and polymer-drug conjugates) will be provided with additional discussion of new emerging platforms. The integration of imaging in drug development and development of theranostics and therapeutic-diagnostic pairs will also be discussed. Special emphasis on critical evaluation of scientific literature and pre-clinical/clinical studies will be made throughout the course. *Note* This course is offered in alternating years.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PHC230H1",
+        "PHC330H1"
+      ]
+    }
+  },
+  "PHC435H1": {
+    "code": "PHC435H1",
+    "name": "Pharmaceutical Data Acquisition and Analysis",
+    "hours": "22L/26P",
+    "description": "This course introduces students to theoretical and applied concepts in designing and implementing electronic circuitry, for the purpose of collecting and analyzing experimental data in pharmaceutics and other contexts. The course discusses introductory circuit design, with an emphasis on how common components work in scientific and pharmaceutical manufacturing instrumentation. Practical and mathematical aspects of circuit design are discussed (e.g., Ohm\u2019s Law, voltage dividers, analog vs. digital signals). There is a heavy emphasis on programming in C++ in the Arduino IDE which will complement learning activities. Specific topics include power calculations, logic gates, capacitance, microprocessor pin functionality, switching strategies for higher powder devices (relays, transistors, MOSFETs), process control (on/off and PID controllers), and operational amplifiers. Data acquisition, smoothing, filtering, and logging strategies are also discussed. Each section has planned practical activities where circuits are built, programmed, and tested. After taking this course, students will be better equipped to build their own control circuits for undergraduate research projects and other applications.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BCH210H1",
+            "CHM247H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "CHM249H1",
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "MAT137Y1",
+            "PHC340Y1"
+          ]
+        }
+      ]
+    }
+  },
+  "PHC460H1": {
+    "code": "PHC460H1",
+    "name": "Fundamentals of Drug Discovery",
+    "hours": "24L",
+    "description": "Lectures by scientists from academia and industry, and student seminars based on journal articles dealing with strategies for discovering new drugs for therapy and diagnosis. This course is restricted to Pharmaceutical Chemistry specialist program students.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "BIO120H1",
+        "BIO130H1",
+        "PHC301H1"
+      ]
+    }
+  },
+  "PHC462H1": {
+    "code": "PHC462H1",
+    "name": "Clinical Drug Development",
+    "hours": "24L",
+    "description": "This course is designed to broaden student\u2019s understanding of the development and licensing of new drugs and how scientific principles, ethics, governmental regulations and commercial considerations are coordinated for designing clinical trails. The format involves lectures, group discussion and student presentations. This course is restricted to Pharmaceutical Chemistry specialist program students.",
+    "exclusions": "JFK1120H",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PHC230H1",
+        "PHC301H1",
+        "PHC340Y1"
+      ]
+    }
+  },
+  "PHC470H1": {
+    "code": "PHC470H1",
+    "name": "Global Pharmaceutical Policy",
+    "hours": "24L/2T",
+    "description": "This course is designed for students who are interested in the critical analysis of global health policy and the interrelationship between global and domestic policy issues. The course will introduce students generally to the basic concepts and issues in global health with a particular focus on pharmaceutical policy. We will address key issues in health and discuss core institutional and transnational actors, how governments in different jurisdictions manage public health responsibilities, the tension between economic imperatives and health objectives, global obligations, and pressure from special interest groups. More narrowly, we will analyze a breadth of complex policies questions. Examples include: the research and development global divide, policial issues influences on pharmaceutical policy, how global commitments, such as membership in the World Trade Organization, conflict with or correspond to domestic policy directions and national sovereignty. Guest speakers will lead some sessions. This course will consist of lectures, guest discussions, case studies and student-led presentations. This is restricted to students in the Pharmaceutical Chemistry specialist program.",
+    "exclusions": "PHM320H1, PHM1124H",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "PHC489Y1": {
+    "code": "PHC489Y1",
+    "name": "Pharmaceutical Chemistry Research",
+    "hours": "165P",
+    "description": "This course will provide research experience under the supervision of a Departmental staff member. The goal is to deepen the student\u2019s understanding of the scientific basis and practical techniques relevant to modern pharmaceutical development. This course is restricted to Pharmaceutical Chemistry specialist program students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "PHL100Y1": {
+    "code": "PHL100Y1",
+    "name": "Ancient Wisdom, Modern Insights: A Historical Introduction to Philosophy",
+    "hours": "48L/24T",
+    "description": "An introduction to the central branches of philosophy, such as logic, theory of knowledge, metaphysics, ethics, and political philosophy. Writings from the central figures in the history of Western and non-Western philosophy, as well as contemporary philosophers, may be considered. Note:  PHL100Y1 and  PHL101Y1 are both broad introductions to philosophy, and each is appropriate for students with no prior experience with the subject.",
+    "exclusions": "PHL101Y1,  PHL201H1,  PHLA10H3,  PHLA11H3,  PHL101H5,  PHL102H5,  PHL105Y5",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PHL101Y1": {
+    "code": "PHL101Y1",
+    "name": "What Should I Believe? An Introduction to Philosophical Issues",
+    "hours": "48L/24T",
+    "description": "An introduction to some of the central problems of philosophy. Examples of questions that may be considered include: What is sound reasoning? What can we know? What is ultimately real? Is morality rational? Do humans have free will? Is there a God? What is consciousness? Should we fear death? What is justice? Note:  PHL100Y1 and  PHL101Y1 are both broad introductions to philosophy, and each is appropriate for students with no prior experience with the subject.",
+    "exclusions": "PHL100Y1,  PHL201H1,  PHLA10H3,  PHLA11H3,  PHL101H5,  PHL102H5,  PHL105Y5",
+    "breadth": 2,
+    "prereq_tree": null
+  }
+}

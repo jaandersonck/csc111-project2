@@ -1,0 +1,2029 @@
+{
+  "PRT364H1": {
+    "code": "PRT364H1",
+    "name": "Portuguese Language in the World",
+    "hours": "24L",
+    "description": "An overview of the varieties of Portuguese spoken in four continents (Europe, South America, Africa, Asia) and a discussion of the structural similarities and differences between the two most extensively studied varieties: European and Brazilian Portuguese. Analysis of linguistic variation in contemporary Portuguese in terms of phonetics, syntax and lexicon. (Offered in alternate years.)",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PRT202H1",
+        "PRT205H1",
+        "PRT219Y1",
+        "PRT219H1",
+        "PRT120Y1",
+        "PRT220Y1"
+      ]
+    }
+  },
+  "PRT375H1": {
+    "code": "PRT375H1",
+    "name": "Contemporary Brazilian Cinema",
+    "hours": "36L/12T",
+    "description": "This course covers aesthetic, cultural, and social aspects of contemporary Brazilian cinema. The course examines both works of fiction and documentaries from emerging voices as well as world renowned filmmakers, spanning from Cinema Novo to the present. Topics include: music and urban culture, violence, inequality, environmental justice, and gender and sexuality. Lecture time is divided between film screening and class discussion held in English. Students choose tutorials in Portuguese (necessary for this course to be considered towards credit in Portuguese programs) or English.",
+    "exclusions": "PRT275H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "PRT398H0": {
+    "code": "PRT398H0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PRT398Y0": {
+    "code": "PRT398Y0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PRT399H1": {
+    "code": "PRT399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PRT399Y1": {
+    "code": "PRT399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PRT420H1": {
+    "code": "PRT420H1",
+    "name": "Advanced Academic Portuguese",
+    "hours": "24L",
+    "description": "A study of advanced aspects of formal Portuguese through reading and extensive writing practice, with an aim at developing skills necessary for academic and professional writing and oral presentations.",
+    "exclusions": "PRT420Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PRT302H1",
+        "PRT320Y1"
+      ]
+    }
+  },
+  "PRT423H1": {
+    "code": "PRT423H1",
+    "name": "Community Engaged Learning of Portuguese in Toronto and the GTA",
+    "hours": "24L/12P",
+    "description": "This course combines advanced language instruction with the richness and complexity of the Lusophone work experience in Toronto, promoting Community Engaged Learning (CEL) as a vehicle for greater linguistic fluency and cultural understanding. Students are placed with community organizations within the Greater Toronto Area and volunteer for 2 hours per week, furthering their language skills and their cultural knowledge. Class work focuses on developing students' communication skills through exposure to a range of topics, from financial, legal, medical to educational, and to an extensive variety of styles and registers in Portuguese. Therefore, students meet real needs in the community by applying knowledge from their Portuguese courses. Taught in Portuguese.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PRT302H1",
+        "PRT320Y1"
+      ]
+    }
+  },
+  "PRT458H1": {
+    "code": "PRT458H1",
+    "name": "The Lusophone Short Story",
+    "hours": "24S",
+    "description": "Overview of the short story in the particular context of Portuguese-speaking countries. Examination of theories of the genre as they relate to short stories of Portuguese-speaking writers. (Offered in alternate years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "PRT258H1"
+  },
+  "PRT470H1": {
+    "code": "PRT470H1",
+    "name": "Acquisition of Portuguese as a Second Language",
+    "hours": "24S",
+    "description": "Invites critical reflection about the acquisition of Portuguese as a second language. Analyzes phonological, morphosyntactic, semantic and lexical aspects in the linguistic performance of bilingual speakers, and of learners of Portuguese as a second language. (Offered in alternate years)",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PRT202H1",
+        "PRT205H1",
+        "PRT219Y1",
+        "PRT219H1",
+        "PRT220Y1"
+      ]
+    }
+  },
+  "PRT490H1": {
+    "code": "PRT490H1",
+    "name": "Independent Study",
+    "hours": null,
+    "description": "Individual study with a member of staff on a topic of common interest including readings, discussion and written assignments. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": "PRT320Y1"
+  },
+  "PSL190H1": {
+    "code": "PSL190H1",
+    "name": "Biomedical Research at the Cutting Edge",
+    "hours": "24L/6S",
+    "description": "Explore the thought processes, logic, motivation, techniques, analysis and impact of recent high-profile publications to gain insight into the enterprise of science. Outstanding scientists present recent high-impact papers, and students will examine the research in depth, focusing on the underlying questions, experimental approach, results and significance. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "PSL201Y1": {
+    "code": "PSL201Y1",
+    "name": "Basic Human Physiology",
+    "hours": "44L/24P",
+    "description": "A survey course covering all organ systems intended for students who are not proceeding further in Physiology.",
+    "exclusions": "Any 300-level PSL course taken previously or concurrently",
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "PSL280H1": {
+    "code": "PSL280H1",
+    "name": "Introduction to Physiologic Adaptations of Marine Mammals",
+    "hours": "24L/14P",
+    "description": "Systems approach to physiology of marine mammals in their aquatic environment. Highlights unique features of cardiovascular, respiratory, renal, urinary, and reproductive systems. Introduces relevant physiology, and makes comparisons to human condition and disease.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BIO120H1",
+            "BIO130H1",
+            "CHM136H1"
+          ]
+        },
+        "CHM151Y1"
+      ]
+    }
+  },
+  "PSL299H1": {
+    "code": "PSL299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PSL299Y1": {
+    "code": "PSL299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PSL300H1": {
+    "code": "PSL300H1",
+    "name": "Human Physiology I",
+    "hours": "36L/5T",
+    "description": "Principles of neurophysiology, endocrinology and reproductive physiology for students enrolled in Life Science programs.",
+    "exclusions": "PSL201Y1,  PSL302Y1",
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "PSL301H1": {
+    "code": "PSL301H1",
+    "name": "Human Physiology II",
+    "hours": "36L/4T",
+    "description": "Principles of respiratory, cardiovascular, gastrointestinal, and renal physiology for students enrolled in Life Science programs.",
+    "exclusions": "PSL201Y1,  PSL302Y1",
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "PSL304H1": {
+    "code": "PSL304H1",
+    "name": "Topics in Cellular, Molecular and Organismic Physiology I",
+    "hours": "32L/16T",
+    "description": "Focus on two topics: (1) The regulation of body weight/composition including the hormonal, neural and metabolic interactions between adipose tissue, the brain, the pancreas, and muscle. (2) Cardiovascular and respiratory control systems in adults and neonates in terms of feedback control systems, mechanisms, and clinical disorders.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "BCH210H1",
+        "PSL300H1",
+        "PSL301H1"
+      ]
+    }
+  },
+  "PSL305H1": {
+    "code": "PSL305H1",
+    "name": "Topics in Cellular, Molecular and Organismic Physiology II",
+    "hours": "32L/16T",
+    "description": "Focus on two topics: the brain and pregnancy. Delve into the physiology of the central nervous system along with associated diseases as model systems. Learn about fetal and maternal adaptations during pregnancy and the consequences of maladaptation. The course is designed for Physiology Specialist students, although permission is granted to other students upon Departmental approval.",
+    "exclusions": "PSL303Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "BCH210H1",
+        "PSL300H1",
+        "PSL301H1"
+      ]
+    }
+  },
+  "PSL310H1": {
+    "code": "PSL310H1",
+    "name": "Clinical Reasoning",
+    "hours": "24L/12S",
+    "description": "Improved clinical reasoning will reduce the current likelihood that most people will suffer at least one medical diagnostic error, errors that contribute to ~10% of patient deaths. Learn to apply strategies of critical thinking and principles of physiology to solve clinical cases. Shadow a healthcare professional. Not eligible for CR/NCR option.",
+    "exclusions": "HMB322H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BCH210H1",
+            "BIO230H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "PSL300H1",
+            "PSL372H1",
+            "PSL301H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PSL350H1": {
+    "code": "PSL350H1",
+    "name": "Mammalian Molecular Biology",
+    "hours": "18L/12T/6S",
+    "description": "Extend molecular biology concepts to current scientific literature in mammalian physiology. Apply these principles to disease and complex behaviours. Discuss bioethical issues raised by these techniques and their application. Benefit from three weeks in small group seminars lead by research professors focusing on current advances in mammalian molecular biology.",
+    "exclusions": "BCH311H1/ BIO349H1/ CSB349H1/ MGY311Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO230H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "PSL300H1",
+            "BCH210H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PSL372H1": {
+    "code": "PSL372H1",
+    "name": "Mammalian Physiology Laboratory",
+    "hours": "12L/36P",
+    "description": "A laboratory course covering selected topics in physiology. An ancillary fee of $53 will be charged for lab materials.",
+    "exclusions": "CSB348H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO230H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BIO240H1",
+            "BIO241H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "BCH210H1"
+          ]
+        },
+        "BCH242Y1",
+        "PSL300H1"
+      ]
+    }
+  },
+  "PSL374H1": {
+    "code": "PSL374H1",
+    "name": "Advanced Physiology Laboratory",
+    "hours": "12L/36P/12S",
+    "description": "A problem-based laboratory course focused on the integration and control of organ systems to understand body functions. Enrollment in this course is restricted to students in the Physiology Specialist and Major Programs although permission is granted to students in other programs upon approval by the Department. An ancillary fee of $53 will be charged for lab materials.",
+    "exclusions": "CSB348H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO230H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BIO240H1",
+            "BIO241H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "PSL300H1",
+            "PSL301H1",
+            "PSL372H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PSL378H1": {
+    "code": "PSL378H1",
+    "name": "Field Physiology: Marine Mammal Autopsy",
+    "hours": "12L/24T/36P",
+    "description": "An opportunity to go outside of the traditional university classroom and actively participate in a marine mammal autopsy. Learn the diversity and adaptive nature of marine mammalian physiology/anatomy as it compares to human. The course is 2 weeks (in May), one week of hands-on tissue dissection, and one week of group discussions of the findings and draft report preparation. Not eligible for CR/NCR option. An additional fee is required to help cover the cost of delivery for this course. Please see https://physiology.utoronto.ca/psl378h1f\u00a0for details.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BIO270H1",
+            "BIO271H1"
+          ]
+        },
+        "PSL201Y1",
+        "PSL280H1",
+        {
+          "operator": "AND",
+          "items": [
+            "PSL300H1",
+            "PSL301H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PSL379H0": {
+    "code": "PSL379H0",
+    "name": "Comparative Marine Mammal Physiology in the Field",
+    "hours": "24T/36P",
+    "description": "Hands-on monitoring of physiological measures with live dolphins, manatee and sea lions; field observations and applied learning to a physiology project. Two-weeks at the end of April early May: 1st week is spent at the marine research center in Mexico, 2nd week of wrap-up discussion and integration of data at U of T. Not eligible for CR/NCR option. An additional fee is required to help cover the cost of delivery for the course. See\u00a0https://physiology.utoronto.ca/psl379h\u00a0for details.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO220H1",
+        "BIO230H1",
+        "BIO270H1",
+        "BIO271H1",
+        "CSB343H1",
+        "PSL280H1",
+        "PSL201Y1",
+        "PSL300H1",
+        "PSL301H1",
+        "PSY362H1"
+      ]
+    }
+  },
+  "PSL398H0": {
+    "code": "PSL398H0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PSL399H1": {
+    "code": "PSL399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PSL399Y1": {
+    "code": "PSL399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PSL404H1": {
+    "code": "PSL404H1",
+    "name": "Regenerative Medicine",
+    "hours": "24L/12T",
+    "description": "Regenerative medicine promises to restore body function that has been lost due to disease, damage or age. Students will explore selected molecular, stem cell and tissue engineering developments to better understand how the body normally functions and how cells, tissues, and organs can be repaired or replaced.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PSL300H1",
+        "PSL301H1"
+      ]
+    }
+  },
+  "PSL420H1": {
+    "code": "PSL420H1",
+    "name": "Reproduction: Development and Function",
+    "hours": "24L",
+    "description": "This course provides an in-depth review of the development and function of the male and female reproductive systems. Topics include sex determination and differentiation, steroidogenesis, gametogenesis, hormonal control of the reproductive axis, the female ovulatory cycle, fertilization and implantation, infertility and assisted reproduction approaches. Joint undergraduate/graduate course -  PSL420H1/LMP2100H",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PSL300H1",
+        "PSL301H1"
+      ]
+    }
+  },
+  "PSL421H1": {
+    "code": "PSL421H1",
+    "name": "Pregnancy and Birth: From Implantation to Newborn Life",
+    "hours": "24L",
+    "description": "General overview of the integrated physiological events associated with fetal development, pregnancy and birth. The approach emphasizes physiological processes using insights gained from studies of humans, animals, cells and genes. Where appropriate the clinical consequences of aberrant development are reviewed. Joint undergraduate/graduate course -  PSL421H1/PSL1421H",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PSL300H1",
+        "PSL301H1"
+      ]
+    }
+  },
+  "PSL424H1": {
+    "code": "PSL424H1",
+    "name": "Cellular and Molecular Basis of Endocrine Disorders",
+    "hours": "24S",
+    "description": "Explore how researchers uncover the molecular and cellular basis of endocrine disorders. Learn about experimental design, state-of-the-art research tools, and data interpretation. Topics include disorders in: hormone regulation, secretion and action; circadian rhythms; and sexual development and reproduction. Each week students engage in class discussion related to research seminars delivered by faculty.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "PSL300H1",
+            "PSL301H1",
+            "PSL350H1"
+          ]
+        },
+        "BCH311H1",
+        "CSB349H1",
+        "MGY311Y1"
+      ]
+    }
+  },
+  "PSL425H1": {
+    "code": "PSL425H1",
+    "name": "Integrative Metabolism and its Endocrine Regulation",
+    "hours": "24L",
+    "description": "This course integrates the newest findings and experimental approaches from cellular and molecular biology into metabolic function at the tissue, organ and whole body level.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "BCH210H1",
+        "PSL300H1",
+        "PSL301H1"
+      ]
+    }
+  },
+  "PSL432H1": {
+    "code": "PSL432H1",
+    "name": "Theoretical Physiology",
+    "hours": "24L",
+    "description": "Theoretical treatment of neurophysiology. Mathematical modeling and analysis of neurophysiological systems. Joint undergraduate/graduate course -  PSL432H1/PSL1432H",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MAT235Y1",
+        "MAT237Y1",
+        "APM346H1",
+        {
+          "operator": "AND",
+          "items": [
+            "MAT244H1",
+            "MAT235Y1"
+          ]
+        },
+        "MAT237Y1",
+        "APM346H1",
+        "MAT244H1"
+      ]
+    }
+  },
+  "PSL441H1": {
+    "code": "PSL441H1",
+    "name": "Systems Neuroscience I: Neuroanatomy, Neurophysiology and Higher Cognition",
+    "hours": "36L",
+    "description": "Introduction to systems neuroscience including neuroanatomy, neuroimaging and human neurophysiology (EEG, MEG), neural support for higher cognitive functions (e.g., memory, language), network neuroscience, and computational modeling.",
+    "exclusions": "PSL440Y1",
+    "breadth": 4,
+    "prereq_tree": "PSL300H1"
+  },
+  "PSL442H1": {
+    "code": "PSL442H1",
+    "name": "Systems Neuroscience II: Sensory and Motor",
+    "hours": "36L",
+    "description": "In depth study of the sensory and motor systems, including clinical concerns/applications, neuromodulation, and brain-computer interfaces.",
+    "exclusions": "PSL440Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "PSL300H1",
+            "PSL441H1"
+          ]
+        },
+        "HMB320H1"
+      ]
+    }
+  },
+  "PSL445H1": {
+    "code": "PSL445H1",
+    "name": "Neuroscience: Cellular and Molecular",
+    "hours": "36L",
+    "description": "Overview of the fundamentals of cellular and molecular aspects of brain function. Course material is updated yearly to reflect the rapid evolution of ideas in Neuroscience. Joint undergraduate/graduate course -  PSL445H1/PSL1445H/JNR1444Y",
+    "exclusions": "PSL444Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "PSL300H1",
+            "PSL301H1",
+            "CJH332H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PSL300H1",
+            "PSL301H1",
+            "CJH332H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PSL446H1": {
+    "code": "PSL446H1",
+    "name": "Neural Disorders",
+    "hours": "36L",
+    "description": "Explore topics in neurological disorders and treatments to reinforce and expand your knowledge of cellular and molecular neurophysiology. Course material is updated yearly to reflect the rapid evolution of ideas in this area. Joint undergraduate/graduate course -  PSL446H1/PSL1446H/JNR1444Y",
+    "exclusions": "PSL444Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "PSL300H1",
+            "PSL301H1",
+            "CJH332H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PSL300H1",
+            "PSL301H1",
+            "CJH332H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PSL450H1": {
+    "code": "PSL450H1",
+    "name": "Mechanisms of Neural and Endocrinal Secretion",
+    "hours": "24L",
+    "description": "Exocytosis and other aspects of secretion mainly in neurons and neuroendocrine cells, but also in pancreatic cells. Topics include synapse anatomy and physiology, synaptic plasma membrane and vesicle proteins, membrane fusion, genetic tools, endocrine secretion, plasticity in neurotransmitter release, diseases arising from secretion defects.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BCH210H1",
+            "PSL300H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "BIO240H1",
+            "BIO241H1",
+            "PSL350H1"
+          ]
+        },
+        "CSB349H1",
+        "BCH311H1",
+        "MGY311Y1"
+      ]
+    }
+  },
+  "PSL452H1": {
+    "code": "PSL452H1",
+    "name": "Membrane Physiology",
+    "hours": "24L",
+    "description": "Biophysics and molecular biology of ion channels. Topics include equivalent circuits for cells, molecular structure of voltage-gated channels, distribution of channels, relationship between single-channel and whole-cell recording, and regulation of channel function by voltage, phosphorylation, G-proteins and metabolites. Joint undergraduate/graduate course -  PSL452H1/PSL1452H",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PSL300H1",
+        "PSL301H1",
+        "PSL300H1",
+        "PSL301H1"
+      ]
+    }
+  },
+  "PSL462H1": {
+    "code": "PSL462H1",
+    "name": "Molecular Aspects of Cardiovascular Function",
+    "hours": "36L",
+    "description": "Heart anatomy and development, ion channels and contractile proteins involved in cardiac and smooth muscle contraction are studied. Emphasis is on regulation of electrical and contractile function of kinases, metabolism, volume and ions. Joint undergraduate/graduate course -  PSL462H1/PSL1462H",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PSL300H1",
+        "PSL301H1",
+        "PSL300H1",
+        "PSL301H1"
+      ]
+    }
+  },
+  "PSL470H1": {
+    "code": "PSL470H1",
+    "name": "Cardiovascular Physiology",
+    "hours": "24L",
+    "description": "Development of the cardiovascular system from conception to adulthood with particular emphasis on maturational changes, age-related differences and developmental problems from cellular/molecular to whole organ/system.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PSL300H1",
+        "PSL301H1"
+      ]
+    }
+  },
+  "PSL472H1": {
+    "code": "PSL472H1",
+    "name": "Sleep Physiology and Chronobiology",
+    "hours": "24L",
+    "description": "This course covers the physiology underlying sleep and circadian rhythms, and their impact on important physiological processes and health. The integrative nature of the basic physiological processes is emphasized via discussions and clinical presentations. Overall, the aim is to present the full spectrum of integrative physiology from molecules and cells to understanding the sick patient.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PSL300H1",
+        "PSL301H1",
+        "PSL300H1",
+        "PSL301H1"
+      ]
+    }
+  },
+  "PSL480H1": {
+    "code": "PSL480H1",
+    "name": "Diving Physiology of Marine Mammals",
+    "hours": "24L/6T",
+    "description": "This course compares and contrasts the physiological and anatomical adaptations exhibited by the different species of marine mammals in relationship to humans, with respect to diving.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BIO270H1",
+            "BIO271H1"
+          ]
+        },
+        "PSL201Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "PSL300H1",
+            "PSL301H1"
+          ]
+        },
+        "PSL280H1"
+      ]
+    }
+  },
+  "PSL496Y1": {
+    "code": "PSL496Y1",
+    "name": "Translational Physiology Research Project",
+    "hours": "144P",
+    "description": "Engage in supervised original science research, either basic or clinical, combined with a healthcare placement. Develop skills in defining scientific questions, designing experiments, analyzing data, and communicating your results. Gain insight into the power of translational bench-to-bedside research. Discover your interest in becoming a science researcher. Not eligible for CR/NCR option.",
+    "exclusions": "PSL497H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PSL300H1",
+        "PSL301H1",
+        "PSL310H1",
+        "PSL372H1"
+      ]
+    }
+  },
+  "PSL497H1": {
+    "code": "PSL497H1",
+    "name": "Translational Physiology Research Project",
+    "hours": "72P",
+    "description": "Engage in original science research, either basic or clinical, combined with a healthcare placement. Develop skills in defining scientific questions, designing experiments, analyzing data, and communicating your results. Gain insight into the power of translational \u201cbench-to-bedside\u201d research. Discover your interest in becoming a science researcher. Not eligible for CR/NCR option.",
+    "exclusions": "PSL496Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PSL300H1",
+        "PSL301H1",
+        "PSL310H1",
+        "PSL372H1"
+      ]
+    }
+  },
+  "PSL498Y1": {
+    "code": "PSL498Y1",
+    "name": "Project in Physiology",
+    "hours": "144P",
+    "description": "Laboratory research project with reading assignments leading to a final report. By special arrangement with a Physiology staff member after admission to course.  PSL498Y1 is recommended for students applying to the Physiology graduate program. Enrollment in this course is restricted to students in the Physiology Specialist and Major Programs, although permission is granted to students in other programs upon approval by the Department. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "PSL304H1",
+            "PSL305H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PSL303Y1",
+            "PSL372H1",
+            "PSL374H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PSL499H1": {
+    "code": "PSL499H1",
+    "name": "Project in Physiology",
+    "hours": "72P",
+    "description": "Laboratory research project with reading assignments leading to a final report. By special arrangement with a Physiology staff member after admission to course.  PSL499H1 is recommended for students applying to the Physiology graduate program. Enrollment in this course is restricted to students in the Physiology Specialist and Major Programs, although permission is granted to students in other programs upon approval by the Department. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "PSL304H1",
+            "PSL305H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "PSL303Y1",
+            "PSL372H1",
+            "PSL374H1"
+          ]
+        }
+      ]
+    }
+  },
+  "PSY100H1": {
+    "code": "PSY100H1",
+    "name": "Introductory Psychology",
+    "hours": "36L",
+    "description": "A brief introductory survey of psychology as both a biological and social science. Topics will include behavioural neuroscience, learning, perceptual, motivational, cognitive, developmental, personality, abnormal, and social psychology.",
+    "exclusions": "PSY100Y5/ ( PSYA01H3 and  PSYA02H3)",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PSY194H1": {
+    "code": "PSY194H1",
+    "name": "The Psychology of Student Success",
+    "hours": "24S",
+    "description": "University life presents students with all sorts of challenges as well as amazing opportunities for learning and growth. While there are many different ways to define a \u201csuccessful student\u201d, the goal of this seminar is for everyone to develop the knowledge, skills, and mindset needed to make the most of out of the university experience. Students will discover what research in psychological science has to say about facing and overcoming common academic, intrapersonal, and interpersonal challenges, as we cover topics including deliberate practice, imposter syndrome, and belongingness. Students will also learn evidence-based strategies for better managing their attention, energy, and emotions so that they may thrive (rather than just survive) in university. In addition to learning about psychology, students will develop useful skills in scientific literacy, critical thinking, self-reflection, written and oral communication, and teamwork. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PSY195H1": {
+    "code": "PSY195H1",
+    "name": "The Science of Babies and Children",
+    "hours": "24S",
+    "description": "This course will use an interdisciplinary perspective to explore how the infant mind emerges and grows. Topics could include how\u00a0brain plasticity influences \u201ccritical\u201d or \u201csensitive\u201d periods for learning, or how studying infants\u2019 perception, cognition and behaviour can offer us critical insights into long-standing philosophical questions. Note that specific content will depend on the instructor and will be posted on the Department of Psychology\u2019s Undergraduate Course Information webpage. During the course, students will (1) engage in lively discussion and present their perspectives; (2) use exploratory writing to develop arguments and their understanding of subject matter; and (3) begin to read and summarize scientific research papers in Developmental Psychology. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PSY197H1": {
+    "code": "PSY197H1",
+    "name": "Rethinking the Human Mind",
+    "hours": "24S",
+    "description": "This course will use an interdisciplinary perspective to explore the quirks,\u00a0achievements, and puzzles of the human mind. Topics could include how technology and tools extend our minds, or the light that our ability (and inability) to reason sheds on human nature. Note that specific content will depend on the instructor and will be posted on the Department of Psychology\u2019s Undergraduate Course Information webpage. During the course, students will: (1) engage in lively discussion and present their perspectives; and (2) use exploratory writing to develop arguments and their understanding of the subject matter. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PSY198H1": {
+    "code": "PSY198H1",
+    "name": "The Psychology of Magic",
+    "hours": "24S",
+    "description": "Magicians entertain us with their tricks. What appears as \u201cMagic\u201d is based on fundamental aspects of human psychology: visual and auditory perception, decision making, logic, memory, and verbal abilities. In this class, we will consider and discuss the psychological basis of magic tricks and use magic to explore aspects of psychology. The class will require reading of scientific articles and book chapters as well as watching and analyzing magical tricks. The only prerequisite is a curious and critical mind. The course puts great emphasis on writing and on starting to read primary scientific literature.\u00a0Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PSY199H1": {
+    "code": "PSY199H1",
+    "name": "Psychology and History of Drug Use",
+    "hours": "24S",
+    "description": "This seminar will examine the historical and contemporary use of drugs. Students will be introduced to the general psychological and neuroscientific mechanisms by which drugs affect human behavior, and explore highlights of current research on drug effects in animals and humans. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "PSY201H1": {
+    "code": "PSY201H1",
+    "name": "Statistics I",
+    "hours": "36L",
+    "description": "Fundamentals of descriptive and inferential statistics, including population and sampling distributions, simple association, probability, estimation, and hypothesis testing.",
+    "exclusions": "ECO220Y1/  EEB225H1/  GGR270H1/  IRW220H1/  POL222H1/  SOC202H1/  STA220H1/  STA238H1/  STA248H1/  STA288H1/  ECO220Y5/  PSY201H5/  STA215H5/  STA220H5/  PSYB07H3/  STAB22H3/  STAB23H3/  STAB57H3",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY100H1",
+        "PSY100Y5",
+        "COG250Y1"
+      ]
+    }
+  },
+  "PSY202H1": {
+    "code": "PSY202H1",
+    "name": "Statistics II",
+    "hours": "36L",
+    "description": "Fundamentals of statistical analysis of experimental and observational data including linear models, the analysis of variance, a priori contrasts, post-hoc tests, power analysis and effect size calculations.",
+    "exclusions": "ECO220Y1/  SOC252H1/  STA221H1/  PSY202H5/  ECO220Y5/  STA221H5/  PSYC08H3/  STAB27H3/  STAC32H3",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5"
+      ]
+    }
+  },
+  "PSY203H1": {
+    "code": "PSY203H1",
+    "name": "Psychological Research",
+    "hours": "36P",
+    "description": "This course provides an introduction to conceiving, designing, and conducting research in psychology. It prepares students to be both consumers and producers of scientific research, and also addresses basic issues related to the work of psychological scientists such as theory development, research ethics, and scientific writing. Students in this course will gain insight into the scientific process as a whole \u2013 its advantages, difficulties, and limitations. As such, students will be able to better evaluate the knowledge that psychological science can provide, and integrate that knowledge into a broader worldview.",
+    "exclusions": "PSYB70H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY100H1",
+        "PSY100Y5",
+        "COG250Y1"
+      ]
+    }
+  },
+  "PSY204H1": {
+    "code": "PSY204H1",
+    "name": "Psychology Careers and Applications",
+    "hours": "36L",
+    "description": "Psychology has been identified as a hub science, a discipline whose research influences the work of scientists in many other fields. This course will provide students with a broad introduction to the application of the psychological sciences across various clinical, academic, and industry contexts. Students will gain valuable insight into the broad range of careers that are relevant to psychology, while also investigating barriers to rigorous application of psychological science in applied settings. Students will also learn how the skills and knowledge gained in an undergraduate psychology program can be applied to a broad range of careers and fields/sectors. Students will gain significant exposure to career and education planning considerations within the psychological sciences and will participate in at least one experiential career exploration activity. Enrolment in this course is completely restricted to current PSY program students.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY100H1",
+        "PSY100Y5"
+      ]
+    }
+  },
+  "PSY210H1": {
+    "code": "PSY210H1",
+    "name": "Introduction to Developmental Psychology",
+    "hours": "36L",
+    "description": "The developmental approach to the study of behaviour with a focus on infancy through childhood.\u00a0 Topics include sensorimotor skills, cognition, socialization, personality, and emotional behaviour.",
+    "exclusions": "PSY210H5/  PSYB20H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY100H1",
+        "PSY100Y5",
+        "COG250Y1"
+      ]
+    }
+  },
+  "PSY220H1": {
+    "code": "PSY220H1",
+    "name": "Introduction to Social Psychology",
+    "hours": "36L",
+    "description": "Contemporary areas of research in social psychology: social perception, attitudes, inter-personal relations, and group processes.",
+    "exclusions": "PSY220H5/ PSYB10H3/ SOC213H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY100H1",
+        "PSY100Y5",
+        "COG250Y1"
+      ]
+    }
+  },
+  "PSY230H1": {
+    "code": "PSY230H1",
+    "name": "Personality and Its Transformations",
+    "hours": "36L",
+    "description": "Theory and research in personality structure and dynamics: the interaction of cultural and biological factors in the development and expression of individual differences.",
+    "exclusions": "PSY230H5/  PSYB30H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY100H1",
+        "PSY100Y5",
+        "COG250Y1"
+      ]
+    }
+  },
+  "PSY240H1": {
+    "code": "PSY240H1",
+    "name": "Introduction to Psychopathology and Clinical Science",
+    "hours": "36L",
+    "description": "A critical survey of concepts, theories, and the state of research in the area of psychopathology and therapeutic methods.",
+    "exclusions": "PSY240H5/  PSYB32H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY100H1",
+        "PSY100Y5",
+        "COG250Y1"
+      ]
+    }
+  },
+  "PSY260H1": {
+    "code": "PSY260H1",
+    "name": "Introduction to Learning and Plasticity",
+    "hours": "36L",
+    "description": "Concepts, theories, and applications of classical and contemporary learning theories, including classical and operant conditioning. Current theories of the physiological and anatomical basis of learning and memory, including synaptic plasticity, the role of the hippocampus, amygdala, frontal cortex and other brain regions. Theories will be related to a practical understanding and applications such as drug addiction, phobias and other disorders.",
+    "exclusions": "PSYB38H3",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY100H1",
+        "PSY100Y5",
+        "COG250Y1"
+      ]
+    }
+  },
+  "PSY270H1": {
+    "code": "PSY270H1",
+    "name": "Introduction to Cognitive Psychology",
+    "hours": "36L",
+    "description": "An introduction to research and theory on the neural and cognitive architecture of attention, memory, language, thinking and reasoning.",
+    "exclusions": "PSY270H5/ PSYB57H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY100H1",
+        "PSY100Y5",
+        "COG250Y1"
+      ]
+    }
+  },
+  "PSY280H1": {
+    "code": "PSY280H1",
+    "name": "Introduction to Sensation and Perception",
+    "hours": "36L",
+    "description": "An introduction to the physiological and psychological basis of perception across the different sensory modalities in humans and lower animals, with an emphasis on vision. Exploring visual perception such as shape and objects, scenes, colour, space, and motion as well as auditory perception of simple and complex sounds, and location. Further topics may include touch, including perception of temperature, pain and body posture, the chemical senses, and cross-modal influences of the senses on one another. In-class demonstrations may supplement the lectures.",
+    "exclusions": "PSY280H5/  PSYB51H3",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY100H1",
+        "PSY100Y5",
+        "COG250Y1"
+      ]
+    }
+  },
+  "PSY290H1": {
+    "code": "PSY290H1",
+    "name": "Behavioural Neuroscience",
+    "hours": "36L",
+    "description": "Provides students with a solid background in the biological basis of behaviour. Animal and human research topics will include functional neuroanatomy and neural signalling. Further topics may include sensory and motor control, motivational systems, hormones, and emotions, among other topics.",
+    "exclusions": "HMB200H1/  PSY290H5/  PSYB64H3",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY100H1",
+        "PSY100Y5",
+        "COG250Y1"
+      ]
+    }
+  },
+  "PSY299H1": {
+    "code": "PSY299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PSY299Y1": {
+    "code": "PSY299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "PSY305H1": {
+    "code": "PSY305H1",
+    "name": "The Treatment of Psychological Data",
+    "hours": "36L",
+    "description": "This course provides a practical yet intensive introduction to the research pipeline, with a focus on research data management and advanced statistical analysis and inference. Students learn how to find, organize, and analyze data sets in a transparent and reproducible way. Students also learn more about statistical inference, focusing on how the design and analysis of data shape the interpretation of results.",
+    "exclusions": "EEB313H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY202H1",
+        "ECO220Y1",
+        "SOC252H1",
+        "STA221H1",
+        "ECO220Y5",
+        "PSY202H5",
+        "STA221H5"
+      ]
+    }
+  },
+  "PSY306Y0": {
+    "code": "PSY306Y0",
+    "name": "Special Topics in Psychology Abroad",
+    "hours": "48L",
+    "description": "Special Topics in Psychology for the Summer Abroad Program. Course topics, content, and instructor may vary from one year to another. More information about Psychology and other course offerings can be obtained from the Summer Abroad website at https://summerabroad.utoronto.ca/. For students in any Psychology and/or Social Science Major or Specialist.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 8.0,
+      "department": ""
+    }
+  },
+  "PSY307H1": {
+    "code": "PSY307H1",
+    "name": "Special Topics in Psychology",
+    "hours": "36L",
+    "description": "A lecture course providing in-depth examination of specific topics/themes relating to Psychology. Content in any given year depends on instructor. Priority is given to PSY Major program students during the first enrolment period.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY100H1",
+        "PSY100Y5",
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        {
+          "credits": 0.5,
+          "department": "PSY"
+        }
+      ]
+    }
+  },
+  "PSY308H1": {
+    "code": "PSY308H1",
+    "name": "Special Topics in Psychology",
+    "hours": "36L",
+    "description": "A lecture course providing in-depth examination of specific topics/themes relating to Psychology. Content in any given year depends on instructor. Priority is given to PSY Major program students during the first enrolment period.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY100H1",
+        "PSY100Y5",
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        {
+          "credits": 0.5,
+          "department": "PSY"
+        }
+      ]
+    }
+  },
+  "PSY309H1": {
+    "code": "PSY309H1",
+    "name": "Research Specialization: Practicum",
+    "hours": "36P",
+    "description": "Research Specialists learn about the research opportunities within our department, and develop skills in the areas of critical thinking, writing, and oral presentation. Students also conduct a pre-thesis research project under the supervision of a faculty member. Students should ideally complete a PSY lab course (PSY3*9H1) during the same year this course is taken; however, permission to take the lab course in subsequent years may be granted in consultation with the Undergraduate Administrator (psy.undergrad@utoronto.ca). Enrolment is restricted to PSY Research Specialists.",
+    "exclusions": "PSY309H5",
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY202H1",
+        "ECO220Y1",
+        "SOC252H1",
+        "STA221H1",
+        "ECO220Y5",
+        "PSY202H5",
+        "STA221H5"
+      ]
+    }
+  },
+  "PSY311H1": {
+    "code": "PSY311H1",
+    "name": "Social Development",
+    "hours": "36L",
+    "description": "Theory and research in social attachment, aggression, morality, imitation and identification, altruism, and parental discipline, with discussion of methodological issues.",
+    "exclusions": "PSY311H5/  PSYC21H3/  PSYC27H3/  PSYD22H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY210H1",
+        "PSY210H5"
+      ]
+    }
+  },
+  "PSY312H1": {
+    "code": "PSY312H1",
+    "name": "Cognitive Development",
+    "hours": "36L",
+    "description": "This course examines the developmental of knowledge in fundamental domains such as spatial perception, navigation, object perception, number, language, and theory of mind. Emphasis is on current experimental findings and how they address centuries-old debates surrounding the origin and nature of human knowledge.",
+    "exclusions": "PSY312H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY210H1",
+        "PSY210H5"
+      ]
+    }
+  },
+  "PSY313H1": {
+    "code": "PSY313H1",
+    "name": "Psychology of Aging",
+    "hours": "36L",
+    "description": "Age changes in sensory and perceptual processes, motor skill, learning, memory, and personality. Theory, methodological problems, social, cultural, and environmental influences that shape behaviour and attitudes towards and among the elderly.",
+    "exclusions": "PSY313H5/  PSYC21H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY210H1",
+        "PSY210H5"
+      ]
+    }
+  },
+  "PSY316H1": {
+    "code": "PSY316H1",
+    "name": "Perceptual Development",
+    "hours": "36L",
+    "description": "The course examines human perceptual development during the first 2-3 years of life. Vision and audition are emphasized. Some topics are: pattern and colour vision, depth perception, infant speech perception.",
+    "exclusions": "PSY316H5/  PSYC22H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY280H1",
+        "PSY280H5"
+      ]
+    }
+  },
+  "PSY319H1": {
+    "code": "PSY319H1",
+    "name": "Developmental Laboratory",
+    "hours": "36P",
+    "description": "This laboratory course provides an overview of developmental psychology methods. The class conducts an original research project, including design, data collection, data analysis, and a written report. Course capacity is limited to 15 students and priority is given to PSY Specialists and Research Specialists during the first enrolment period.",
+    "exclusions": "PSY319H5/  PSYC72H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY202H1",
+        "ECO220Y1",
+        "SOC252H1",
+        "STA221H1",
+        "ECO220Y5",
+        "PSY202H5",
+        "STA221H5",
+        "PSY210H1",
+        "PSY210H5"
+      ]
+    }
+  },
+  "PSY320H1": {
+    "code": "PSY320H1",
+    "name": "Social Psychology: Attitudes",
+    "hours": "36L",
+    "description": "An intensive study of social attitude development, description, measurement, modification, and organization.",
+    "exclusions": "PSY320H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY220H1",
+        "PSY220H5",
+        "SOC213H1"
+      ]
+    }
+  },
+  "PSY321H1": {
+    "code": "PSY321H1",
+    "name": "Cross-Cultural Psychology",
+    "hours": "36L",
+    "description": "One of the hallmarks of human behaviour is its diversity. Some of the ways in which we differ are thought to be relatively idiosyncratic (e.g., specific aspects of personality), whereas others are fairly systematic. Cultural psychology is one area of research in human behaviour that examines systematic differences resulting from individuals\u2019 cultural backgrounds. This course will introduce you to the consideration of cultural variation in the study of human thought and behaviour.",
+    "exclusions": "PSY321H5/  PSYC14H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY220H1",
+        "PSY220H5",
+        "SOC213H1"
+      ]
+    }
+  },
+  "PSY322H1": {
+    "code": "PSY322H1",
+    "name": "Intergroup Relations",
+    "hours": "36L",
+    "description": "An in-depth examination of theories and research in intergroup relations; focuses on stereotyping, prejudice, discrimination, and stigma.",
+    "exclusions": "PSYC12H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY220H1",
+        "PSY220H5",
+        "SOC213H1"
+      ]
+    }
+  },
+  "PSY323H1": {
+    "code": "PSY323H1",
+    "name": "Sex Roles and Behaviour",
+    "hours": "36L",
+    "description": "The effect of sex-role expectations on how men and women behave and perceive the world: theories of sex-role development, physiological and cultural determinants of sex differences, power relationships between men and women.",
+    "exclusions": "PSY317H5/  PSYD18H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY210H1",
+        "PSY210H5",
+        "PSY220H1",
+        "PSY220H5",
+        "SOC213H1",
+        "PSY230H1",
+        "PSY230H5",
+        "PSY240H1",
+        "PSY240H5"
+      ]
+    }
+  },
+  "PSY324H1": {
+    "code": "PSY324H1",
+    "name": "Moral Thought and Behaviour",
+    "hours": "36L",
+    "description": "Moral values vary considerably across individuals, groups, countries, and cultures. What explains the emergence of these differential moral systems? What psychological processes are involved in moral decisions and actions? How might insights from psychological research shed light on contemporary, \u2018hot-button\u2019 moral issues? How are moral decisions similar to \u2013 and different from \u2013 other types of everyday decisions? What is the role of emotion in moral decision making? As an introduction to the field of moral psychology, this 300-level course will cover research from a range of sub-disciplines within psychology including social-personality psychology, cognitive neuroscience, and developmental psychology. In addition, students will gain exposure to related material in other fields including philosophy, ethology, and economics. Students will gain a firm understanding of the key debates and issues in the study of the moral mind and will gain skills in critical thinking and writing.",
+    "exclusions": "PSYD14H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY220H1",
+        "PSY220H5",
+        "SOC213H1"
+      ]
+    }
+  },
+  "PSY326H1": {
+    "code": "PSY326H1",
+    "name": "Social Cognition",
+    "hours": "36L",
+    "description": "An examination of theory and research on how we make sense of ourselves and our social world. Topics covered include the self, decision-making, attitudes, attribution processes and impression formation, and social categorization.",
+    "exclusions": "PSYC13H3/  PSYD15H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY220H1",
+        "PSY220H5",
+        "SOC213H1"
+      ]
+    }
+  },
+  "PSY328H1": {
+    "code": "PSY328H1",
+    "name": "Psychology and the Law",
+    "hours": "36L",
+    "description": "This course deals with psychological issues in the law, with particular reference to criminal law. It focuses mainly on research that has been done on pretrial publicity, eyewitness testimony, rules of evidence, and other factors that might affect jury decisions.",
+    "exclusions": "PSY328H5/  PSYC39H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY220H1",
+        "PSY220H5",
+        "SOC213H1"
+      ]
+    }
+  },
+  "PSY329H1": {
+    "code": "PSY329H1",
+    "name": "Social Psychology Laboratory",
+    "hours": "36P",
+    "description": "This laboratory course illustrates major methodologies within social psychology, such as attitude measurement, observation of small groups, and experiments. Course capacity is limited to 15 students and priority is given to PSY Specialists and Research Specialists during the first enrolment period.",
+    "exclusions": "PSY329H5/  PSYC71H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY202H1",
+        "ECO220Y1",
+        "SOC252H1",
+        "STA221H1",
+        "ECO220Y5",
+        "PSY202H5",
+        "STA221H5",
+        "PSY220H1",
+        "PSY220H5",
+        "SOC213H1"
+      ]
+    }
+  },
+  "PSY330H1": {
+    "code": "PSY330H1",
+    "name": "Psychological Measurement",
+    "hours": "36L",
+    "description": "This course focuses on the development and evaluation of psychological measures, including the measurement of knowledge, abilities, attitudes, and personality traits. We will discuss theoretical and methodological issues in psychological measurement, covering important concepts such as reliability and validity and how these affect the interpretation of test scores and research findings. There will be some discussion of the application of psychological measures to various settings and the ethics of psychological assessment.",
+    "exclusions": "PSY330H5/  PSYC37H3",
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5"
+      ]
+    }
+  },
+  "PSY331H1": {
+    "code": "PSY331H1",
+    "name": "Social Psychology of Emotion",
+    "hours": "36L",
+    "description": "An in-depth review of the role of emotion in human psychology, with an emphasis on the links between emotion and cognition. Topics include theories of emotion, emotion regulation, emotional expression, and emotional experience, the role of emotion in decision-making, and the relationships between emotion, motivation and behaviour.",
+    "exclusions": "PSY331H5/  PSYC18H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY220H1",
+        "PSY220H5",
+        "SOC213H1"
+      ]
+    }
+  },
+  "PSY332H1": {
+    "code": "PSY332H1",
+    "name": "Organizational Behaviour",
+    "hours": "36L",
+    "description": "An analysis of the individual, group, and institutional structures and processes that influence behaviour within organizations. Topics may include motivation, leadership, communication, group processes and teamwork, and organizational culture.",
+    "exclusions": "IRE260H1/  RSM260H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY220H1",
+        "PSY220H5",
+        "SOC213H1",
+        "PSY230H1",
+        "PSY230H5"
+      ]
+    }
+  },
+  "PSY333H1": {
+    "code": "PSY333H1",
+    "name": "Health Psychology",
+    "hours": "36L",
+    "description": "This course examines research evidence concerning the impact of psychological factors on physical health and illness.",
+    "exclusions": "PSY333H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY230H1",
+        "PSY230H5",
+        "PSY240H1",
+        "PSY240H5"
+      ]
+    }
+  },
+  "PSY336H1": {
+    "code": "PSY336H1",
+    "name": "Positive Psychology",
+    "hours": "36L",
+    "description": "A review of the field of positive psychology, which is the study of happiness and fulfillment. Topics include personal growth, meaning, hedonic and eudaimonic approaches to well-being, gratitude, awe, flow states, mindfulness and meditation.",
+    "exclusions": "PSY324H5/  PSYC34H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY220H1",
+        "PSY220H5",
+        "SOC213H1",
+        "PSY230H1",
+        "PSY230H5",
+        "PSY240H1",
+        "PSY240H5"
+      ]
+    }
+  },
+  "PSY337H1": {
+    "code": "PSY337H1",
+    "name": "Advanced Personality Psychology",
+    "hours": "36L",
+    "description": "This course covers major topics in personality psychology including prominent theories and current research in the area. Theoretical frameworks are integrated with specific applications in primary sources. Specific topics may include personality structure, personality development, psychodynamic approaches, genetic methodology, and emotion regulation.",
+    "exclusions": "PSYC30H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY230H1",
+        "PSY230H5",
+        "PSY240H1",
+        "PSY240H5"
+      ]
+    }
+  },
+  "PSY339H1": {
+    "code": "PSY339H1",
+    "name": "Individual Differences Laboratory",
+    "hours": "36P",
+    "description": "This laboratory course will introduce research methods and statistical techniques involved in individual differences research. You will learn by doing, with the opportunity to complete an individual research project from start to finish. Course capacity is limited to 15 students and priority is given to PSY Specialists and Research Specialists.",
+    "exclusions": "PSY329H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY202H1",
+        "ECO220Y1",
+        "SOC252H1",
+        "STA221H1",
+        "ECO220Y5",
+        "PSY202H5",
+        "STA221H5",
+        "PSY220H1",
+        "PSY220H5",
+        "SOC213H1",
+        "PSY230H1",
+        "PSY230H5"
+      ]
+    }
+  },
+  "PSY341H1": {
+    "code": "PSY341H1",
+    "name": "Psychopathologies of Childhood",
+    "hours": "36L",
+    "description": "This course focuses on cognitive and neuropsychological aspects of neurodevelopmental and psychiatric disorders in children from clinical and theoretical perspectives.",
+    "exclusions": "PSY341H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY210H1",
+        "PSY210H5",
+        "PSY230H1",
+        "PSY230H5",
+        "PSY240H1",
+        "PSY240H5"
+      ]
+    }
+  },
+  "PSY342H1": {
+    "code": "PSY342H1",
+    "name": "Cognition and Psychopathology",
+    "hours": "36L",
+    "description": "Work in psychological disorders has increasingly used the theories and methodologies of cognitive psychology to guide research. This course will examine accounts of clinical disorders informed by cognitive experimental psychology, with emphasis on recent work in affective disorders.",
+    "exclusions": "PSY340H5",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY230H1",
+        "PSY230H5",
+        "PSY240H1",
+        "PSY240H5",
+        "PSY270H1",
+        "COG250Y1",
+        "PSY270H5"
+      ]
+    }
+  },
+  "PSY343H1": {
+    "code": "PSY343H1",
+    "name": "Theories of Psychopathology and Psychotherapy",
+    "hours": "36L",
+    "description": "This course examines various theories of how personality functioning may become impaired and corresponding psychotherapeutic interventions. Emphasis on empirical assessment of personality dysfunction and therapy effectiveness.",
+    "exclusions": "PSY343H5/  PSYC36H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY230H1",
+        "PSY230H5",
+        "PSY240H1",
+        "PSY240H5"
+      ]
+    }
+  },
+  "PSY349H1": {
+    "code": "PSY349H1",
+    "name": "Laboratory in Social Psychological Field Methods",
+    "hours": "36P",
+    "description": "This laboratory class introduces students to field methods in social psychology used to study social processes as they unfold in daily life and public spaces. Students will get hands on experience to collecting, managing, storing, and communicating data collected through observational and longitudinal methods, including data collection in public spaces around Toronto and online. Course capacity is limited to 15 students and priority is given to PSY Specialists and Research Specialists during the first enrolment period.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY202H1",
+        "ECO220Y1",
+        "SOC252H1",
+        "STA221H1",
+        "ECO220Y5",
+        "PSY202H5",
+        "STA221H5",
+        "PSY220H1",
+        "PSY220H5",
+        "SOC213H1"
+      ]
+    }
+  },
+  "PSY359H1": {
+    "code": "PSY359H1",
+    "name": "Human Neuroimaging Laboratory",
+    "hours": "24L/24P",
+    "description": "Introduction to brain imaging methods used in cognitive, developmental, and social neuroscience. Course projects will cover experimental design, imaging techniques, and data analysis. Course capacity is limited to 30 students and priority is given to PSY Specialists and Research Specialists during the first enrolment period.",
+    "exclusions": "HMB310H1/  PSY368H5/  PSYC76H3/  PSYD55H3",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY202H1",
+        "ECO220Y1",
+        "SOC252H1",
+        "STA221H1",
+        "ECO220Y5",
+        "PSY202H5",
+        "STA221H5",
+        "PSY210H1",
+        "PSY210H5",
+        "PSY220H1",
+        "PSY220H5",
+        "SOC213H1",
+        "PSY230H1",
+        "PSY230H5",
+        "PSY240H1",
+        "PSY240H5",
+        "PSY270H1",
+        "PSY270H5",
+        "COG250Y1",
+        "PSY280H1",
+        "PSY280H5"
+      ]
+    }
+  },
+  "PSY360H1": {
+    "code": "PSY360H1",
+    "name": "Associative Learning",
+    "hours": "36L",
+    "description": "Learning allows our experiences to shape what we know, what we can do and how we interact with our environments. This course addresses the fundamental concepts and more important research findings related to contemporary theories of associative learning in animals and humans. It examines the application of such fundamental research to issues such as the neural substrates of behaviour, drug use, and anxiety disorders. It is designed to foster skills in critical thinking, experimental design and reading primary sources in this area.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "PSY201H1",
+        "ECO220Y1",
+        "EEB225H1",
+        "GGR270H1",
+        "IRW220H1",
+        "POL222H1",
+        "SOC202H1",
+        "STA220H1",
+        "STA238H1",
+        "STA248H1",
+        "STA288H1",
+        "ECO220Y5",
+        "PSY201H5",
+        "STA215H5",
+        "STA220H5",
+        "PSY260H1"
+      ]
+    }
+  }
+}

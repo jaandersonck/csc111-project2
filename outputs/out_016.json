@@ -1,0 +1,1883 @@
+{
+  "ENG357H1": {
+    "code": "ENG357H1",
+    "name": "New Writing in Canada",
+    "hours": "36L",
+    "description": "Close encounters with recent writing in Canada: new voices, new forms, and new responses to old forms. Texts may include or focus on poetry, fiction, drama, non-fiction, or new media.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG358H1": {
+    "code": "ENG358H1",
+    "name": "Early African Canadian Literature",
+    "hours": "36L",
+    "description": "Black Canadian Literature (poetry, drama, fiction, non-fiction) from its origin in the African Slave Trade in the 18th century to its current flowering as the expression of immigrants, exiles, refugees and ex-slave-descended and colonial-settler-established communities. This half-course will focus on significant authors of the latter 20th century, such as Austin Clarke, Dionne Brand, Lorena Gale, Dany Laferriere, Djanet Sears, etc., while lectures will address the history and politics that inspire Canada's most dynamic and relevant, diverse and radical, insightful and outspoken assembly of scribes.",
+    "exclusions": "ENG356Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG359H1": {
+    "code": "ENG359H1",
+    "name": "Later African Canadian Literature",
+    "hours": "36L",
+    "description": "Black Canadian Literature (poetry, drama, fiction, non-fiction) from its origin in the African Slave Trade in the 18th century to its current flowering as the expression of immigrants, exiles, refugees and ex-slave-descended and colonial-settler-established communities. This half-course will focus on established authors and significant anthologies of the early 21st century, such as Frankson's Africanthology, Mason-John & Cameron's The Great Black North, and works by Andre Alexis, Wayde Compton, Michael Fraser, Suzette Mayr, Zalika Reid-Benta, etc., while lectures will address the history and politics that inspire Canada's most dynamic and relevant, diverse and radical, insightful and outspoken assembly of scribes.",
+    "exclusions": "ENG356Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG360H1": {
+    "code": "ENG360H1",
+    "name": "Early American Literature",
+    "hours": "36L",
+    "description": "This course explores writing in a variety of genres produced in the American colonies in the seventeenth and eighteenth centuries, such as narratives, poetry, autobiography, journals, essays, sermons, court transcripts.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG363H1": {
+    "code": "ENG363H1",
+    "name": "American Literature to 1900",
+    "hours": "36L",
+    "description": "This course explores American writing in a variety of genres from the end of the Revolution to the beginning of the twentieth century.",
+    "exclusions": "ENG363Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG364H1": {
+    "code": "ENG364H1",
+    "name": "American Literature 1900 to the present",
+    "hours": "36L",
+    "description": "This course explores twentieth-century American writing in a variety of genres.",
+    "exclusions": "ENG364Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG365H1": {
+    "code": "ENG365H1",
+    "name": "Contemporary American Fiction",
+    "hours": "36L",
+    "description": "This course explores six or more works by at least four contemporary American writers of fiction.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG367H1": {
+    "code": "ENG367H1",
+    "name": "African Literatures in English",
+    "hours": "36L",
+    "description": "What, if anything, is distinctively \"African\" in African texts; what might it mean to produce \"African\" readings of African literature? We address these, as well as other questions, through close readings of oral performances and literary and other cultural texts.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG368H1": {
+    "code": "ENG368H1",
+    "name": "Asian North American Literature",
+    "hours": "36L",
+    "description": "Literature and cultures of Asian Canadians and Asian Americans, including fiction, poetry, theory, drama, film, and other media.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG369H1": {
+    "code": "ENG369H1",
+    "name": "South Asian Literatures in English",
+    "hours": "36L",
+    "description": "Major authors and literary traditions of South Asia, with specific attention to literatures in English from India, Sri Lanka, Pakistan, Bangladesh, and the diaspora. The focus will be on fiction and poetry with some reference to drama.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG370H1": {
+    "code": "ENG370H1",
+    "name": "Postcolonial and Transnational Discourses",
+    "hours": "36L",
+    "description": "This course focuses on recent theorizations of postcoloniality and transnationality through readings of fictional and non-fictional texts, along with analyses of contemporary films and media representations.",
+    "exclusions": "ENG370Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG371H1": {
+    "code": "ENG371H1",
+    "name": "Topics in Indigenous, Postcolonial, Transnational Literatures",
+    "hours": "36L",
+    "description": "Sustained study in a topic pertaining to Indigenous, postcolonial, or transnational literatures. Content varies with instructors. See Department website for current offerings. Course may not be repeated under the same subtitle.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG372H1": {
+    "code": "ENG372H1",
+    "name": "Topics in Indigenous, Postcolonial, Transnational Literatures",
+    "hours": "36L",
+    "description": "Sustained study in a topic pertaining to Indigenous, postcolonial, or transnational literatures. Content varies with instructors. See Department website for current offerings. Course may not be repeated under the same subtitle.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG373H1": {
+    "code": "ENG373H1",
+    "name": "Topics in Pre-1800 British Literature",
+    "hours": "36L",
+    "description": "Sustained study in a topic pertaining to British literature before 1800. Content varies with instructors. See Department website for current offerings. Course may not be repeated under the same subtitle.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG374H1": {
+    "code": "ENG374H1",
+    "name": "Topics in Pre-1800 British Literature",
+    "hours": "36L",
+    "description": "Sustained study in a topic pertaining to British literature before 1800. Content varies with instructors. See Department website for current offerings. Course may not be repeated under the same subtitle.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG376H1": {
+    "code": "ENG376H1",
+    "name": "Topics in Theory, Language, Critical Methods",
+    "hours": "36L",
+    "description": "Sustained study in a topic pertaining to literary theory, critical methods, or linguistics. Content varies with instructors. See Department website for current offerings. Course may not be repeated under the same subtitle.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG377H1": {
+    "code": "ENG377H1",
+    "name": "Topics in Theory, Language, Critical Methods",
+    "hours": "36L",
+    "description": "Sustained study in a topic pertaining to literary theory, critical methods, or linguistics. Content varies with instructors. See Department website for current offerings. Course may not be repeated under the same subtitle.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG378H1": {
+    "code": "ENG378H1",
+    "name": "Special Topics",
+    "hours": "36L",
+    "description": "Sustained study in a variety of topics, including: Canadian literature, American literature, Post-1800 British literature, and genres or themes that span across nations and periods. Content varies with instructors. See Department website for current offerings. Course may not be repeated under the same subtitle.  Note: An additional fee of $123 will apply to the \"Cook the Books\" subtitle offering.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG379H1": {
+    "code": "ENG379H1",
+    "name": "Special Topics",
+    "hours": "36L",
+    "description": "Sustained study in a variety of topics, including: Canadian literature, American literature, Post-1800 British literature, and genres or themes that span across nations and periods. Content varies with instructors. See Department website for current offerings. Course may not be repeated under the same subtitle.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG382H1": {
+    "code": "ENG382H1",
+    "name": "Literary Theory",
+    "hours": "36L",
+    "description": "This course explores contemporary literary theory, but may include related readings from earlier periods. Schools or movements studied may include structuralism, formalism, phenomenology, Marxism, post-structuralism, reader-response theory, feminism, queer theory, new historicism, psychoanalysis, postcolonial theory, critical race studies, and ecocriticism.",
+    "exclusions": "ENG382Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG384H1": {
+    "code": "ENG384H1",
+    "name": "Literature and Psychoanalysis",
+    "hours": "36L",
+    "description": "An introduction to psychoanalysis for students of literature, this course considers major psychoanalytic ideas through close readings of selected texts by Freud. The course also explores critiques and applications of Freud's work and examines a selection of literary texts that engage psychoanalytic theory.",
+    "exclusions": "ENG384Y1",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG385H1": {
+    "code": "ENG385H1",
+    "name": "History of the English Language",
+    "hours": "36L",
+    "description": "This course explores English from its prehistory to the present day, emphasizing Old, Middle, and Early Modern English and the theory and terminology needed to understand their lexical, grammatical, and phonological structure; language variation and change; codification and standardization; literary and non-literary usage.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG387H1": {
+    "code": "ENG387H1",
+    "name": "Creative Writing: Creative Nonfiction",
+    "hours": "36S",
+    "description": "A course devoted to the study and production of creative nonfiction, with attention to such matters as literary style and rhetoric, authorial self-positioning, and political and ethical considerations. Genres to be considered may include journalism, criticism, essays, biography, memoir, and autotheory. Priority enrolment will be given to students in the Creative Writing Minor. Not eligible for CR/NCR option.",
+    "exclusions": "CRE279H1;  INI308H1 (Selected Topics in Writing and Rhetoric: Writing Literary Journalism), offered in Summer 2021;  WRR312H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": ""
+        },
+        "ENG289H1"
+      ]
+    }
+  },
+  "ENG388H1": {
+    "code": "ENG388H1",
+    "name": "Creative Writing: Poetry",
+    "hours": "36S",
+    "description": "A course devoted to the craft of writing poetry, with attention to a range of forms, genres, styles, and compositional methods. The workshopping of student writing will take place alongside discussions of key texts in the field. Priority enrolment will be given to students in the Creative Writing Minor. Not eligible for CR/NCR option.",
+    "exclusions": "ENG389Y1,  CRE280H1,  ENG373H5,  ENGB60H3,  ENGC86H3",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": ""
+        },
+        "ENG289H1"
+      ]
+    }
+  },
+  "ENG389H1": {
+    "code": "ENG389H1",
+    "name": "Creative Writing: Short Fiction",
+    "hours": "36S",
+    "description": "A course devoted to the craft of writing short fiction, with attention to matters such as genre, narratorial perspective, characterization, plot, style, and setting. The workshopping of student writing will take place alongside discussions of key texts in the field. Priority enrolment will be given to students in the Creative Writing Minor. Not eligible for CR/NCR option.",
+    "exclusions": "ENG389Y1,  CRE275H1,  ENG374H5,  ENGB61H3,  ENGC87H3,  WRR311Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": ""
+        },
+        "ENG289H1"
+      ]
+    }
+  },
+  "ENG390Y1": {
+    "code": "ENG390Y1",
+    "name": "Individual Studies",
+    "hours": null,
+    "description": "A scholarly project chosen by the student and supervised by a member of the staff. The form of the project and the manner of its execution are determined in consultation with the supervisor. Proposal forms and deadlines are available on the department website. Not eligible for CR/NCR option.",
+    "exclusions": "ENG392H1",
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 3.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG392H1": {
+    "code": "ENG392H1",
+    "name": "Individual Studies",
+    "hours": null,
+    "description": "A scholarly project chosen by the student and supervised by a member of the staff. The form of the project and the manner of its execution are determined in consultation with the supervisor. Proposal forms and deadlines are available on the department website. Not eligible for CR/NCR option.",
+    "exclusions": "ENG390Y1",
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 3.0,
+          "department": "ENG"
+        },
+        {
+          "credits": 4.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG394H1": {
+    "code": "ENG394H1",
+    "name": "Creative Writing: Special Topics",
+    "hours": "36S",
+    "description": "Sustained study and creative practice with respect to a topic pertaining to Creative Writing: e.g., writing for children; science fiction and fantasy; digital/interactive stories; writing across culture; writing and the environment. Content varies with instructors. Class format may include seminar discussion and a workshop devoted to student writing. See Department website for current offerings. Course may not be repeated under the same subtitle. Priority enrolment will be given to students enrolled in the Creative Writing Minor.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": ""
+        },
+        "ENG289H1"
+      ]
+    }
+  },
+  "ENG398H0": {
+    "code": "ENG398H0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ENG398Y0": {
+    "code": "ENG398Y0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ENG399H1": {
+    "code": "ENG399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ENG399Y1": {
+    "code": "ENG399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ENG400H1": {
+    "code": "ENG400H1",
+    "name": "Internship",
+    "hours": "12L/96P",
+    "description": "In this course, upper-year students will participate in partnership-based academic internships offered by a range of non-profit and for-profit organizations in a variety of cultural and commercial fields. Students will acquire practical and professional experience at the same time as they contribute their own critical and communicative skills in a workplace setting. The course will offer structured engagement with participating organizations across the city as well as 4-5 in-class meetings and a final written assignment. Students can expect to complete a range of 80-90 hours with a partner organization (8 hours a week for up to 12 weeks). Not eligible for CR/NCR. Admission to the course will be by application (including a short writing sample).",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 14.0,
+          "department": ""
+        },
+        "ENG202H1",
+        "ENG203H1",
+        "ENG250H1",
+        "ENG252H1",
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        }
+      ]
+    }
+  },
+  "ENG480H1": {
+    "code": "ENG480H1",
+    "name": "Advanced Studies Seminar",
+    "hours": "24S",
+    "description": "Seminars are designed to provide students with the opportunity to practice their skills of research and interpretation, and to participate in critical discussion, at a particularly advanced level. All seminars demand substantial class participation and most require an oral presentation. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": "ENG"
+        },
+        "ENG202H1",
+        "ENG203H1",
+        "ENG250H1",
+        "ENG252H1",
+        {
+          "credits": 9.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG481H1": {
+    "code": "ENG481H1",
+    "name": "Advanced Studies Seminar",
+    "hours": "24S",
+    "description": "Seminars are designed to provide students with the opportunity to practice their skills of research and interpretation, and to participate in critical discussion, at a particularly advanced level. All seminars demand substantial class participation and most require an oral presentation. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": "ENG"
+        },
+        "ENG202H1",
+        "ENG203H1",
+        "ENG250H1",
+        "ENG252H1",
+        {
+          "credits": 9.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG482H1": {
+    "code": "ENG482H1",
+    "name": "Advanced Studies Seminar",
+    "hours": "24S",
+    "description": "Seminars are designed to provide students with the opportunity to practice their skills of research and interpretation, and to participate in critical discussion, at a particularly advanced level. All seminars demand substantial class participation and most require an oral presentation. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": "ENG"
+        },
+        "ENG202H1",
+        "ENG203H1",
+        "ENG250H1",
+        "ENG252H1",
+        {
+          "credits": 9.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG483H1": {
+    "code": "ENG483H1",
+    "name": "Advanced Studies Seminar",
+    "hours": "24S",
+    "description": "Seminars are designed to provide students with the opportunity to practice their skills of research and interpretation, and to participate in critical discussion, at a particularly advanced level. All seminars demand substantial class participation and most require an oral presentation. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": "ENG"
+        },
+        "ENG202H1",
+        "ENG203H1",
+        "ENG250H1",
+        "ENG252H1",
+        {
+          "credits": 9.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG484H1": {
+    "code": "ENG484H1",
+    "name": "Advanced Studies Seminar",
+    "hours": "24S",
+    "description": "Seminars are designed to provide students with the opportunity to practice their skills of research and interpretation, and to participate in critical discussion, at a particularly advanced level. All seminars demand substantial class participation and most require an oral presentation. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": "ENG"
+        },
+        "ENG202H1",
+        "ENG203H1",
+        "ENG250H1",
+        "ENG252H1",
+        {
+          "credits": 9.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG485H1": {
+    "code": "ENG485H1",
+    "name": "Advanced Studies Seminar",
+    "hours": "24S",
+    "description": "Seminars are designed to provide students with the opportunity to practice their skills of research and interpretation, and to participate in critical discussion, at a particularly advanced level. All seminars demand substantial class participation and most require an oral presentation. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": "ENG"
+        },
+        "ENG202H1",
+        "ENG203H1",
+        "ENG250H1",
+        "ENG252H1",
+        {
+          "credits": 9.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG486H1": {
+    "code": "ENG486H1",
+    "name": "Advanced Studies Seminar",
+    "hours": "24S",
+    "description": "Seminars are designed to provide students with the opportunity to practice their skills of research and interpretation, and to participate in critical discussion, at a particularly advanced level. All seminars demand substantial class participation and most require an oral presentation. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": "ENG"
+        },
+        "ENG202H1",
+        "ENG203H1",
+        "ENG250H1",
+        "ENG252H1",
+        {
+          "credits": 9.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG487H1": {
+    "code": "ENG487H1",
+    "name": "Advanced Studies Seminar",
+    "hours": "24S",
+    "description": "Seminars are designed to provide students with the opportunity to practice their skills of research and interpretation, and to participate in critical discussion, at a particularly advanced level. All seminars demand substantial class participation and most require an oral presentation. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": "ENG"
+        },
+        "ENG202H1",
+        "ENG203H1",
+        "ENG250H1",
+        "ENG252H1",
+        {
+          "credits": 9.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG488H1": {
+    "code": "ENG488H1",
+    "name": "Advanced Studies Seminar",
+    "hours": "24S",
+    "description": "Seminars are designed to provide students with the opportunity to practice their skills of research and interpretation, and to participate in critical discussion, at a particularly advanced level. All seminars demand substantial class participation and most require an oral presentation. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": "ENG"
+        },
+        "ENG202H1",
+        "ENG203H1",
+        "ENG250H1",
+        "ENG252H1",
+        {
+          "credits": 9.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG489H1": {
+    "code": "ENG489H1",
+    "name": "Advanced Studies Seminar",
+    "hours": "24S",
+    "description": "Seminars are designed to provide students with the opportunity to practice their skills of research and interpretation, and to participate in critical discussion, at a particularly advanced level. All seminars demand substantial class participation and most require an oral presentation. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 4.0,
+          "department": "ENG"
+        },
+        "ENG202H1",
+        "ENG203H1",
+        "ENG250H1",
+        "ENG252H1",
+        {
+          "credits": 9.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENG497H1": {
+    "code": "ENG497H1",
+    "name": "Advanced Creative Writing Seminar: Literary Citizenship",
+    "hours": "24S",
+    "description": "A course examining efforts to build and sustain literary culture and literary communities through individual initiatives and collective efforts. Topics may include book reviewing, youth engagement, small presses, writers\u2019 organizations, and the state\u2019s role in the publishing industry. Priority enrolment will be given to students enrolled in the Creative Writing Minor.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        "ENG289H1"
+      ]
+    }
+  },
+  "ENG498H1": {
+    "code": "ENG498H1",
+    "name": "Advanced Creative Writing Seminar: Long-Form Writing",
+    "hours": "24S",
+    "description": "Students study and produce long-form creative work in a genre of their choice (the novella, short stories, the long poem) or in a genre determined by the professor. Beyond craft and literary analysis, this course develops capacities that writers need to cultivate for future success, such as idea-generation, persistence, independence, and creative problem-solving. Priority enrolment will be given to students enrolled in the Creative Writing Minor.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 9.0,
+          "department": ""
+        },
+        "ENG289H1"
+      ]
+    }
+  },
+  "ENG499Y1": {
+    "code": "ENG499Y1",
+    "name": "Advanced Research Seminar",
+    "hours": "48S",
+    "description": "A seminar designed to provide students with the opportunity to practice their skills of research and interpretation at a particularly advanced level, especially suited for students considering a graduate degree in English or a related discipline. The course is open to Year 4 students in English Specialist and Major programs who have achieved 80% in all English courses they have taken at the 200-level or above. Students also need 4.0 ENG credits (including  ENG202H1,  ENG203H1,  ENG250H1,  ENG252H1). Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 14.0,
+          "department": ""
+        },
+        "ENG202H1",
+        "ENG203H1",
+        "ENG250H1",
+        "ENG252H1",
+        {
+          "credits": 2.0,
+          "department": "ENG"
+        }
+      ]
+    }
+  },
+  "ENT200H1": {
+    "code": "ENT200H1",
+    "name": "Introduction to Entrepreneurship",
+    "hours": "24L",
+    "description": "How can new ideas and technologies be transformed into valuable startups? This course introduces a strategic framework for innovation-driven entrepreneurs, focusing on the key choices new founders face. The course emphasizes balancing experimentation and learning with core strategic decisions to gain a competitive edge. Through interactive lectures, case studies, and exercises, students will learn how to apply an entrepreneurial strategy framework across various industries. This is a highly discussion-based course. Attendance and active participation are an important part of the assessment.",
+    "exclusions": "RSM100H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": "ANY"
+    }
+  },
+  "ENT391H1": {
+    "code": "ENT391H1",
+    "name": "Exploring New Ventures",
+    "hours": "24L/96P",
+    "description": "This experiential learning course allows students to explore the inner working of new ventures or other innovative organizations. The majority of the course consists of activities applying entrepreneurial concepts within a local organization, with oversight from the Centre for Entrepreneurship. In-class activities facilitate the application of entrepreneurial tools to develop the students\u2019 entrepreneurial skills.",
+    "exclusions": "JPM400Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": ""
+            },
+            "ENT200H1"
+          ]
+        },
+        "RSM100H1",
+        "MGT100H1"
+      ]
+    }
+  },
+  "ENT392H1": {
+    "code": "ENT392H1",
+    "name": "Creating New Ventures",
+    "hours": "12L/48P",
+    "description": "This experiential learning course allows students to explore the inner working of their new ventures. The majority of the course consists of activities applying entrepreneurial concepts within the student\u2019s own venture, with oversight from the Centre for Entrepreneurship. In-class activities facilitate the application of entrepreneurial tools to develop the students\u2019 entrepreneurial skills.",
+    "exclusions": "ENT392Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": ""
+            },
+            "ENT200H1"
+          ]
+        },
+        "RSM100H1",
+        "MGT100H1"
+      ]
+    }
+  },
+  "ENV100H1": {
+    "code": "ENV100H1",
+    "name": "Introduction to Environmental Studies",
+    "hours": "24L",
+    "description": "An investigation of the relationship between human beings and their natural and built environments. This interdisciplinary course will draw from the sciences, social sciences and the humanities to explore major social, cultural, economic, regulatory, ethical, ecological and technological aspects of environmental issues.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ENV101H1": {
+    "code": "ENV101H1",
+    "name": "Confronting the Climate Crisis",
+    "hours": "24L",
+    "description": "This course is a comprehensive, interdisciplinary introduction to the climate crisis, suitable for any undergraduate student at U of T. The course examines the climate crisis from scientific, social, economic, political, and cultural perspectives, from the physical science basis through to the choices we now face to stabilize the climate system. The course uses a mixture of lectures, hands-on activities, group projects, online discussion, and guest speakers to give students a deeper understanding of climate change as a complex, interconnected set of problems, while equipping them with a framework to evaluate the choices we face as a society, and to cultivate a culture of hope in the face of a challenging future.",
+    "exclusions": "ENV194H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ENV194H1": {
+    "code": "ENV194H1",
+    "name": "Topics in Climate Change",
+    "hours": "24S",
+    "description": "In this class we will discuss the underlying science of the climate system and also explore how this information is communicated effectively. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ENV195H1": {
+    "code": "ENV195H1",
+    "name": "The Sustainability Transition",
+    "hours": "24S",
+    "description": "Can you imagine a sustainable future? What would it look like? How can we get there? We are often bombarded by negative images about our future and the future of the planet. In this seminar class we will explore what a sustainable world might look like and ways that we can get there. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ENV196H1": {
+    "code": "ENV196H1",
+    "name": "Environment, Culture and Film",
+    "hours": "36S",
+    "description": "This first-year foundation course will introduce students to the scope and seriousness of some of current ecological concerns, as well as some core principles and concepts in the field of the intersection of environment and culture, through the lens of feature films. Through journal reflections, class discussions and guided critical thinking exercises, and a paper, students will be able to build confidence and enthusiasm for further study in environmental studies, within a small seminar setting. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "ENV197H1": {
+    "code": "ENV197H1",
+    "name": "Idleness and the Environment: What Does Sustainable Work Mean?",
+    "hours": "24S",
+    "description": "In a fast-paced, high-tech world\u2014and one that must rapidly decarbonize to address the climate crisis\u2014the relationship between labour and environment is rapidly changing. This course explores the intersection of work and the environment, considering how ideas about leisure and idleness might offer new pathways for a more sustainable future. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ENV198H1": {
+    "code": "ENV198H1",
+    "name": "Environment & Mental Wellness",
+    "hours": "24S",
+    "description": "This foundations course is an introduction to Environmental Psychology and related disciplines. We will examine the mutual relationship between the human psyche and the environment, with a focus on mental wellness. Topics will include: psycho-evolutionary environments, place attachment and identity, neurological toxins and environmental health, the modern period, cultural perceptions on nature-psyche, climate anxiety and ecological grief, nature connectedness and restorative environments. As a foundations course, students will develop key academic skills such as academic literacy, communication and application, interdisciplinary critical thinking, as well as creative problem solving. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "ENV199H1": {
+    "code": "ENV199H1",
+    "name": "Debating & Understanding Current Environmental Issues",
+    "hours": "2L",
+    "description": "The course examines current environmental issues for which there is no easy answer or consensus position. For instance, to help solve climate change should we generate more electricity from nuclear power-plants, which have no greenhouse gas emissions? Or instead, should we phase out nuclear plants because of possible accidents, costs and radioactive wastes? The seminar examines the scientific and political aspects of such issues and debates the pros and cons of each. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ENV200H1": {
+    "code": "ENV200H1",
+    "name": "Assessing Global Change: Science and the Environment",
+    "hours": "24L/4T",
+    "description": "The perspective which scientists bring to the understanding and resolution of environmental concerns having global implications: atmospheric systems and climate change, the biosphere and conservation of biodiversity. This living things and their environment breadth course is intended to fulfill the environmental literacy requirement for students in the BA programs of the School of the Environment or the living things and their environment breadth course requirement for Commerce, Humanities and Social Science students",
+    "exclusions": "BIO120H1,  EEB208H1",
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "ENV221H1": {
+    "code": "ENV221H1",
+    "name": "Multidisciplinary Perspectives on Environment",
+    "hours": "24L/4T",
+    "description": "One of two foundation courses for the School\u2019s undergraduate program. Introduces students to ways in which different disciplines contribute to our understanding of environment. Instructors and guest lecturers are drawn from the sciences, social sciences and the humanities and will present subject matter, assumptions, conceptualizations and methodologies of their disciplines.",
+    "exclusions": "TRN140Y1,  TRN141Y1",
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ENV222H1": {
+    "code": "ENV222H1",
+    "name": "Pathways to Sustainability: An Interdisciplinary Approach",
+    "hours": "24L/12T",
+    "description": "ENV222H1 explores the concept and practice of sustainability by integrating scientific, technological, economic, political, psychological, historical, and ethical perspectives. The course begins by analyzing the challenges posed by the ecological crisis, including its historical roots. It then goes on to explore and evaluate a variety of approaches, strategies, and actions\u2014at a personal, local, national, and global scale\u2014that could move us towards authentic sustainability.",
+    "exclusions": "TRN140Y1,  TRN141Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ENV223H1": {
+    "code": "ENV223H1",
+    "name": "Fundamental Environmental Skills",
+    "hours": "24L",
+    "description": "The practical, interdisciplinary and controversial nature of environmental issues, as well as the uncertainty that surrounds measures to address them demand mastery of a particular range of skills by environmental students. This course teaches the fundamental research, analysis and presentation skills required for effective environmental work. This course is for students enrolled in the Environmental Studies Major program, or permission of the Undergraduate Associate Director.",
+    "exclusions": "GGR271H1",
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "ENV237H1": {
+    "code": "ENV237H1",
+    "name": "Physics of the Changing Environment A",
+    "hours": "24L/24P",
+    "description": "The course will cover basic physics of environmental processes and of measurement techniques in the atmosphere, the ocean, lake-land-forest systems, and other biological systems. It will place its work in the context of climate change and other aspects of environmental change. This course is solely intended for students who have NOT completed a previous first year physics core course, who are in one of the following programs: Environmental Science Major or Minor, Environmental Geosciences Specialist or Earth and Environmental Systems Major.",
+    "exclusions": "ENV238H1,  PHY131H1/ PHY132H1/ PHY151H1/ PHY152H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MAT135H1",
+        "MAT136H1",
+        "MAT137Y1",
+        "MAT157Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "JMB170Y1",
+            "CHM136H1"
+          ]
+        },
+        "CHM138H1",
+        "CHM135H1",
+        "CHM139H1",
+        "CHM151Y1"
+      ]
+    }
+  },
+  "ENV238H1": {
+    "code": "ENV238H1",
+    "name": "Physics of the Changing Environment B",
+    "hours": "24L/24P",
+    "description": "The course will cover basic physics of environmental processes and of measurement techniques in the atmosphere, the ocean, lake-land-forest systems, and other biological systems. It will place its work in the context of climate change and other aspects of environmental change. This course is solely intended for students who have completed a previous first year physics core course, who are in one of the following programs: Environmental Science Major or Minor, Environmental Geosciences Specialist or Earth and Environmental Systems Major.",
+    "exclusions": "ENV237H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MAT135H1",
+        "MAT136H1",
+        "MAT137Y1",
+        "MAT157Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "JMB170Y1",
+            "CHM136H1"
+          ]
+        },
+        "CHM138H1",
+        "CHM135H1",
+        "CHM139H1",
+        {
+          "operator": "AND",
+          "items": [
+            "CHM151Y1",
+            "PHY131H1"
+          ]
+        },
+        "PHY132H1",
+        "PHY151H1",
+        "PHY152H1"
+      ]
+    }
+  },
+  "ENV262H1": {
+    "code": "ENV262H1",
+    "name": "The Science of Energy in the Environment",
+    "hours": "24L/12T",
+    "description": "Energy is a fundamental organizing principle of Nature. It has a central role in the origin and evolution of the universe, and is the basis of the ecosystem of the Earth and of technology and the world economy. This course will explore the science of energy in all its forms. ( ENV262H1 is primarily intended as a Breadth Requirement course for students in the Humanities and Social Sciences.)",
+    "exclusions": "ENV346H1, ( PHY131H1,  PHY132H1,  PHY151H1,  PHY152H1 or equivalent, taken previously or concurrently)",
+    "breadth": 5,
+    "prereq_tree": null
+  },
+  "ENV281H1": {
+    "code": "ENV281H1",
+    "name": "Special Topics in Environment",
+    "hours": "24L",
+    "description": "Special topics course designed for students in School of the Environment programs. Content in any given year depends on instructor. See School of the Environment website for more details.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "ENV282H1": {
+    "code": "ENV282H1",
+    "name": "Special Topics in the Environment",
+    "hours": "24L",
+    "description": "Special topics course designed for students in School of the Environment programs. Content in any given year depends on instructor. See School of the Environment website for more details.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "ENV299H1": {
+    "code": "ENV299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ENV299Y1": {
+    "code": "ENV299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ENV301H1": {
+    "code": "ENV301H1",
+    "name": "Critically Thinking about Climate Solutions",
+    "hours": "24L/12T",
+    "description": "This course builds on what you have learned about the nature of the climate crisis ( ENV101H1), science of global change ( ENV200H1) and the sustainability transition ( ENV222H1). It will provide students with a comprehensive framework for evaluating and comparing climate solutions. The course will begin with an assessment of the scale and urgency of the climate crisis as a basis for assessing solutions. Students will learn how to evaluate climate solutions from the point of view of feasibility, scale, timeframe, risk, equity, governance, likely co-benefits, and climate justice. Using a systems thinking approach, students will use a mix of qualitative and quantitative reasoning to assess current and proposed climate solutions. The course will also address current controversies and ethical dilemmas in addressing climate change, including mitigation versus adaptation, incrementalism versus system change, decoupling versus degrowth, greenwashing, and the ethics of geoengineering.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": ""
+            },
+            "ENV101H1",
+            "ENV200H1"
+          ]
+        },
+        "ENV237H1",
+        {
+          "operator": "AND",
+          "items": [
+            "ENV238H1",
+            "ENV222H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ENV307H1": {
+    "code": "ENV307H1",
+    "name": "Urban Sustainability",
+    "hours": "18L/18P",
+    "description": "This course critically examines the concept of urban sustainability in theory and application. Case studies of ongoing urban sustainability programs in the developed and developing world help students assess the successes and failures of these programs. The course also examines the current state of research and implementation efforts toward urban sustainability. Toronto's urban sustainability and sustainable needs will be investigated through the use of Geographic Information Systems (GIS) during the course (previous experience with GIS is not required).",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 8.0,
+              "department": ""
+            },
+            "ENV221H1"
+          ]
+        },
+        "ENV222H1"
+      ]
+    }
+  },
+  "ENV316H1": {
+    "code": "ENV316H1",
+    "name": "Laboratory and Field Methods in Environmental Science",
+    "hours": "12T/36P",
+    "description": "This course focuses on methods of sampling and analyzing natural air, water and solid Earth materials for physical, chemical and biological properties that are relevant to current environmental issues. It will integrate approaches from chemistry, physics, geology and biology, and cover techniques in field sampling, laboratory analyses and analyses of large environmental data sets. Basic concepts related to quality control will be emphasized throughout the course: sample collection and storage methods, calibration of field and lab instruments, analyses in complex matrices, errors (accuracy, precision), and detection limits. This course is for students enrolled in the Environmental Science Major program, or permission of the Undergraduate Associate Director. A fee of $26 will be charged for lab supplies, lab instrument charges and technical services.",
+    "exclusions": "ESS425H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "EEB240H1",
+        {
+          "operator": "AND",
+          "items": [
+            "ENV234H1",
+            "CHM210H1"
+          ]
+        },
+        "ENV237H1",
+        {
+          "operator": "AND",
+          "items": [
+            "ENV238H1",
+            "STA220H1"
+          ]
+        },
+        "STA288H1",
+        "EEB225H1",
+        "GGR270H1"
+      ]
+    }
+  },
+  "ENV320H1": {
+    "code": "ENV320H1",
+    "name": "National Environmental Policy",
+    "hours": "24L/12T",
+    "description": "Examines ways in which governments develop and implement policy to protect the environment within their borders. Primarily Canada, plus comparisons with other countries. The focus is upon the politics of environmental policy making, which is understood by examining the interests and powers of the relevant state and non-state actors.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 8.0,
+              "department": ""
+            },
+            "ENV221H1"
+          ]
+        },
+        "ENV222H1"
+      ]
+    }
+  },
+  "ENV322H1": {
+    "code": "ENV322H1",
+    "name": "International Environmental Policy",
+    "hours": "24L/12T",
+    "description": "Examines the ways in which states negotiate and implement international agreements addressing global environmental issues, such as the United Nations Framework Convention on Climate Change. Focus is upon factors which determine the efficacy of multilateral environmental agreements and the prospects for stronger global environmental governance.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 8.0,
+              "department": ""
+            },
+            "ENV221H1"
+          ]
+        },
+        "ENV222H1"
+      ]
+    }
+  },
+  "ENV323H1": {
+    "code": "ENV323H1",
+    "name": "Ontario Environmental Policy",
+    "hours": "24S",
+    "description": "Introduces students to public policy and institutional foundations of public policy in Canada, with an emphasis on environmental policy in Ontario. Provides an insiders perspective on how environmental policy has been developed in Ontario.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 8.0,
+              "department": ""
+            },
+            "ENV221H1"
+          ]
+        },
+        "ENV222H1"
+      ]
+    }
+  },
+  "ENV330H1": {
+    "code": "ENV330H1",
+    "name": "Waste Not: Faith-Based Environmentalism",
+    "hours": "24L",
+    "description": "This course explores religious environmentalism, its proponents and opponents, and its core values within the Abrahamic faiths of Judaism, Christianity and Islam. Religious environmentalists have used teachings from sacred texts as exemplars of sustainability. Some, however, claim that these texts teach domination, anthropocentrism and hierarchical values. Looking at a range of worldviews, we focus on the topics of wastefulness, consumption, and simplicity. Readings about barriers, motivations, and values that inform environmental behaviour are complemented with field trips to places of worship where we will hear religious leaders speak about the environmental initiatives undertaken in their communities and see sacred spaces.",
+    "exclusions": "ENV382H1 (Special Topics in Environment: Waste Not, Want Not: Stories of Wastefulness in Religion & Society), offered in Winter 2018, Fall 2018, and Winter 2020",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 8.0,
+              "department": ""
+            },
+            "ENV221H1"
+          ]
+        },
+        "ENV222H1"
+      ]
+    }
+  },
+  "ENV333H1": {
+    "code": "ENV333H1",
+    "name": "Ecological Worldviews",
+    "hours": "24L/10T",
+    "description": "Approaches to environmental concerns are often marked by assumptions that reflect distinct worldviews positing particular understandings of the role of the human with respect to nature. This course explores sundry economic, political, scientific, religious, and moral worldviews pertaining to the environment, including environmental ethics, Gaia, ecofeminism, scientific cosmology, and indigenous perspectives.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 8.0,
+              "department": ""
+            },
+            "ENV221H1"
+          ]
+        },
+        "ENV222H1"
+      ]
+    }
+  },
+  "ENV335H1": {
+    "code": "ENV335H1",
+    "name": "Environmental Design",
+    "hours": "18L/18P",
+    "description": "Environmental design, in the context of this course, refers to design strategies that account for the ability of supporting ecosystems to continue to meet human needs and those of other lifeforms without diminishing biological diversity or environmental quality. This course takes a hands-on approach to investigating several environmental design issues: climate-responsive design, energy consumption, health and comfort, natural lighting and ventilation, and water management. Students will build up a design of a net-zero carbon residential building through several instructive design exercises during the semester, including hands-on measurement and calculation activities.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 8.0,
+              "department": ""
+            },
+            "ENV221H1"
+          ]
+        },
+        "ENV222H1"
+      ]
+    }
+  },
+  "ENV336H1": {
+    "code": "ENV336H1",
+    "name": "Ecology in Human-Dominated Environments",
+    "hours": null,
+    "description": "A two week course offered at a Southern Ontario field station during late summer. Introduction to im-pacts of humans on semi-natural and human-dominated environments of southern Ontario and over-view of the most commonly used assessment tools for states of ecosystems. These environments play important roles in terms of ecosystem services.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "ENV337H1": {
+    "code": "ENV337H1",
+    "name": "Human Interactions with the Environment",
+    "hours": "24L/12P",
+    "description": "The impact of 7 billion people on the planet is enormous and challenges future generations. What are these impacts today and in future? What solutions and tools can avert societal collapse? Using an integrated and interdisciplinary systems approach, we explore problems and solutions to the earth\u2019s limits to growth.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "CHM210H1",
+            "EEB240H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "ENV234H1",
+            "ENV237H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "ENV238H1",
+            "ESS262H1"
+          ]
+        },
+        "ENV221H1",
+        "ENV222H1",
+        "EEB240H1",
+        {
+          "operator": "AND",
+          "items": [
+            "ENV234H1",
+            "BIO220H1",
+            "BIO230H1"
+          ]
+        },
+        "BIO255H1"
+      ]
+    }
+  },
+  "ENV338H1": {
+    "code": "ENV338H1",
+    "name": "Environmental Research Data and Decision-making",
+    "hours": "24L/12T",
+    "description": "Understanding the natural world and human perturbations to it requires data. All data has inherent biases and constraints. In this class we will explore the world of environmental data from the perspective of those interested in affecting positive change. The class will use case studies and current research to explore topics such as: How do environmental scientists design studies or experiments to answer specific questions? How do we characterize the limitations of the data we have and work within these constraints to answer scientific questions and make informed and meaningful decisions?",
+    "exclusions": "None",
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 8.0,
+              "department": ""
+            },
+            "ENV221H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "ENV222H1",
+            "ENV223H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ENV341H1": {
+    "code": "ENV341H1",
+    "name": "Environment and Health",
+    "hours": "24L",
+    "description": "Examination of the linkages between human health and environment using an interdisciplinary, planetary health lens. Addresses basic public health and toxicological principles. Case studies are examined to highlight the multifaceted ways health and environment are interconnected and to understand key factors modulating environmental exposures and health outcomes in various populations.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ENV221H1",
+        "ENV222H1",
+        "BIO230H1",
+        "BIO255H1",
+        {
+          "credits": 8.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "ENV342H1": {
+    "code": "ENV342H1",
+    "name": "Ecology of the Mind",
+    "hours": "24L",
+    "description": "\u201cAsk not what is inside your head, but what your head is inside of.\u201d \u2013 James Gibson. This course will explore how environmental settings shape our psyche: cognition, emotions, perceptions, behaviour, and wellbeing. It approaches the mind as embodied, socio-ecologically situated, and enacted. The course title is inspired by Gregory Bateson\u2019s \u201cecology of mind\u201d theory, which views the psyche as part of a relational network with the material world that, like biological ecosystems, will interact, adapt and evolve over time. Students will uncover how natural settings enhance sense of security, curiosity, connectedness and clarity, and how nature enhances systems thinking when we attend to its patterns of relationship. Students will understand and experience nature-based systems thinking that inspires more relational, interconnected and process-oriented perception. The course will highlight the psychological losses associated with environmental degradation, and how the benefits of above can be enhanced through nature-based mindfulness and collective environmental engagement.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ENV200H1",
+        "ENV221H1",
+        {
+          "operator": "AND",
+          "items": [
+            "TRN140Y1",
+            "TRN141Y1"
+          ]
+        },
+        "BIO120H1",
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": ""
+            },
+            "PSY100H1"
+          ]
+        }
+      ]
+    }
+  },
+  "ENV346H1": {
+    "code": "ENV346H1",
+    "name": "Terrestrial Energy Systems",
+    "hours": "36L/24T",
+    "description": "Various earth systems for energy transformation, storage and transport are explored. Geological, hydrological, biological, cosmological and oceanographic energy systems are considered in the context of the Earth as a dynamic system, including the variation of solar energy received by the planet and the redistribution of this energy through various radiative, latent and sensible heat transfer mechanisms. It considers the energy redistribution role of large-scale atmospheric systems, of warm and cold ocean currents, the role of the polar regions, and the functioning of various hydrological systems. The contribution and influence of tectonic systems on the surface systems is briefly introduced, as well the important role of energy storage processes in physical and biological systems, including the accumulation of fossil fuel reserves.",
+    "exclusions": null,
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "MAT135H1",
+            "MAT136H1"
+          ]
+        },
+        "MAT137Y1",
+        "JMB170Y1",
+        "BIO120H1",
+        "CHM136H1",
+        "CHM138H1",
+        "CHM135H1",
+        "CHM139H1",
+        "CHM151Y1",
+        "PHY131H1",
+        "PHY132H1",
+        "PHY151H1",
+        "PHY152H1"
+      ]
+    }
+  },
+  "ENV347H1": {
+    "code": "ENV347H1",
+    "name": "The Power of Economic Ideas",
+    "hours": "24L",
+    "description": "This course examines the power of economic ideas in effecting environmental change. Topics include the relation of ecological economics to mainstream economics, as well as the role of financial incentives to move the environmental agenda forward.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 8.0,
+              "department": ""
+            },
+            "ENV221H1"
+          ]
+        },
+        "ENV222H1"
+      ]
+    }
+  },
+  "ENV350H1": {
+    "code": "ENV350H1",
+    "name": "Energy Policy and Environment",
+    "hours": "24L",
+    "description": "The course addresses: (1) physical, technological and economic aspects of energy and electricity systems and their associated environmental impacts; (2) current international, Canadian and Ontario energy policy; (3) technological, economic and political factors influencing policy which could significantly reduce environmental impacts of energy use.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 8.0,
+              "department": ""
+            },
+            "ENV221H1"
+          ]
+        },
+        "ENV222H1"
+      ]
+    }
+  },
+  "ENV360H1": {
+    "code": "ENV360H1",
+    "name": "Is the Internet Green?",
+    "hours": "36L",
+    "description": "The Internet has deeply penetrated most aspects of society and yet we are remarkably unreflective about its impacts and sustainability. This course challenges students to critically evaluate evidence regarding the environmental and social impacts of the Internet and how the Internet contributes (or not) to goals of environmental sustainability.",
+    "exclusions": "ENV261H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 8.0,
+              "department": ""
+            },
+            "ENV221H1"
+          ]
+        },
+        "ENV222H1"
+      ]
+    }
+  },
+  "ENV361H1": {
+    "code": "ENV361H1",
+    "name": "Social Media and Environmentalism",
+    "hours": "24L/12T",
+    "description": "This course examines the impacts of the internet on environmental thinking and policy-making. Topics include the use of social media as a tool for community-building and collaborative design, the sharing economy, online protest movements, mass surveillance and its implications, and the impact of misinformation on climate denialism.",
+    "exclusions": "BIG102Y1,  ENV381H1 if taken in 2015-16 or 2016-17",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "ENV362H1": {
+    "code": "ENV362H1",
+    "name": "Energy & Environment: Transitions in History",
+    "hours": "36L",
+    "description": "An exploration of the interactions between humans and their environments in the Holocene, focusing on the contexts and consequences of changes in energy technologies. Includes consideration of changes in food production and processing, transport and power generation technologies from the adoption of agriculture to the twentieth century.",
+    "exclusions": "HPS307H1,  HIS300H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "ENV381H1": {
+    "code": "ENV381H1",
+    "name": "Special Topics in Environment",
+    "hours": "24L",
+    "description": "Special topics course designed for students in School of the Environment programs. Topics vary based on the year offered. See the School of the Environment website for more details.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "ENV382H1": {
+    "code": "ENV382H1",
+    "name": "Special Topics in Environment",
+    "hours": "24L",
+    "description": "Special topics course designed for students in School of the Environment programs. Content in any given year depends on instructor. See School of the Environment website for more details.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "ENV395Y0": {
+    "code": "ENV395Y0",
+    "name": "Special Topics Field Course",
+    "hours": "48S",
+    "description": "This course examines fundamental concepts in ecology, evolution, biodiversity, geology and conservation biology through lectures and fieldwork in highland, tropical and island ecosystems in Ecuador. The complex relations between these environments and the people who depend on them will also be examined through analysis of the social, cultural, and economic transformations that have taken place in recent years. Suitable for all School of the Environment programs.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ENV396H0": {
+    "code": "ENV396H0",
+    "name": "Special Topics Field Course",
+    "hours": null,
+    "description": "This course examines Australia\u2019s environmental, wildlife and conservation issues from an interdisciplinary perspective. In consideration of these issues, Australia\u2019s unique flora and fauna are examined through lectures and fieldwork in the various climatically varied regions of Australia that are visited throughout the course.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ENV396Y0": {
+    "code": "ENV396Y0",
+    "name": "Special Topics Field Course",
+    "hours": null,
+    "description": "This course examines Australia\u2019s environmental, wildlife and conservation issues from an interdisciplinary perspective. In consideration of these issues, Australia\u2019s unique flora and fauna are examined through lectures and fieldwork in the various climatically varied regions of Australia that are visited throughout the course.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "ENV397Y0": {
+    "code": "ENV397Y0",
+    "name": "Costa Rica: A Living Laboratory for Sustainability in Practice",
+    "hours": "48L",
+    "description": "Since abolishing its army in 1948, Costa Rica has prioritized healthcare, education, conservation, and sustainability. As a result, despite a modest per capita income, it has a high human development index and a relatively low ecological footprint (one quarter of Canada\u2019s). By some measures, it may also be the happiest country in the world. During this course, students will learn how this came about while exploring concrete sustainability initiatives in areas related to education, environmental ethics, food production, forest conservation, and energy while also examining current challenges related to transportation, democracy, migration, and poverty. In so doing, students will gain insights into how more just, sustainable, and peaceful societies might be created in practice.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "ENV398H0": {
+    "code": "ENV398H0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities\u2026. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ENV398Y0": {
+    "code": "ENV398Y0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ENV399H1": {
+    "code": "ENV399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ENV399Y1": {
+    "code": "ENV399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "ENV411H1": {
+    "code": "ENV411H1",
+    "name": "Sustainability Thinking",
+    "hours": "24L/6T",
+    "description": "This capstone course for the Certificate in Sustainability will build on the guiding sustainability principles and journal reflections that began in in the foundational course,  ENV222H1, and require students to reflect on the entirety of their sustainability education and experience.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "ENV222H1",
+        {
+          "operator": "AND",
+          "items": [
+            "TRN140Y1",
+            "TRN141Y1",
+            {
+              "credits": 12.0,
+              "department": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "ENV421Y1": {
+    "code": "ENV421Y1",
+    "name": "Community Research for Social & Environmental Change",
+    "hours": "24L",
+    "description": "This research course will provide students with an opportunity to engage in an action-focused, community-based group research project. This course is restricted to students enrolled in a program or certificate at the School of the Environment, or special permission of the Undergraduate Associate Director.",
+    "exclusions": "ENV421H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 10.0,
+              "department": ""
+            },
+            "ENV221H1"
+          ]
+        },
+        "ENV222H1"
+      ]
+    }
+  }
+}

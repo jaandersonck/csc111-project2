@@ -1,0 +1,1450 @@
+{
+  "MCS429H1": {
+    "code": "MCS429H1",
+    "name": "Advanced Topics in Material Culture, Information Systems and Meaning-Making",
+    "hours": "24S",
+    "description": "Content varies depending on instructor. Selected issues are examined in depth and at an advanced level. Please refer to course website for more information: https://vic.utoronto.ca/academic-programs/special-topics-courses/mcs429h",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": ""
+            },
+            "MCS224Y1"
+          ]
+        },
+        "MCS225Y1"
+      ]
+    }
+  },
+  "MCS444H1": {
+    "code": "MCS444H1",
+    "name": "Themes in Material Culture",
+    "hours": "24S",
+    "description": "This fourth year seminar, required for students pursuing a minor in material culture, will have opportunities to explore themes in material culture studies, museum exhibitions and collections as well as processes of object analysis in greater depth and at an advanced level. Specific topics and research projects will vary according to the interests and specialties of course instructors and students. Please see the Victoria College website for the current topics: https://vic.utoronto.ca/academic-programs/special-topics-courses/mcs444h",
+    "exclusions": "VIC444H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 9.0,
+              "department": ""
+            },
+            "MCS224Y1"
+          ]
+        },
+        "MCS225Y1"
+      ]
+    }
+  },
+  "MGR100H1": {
+    "code": "MGR100H1",
+    "name": "Introductory Modern Greek",
+    "hours": "24L",
+    "description": "This course is designed for absolute beginners in the Modern Greek language. The overall goal is to facilitate understanding and use of familiar everyday expressions and phrases aimed at the satisfaction of basic communicative needs. Students will familiarize themselves with the Modern Greek alphabet, pronunciation and grammatical rules. No previous knowledge of Modern Greek required.",
+    "exclusions": "Students who have completed High School in Greece or a Grade 12 Modern Greek language credit.",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "MGR101H1": {
+    "code": "MGR101H1",
+    "name": "Elementary Modern Greek",
+    "hours": "24L",
+    "description": "This course builds on  MGR100H1 and aims to develop competence in the Modern Greek language at the basic level. Students will attain elementary proficiency in the spoken and written language by familiarizing themselves with a variety of grammatical and syntax structures while continuing to enrich their vocabulary. Emphasis will be placed on reading and conversational skills while students are expected to write short descriptive paragraphs.",
+    "exclusions": "Students who have completed High School in Greece or a Grade 12 Modern Greek language credit.",
+    "breadth": 1,
+    "prereq_tree": "MGR100H1"
+  },
+  "MGR245Y1": {
+    "code": "MGR245Y1",
+    "name": "Intermediate Modern Greek",
+    "hours": "78S",
+    "description": "A course designed for students with some command of the language: vocabulary building; study of grammar and syntax; compositional skills leading to the study of a prose literary work.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "MGR300H1": {
+    "code": "MGR300H1",
+    "name": "Advanced Modern Greek I",
+    "hours": "24L",
+    "description": "This course builds on the Intermediate level background knowledge to prepare students as independent users of the Modern Greek language. In order to attain conversational fluency and communicate effectively and accurately with native Greek language speakers, students will practice on reading and interpreting magazine and newspaper articles on various topics as well as applying more complex grammatical and syntax rules to write essays on assigned subjects.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "MGR245Y1"
+  },
+  "MGR301H1": {
+    "code": "MGR301H1",
+    "name": "Advanced Modern Greek II",
+    "hours": "24L",
+    "description": "The aim of this course is to facilitate fluency both in spoken and written Modern Greek. Proficiency at this level will be attained through familiarization with various texts and genres including a Modern Greek literature anthology and selected academic articles. Emphasis will be placed on writing which will lead to the production of a short research paper in Modern Greek.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "MGR300H1"
+  },
+  "MGT100H1": {
+    "code": "MGT100H1",
+    "name": "Fundamentals of Management",
+    "hours": "24L",
+    "description": "Introduction to management and its subdisciplines. Themes include business in a Canadian context, the nature of corporations, corporate governance, organizational behavior, operations, and strategy. Not open to Rotman Commerce students.",
+    "exclusions": "RSM100H1,  RSM100Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "MGT201H1": {
+    "code": "MGT201H1",
+    "name": "Fundamentals of Financial Accounting",
+    "hours": "24L",
+    "description": "Introduction to financial reporting and analysis that is used by companies to organize and evaluate data in light of their organization\u2019s goal. Emphasis is on decision-making and interpretation of financial statements and how they can be used to plan a firm\u2019s overall business activities through the use of real-world companies. Not open to Rotman Commerce students.",
+    "exclusions": "RSM219H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "MGT230H1": {
+    "code": "MGT230H1",
+    "name": "Introduction to Financial Markets",
+    "hours": "24L",
+    "description": "This course is an introduction to financial securities and financial markets. It discusses the structure and function of financial markets, financial institutions and market participants, as well as some tools for market analysis. The objective of the course is to provide students with basic knowledge required to understand the nature of financial securities and markets and current financial issues. Not open to Rotman Commerce students.",
+    "exclusions": "RSM230H1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "MGT250H1": {
+    "code": "MGT250H1",
+    "name": "Fundamentals of Marketing",
+    "hours": "24L",
+    "description": "This course is designed to introduce students to the key principles of marketing. After taking the course, students will understand the marketing planning process, including segmentation, targeting, positioning, marketing analysis, and strategy. In addition, students will be able to make basic marketing decisions to profitably satisfy customer needs and execute marketing strategies including product development, pricing, distribution and communications. Not open to Rotman Commerce students.",
+    "exclusions": "RSM250H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "MGT295Y0": {
+    "code": "MGT295Y0",
+    "name": "Special Topics",
+    "hours": "48L",
+    "description": "The area of concentration and location depend on the instructor teaching the course. (Offered only during the Summer Session through the Summer Abroad Program). Contact Rotman Commerce for details.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MGT296Y0": {
+    "code": "MGT296Y0",
+    "name": "Special Topics",
+    "hours": "48L",
+    "description": "The area of concentration and location depend on the instructor teaching the course. (Offered only during the Summer Session through the Summer Abroad Program). Contact Rotman Commerce for details.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MGT297Y0": {
+    "code": "MGT297Y0",
+    "name": "Special Topics",
+    "hours": "48L",
+    "description": "The area of concentration and location depend on the instructor teaching the course. (Offered only during the Summer Session through the Summer Abroad Program). Contact Rotman Commerce for details.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MGT301H1": {
+    "code": "MGT301H1",
+    "name": "Independent Study",
+    "hours": null,
+    "description": "Open when a faculty member is willing and able to supervise. Students must obtain the approval of the Director of Rotman Commerce and the supervising faculty member before enrolling. Enrolment is restricted to students not in a Rotman Commerce program. Consult the Rotman Commerce Office for details. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "MGT302H1": {
+    "code": "MGT302H1",
+    "name": "Independent Study",
+    "hours": null,
+    "description": "Open when a faculty member is willing and able to supervise. Students must obtain the approval of the Director of Rotman Commerce and the supervising faculty member before enrolling. Enrolment is restricted to students not in a Rotman Commerce program. Consult the Rotman Commerce Office for details. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "MGT303Y1": {
+    "code": "MGT303Y1",
+    "name": "Independent Study",
+    "hours": null,
+    "description": "Open when a faculty member is willing and able to supervise. Students must obtain the approval of the Director of Rotman Commerce and the supervising faculty member before enrolling. Enrolment is restricted to students not in a Rotman Commerce program. Consult the Rotman Commerce Office for details. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "MGT395Y0": {
+    "code": "MGT395Y0",
+    "name": "Special Topics",
+    "hours": "48L",
+    "description": "The area of concentration and location depend on the instructor teaching the course. (Offered only during the Summer Session through the Summer Abroad Program). Contact Rotman Commerce for details.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MGT396Y0": {
+    "code": "MGT396Y0",
+    "name": "Special Topics",
+    "hours": "48L",
+    "description": "The area of concentration and location depend on the instructor teaching the course. (Offered only during the Summer Session through the Summer Abroad Program). Contact Rotman Commerce for details.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MGT397Y0": {
+    "code": "MGT397Y0",
+    "name": "Special Topics",
+    "hours": "48L",
+    "description": "The area of concentration and location depend on the instructor teaching the course. (Offered only during the Summer Session through the Summer Abroad Program). Contact Rotman Commerce for details.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MGT401H1": {
+    "code": "MGT401H1",
+    "name": "Independent Study Course",
+    "hours": null,
+    "description": "Open when a faculty member is willing and able to supervise. Students must obtain the approval of the Director of Rotman Commerce and the supervising faculty member before they may enrol. Enrolment is restricted to students not in a Rotman Commerce program. Consult the Rotman Commerce Office for details. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "MGT402H1": {
+    "code": "MGT402H1",
+    "name": "Independent Study Course",
+    "hours": null,
+    "description": "Open when a faculty member is willing and able to supervise. Students must obtain the approval of the Director of Rotman Commerce and the supervising faculty member before they may enrol. Enrolment is restricted to students not in a Rotman Commerce program. Consult the Rotman Commerce Office for details. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "MGT403Y1": {
+    "code": "MGT403Y1",
+    "name": "Independent Study Course",
+    "hours": null,
+    "description": "Open when a faculty member is willing and able to supervise. Students must obtain the approval of the Director of Rotman Commerce and the supervising faculty member before they may enrol. Enrolment is restricted to students not in a Rotman Commerce program. Consult the Rotman Commerce Office for details. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 14.0,
+      "department": ""
+    }
+  },
+  "MGY200H1": {
+    "code": "MGY200H1",
+    "name": "An Introduction to Molecular Genetics and Microbiology",
+    "hours": "24L",
+    "description": "Introduction to the\u00a0core concepts of genetics and microbiology. Included are also topical biological problems and cutting-edge scientific approaches with some examples from world-class Toronto labs. Historical context is often used to deliver material.\u00a0Topics include: core concepts in genetics, an introduction to cancer and stem cells; the genetic regulation of aging; core concepts in microbiology; emerging and recurring microbial threats; genetic engineering.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BIO120H1",
+            "BIO230H1"
+          ]
+        },
+        "BIO255H1"
+      ]
+    }
+  },
+  "MGY250H1": {
+    "code": "MGY250H1",
+    "name": "Introduction to Medical Genetics",
+    "hours": "36L",
+    "description": "Explore how our rapidly advancing understanding of genomics is revolutionizing medicine from researchers and clinicians at the forefront of the field. Students will start by learning the fundamentals of genome function, then move on to the mechanisms of genetic disease and their translation into clinical practice. Throughout the course, students will confront the ethical issues inherent to medical genetics, necessary preparation for understanding the complex landscape of genetic testing and treatment later in the course. Lectures are delivered online, asynchronously. The final exam is held in person on the St. George campus.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "BIO120H1",
+        "BIO130H1"
+      ]
+    }
+  },
+  "MGY277H1": {
+    "code": "MGY277H1",
+    "name": "Introduction to Medical Microbiology",
+    "hours": "36L",
+    "description": "An online introductory survey course that explores the agents of infectious disease including bacteria, viruses, and parasites as well as the host immune response. Other topics include the fundamentals of disease diagnosis and epidemiology.\u00a0 This course will use web-based delivery of lectures and tutorials and utilize a range of communication tools equivalent to approximately three lectures per week. The final exam will require student attendance on the St. George campus.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "BIO120H1",
+        "BIO130H1"
+      ]
+    }
+  },
+  "MGY280H1": {
+    "code": "MGY280H1",
+    "name": "Second Year Specialist Research",
+    "hours": "48P/12S",
+    "description": "This course gives students enrolled in the Molecular Genetics and Microbiology Specialist or Biochemistry Specialist program an opportunity to conduct an original research project in the second semester of their second year in a research laboratory in either of those Departments. Laboratory assignments are chosen during the first semester of second year by agreement with a Departmental faculty member and the Course Coordinator. Attendance at a weekly meeting is mandatory and students will present a report at the end of term. Details can be found on the departmental website. Not eligible for CR/NCR option. Students are discouraged from enrolling in this course concurrently with another research opportunity course (e.g.  MGY299Y1,  MGY399Y1).",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "credits": 8.5,
+      "department": ""
+    }
+  },
+  "MGY299H1": {
+    "code": "MGY299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities\u2026. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MGY299Y1": {
+    "code": "MGY299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities\u2026. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MGY311Y1": {
+    "code": "MGY311Y1",
+    "name": "Molecular Biology",
+    "hours": "72L",
+    "description": "This course examines the design and interpretation of experiments that have led to our current understanding of the biological roles of DNA, RNA and proteins. Intended for students considering graduate or professional work in molecular biology or a related field or wanting a deeper understanding of these topics.",
+    "exclusions": "BCH311H1,  CSB349H1, JBC372H5(UTM),  PSL350H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BIO120H1",
+            "BIO230H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "BCH242Y1",
+            "BCH210H1"
+          ]
+        }
+      ]
+    }
+  },
+  "MGY314H1": {
+    "code": "MGY314H1",
+    "name": "Principles of Genetic Analysis I",
+    "hours": "12T/36P",
+    "description": "Laboratory experiments in genetics, with the focus on microbial and prokaryotic genetics. Topics and experiments include mutagenesis and genetic selection, linkage and recombination, genetic crosses, gene regulation, suppressor analyses, and genetic mapping. (Approximate Lab Materials Fee: $27; Lab Manual Fee: $7)",
+    "exclusions": "MGY312H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO230H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "BIO260H1"
+          ]
+        },
+        "HMB265H1"
+      ]
+    }
+  },
+  "MGY315H1": {
+    "code": "MGY315H1",
+    "name": "Principles of Genetic Analysis II",
+    "hours": "12T/36P",
+    "description": "Laboratory experiments in eukaryotic genetics, using two of the most powerful eukaryotic model systems, the yeast Saccharomyces cerevisiae and fruit fly Drosophila melanogaster. The course follows  MGY314H1; topics include analysis of genetic networks and pathways, meiotic segregation analysis, recombination mapping, genetic crosses, and phenotypic analyses. (Approximate Lab Materials Fee: $27; Lab Manual Fee: $20)",
+    "exclusions": "MGY312H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO230H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "BIO260H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "HMB265H1",
+            "MGY314H1"
+          ]
+        },
+        "MGY340H1"
+      ]
+    }
+  },
+  "MGY340H1": {
+    "code": "MGY340H1",
+    "name": "Molecular Genetics",
+    "hours": "36L",
+    "description": "This course gives students an in-depth understanding of how genetics, the study of mutations and their resulting phenotypes, are used to probe and understand a variety of biological phenomena ranging from metabolism, to development, to cancer.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BIO120H1",
+            "BIO130H1",
+            "BIO230H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "BIO260H1"
+          ]
+        },
+        "HMB265H1"
+      ]
+    }
+  },
+  "MGY350H1": {
+    "code": "MGY350H1",
+    "name": "Model Systems to Disease",
+    "hours": "36L",
+    "description": "The concepts of genetics in the context of human development, disease and evolution. Topics include genetic interactions and complex traits, variation in disease phenotype, signalling and development, stem cells and epigenetic regulation.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BIO120H1",
+            "BIO230H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "BIO260H1"
+          ]
+        },
+        "HMB265H1"
+      ]
+    }
+  },
+  "MGY360H1": {
+    "code": "MGY360H1",
+    "name": "Whole-Genome Sequencing and Analysis Laboratory",
+    "hours": "36P",
+    "description": "The principles and practice of whole-genome sequencing. Each student team will sequence an entire eukaryotic genome and analyze it. Topics will include: modern sequencing technology, yeast husbandry, genomic library construction and quality control, \u2018next-generation\u2019 sequencing, sequence assembly using a reference genome, principles of genome organization, mutation detection and interpretation.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO230H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "BIO260H1"
+          ]
+        },
+        "HMB265H1"
+      ]
+    }
+  },
+  "MGY377H1": {
+    "code": "MGY377H1",
+    "name": "Microbiology I: Bacteria",
+    "hours": "36L",
+    "description": "An in depth study of bacteria including their structure, their biology, their ability to adapt, and their effects on human health. Provides a foundation for advanced studies in bacterial physiology, bacterial genetics, molecular pathogenesis of disease, immunology, and environmental studies.",
+    "exclusions": "BIO370Y5",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH210H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BCH242Y1",
+            "BIO120H1",
+            "BIO230H1"
+          ]
+        },
+        "BIO255H1"
+      ]
+    }
+  },
+  "MGY378H1": {
+    "code": "MGY378H1",
+    "name": "Microbiology II: Viruses",
+    "hours": "36L",
+    "description": "Detailed study of viruses in terms of structure, classification, replication and interaction with the host. Basis for advanced study in virology. Requires some familiarity with molecular and cellular biology. A concurrent course in immunology ( IMM340H1,  IMM350H1) or ( IMM341H1,  IMM351H1) is recommended.",
+    "exclusions": "BIO351Y1,  CSB351Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH210H1",
+        "BCH242Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "BIO120H1",
+            "BIO230H1"
+          ]
+        },
+        "BIO255H1",
+        "BIO260H1",
+        "HMB265H1"
+      ]
+    }
+  },
+  "MGY380H1": {
+    "code": "MGY380H1",
+    "name": "Microbiology Laboratory I: Bacteria",
+    "hours": "12L/36P",
+    "description": "A laboratory course in bacteriology. Students will perform a variety of genetic and biochemical experiments to identify and characterize unknown organisms, and learn how bacteria live together in biofilm and become resistance to antibiotics. Students will also learn important research tools and concepts including CRISPRi, transduction, and conjugation through experiments. Valuable not only for advanced work in microbiology but also in related fields that make use of bacteria and bacteriophages as research tools. (Approximate Lab Materials Fee: $27; Lab Manual Fee: $20)",
+    "exclusions": "MGY379Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BIO120H1",
+            "BIO230H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "HMB265H1"
+          ]
+        },
+        "BIO260H1"
+      ]
+    }
+  },
+  "MGY381H1": {
+    "code": "MGY381H1",
+    "name": "Microbiology Laboratory II: Viruses",
+    "hours": "12L/36P",
+    "description": "Hands-on experience with clinically relevant virology and immunologic assays and human viruses will provide a foundational understanding of viral dynamics, propagation, and replication kinetics. Students will explore virus-host interactions through an analysis of their own immunologic responses. Valuable not only in the study of microbiology, but also in many other areas of biomedical research, clinical practice, public health and industry.  MGY380H1 is strongly recommended as preparation for this course. (Approximate Lab Materials Fee: $27; Lab Manual Fee: $20)",
+    "exclusions": "MGY379Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BIO120H1",
+            "BIO230H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "HMB265H1"
+          ]
+        },
+        "BIO260H1"
+      ]
+    }
+  },
+  "MGY399H1": {
+    "code": "MGY399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities\u2026. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MGY399Y1": {
+    "code": "MGY399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities\u2026. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MGY420H1": {
+    "code": "MGY420H1",
+    "name": "Regulation of Gene Expression",
+    "hours": "24L",
+    "description": "Regulatory mechanisms controlling gene expression in eukaryotes; students will read, discuss, and present the primary research literature in class. Topics include: assembly of the initiation complex; roles of transcription factors, co-activators and cis-acting regulatory elements; promoter escape; mechanisms that control elongation, termination and anti-termination of transcription; chromatin control of transcription.",
+    "exclusions": "BIO477H5 (UTM)",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH311H1",
+        "CSB349H1",
+        "MGY311Y1"
+      ]
+    }
+  },
+  "MGY425H1": {
+    "code": "MGY425H1",
+    "name": "Signal Transduction and Cell Cycle Regulation",
+    "hours": "24L",
+    "description": "This course presents and integrates molecular aspects of signal transduction and cell cycle regulation in eukaryotic cells from yeast to humans. Emphasis is on recent advances in growth factor receptor signalling, modular protein domains, and the recurrent role of protein phosphorylation and protein-protein interactions in cell regulation.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH311H1",
+        "MGY311Y1"
+      ]
+    }
+  },
+  "MGY428H1": {
+    "code": "MGY428H1",
+    "name": "Functional Genomics",
+    "hours": "24L",
+    "description": "A broad-ranging course that covers many aspects of genomics and functional genomics, which is the discipline of defining and attributing function to all of the heritable material of an organism on a genome-wide scale, as applied to invertebrates and vertebrates. The primary and review literature will be the basis of all lectures.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH210H1",
+        "BCH242Y1",
+        "BIO260H1",
+        "HMB265H1",
+        "MGY311Y1",
+        "CSB349H1",
+        "BCH311H1"
+      ]
+    }
+  },
+  "MGY440H1": {
+    "code": "MGY440H1",
+    "name": "Virus-Host Interactions",
+    "hours": "36L",
+    "description": "Analysis of virus/host interactions at the molecular level with a view to understanding how viruses cause disease. Course material is based on recent research publications. Topics will be selected from two or three themes that may include virus entry, intracellular trafficking, activation of host cell signaling pathways in response to infection, assembly and release of progeny virus, viral and host determinants of tissue tropism within the host and virus transmission between hosts.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH311H1",
+        "CSB349H1",
+        "MGY311Y1",
+        "CSB351Y1",
+        "MGY378H1"
+      ]
+    }
+  },
+  "MGY441H1": {
+    "code": "MGY441H1",
+    "name": "Bioinformatics",
+    "hours": "24L/12T",
+    "description": "This course is an introduction to computational methods and internet resources in modern biochemistry and molecular biology. The main topics include: sequence and genome databases, sequence alignment and homology search, use and interpretation of molecular structure, and phylogenetic analysis. Assignments focus on hands-on competence building with web-based bioinformatics tools and databases, downloadable software including a molecular viewer and a multiple sequence alignment editor, and the statistics workbench and programming language \u201cR\u201d.Note:  BCB420H1 extends this syllabus to computational topics of systems biology.",
+    "exclusions": "BCH441H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH210H1",
+        "BCH242Y1",
+        "STA220H1",
+        "STA288H1",
+        "STA237H1",
+        "STA247H1",
+        "STA255H1",
+        "STA257H1",
+        "BCH311H1",
+        "MGY311Y1",
+        "PSL350H1"
+      ]
+    }
+  },
+  "MGY460H1": {
+    "code": "MGY460H1",
+    "name": "Genetic Analysis of Development",
+    "hours": "24L",
+    "description": "Basic and advanced principles of genetic analysis applied to the study of the best-understood eukaryotic model organisms including the nematode worm Caenorhabditis elegans, the zebrafish, and the laboratory mouse. We emphasize the use of genetic approaches to address problems in cell biology and development, such as the regulation of cell fate and tissue development. Much of the knowledge gained from these experimentally tractable organisms has proven broadly applicable, and the same principles of developmental genetic analysis underlie efforts to understand the development of humans.",
+    "exclusions": "MGY451H1,  MGY452H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO260H1",
+        {
+          "operator": "AND",
+          "items": [
+            "HMB265H1",
+            "MGY311Y1"
+          ]
+        },
+        "CSB349H1",
+        "BCH311H1"
+      ]
+    }
+  },
+  "MGY470H1": {
+    "code": "MGY470H1",
+    "name": "Human and Molecular Genetics",
+    "hours": "24L",
+    "description": "Current aspects of human and molecular genetics including: chromosome structure and function, inheritance of mutations and disease, the human genome and disease gene mapping, cancer genetics, mouse disease models and gene based diagnostics and therapies.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH311H1",
+        {
+          "operator": "AND",
+          "items": [
+            "MGY311Y1",
+            "CSB349H1"
+          ]
+        }
+      ]
+    }
+  },
+  "MGY480Y1": {
+    "code": "MGY480Y1",
+    "name": "Special Research Project",
+    "hours": null,
+    "description": "An opportunity for specialized individual research in molecular genetics and microbiology by arrangement with the course coordinator. Students are required to perform an original research project and attend relevant research seminars. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MGY314H1",
+        "MGY315H1",
+        "MGY379Y1",
+        "MGY380H1",
+        {
+          "operator": "AND",
+          "items": [
+            "MGY381H1",
+            "MGY311Y1"
+          ]
+        },
+        "BCH311H1",
+        "CSB349H1"
+      ]
+    }
+  },
+  "MHB155H1": {
+    "code": "MHB155H1",
+    "name": "Elementary Modern Hebrew I",
+    "hours": "36L/12T",
+    "description": "Introduction to the fundamentals of Hebrew grammar and syntax. Emphasis on the development of oral and writing skills.",
+    "exclusions": "Grade 4 Hebrew (or Grade 2 in Israel)/  NML155H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "MHB156H1": {
+    "code": "MHB156H1",
+    "name": "Elementary Modern Hebrew II",
+    "hours": "36L/12T",
+    "description": "Continued introduction to the fundamentals of Hebrew grammar and syntax. Emphasis on the development of oral and writing skills.",
+    "exclusions": "Grade 4 Hebrew (or Grade 2 in Israel)/  NML156H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MHB155H1",
+        "NML155H1"
+      ]
+    }
+  },
+  "MHB255H1": {
+    "code": "MHB255H1",
+    "name": "Intermediate Modern Hebrew I",
+    "hours": "36L/12T",
+    "description": "Intensive study of written and spoken Hebrew.",
+    "exclusions": "Grade 8 Hebrew (or Ulpan level 2 in Israel)/  NML255Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MHB156H1",
+        "NML156H1"
+      ]
+    }
+  },
+  "MHB256H1": {
+    "code": "MHB256H1",
+    "name": "Intermediate Modern Hebrew II",
+    "hours": "36L/12T",
+    "description": "Continued intensive study of written and spoken Hebrew.",
+    "exclusions": "Grade 8 Hebrew (or Ulpan level 2 in Israel)/  NML255Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MHB255H1",
+        "NML156H1"
+      ]
+    }
+  },
+  "MHB355H1": {
+    "code": "MHB355H1",
+    "name": "Advanced Modern Hebrew I",
+    "hours": "36L/12T",
+    "description": "Advanced intensive study of written and spoken Hebrew.",
+    "exclusions": "OAC Hebrew/ NML355H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MHB256H1",
+        "NML256H1"
+      ]
+    }
+  },
+  "MHB356H1": {
+    "code": "MHB356H1",
+    "name": "Advanced Modern Hebrew II",
+    "hours": "36L/12T",
+    "description": "Continued advanced intensive study of written and spoken Hebrew.",
+    "exclusions": "OAC Hebrew/ NML356H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MHB355H1",
+        "NML355H1"
+      ]
+    }
+  },
+  "MIJ485H1": {
+    "code": "MIJ485H1",
+    "name": "Vaccines and Immunity",
+    "hours": "36L",
+    "description": "Analysis of the strategies used by pathogenic microbes to evade specific and innate immune responses, and the strategies used to combat infectious disease using vaccines, with an emphasis on molecular and immunological aspects. Special topics include: molecular basis of pathogenicity and immune-evasion strategies; vaccination strategies; challenges to vaccine implementation (given jointly by the Departments of Molecular Genetics and Immunology).",
+    "exclusions": "MBY480H1,  MGY485H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "IMM340H1",
+        {
+          "operator": "AND",
+          "items": [
+            "IMM341H1",
+            "IMM350H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "IMM351H1",
+            "MGY377H1",
+            "MGY378H1"
+          ]
+        }
+      ]
+    }
+  },
+  "MSE120H1": {
+    "code": "MSE120H1",
+    "name": "Materials Engineering, Processing and Application",
+    "hours": "38.4L/6.4T/12.8P",
+    "description": "This course covers an introduction to the field of materials science and engineering following a design-led approach. Application areas such as stiffness-limited design, fracture-limited design, strength-limited design will be used to guide further investigations into elements of the processing-structure-properties-performance paradigm. Topics covered will include material property charts, computer-aided design and materials selection, crystallographic planes and directions, crystal structures, stiffness, strength, plasticity, yielding, ductility, fracture and fracture toughness, cyclic loading and fatigue, friction and wear, thermal properties of materials, electrical properties, optical properties, materials corrosion, and materials processing.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MSE218H1": {
+    "code": "MSE218H1",
+    "name": "Phase Transformations",
+    "hours": "39L/13T/20P",
+    "description": "A key part of MSE is focused on explaining how material systems transform from one condensed phase to another. These phase transformations are a critical aspect of understanding the behaviour of a material. MSE 218 builds on the thermodynamics and phase stability of MSE 202 and runs in parallel to the rates of transformation seen in MSE 217. In MSE 218 we will consider phase transformations in one component, two component, and multicomponent systems. We will look at both diffusional and diffusionless transformations, focusing on the nucleation and growth aspects of each case. Specific examples will include: solidification, precipitation, recrystallization, spinodal, massive, and order-disorder transformations. Both experimental and computational labs will be used to outline specific transformations in more depth.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "MSE202H1",
+        "MSE219H1"
+      ]
+    }
+  },
+  "MSE219H1": {
+    "code": "MSE219H1",
+    "name": "Structure and Characterization of Materials",
+    "hours": "39L/13T/39P",
+    "description": "Introduction to two and three-dimensional crystallography and crystal structures of solids. Topics include: Pearson and Hermann-Mauguin symbols, reciprocal space, point group and space group symmetry analysis, stereographic projections. Introduction to tensor analysis of crystalline material properties, and symmetry breakdown by imperfections in crystals. Experimental techniques used to interpret structure and chemistry of solids and their defects will be covered theoretically and in the laboratory including: X-ray diffractometry, optical, electron and scanning probe microscopy, and surface/bulk spectroscopies based on optical, X-ray, electron and ion-beam analysis methods.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "APS110H1",
+        "MSE120H1",
+        "MSE160H1"
+      ]
+    }
+  },
+  "MSE316H1": {
+    "code": "MSE316H1",
+    "name": "Mechanical Behaviour of Materials",
+    "hours": "38.4L/12.8T/25.6P",
+    "description": "The mechanical behaviour of engineering materials including metals, alloys, ceramics and polymeric materials. The following topics will be discussed: macro- and micro-structural response of materials to external loads; load-displacement and stress-strain relationships, processes and mechanisms of elastic, visco-elastic, plastic and creep deformation, crystallographic aspects of plastic flow, effect of defects on mechanical behaviour, strain hardening theory, strengthening mechanisms and mechanical testing.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MSE218H1",
+        "MSE219H1",
+        "MSE222H1"
+      ]
+    }
+  },
+  "MSE335H1": {
+    "code": "MSE335H1",
+    "name": "Materials Physics",
+    "hours": "38.4L/25.6T",
+    "description": "Application of solid state physics to describe properties of materials. Thermal properties of solids: lattice vibrations (phonons), heat capacity, thermal conductivity. Electrical properties of metals: simple circuits, resistivity of metals (classical and quantum descriptions), Seebeck, Peltier, and Thomson effects. Electrical properties of semiconductors: band structure and occupancy, conductivity, Hall effect, simple devices. Electrical properties of insulators: polarization, capacitance, optical properties, ferroelectric and piezoelectric materials. Magnetic properties: diamagnetism and paramagnetism, ferromagnetic and ferrimagnetic materials, magnetic domains, B-H curves.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "MAT294H1",
+        "MSE219H1"
+      ]
+    }
+  },
+  "MSE343H1": {
+    "code": "MSE343H1",
+    "name": "Biomaterials",
+    "hours": "26L/13P",
+    "description": "Provides an overview of the field of biomaterials, introducing fundamental biological and materials design and selection concepts, and is open to CHE students. Key applications of materials for biomedical devices will be covered, along with an introduction to the expected biological responses. The concept of biocompatibility will be introduced along with the essential elements of biology related to an understanding of this criterion for biomaterial selection and implant design. In addition, structure-property relationships in both biological and bio-inspired materials will be highlighted.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MSE351H1": {
+    "code": "MSE351H1",
+    "name": "Design and Sim of Materials Processes",
+    "hours": "36.6L/12.2T/24.4P",
+    "description": "An overview of computer modeling approaches to analyze various macro-scale phenomena involved in materials processing, product design, and manufacturing. These approaches will include weighted residual methods, finite element and finite difference methods, computational fluid dynamics, and multiphysics simulations. The students will apply these methods to study heat transfer, fluid flow, stress analysis, structural dynamics, and coupled behavior. Practical experience will be provided on commercial finite element (FE) and computer-aided design (CAD) packages such as ANSYS and SOLIDWORKS.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MSE218H1",
+        "MSE238H1",
+        "MSE316H1",
+        "MSE332H1"
+      ]
+    }
+  },
+  "MSE430H1": {
+    "code": "MSE430H1",
+    "name": "Electronic Materials",
+    "hours": "26L/13T",
+    "description": "Materials parameters and electronic properties of semiconductors are discussed as basic factors in the engineering of semiconductor devices. Materials parameters are related to preparation and processing methods, and thus to the electronic properties. The implications of materials parameters and properties on selected simple devices are discussed.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MSE440H1": {
+    "code": "MSE440H1",
+    "name": "Emerging Applications in Biomaterials",
+    "hours": "39L/13T",
+    "description": "Currently used biomaterials for formation of surgical implants and dental restorations include selected metals, polymers, ceramics, and composites. The selection and processing of these materials to satisfy biocompatibility and functional requirements for applications in selected areas will be presented. Materials used for forming scaffolds for tissue engineering, and strategies for repair, regeneration and augmentation of degenerated or traumatized tissues will be reviewed with a focus on biocompatibility issues and required functionality for the intended applications.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": "MSE343H1"
+  },
+  "MSE459H1": {
+    "code": "MSE459H1",
+    "name": "Synthesis of Nanostructured Materials",
+    "hours": "39L/26P",
+    "description": "Various synthesis techniques to produce nanostructured materials will be introduced. These synthesis techniques are categorized into chemical methods and physical methods. The chemical methods module discusses the general principles of nucleation and growth and covers specific chemical reactions for nanomaterial synthesis. The physical methods module introduces nanomaterials synthesis by solid-state processing, liquid-phase processing, vapor-phase processing, etc. In addition, the fundamental properties of nanomaterials introduced and the basic solid-state physics for nanocrystalline materials and advanced technologies for nanomaterial characterizations reviewed.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MSE219H1",
+        "MSE244H1"
+      ]
+    }
+  },
+  "MSE461H1": {
+    "code": "MSE461H1",
+    "name": "Engineered Ceramics",
+    "hours": "39L/24T",
+    "description": "The unique combinations of physical, electrical, magnetic, and thermomechanical properties exhibited by advanced technical ceramics has led to a wide range of applications including automobile exhaust sensors and fuel cells, high speed cutting tool inserts and ball bearings, thermal barrier coatings for turbine engines, and surgical implants. This course examines the crystal and defect structures which determine the electrical and mass transport behaviours and the effects of microstructure on optical, magnetic, dielectric, and thermomechanical properties. The influence of these structure-property relations on the performance of ceramic materials in specific applications such as sensors, solid oxide fuel cells, magnets, and structural components is explored.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MSE498Y1": {
+    "code": "MSE498Y1",
+    "name": "Capstone Project: Design of Materials Processes",
+    "hours": "12.8L/25.6T/12.8P",
+    "description": "The students, working in small groups complete a project involving design of a materials processing plant, leading to a design report delivered at the conclusion of the course. The topics covered in the lectures and design process include basic materials processing flowsheet for primary processing and recycling of materials, materials and energy balance of individual units and of overall process flowsheets, use of computer software for flowsheet evaluation, translating process flowsheets to resource and utility requirements, energy analysis, capital/operating cost, basics of equipment sizing, operation scheduling, safety and HAZOP, plant layout, and design for sustainability.",
+    "exclusions": "CHM499Y1",
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MST110H1": {
+    "code": "MST110H1",
+    "name": "Robin Hood: Legend and Legacy",
+    "hours": "24L",
+    "description": "This course examines the legend of Robin Hood as originally depicted in medieval folklore and ballads \u2013 and as transmitted and developed in scholarship, communal rituals, and various literary and artistic forms from the fifteenth century to the present day. Exploring works as diverse as dramas, historical novels, paintings, children\u2019s storybooks, scholarly histories, television scripts written by blacklisted Communists, and contemporary reworkings, this course explores such themes as legend-making and definitions of subversion, rebellion, and communal identity across centuries, cultures, and art forms.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "MST201H1": {
+    "code": "MST201H1",
+    "name": "Getting Medieval: Myths and Monsters",
+    "hours": "24L/12T",
+    "description": "Introduction to the sound, sight, and touch of the distant past, telling the story of the Middle Ages through objects from animal skin parchment to enameled icon. Lectures are complemented by hands-on learning in weekly tutorials featuring text- and narrative-oriented digital methods, along with medieval drama and music performance.",
+    "exclusions": "MST200Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "MST202H1": {
+    "code": "MST202H1",
+    "name": "Getting Medieval: Place and Space",
+    "hours": "24L/12T",
+    "description": "From world maps to tales of pilgrimage, trade, and exploration, from imagined other worlds to historical cityscapes, this course tells the story of the Middle Ages through the places and spaces that defined medieval culture. Lectures are complemented by hands-on learning in weekly tutorials featuring network visualization and digital mapping.",
+    "exclusions": "MST200Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "MST210H1": {
+    "code": "MST210H1",
+    "name": "The Early Mediaeval Tradition",
+    "hours": "24L/12T",
+    "description": "An introduction to the thought and culture of early mediaeval Europe. Students are introduced to important monuments of early mediaeval History, Thought, Literature, and Art. They follow some of the common threads that run through these disciplines and explore chief expressions of early mediaeval life and thought.",
+    "exclusions": "SMC210H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "MST211H1": {
+    "code": "MST211H1",
+    "name": "The Middle Ages and the Movies",
+    "hours": "24L/12T",
+    "description": "This course examines the ways mediaeval themes have been presented in the cinema over the last century by taking exemplary films from different countries and epochs. The purpose is to explore each on three levels: the mediaeval reality, the subsequent legendary or literary elaboration, and the twentieth-century film rendition, regarded equally as work of art, ideology and economic product.",
+    "exclusions": "SMC211H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "MST212H1": {
+    "code": "MST212H1",
+    "name": "The Later Mediaeval Tradition",
+    "hours": "24L/12T",
+    "description": "An introduction to the thought and culture of later mediaeval Europe. Students are introduced to important monuments of later mediaeval History, Thought, Literature, and Art. They follow some of the common threads that run through these disciplines and explore chief expressions of later mediaeval life and thought.",
+    "exclusions": "SMC212H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "MST213H1": {
+    "code": "MST213H1",
+    "name": "Dante and the Christian Imagination",
+    "hours": "24L",
+    "description": "A study of selections from various works by Dante as an expression of the medieval imagination, viewed against the background of medieval Christian doctrine and psychology and in relation to various contemporary approaches to the study of medieval Christian culture.",
+    "exclusions": "SMC213H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "MST222H1": {
+    "code": "MST222H1",
+    "name": "Mediaeval Latin Literature",
+    "hours": "48S",
+    "description": "This course studies a selection of Mediaeval Latin prose and poetry. Emphasis is on the linguistic differences between Mediaeval Latin and its classical antecedent, especially in regard to vocabulary, grammar and orthography. A review of Latin grammar is part of the course.",
+    "exclusions": "SMC222H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SMC176Y1",
+        "LAT102H1"
+      ]
+    }
+  },
+  "MST226H1": {
+    "code": "MST226H1",
+    "name": "King Arthur",
+    "hours": "24L",
+    "description": "A survey of the Arthurian legends from the earliest Latin histories through selected Welsh, French and German Romances to the English-language classic, Morte d\u2019Arthur of Malory. Emphasis will be on reading the primary sources (in translation).",
+    "exclusions": "SMC226H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 5.0,
+      "department": ""
+    }
+  },
+  "MST230H1": {
+    "code": "MST230H1",
+    "name": "The Middle Ages in Modern Life: Games, Television, and the Popular Imagination",
+    "hours": "24L",
+    "description": "Modern culture retains a fascination with the middle ages. In many cases, the Mediaeval world or more often ideas about the Mediaeval world, feature in modern entertainment, politics, or literature. This course explores the ways the middle ages have been interpreted and reinterpreted in various aspects of modern culture such as role playing games, videogames, television, literature, and iconography.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "MST231H1": {
+    "code": "MST231H1",
+    "name": "On the Move in Mediaeval Eurasia",
+    "hours": "24L",
+    "description": "In this age of constant global travel, it is easy both to forget how much more complicated travel was in earlier periods, and to assume that there was very little of it. In the Mediaeval world, people travelled for work as traders, craftsmen and warriors; they travelled for their spirit as pilgrims; they travelled as migrants and refugees. This course will introduce students to the variety of people on the move in Mediaeval Eurasia, their motives, and the means they used to travel.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "MST232H1": {
+    "code": "MST232H1",
+    "name": "How to Be a Barbarian: Beard, Battles and Belief at the Dawn of the Middle Ages",
+    "hours": "24L",
+    "description": "Barbarians have caught the modern popular imagination, and they appear to be much the same: hairy warriors who destroyed civilization. The late antique period (c.300\u2013c.600) was a time of transition and the meetings of several cultures. This course examines the so-called barbarians who entered and soon came to rule the former Roman provinces of western Europe in this period. Our particular focus is the cultural, religious, artistic, and socio-economic aspects of barbarian peoples, and how these intersected with the civilization of Rome.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "MST233H1": {
+    "code": "MST233H1",
+    "name": "Viking Cultures",
+    "hours": "24L",
+    "description": "Everyone thinks they know who the Vikings were. Like many aspects of the middle ages popular in modern life, there is much that is inaccurate about this picture of the Vikings. This course explores how Vikings lived\u2014what sorts of things they did for a living, how they amused and entertained themselves, and what they thought\u2014and moves on to consider their rituals of death and their notions of the afterlife. It will be based both on reading a variety of texts produced by and about the Vikings, as well as looking at various objects they produced that have survived.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "MST234H1": {
+    "code": "MST234H1",
+    "name": "Women's Lives in Mediaeval Europe",
+    "hours": "24L",
+    "description": "Using an interdisciplinary lens, this course explores the experiences of Mediaeval women. Some attention will be given to subjects such as the idea of the Mediaeval feminine, holiness and femininity, and appropriate feminine behaviour. At the same time, we will look at the social and cultural roles of women in society for instance the gendered ideals of marriage, guild structures, and childrearing.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "MST242H1": {
+    "code": "MST242H1",
+    "name": "Mediaeval Mythologies and Methodologies",
+    "hours": "24L",
+    "description": "The idea of the \u2018middle ages\u2019 is pervasive in Western thought, but only some of what is \u2018traditional\u2019 actually happened. This course introduces various interpretations, constrictions, and re-creations. Our analysis will draw on literary texts and their various interdisciplinary interpretations and applications.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "MST300H1": {
+    "code": "MST300H1",
+    "name": "Alexander the Great in the Middle Ages",
+    "hours": "24L/12T",
+    "description": "Alexander the Great (356-323 BCE), king of Macedon, was one of the most successful military campaigners the world has ever seen. By the time he was thirty, he had established a vast empire stretching from Greece in the west to India in the east. Fantastic stories and legends about Alexander the Great circulated throughout the medieval world, from Iceland to Iran and from Ethiopia to England. In this course, we explore what different representations of the same figure can tell us about the range of medieval cultures. Through the use of digital tools, students and the instructor work together to explore this rich material. We trace the transmission of Alexander\u2019s legend using digital maps. We compare different versions of the same story using text analysis tools. And we curate a small selection of the lavishly-illustrated manuscripts of the Alexander Romance in a digital exhibition.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "MST201H1",
+        "MST202H1"
+      ]
+    }
+  },
+  "MST301H1": {
+    "code": "MST301H1",
+    "name": "Special Topics in Mediaeval Studies",
+    "hours": "24L",
+    "description": "A senior-level special topics seminar in Mediaeval Studies as determined by the instructor.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "MST323H1": {
+    "code": "MST323H1",
+    "name": "Mediaeval Latin Prose",
+    "hours": "48S",
+    "description": "Comprising an immersion in Mediaeval Latin prose texts, this course gives students a deepened acquaintance with the linguistic features of Mediaeval Latin, as well as with its literature, and generic and stylistic conventions. A solid foundation in basic Latin morphology, syntax and vocabulary is assumed.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 6.0,
+              "department": ""
+            },
+            "LAT202H1"
+          ]
+        },
+        "MST222H1"
+      ]
+    }
+  },
+  "MST324H1": {
+    "code": "MST324H1",
+    "name": "The Study of the Bible in the Middle Ages",
+    "hours": "24L/12T",
+    "description": "This course explores mediaeval biblical commentary and the various approaches taken by the exegetes to uncover the secrets of the sacred page, for instance through the four senses of Scripture: history, allegory, tropology, and anagogy.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "MST326H1": {
+    "code": "MST326H1",
+    "name": "Mediaeval Music: thought and practice",
+    "hours": "24L",
+    "description": "An introduction to musical theory and practice in the middle ages: sacred and secular music, monophony and polyphony, performers and patrons, notation and orality. No prior background in music or ability to read music is required.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 6.0,
+              "department": ""
+            },
+            "CHC203Y1"
+          ]
+        },
+        "SMC206H1",
+        "MST210H1",
+        "MST212H1",
+        "MUS111H1"
+      ]
+    }
+  },
+  "MST328H1": {
+    "code": "MST328H1",
+    "name": "Mediaeval Latin Poetry",
+    "hours": "48L",
+    "description": "This course studies selections from the rich variety of Mediaeval Latin poetry, rhymed as well as rhythmic, and provides a survey of prosody and metrics. A solid foundation in basic Latin morphology, syntax and vocabulary is assumed.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 6.0,
+              "department": ""
+            },
+            "MST222H1"
+          ]
+        },
+        "LAT202H1"
+      ]
+    }
+  },
+  "MST340H1": {
+    "code": "MST340H1",
+    "name": "Mediaeval Genders and Sexualities",
+    "hours": "24L",
+    "description": "This course explores ideas of gender and sexuality in the mediaeval world. In particular it examines the links between the two throughout history, the social religious, and literary ideas of marriage and reproduction. Through close readings of primary sources including literature, canon law, penitentials, sermons, and medical treatises, students will explore the boundaries between the worlds of biology and culture.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "MST341H1": {
+    "code": "MST341H1",
+    "name": "Middle Ages by the Numbers",
+    "hours": "24L",
+    "description": "Numbers and their uses often appear to be absolute fact: a thousand dollars is exactly that, not more or less; and if you weigh fifty kilos, that\u2019s what you weigh. But the use and meaning of numbers\u2014for recording and counting dates, money, weights, distances, and myriad other functions\u2014is not, in fact, devoid of cultural, historical, and political context. Mediaeval Europe provided a bewildering range of calendric systems, currencies, systems of measurement, and numerical symbolism was much used in art, music, religious thought, and literature. This course provides an introduction to the various uses of numbers in this period across different regions and cultural contexts.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "MST358H1": {
+    "code": "MST358H1",
+    "name": "The Mediaeval Book",
+    "hours": "24S",
+    "description": "This course examines the most salient aspects of mediaeval manuscript culture. We will study, first, how the parchment for books was folded, pricked, ruled and bound, and second, what scripts were employed in the different codices. We will also examine the various types of books made in the Middle Ages and the challenges they pose to modern scholars.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "MST359H1": {
+    "code": "MST359H1",
+    "name": "Mediaeval Theology",
+    "hours": "24L",
+    "description": "An introduction to the discipline of theology as taught in the mediaeval schools. Building on a basic knowledge of Christian scriptures and of philosophical argument, this course will offer an organic exposition of mediaeval theology, together with an introduction into the scientific method of theological investigation as practised in the Middle ages.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "MST361H1": {
+    "code": "MST361H1",
+    "name": "Mediaeval Law",
+    "hours": "24S",
+    "description": "Mediaeval jurisprudence combines the high technical quality of Roman law with the requirements of Christianity. The seminar provides an overview of the development of mediaeval learned jurisprudence; select texts from Roman and canon law, with their glosses, are read in order to explore more specifically the methods and concerns of mediaeval jurists.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "MST399H1": {
+    "code": "MST399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities\u2026. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MST399Y1": {
+    "code": "MST399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities\u2026. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "MST400Y1": {
+    "code": "MST400Y1",
+    "name": "Languages and Methods for Medieval Studies",
+    "hours": "60S",
+    "description": "In this course, students will have an opportunity to take a graduate Latin seminar at the Centre for Medieval Studies, one of the world\u2019s premier research institutions in the field. The instructor, the SMC program coordinator, and the student will determine a method of assessment appropriate for an undergraduate student while still pushing the student\u2019s boundaries to be able to participate in a graduate seminar along with MA and PhD students. Course forms are available from the SMC Principal's Office at smc.programs@utoronto.ca. Completed forms should be submitted by the first day of classes in September.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        {
+          "operator": "AND",
+          "items": [
+            {
+              "credits": 1.0,
+              "department": ""
+            },
+            "MST222H1",
+            "MST323H1",
+            "MST328H1"
+          ]
+        }
+      ]
+    }
+  },
+  "MST401H1": {
+    "code": "MST401H1",
+    "name": "Advanced Topics in Mediaeval Studies",
+    "hours": "24L",
+    "description": "In this course, students will have an opportunity to take a graduate seminar at the Centre for Medieval Studies, one of the world\u2019s premier research institutions in the field. Depending on the nature of the seminar, the instructor, the SMC program coordinator, and the student will determine a method of assessment appropriate for an undergraduate student while still pushing the student\u2019s boundaries to be able to participate in weekly discussions in a graduate seminar along with MA and PhD students. Course forms are available from the SMC Principal's Office, smc.programs@utoronto.ca.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 10.0,
+          "department": ""
+        },
+        "MST210H1",
+        "MST212H1"
+      ]
+    }
+  },
+  "MST404H1": {
+    "code": "MST404H1",
+    "name": "Languages in Medieval Studies: Palaeography I",
+    "hours": "24L/12T",
+    "description": "The course is designed as a practicum in the transcription of scripts from the late Roman Empire to the twelfth century. The goal is to offer students the opportunity to participate in a graduate course in manuscript studies where comparable offerings at the undergraduate level are unavailable.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 8.0,
+      "department": ""
+    }
+  },
+  "MST405H1": {
+    "code": "MST405H1",
+    "name": "Languages in Medieval Studies: Palaeography II",
+    "hours": "24L/12T",
+    "description": "Study of Latin Scripts from 1200 to 1600, with attention to background of Gothic writing, physical characteristics of manuscripts, library practices and bibliographical resources. The goal is to offer students the opportunity to participate in a graduate course in manuscript studies where comparable offerings at the undergraduate level are unavailable.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 8.0,
+      "department": ""
+    }
+  }
+}

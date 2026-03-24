@@ -1,0 +1,1329 @@
+{
+  "SOC398Y0": {
+    "code": "SOC398Y0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "SOC399H1": {
+    "code": "SOC399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "SOC399Y1": {
+    "code": "SOC399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "SOC407H1": {
+    "code": "SOC407H1",
+    "name": "Work in the Digital Age",
+    "hours": "24L",
+    "description": "Over the last half century the workforce has shifted toward more professional and service jobs as more women entered the paid labor force. Along with these changes have come increasing polarization and inequality. This class will examine how technological and social changes have changed how workers perform and understand their work and themselves. We will examine platform and gig based work, consider how workers navigate careers amidst economic uncertainty and technological change, investigate the degree to which technology replaces workers, and study related emerging inequalities.",
+    "exclusions": "SOC495H1 (Work in the Digital Age) offered in Winter 2023 and Fall 2024.",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC408H1": {
+    "code": "SOC408H1",
+    "name": "Advanced Studies in Organizations",
+    "hours": "24L",
+    "description": "This course covers central issues in the field of organizational sociology. It explores different perspectives on why complex organizations look and operate the way that they do, and examines the social consequences of their behavior. The first part of the course focuses on the evolution of the modern firm. We will trace the history of different models of management and strategy, and evaluate their relative efficacy. The second part of the course examines how organizations shape, and are shaped by, their environments. The third part of the course will explore how organizational behavior influences social inequality, and how social inequality shapes the way that modern organizations function. We will make use of both social scientific analyses and Harvard Business School case studies. Restricted to 4th-year sociology majors and specialists.",
+    "exclusions": "SOC489H1 (Topics: Sociology of Organizations), offered in Fall 2017 and Fall 2019",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC409H1": {
+    "code": "SOC409H1",
+    "name": "Sexuality and Research Design",
+    "hours": "24L",
+    "description": "Research designs are much like jigsaw puzzles, but harder: they require scholars to carefully connect a variety of distinct yet intricately linked piecesinto a thematically consistent, practical and defensible whole. Few tasks in the research process are as commonplace and as riddled with difficulty. This semester length course will provide a forum for students to compose a research design on the topic of sexuality using qualitative approaches that include in-depth interview and ethnography. Throughout the course, students will read a variety of works that describe the goals, procedures, and underlying logic of research design. These works will draw from articles and chapters on methodological problems and issues, and also from actual studies that use in-depth interview and ethnography in sexuality studies. Restricted to 4th-year sociology majors and specialists.",
+    "exclusions": "SOC485H1 (Topics: Sexuality of Research Design), offered in Fall 2017, Winter 2019, Fall 2019,  SOC497H1 (Topics: Sexuality of Research Design), offered in Fall 2016",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC410H1": {
+    "code": "SOC410H1",
+    "name": "Identity and Interaction in the City",
+    "hours": "24L",
+    "description": "Cities are unique environments for social interactions and relationships. For well over a century, urban sociologists have studied how anonymity, density, spatial mobility, and other features of urban life shape community, identity, and interaction. Underlying this body of work are fundamental worries about what urban life means for the individual and society. But is this skepticism warranted? Where, when, and how do conflict or positive social interactions materialize and what consequences do those interactions have? This course engages select contributions to this scholarly tradition while focusing on specific types of spaces, encounters, and relationships. Students will have the opportunity to learn the theories, methods, and findings that comprise this body of work. Moreover, each student will gain in-depth familiarity with some local aspects of community, identity, and interaction in one particular city of their choosing.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC412H1": {
+    "code": "SOC412H1",
+    "name": "Medicalization of Deviance",
+    "hours": "24L",
+    "description": "This course examines the sociological implications associated with the growing dominance of psychiatry over designating and managing the margins of \u2018normality\u2019 and \u2018deviance.\u2019 It covers the evolution of the DSM and rise of deinstitutionalization, the importance of stigma and symbolic interactionist understandings of psychiatric diagnoses, and the methods of social control used to mitigate risk and reduce social deviance within the psychiatric and criminal justice systems. Emphasis will be placed on understanding the social implications of mental health labels. Restricted to 4th-year sociology majors and specialists.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC413H1": {
+    "code": "SOC413H1",
+    "name": "Sociology of Punishment",
+    "hours": "24L",
+    "description": "This course considers the history of penology, theories of penal development and current trends. Particular attention will be paid to cross-national variations in punishment and what these reveal about the relevance of particular theories and the importance of culture in understanding historical developments in punishment. Restricted to 4th-year sociology majors and specialists.",
+    "exclusions": "WDW340H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC415H1": {
+    "code": "SOC415H1",
+    "name": "Energy, Climate Change, and Society",
+    "hours": "24L",
+    "description": "This course examines how social life is inextricably linked with the energy system, a fact made especially salient by the climate crisis. We will spend the first part of the semester on fossil fuels. Where does the energy we all use come from and what economic, cultural, and political factors contribute to the entrenchment of fossil fuels in our energy mix? We\u2019ll then consider the energy transition away from fossil fuels and to renewable sources. What are the primary barriers to a rapid energy transition? What roles do individuals, social movements, and policymakers play in enabling and/or hampering a transition away from fossil fuels? Finally, we will consider the potential social and political outcomes that are likely to accompany a rapid energy transition and discuss issues of energy and environmental justice.",
+    "exclusions": "SOC489H1 (Energy, Climate Change, and Society) offered in Fall 2024, and  SOC496H1 (Energy, Climate Change, and Society) offered in Winter 2023.",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC420H1": {
+    "code": "SOC420H1",
+    "name": "Sociology of Free Time",
+    "hours": "24L",
+    "description": "Free time is when you do not have to work, study, etc. and can do what you want. But can you really do what you want during free time? What are the constraints on free time, and how has it changed historically and over the lifecourse? The quantity and quality of free time is also inextricably linked to privilege, and can be seen as part of the social strafication system. We will first read and discuss several pieces that problematize contemporary life, focusing on problems with how free time is spent. We will also review how common personal and household practices and habits we engage in at home, such as technology/media use, meals, and outdoor activities, influence free time.",
+    "exclusions": "SOC496H1 (Sociology of Free Time) offered in Fall 2023 and 2024.",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC422H1": {
+    "code": "SOC422H1",
+    "name": "Advanced Studies in Political Sociology",
+    "hours": "24L",
+    "description": "This fourth year course will provide an advanced treatment of selected topics in political Sociology. Specific topics to be covered are the relationship between political systems and cleavage voting, the relationship between social class and attitudes and voting, the post-materialist thesis, social capital and civic participation, gender politics, the various varieties, causes and effects of welfare states, and social movements. The course will have both a Canadian and international focus. Restricted to 4th-year sociology majors and specialists.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC425H1": {
+    "code": "SOC425H1",
+    "name": "Housing Markets, Financial Crisis, and Inequality",
+    "hours": "24L",
+    "description": "While most of us know that financial systems are important, that is often all that many people know about them. How are financial systems connected to the \u201creal\u201d economy and \u201cregular\u201d people? One important connection is through housing markets. In this course, we will consider how houses and the people who live in them used to be connected to financial systems, how they are connected today, and how those connections led to the Global Financial Crisis of 2008. More broadly, we will explore sociological perspectives on financial systems in order to better understand their promise of economic advancement as well as the potential for exploitation and inequality.",
+    "exclusions": "SOC497H1 (Housing Markets, Financial Crisis, and Inequality) offered in Winter 2024 and 2025.",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC427H1": {
+    "code": "SOC427H1",
+    "name": "Families and Health",
+    "hours": "24L",
+    "description": "Examines the competing theoretical, policy and therapeutic responses to a variety of family health problems, including addictions, chronic physical illnesses, and mental illness, as well as the effects of illness on family life and family coping. The links between theory and practice provide the basis for discussion of knowledge transfer. Restricted to 4th-year sociology majors and specialists.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC448H1": {
+    "code": "SOC448H1",
+    "name": "Sociology & Emotions",
+    "hours": "24L",
+    "description": "From social cohesion to intergroup violence, emotional processes influence social outcomes. Moral aspects of experience in particular are linked to emotions such as shame and pride. Students in this course will review major theories of, and a variety of empirical approaches to, the link between social and emotional processes. They will be encouraged to extend ideas and analyses in the published literature to new topics. Restricted to 4th-year sociology majors and specialists.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC460H1": {
+    "code": "SOC460H1",
+    "name": "Global Inequalities and Contentious Politics",
+    "hours": "24L",
+    "description": "Global Inequality and Contentious Politics: This is a seminar course designed to understand global inequalities and contentious politics. Inequality has been one of the primary subjects in sociological inquiries and its scope naturally expands to a global dimension as our societies are increasingly shaped by international connections. This seminar focuses on understanding various manifestations of global inequalities intersected by international hierarchy, race, gender, and class. Yet, these divisions and injustices are neither static nor unchallenged as people react to these realities via divergent methods. This class will read major theoretical approaches to social movements and examine contentious mobilizations taking place in different geographies around the world to reshape the global order ridden with disparities. Empirical cases of contentious activism include anti-globalization protest, the Occupy movement, campaigns for migrant care workers, resistance against American military bases, and the Me Too movement. Restricted to 4th-year sociology majors and specialists.",
+    "exclusions": "SOC494H1 (Topics: Global Inequalities and Contentious Politics), offered in Winter 2019,  SOC495H1 (Topics: Global Inequalities and Contentious Politics), offered in Winter 2020",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC465H1": {
+    "code": "SOC465H1",
+    "name": "Advanced Studies in Gender",
+    "hours": "24L",
+    "description": "This course explores major questions about the nature of gender and gender inequality. The course requires a careful review of key theoretical and empirical work addressing one of these questions and the completion of a research project. Restricted to 4th-year sociology majors and specialists.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC470H1": {
+    "code": "SOC470H1",
+    "name": "Sociology of Martial Arts",
+    "hours": "24L",
+    "description": "This course will tackle some of the messy martial arts geneaology that gave rise to contemporary MMA, while also delving into theoretical work on the emotions felt in violence, the moral worlds of gyms and dojos, the process of learning how to fight, women in the UFC, and a host of other issues related to jiu jitsu, judo, and mixed martial arts more generally. Students will have the opportunity to participate in martial arts practices.",
+    "exclusions": "SOC485H1 (Topic: Sociology of Martial Arts) offered in Fall 2021 and 2022.",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC478H1": {
+    "code": "SOC478H1",
+    "name": "Social Context of Public Policy",
+    "hours": "24L",
+    "description": "This course explores how policy processes and frameworks need to be evaluated in light of the social context in which they are developed. Factors to be considered include the interplay between public values and expectations and public policy; the implications of cultural diversity and demographic change, and understandings of ethical principles of conduct in public organizations. A related goal is to help students learn how to use empirical research to answer highly contested issues in policy circles and in public life. These objectives are pursued by introducing students to major trends in inequality in Canada, assessing these trends within a comparative context, reflecting on their normative implications, and examining alternative policy responses to these developments. Restricted to 4th-year sociology majors and specialists.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC479H1": {
+    "code": "SOC479H1",
+    "name": "Advanced Studies in Social Movements",
+    "hours": "24L",
+    "description": "This course focuses on current debates and research findings in the study of social movements. Restricted to 4th-year sociology majors and specialists.",
+    "exclusions": "SOCC04H3",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC481H1": {
+    "code": "SOC481H1",
+    "name": "Culture and Social Networks",
+    "hours": "24L",
+    "description": "Relationships between various forms of culture and the networks connecting both individual people and organizations creating culture. Restricted to 4th-year sociology majors and specialists.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC483H1": {
+    "code": "SOC483H1",
+    "name": "Culture and Cognition",
+    "hours": "24L",
+    "description": "This course examines the social foundations of thinking and action, with a focus on how individuals think and act through shared cognitive schemas that are embedded in larger social structures. The course is organized around a wide-ranging array of classical and contemporary theories that help explain the various factors that shape culture and cognition. There is a research component to put this analytical understanding into practice. Restricted to 4th-year sociology majors and specialists.",
+    "exclusions": "SOC483Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC485H1": {
+    "code": "SOC485H1",
+    "name": "New Topics in Sociology",
+    "hours": null,
+    "description": "An opportunity to explore new topics in sociology. Topics vary from year to year based on the instructor. Consult the Departmental website: http://sociology.utoronto.ca/st-george-campus/courses-3/new-topics-in-sociology/. Restricted to 4th-year sociology majors and specialists.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC486H1": {
+    "code": "SOC486H1",
+    "name": "Advanced Topics in Urban Sociology",
+    "hours": "24L",
+    "description": "This course offers real world observation and abundant examples that speak to the strengths and limitations of particular theory, data, and methods for studying urban problems. Students undertake a supervised research project that involves identifying, observing and reflecting on real phenomena in the urban environment. Restricted to 4th-year sociology specialists and majors.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC488H1": {
+    "code": "SOC488H1",
+    "name": "Mental Health over the Life Course",
+    "hours": "24L",
+    "description": "This course is a research-based exploration of mental health at all stages of life, from birth to death. It emphasizes the long-term consequences for mental health of childhood adversities and disadvantage, major life transitions, and turning points in the life course. Restricted to 4th-year sociology majors and specialists.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC489H1": {
+    "code": "SOC489H1",
+    "name": "New Topics in Sociology",
+    "hours": null,
+    "description": "An opportunity to explore new topics in sociology. Topics vary from year to year based on the instructor. Restricted to 4th-year sociology majors and specialists. Consult the Departmental website: http://sociology.utoronto.ca/st-george-campus/courses-3/new-topics-in-s\u2026",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC490Y1": {
+    "code": "SOC490Y1",
+    "name": "Independent Research",
+    "hours": null,
+    "description": "This course is by application, submitted to the Department by the Monday before the term begins. Students work independently with a professor in the Department who acts as research supervisor. There are no formal class meetings, lectures, or readings other than what is agreed to with the supervisor. Professors accept supervisory responsibility at their discretion. Students approach a professor working in the same sub-discipline of sociology. This course is not eligible for CR/NCR option. For further details, including the application, please visit our website at: http://sociology.utoronto.ca/st-george-campus/courses-3/independent-research-course/",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 15.0,
+          "department": ""
+        },
+        {
+          "credits": 0.5,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "SOC491H1": {
+    "code": "SOC491H1",
+    "name": "Independent Research",
+    "hours": null,
+    "description": "This course is by application, submitted to the Department by the Monday before the term begins. Students work independently with a professor in the Department who acts as research supervisor. There are no formal class meetings, lectures, or readings other than what is agreed to with the supervisor. Professors accept supervisory responsibility at their discretion. Students approach a professor working in the same sub-discipline of sociology. This course is not eligible for CR/NCR option. For further details, including the application, please visit our website at: http://sociology.utoronto.ca/st-george-campus/courses-3/independent-research-course/",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 15.0,
+          "department": ""
+        },
+        {
+          "credits": 0.5,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "SOC492H1": {
+    "code": "SOC492H1",
+    "name": "Independent Research",
+    "hours": null,
+    "description": "This course is by application, submitted to the Department by the Monday before the term begins. Students work independently with a professor in the Department who acts as research supervisor. There are no formal class meetings, lectures, or readings other than what is agreed to with the supervisor. Professors accept supervisory responsibility at their discretion. Students approach a professor working in the same sub-discipline of sociology. This course is not eligible for CR/NCR option. For further details, including the application, please visit our website at: http://sociology.utoronto.ca/st-george-campus/courses-3/independent-research-course/",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        {
+          "credits": 15.0,
+          "department": ""
+        },
+        {
+          "credits": 0.5,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "SOC493H1": {
+    "code": "SOC493H1",
+    "name": "New Topics in Sociology",
+    "hours": null,
+    "description": "An opportunity to explore new topics in sociology. Topics vary from year to year based on the instructor. Restricted to 4th-year sociology majors and specialists. Consult the Departmental website: http://sociology.utoronto.ca/st-george-campus/courses-3/new-topics-in-s\u2026",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC494H1": {
+    "code": "SOC494H1",
+    "name": "New Topics in Sociology",
+    "hours": null,
+    "description": "An opportunity to explore new topics in sociology. Topics vary from year to year based on the instructor. Restricted to 4th-year sociology majors and specialists. Consult the Departmental website: http://sociology.utoronto.ca/st-george-campus/courses-3/new-topics-in-s\u2026",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC495H1": {
+    "code": "SOC495H1",
+    "name": "New Topics in Sociology",
+    "hours": null,
+    "description": "An opportunity to explore new topics in sociology. Topics vary from year to year based on the instructor. Restricted to 4th-year sociology majors and specialists. Consult the Departmental website: http://sociology.utoronto.ca/st-george-campus/courses-3/new-topics-in-s\u2026",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC496H1": {
+    "code": "SOC496H1",
+    "name": "New Topics in Sociology",
+    "hours": null,
+    "description": "An opportunity to explore new topics in sociology. Topics vary from year to year based on the instructor. Restricted to 4th-year sociology majors and specialists. Consult the Departmental website: http://sociology.utoronto.ca/st-george-campus/courses-3/new-topics-in-s\u2026",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC497H1": {
+    "code": "SOC497H1",
+    "name": "New Topics in Sociology",
+    "hours": null,
+    "description": "An opportunity to explore new topics in sociology. Topics vary from year to year based on the instructor. Restricted to 4th-year sociology majors and specialists. Consult the Departmental website: http://sociology.utoronto.ca/st-george-campus/courses-3/new-topics-in-s\u2026",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC498H1": {
+    "code": "SOC498H1",
+    "name": "New Topics in Sociology",
+    "hours": null,
+    "description": "An opportunity to explore new topics in sociology. Topics vary from year to year based on the instructor. Restricted to 4th-year sociology majors and specialists. Consult the Departmental website: http://sociology.utoronto.ca/st-george-campus/courses-3/new-topics-in-s\u2026",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SOC499H1": {
+    "code": "SOC499H1",
+    "name": "New Topics in Sociology",
+    "hours": null,
+    "description": "An opportunity to explore new topics in sociology. Topics vary from year to year based on the instructor. Restricted to 4th-year sociology majors and specialists. Consult the Departmental website: http://sociology.utoronto.ca/st-george-campus/courses-3/new-topics-in-s\u2026",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 1.0,
+      "department": "SOC"
+    }
+  },
+  "SPA101H1": {
+    "code": "SPA101H1",
+    "name": "Spanish for Beginners I",
+    "hours": "48L",
+    "description": "The course introduces students to activities that address a range of personal and immediate-needs topics and socio-cultural situations such as family life and daily routines and to the diverse cultures of the Spanish-speaking world through authentic materials. Students develop personal forms of expression and basic strategies for reading, listening, writing, and participating in everyday conversations. It is the first of a six-semester sequence in the Spanish Language Sequence and is designed for students with no prior knowledge of Spanish. By the end of the semester, students can expect to have reached the Novice High level of the ACTFL scale.",
+    "exclusions": "Any one year of Spanish from Grade 10 to 12,  SPA100Y1,  SPA100Y5,  SPA102H1,  SPA120Y1,  SPA201H1,  SPA202H1,  SPA205H1,  SPA219Y1,  SPA219H5,  SPA220Y1,  SPA220Y5,  SPA221H1,  SPA301H1,  SPA302H1,  SPA305H1,  SPA319H5,  SPA320Y1,  SPA320Y5,  LGGA90Y3,  SPA420H1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SPA102H1": {
+    "code": "SPA102H1",
+    "name": "Spanish for Beginners II",
+    "hours": "48L",
+    "description": "The course expands students\u2019 ability to engage with activities that address a range of topics such as travel, pastimes, neighborhood issues, and sports and the cultural diversity of the Spanish-speaking world through authentic materials. Students further develop strategies for reading, listening, writing, and participating in everyday conversations. It is the second of the six-semester sequence in the Spanish Language Sequence and is designed for students who a) have successfully completed  SPA101H1, b) have placed into the course via the Spanish placement exam offered by the unit, or c) have studied Spanish for two years in high school. By the end of the semester, students can expect to have reached the Intermediate Low level of the ACTFL scale.",
+    "exclusions": "SPA100Y1,  SPA100Y5,  SPA120Y1,  SPA201H1,  SPA202H1,  SPA205H1,  SPA219Y1,  SPA219H5,  SPA220Y1,  SPA220Y5,  SPA221H1,  SPA301H1,  SPA302H1,  SPA305H1,  SPA319H5,  SPA320Y1,  SPA320Y5,  SPA420H1,  LGGA90Y3",
+    "breadth": 1,
+    "prereq_tree": "SPA101H1"
+  },
+  "SPA195H1": {
+    "code": "SPA195H1",
+    "name": "Barcelona",
+    "hours": "24L",
+    "description": "A deep dive into the modern experience of one of the world\u00b4s most compelling cities, this course considers Barcelona from a multidisciplinary perspective that includes study of its architecture, foodways, politics and response to mass tourism. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SPA196H1": {
+    "code": "SPA196H1",
+    "name": "Power, Privilege, and Precarity in the Americas",
+    "hours": "24L",
+    "description": "This course examines economic and social inequalities in the contemporary Americas. We look at the ways in which class divisions are represented in academic studies, literature, film, and television. From Mexican maquiladoras to indigenous reservations, we consider the global poor and how recent changes in the character of work (automation, outsourcing, free trade zones) have had an impact on class divisions, especially for younger members of society. Can a renewed understanding of class and work help us to negotiate power, privilege, and inequality in this century? Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SPA197H1": {
+    "code": "SPA197H1",
+    "name": "Cervantes and Imperial Spain",
+    "hours": "24L",
+    "description": "During the lifetime of Miguel de Cervantes, the Spanish monarchy governed an empire that extended across the globe, from its traditional lands in Europe to colonies in the Philippines and the Americas. We will examine the advantages and cost of imperial rule through reading a selection of Cervantes's works. Discussions will centre on such questions as the social impact of imperial wealth, the disruptive role of soldiers in civil society, contact with non-European cultures and the sub-cultures of Spanish society. Students will be introduced to the University of Toronto\u00b4s outstanding resources for studying the literatures and cultures of early modern Europe. Readings will include some of the Exemplary Stories and selected episodes of Don Quixote. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SPA198H1": {
+    "code": "SPA198H1",
+    "name": "A Brief History of Love in the Western World",
+    "hours": "24L",
+    "description": "This course introduces students to the ways in which the foremost thinkers in the history of the Western world (Plato, Ovid, St. Augustine, Ficino, Ebreo) conceived the idea of love; how did the notions of sexuality and gender play into that idea, and how did these notions carry on \u2013 or not \u2013 into our present understanding of love, sexuality and gender. While the background readings pertain to the general Western cultural heritage, the literary texts through which we will observe particular applications of the theories of love were produced by some of the outstanding 16th and 17th century Spanish authors (for ex. Rodr\u00edguez de Montalvo; Jorge de Montemayor; Miguel de Cervantes; Tirso de Molina, Mar\u00eda de Zayas, Sor Juana In\u00e9s de la Cruz). All the readings will be in English. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SPA199H1": {
+    "code": "SPA199H1",
+    "name": "More than Nachos and Tequila: Mexican History and Culture",
+    "hours": "24L",
+    "description": "This course aims at studying the rich history of Mexico from an interdisciplinary perspective. We will cover a wide range of issues, such as identity, modernity race, immigration, gender, sexuality, globalization, and iconic figures. The issue of identity as construed from the inside, but also from the outside and particularly from the English-speaking world (i.e. current US presidential views on the wall), will be widely examined. Course materials will range from chronicles of conquest to modern reflections and representations by historians, philosophers, filmmakers, musicians, writers and artist, among others. Restricted to first-year students. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SPA201H1": {
+    "code": "SPA201H1",
+    "name": "Spanish for Intermediate Speakers I",
+    "hours": "48L",
+    "description": "The course develops students\u2019 ability to narrate and describe in the present frame and exchange basic descriptions and comparisons about authentic materials from the Spanish-speaking world. Students strengthen strategies to handle different communicative tasks in straightforward social situations. It is the third of a six-semester sequence in the Spanish Language Sequence designed for students who a) have successfully completed SPA102H, b) have placed into the course via the Spanish placement exam offered by our unit, or c) have studied Spanish for three years in high school. By the end of the semester, students can expect to have reached the Intermediate Mid level of the ACTFL scale.",
+    "exclusions": "SPA120Y1,  SPA202H1,  SPA205H1,  SPA219Y1,  SPA219H5,  SPA220Y1,  SPA220Y5,  SPA301H1,  SPA302H1,  SPA305H1,  SPA319H5,  SPA320Y1,  SPA320Y5",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "SPA102H1",
+        "SPA100Y1"
+      ]
+    }
+  },
+  "SPA202H1": {
+    "code": "SPA202H1",
+    "name": "Spanish for Intermediate Speakers II",
+    "hours": "48L",
+    "description": "The course further develops students\u2019 ability to narrate and describe across various time frames, follow the main plot of stories (novels or films), and exchange basic descriptions, comparisons, and interpretations about authentic materials from the Spanish-speaking world. This course is the fourth of a six-semester sequence in the Spanish Language Sequence designed for students who a) have successfully completed  SPA201H1, or b) have placed into the course via the Spanish placement exam offered by our unit. By the end of the semester, students can expect to have reached the Intermediate High level of the ACTFL scale. Taught in Spanish.",
+    "exclusions": "SPA205H1,  SPA219Y1,  SPA219H5,  SPA220Y1,  SPA220Y5,  SPA301H1,  SPA302H1,  SPA305H1,  SPA319H5,  SPA320Y1,  SPA320Y5",
+    "breadth": 1,
+    "prereq_tree": "SPA201H1"
+  },
+  "SPA205H1": {
+    "code": "SPA205H1",
+    "name": "Spanish for Heritage Speakers I",
+    "hours": "36L",
+    "description": "For native (heritage) speakers who have had exposure to spoken Spanish in an informal context (i.e., living in a Spanish-speaking country; or growing in a Spanish-speaking family), but little to no exposure to written Spanish. The students' ability to speak and understand Spanish may range from basic to relatively high fluency, but they experience difficulties writing and reading in Spanish. The course reviews English/Spanish spelling differences; written and spoken registers of Spanish, cognates and false cognates, and basic aspects of the grammatical system. (Introductory)",
+    "exclusions": "SPA100Y1,  SPA100Y5,  SPA120Y1,  SPA201H1,  SPA202H1,  SPA219Y1,  SPA219H5,  SPA220Y1,  SPA220Y5,  SPA301H1,  SPA302H1,  SPA305H1,  SPA319H5,  SPA320Y1,  SPA320Y5,  LGGA90Y3, or formal education in a Spanish-speaking country",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SPA221H1": {
+    "code": "SPA221H1",
+    "name": "Spanish Pronunciation",
+    "hours": "36L",
+    "description": "A practical introduction to articulatory phonetics, Spanish sound patterns, phonetics, phonology; the basic concepts of phonetic description and transcription; the study of Spanish vowel and consonant systems, stress and intonation.",
+    "exclusions": "SPA205H1,  SPA219Y1,  SPA219H5,  SPA305H1,  SPA319H5, native or heritage speakers of Spanish.",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA201H1",
+        "SPA220Y1"
+      ]
+    }
+  },
+  "SPA254H1": {
+    "code": "SPA254H1",
+    "name": "Cervantes and Modern Fiction",
+    "hours": "24L",
+    "description": "Critical reading of Don Quixote as a canonical text for the novel and other narrative forms, including historical metafiction, the short story, and fictional autobiography. Comparative discussion of Quixotic fictions by modern authors, such as Machado de Assis, Borges, Nabokov, Garc\u00eda M\u00e1rquez, Junot D\u00edaz. Lectures and readings in English.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SPA255Y0": {
+    "code": "SPA255Y0",
+    "name": "Introduction to the Hispanic World",
+    "hours": "48L",
+    "description": "A survey of Hispanic Culture, with attention to central issues in history, politics, and popular traditions. Course will be taught in English.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SPA258H1": {
+    "code": "SPA258H1",
+    "name": "Introduction to Hispanic Literary Studies",
+    "hours": "36L",
+    "description": "Introduction to university literary studies in Spanish and information literacy. Representative selection of Spanish and Spanish American prose, poetry, and drama, with focus on critical terminology and methods of literary analysis. Required for a program degree. Taught in Spanish.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA201H1",
+        "SPA220Y1"
+      ]
+    }
+  },
+  "SPA259H1": {
+    "code": "SPA259H1",
+    "name": "Introduction to Hispanic Cultural Studies",
+    "hours": "24L",
+    "description": "Forms of cultural expression in Spain, Latin America and Spanish-speaking North America, with study of representative media, including literature, journalism, film, visual art, and the urban environment. Introduction to methods of cultural analysis. (Offered in alternate years).",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA201H1",
+        "SPA220Y1"
+      ]
+    }
+  },
+  "SPA275H1": {
+    "code": "SPA275H1",
+    "name": "21st Century Latin American Cinema",
+    "hours": "12L/12T",
+    "description": "This online course examines the social, political, and cultural contexts of recent Latin American Hispanic cinema. Topics include race and indigeneity; poverty, precarity, and inequality; gender and sexuality; and memory and trauma. The representation of these themes in Latin American cinema of the 21st century has contributed to an increase in its transnational and cosmopolitan reception. Lectures in English. Students choose tutorials in Spanish or English.",
+    "exclusions": "SPA375H1,  SPA275H5",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SPA299H1": {
+    "code": "SPA299H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "SPA299Y1": {
+    "code": "SPA299Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "SPA301H1": {
+    "code": "SPA301H1",
+    "name": "Spanish for Advanced Speakers I",
+    "hours": "48L",
+    "description": "The course develops students\u2019 ability to interact in culturally appropriate ways with native speakers of Spanish, negotiate situations that require problem solving, exchange detailed descriptions and comparisons about authentic materials from the Spanish-speaking world. The course is the fifth course of the six-semester sequence in the Spanish Language Sequence. It is designed for students who a) have successfully completed  SPA202H1, or b) have placed into the course via the Spanish placement exam offered by our unit. By the end of the semester, students can expect to have reached the Advanced Low level of the ACTFL scale. Taught in Spanish.",
+    "exclusions": "SPA205H1,  SPA219Y1,  SPA219H5,  SPA302H1,  SPA305H1,  SPA319H5,  SPA320Y1,  SPA320Y5",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA220Y1"
+      ]
+    }
+  },
+  "SPA302H1": {
+    "code": "SPA302H1",
+    "name": "Spanish for Advanced Speakers II",
+    "hours": "48L",
+    "description": "This course expands students\u2019 ability to interact in culturally appropriate ways with native Spanish speakers. Students will participate in informal and some formal exchanges on a variety of topics, contextualize and analyze more complex stories (novels) and films, and exchange detailed descriptions and interpretations about authentic materials. This is the final course of the six-semester Spanish Language Sequence. It is designed for students who a) have successfully completed  SPA301H1, or b) have placed into the course via the Spanish placement exam offered by our unit. By the end of the semester, students will reach the Advanced Mid level of the ACTFL scale. Taught in Spanish.",
+    "exclusions": "SPA205H1,  SPA219Y1,  SPA219H5,  SPA305H1,  SPA319H5,  SPA320Y1,  SPA320Y5",
+    "breadth": 1,
+    "prereq_tree": "SPA301H1"
+  },
+  "SPA305H1": {
+    "code": "SPA305H1",
+    "name": "Spanish for Heritage Speakers II",
+    "hours": "36L",
+    "description": "For native (heritage) speakers who have had exposure to spoken Spanish in an informal context (i.e., living in a Spanish-speaking country; or growing in a Spanish-speaking family), and have been introduced to Spanish writing and basic grammar. Students will develop their vocabulary, deepen their understanding of the Spanish grammar, and become familiar with the use of Spanish in a range of contexts, including academic levels of speaking and writing. Taught in Spanish.",
+    "exclusions": "SPA100Y1,  SPA100Y5,  SPA101H1,  SPA102H1,  SPA120Y1,  SPA201H1,  SPA202H1,  SPA219Y1,  SPA219H5,  SPA220Y1,  SPA220Y5,  SPA301H1,  SPA302H1,  SPA319H5,  SPA320Y1,  SPA320Y5,  LGGA90Y3, or formal education in a Spanish-speaking country.",
+    "breadth": 1,
+    "prereq_tree": "SPA205H1"
+  },
+  "SPA322H1": {
+    "code": "SPA322H1",
+    "name": "Introduction to Hispanic Linguistics",
+    "hours": "36L",
+    "description": "The basic concepts and analytic tools of linguistics applied to the study of Spanish, with a focus on the Spanish phonological, morphological, and syntactic systems. Theoretical discussion and practical exercises in analytic techniques. Taught in Spanish.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA323H1": {
+    "code": "SPA323H1",
+    "name": "Business Spanish",
+    "hours": "24L/48P",
+    "description": "Practical uses of spoken and written Spanish for business contexts, with an emphasis on culturally appropriate ways of communication in a Spanish-language work environment. This course builds on grammar and vocabulary knowledge already acquired at the intermediate level. As a part of the course, students will participate in an internship with Spanish-speaking businesses and institutions in the Toronto area. The placements are designed to deepen linguistic, cultural, and analytical skills acquired in the classroom in work-related environments, promote intercultural competency, and foster links to the community. Taught in Spanish.",
+    "exclusions": "SPA323Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA120Y1",
+        "SPA202H1",
+        "SPA205H1",
+        "SPA220Y1"
+      ]
+    }
+  },
+  "SPA324H1": {
+    "code": "SPA324H1",
+    "name": "Spanish Bilingualism",
+    "hours": "24L",
+    "description": "Spanish bilingualism from three different perspectives: linguistic, sociolinguistic, psycholinguistic. Analysis of typical language contact phenomena with materials from Spanish. Case studies of Spanish in contact and discussion of the psychological consequences of bilingualism. Introduction to survey methods in sociolinguistics and psycholinguistics, and basic techniques for conducting language interviews. Taught in Spanish. (Offered in alternate years)",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA326H1": {
+    "code": "SPA326H1",
+    "name": "Latin American Varieties of Spanish Through the Media",
+    "hours": "36L",
+    "description": "This course aims at exposing students to different varieties of Latin American Spanish. Lexical, morpho-syntactic and phonological variation will be discussed and theoretical descriptions will be illustrated by using samples from contemporary cinema and television. Taught in Spanish. (Offered in alternate years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA327H1": {
+    "code": "SPA327H1",
+    "name": "Catalan",
+    "hours": "24L",
+    "description": "Study of Catalan language through an overview of grammatical structures and exercises in proficiency skills, complemented by readings in Catalan history and society to attain interdisciplinary cultural literacy. Taught in English and Catalan. (Offered every three years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1",
+        "PRT202H1",
+        "PRT205H1",
+        {
+          "credits": 0.5,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "SPA330Y0": {
+    "code": "SPA330Y0",
+    "name": "Spanish and the Health Sciences",
+    "hours": "45L/55P",
+    "description": "This course is conceived to develop Spanish communicative skills in the field of health sciences. In this course, thus, language training is combined with practical work in a professional environment. The course is divided into two parts, one of preparation and consolidation in the classroom and another of tutored practices in hospitals with a final presentation summarizing the training process. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": "SPA302H1"
+  },
+  "SPA341H1": {
+    "code": "SPA341H1",
+    "name": "Modernist Movements in Spain",
+    "hours": "24L",
+    "description": "Literary and artistic movements in Spain from 1890 to 1940, with special attention to the convergence and mutual mediation of politics and art. Materials to be studied include novels, poetry, the urban environment, graphic art, literary journals and manifestos, and some early Hispanic film. Taught in Spanish. (Offered every three years)",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA344H1": {
+    "code": "SPA344H1",
+    "name": "The Spanish Sensorium",
+    "hours": "20L/4P",
+    "description": "Pushing back against the primacy of vision, this course approaches modern Spain from the perspective of our other senses. How does the Spanish state and its concomitant nations smell, feel, taste and sound? What do these other forms of knowing tell us about cultural phenomena? In this course we will consider both primary and secondary source texts; that is, we will be touching, smelling, tasting and listening as well as analyzing the textual manifestations of sensory experience. Taught in Spanish. Offered in alternate years.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA219Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "SPA220Y1",
+            "SPA258H1"
+          ]
+        },
+        "SPA259H1"
+      ]
+    }
+  },
+  "SPA345H1": {
+    "code": "SPA345H1",
+    "name": "Spanish Cinema",
+    "hours": "24L",
+    "description": "Analysis of the development of Spanish Cinema within its social and political contexts. Directors studied include Bu\u00f1uel, Bardem, Erice, Saura, Almod\u00f3var and Bigas Luna. Taught in Spanish. (Offered every three years).",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA348H1": {
+    "code": "SPA348H1",
+    "name": "Galdos and the Realist Novel",
+    "hours": "24L",
+    "description": "Representative fiction by Gald\u00f3s, the principal Spanish novelist of the nineteenth century. Detailed study of such texts as Marianela, Do\u00f1a Perfecta, La desheredada, Realidad, La inc\u00f3gnita, in relation to modernity of realist fiction and contemporary issues in politics, social relations and individual psychology. Taught in Spanish. (Offered every three years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA350H1": {
+    "code": "SPA350H1",
+    "name": "Medieval Spain Portrayed Through Visual Arts",
+    "hours": "24S",
+    "description": "Through the lens of visual arts, this course will examine the evolution of complex medieval societies in the Middle Ages. We will analyse films, painting, drawing, sculpture, ceramic, images, literature, and architecture as a primary source to explain and study the past. This investigation of visual art allows us an in-depth look at medieval daily life, with a specific focus on family, violence, marriage, childhood, crimes, punishments, markets, towns, and village. Taught in Spanish. (Offered every three years)",
+    "exclusions": "SPA450H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1",
+        "SPA258H1"
+      ]
+    }
+  },
+  "SPA352H1": {
+    "code": "SPA352H1",
+    "name": "Court and Country in Early Modern Spain",
+    "hours": "24L",
+    "description": "Representative texts (such as ballads, popular and courtly lyric; chivalry, pastoral and picaresque prose, theater) from the early modern period, studied in relation to the history and society of imperial Spain. Discussion of literary texts as codes of social conduct; issues of urbanization, court culture, social order and disorder, and cultural discourses of identity and difference. Reading from modern authors (Sender, Borges) to illustrate the continuity of court and country in the Hispanic tradition. Taught in Spanish. (Offered every three years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1",
+        "SPA258H1"
+      ]
+    }
+  },
+  "SPA354H1": {
+    "code": "SPA354H1",
+    "name": "Parody and Comedy in Early Modern Spanish Literature",
+    "hours": "24L",
+    "description": "Parody and comedy as interrelated literary forms that create humour through conventional character types, the play of language, self-conscious imitation, and the relationship of parodic works to canonical intertexts. Considerations of humour as a response to social anxieties in early modern Spain. Analysis of poems, plays and short prose narratives by representative authors; Garcilaso, G\u00f3ngora, Quevedo, Tirso de Molina, Cervantes. Taught in Spanish. (Offered every three years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1",
+        "SPA258H1"
+      ]
+    }
+  },
+  "SPA368H1": {
+    "code": "SPA368H1",
+    "name": "Spanish and the Empire: Migration in Language and Literature",
+    "hours": "24L",
+    "description": "This interdisciplinary approach considers broad cultural consequences resulting from the contact of Spanish with the American indigenous languages. Current cultural and linguistic theories on language contact are used to analyze sixteenth to eighteenth-century Spanish texts, and invite reflection on language, power, and the emergence of new cultural expressions. Taught in Spanish. (Offered every three years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA377H1": {
+    "code": "SPA377H1",
+    "name": "Central American Literature: Narratives of War",
+    "hours": "24L",
+    "description": "The 70s and 80s represent a period of armed struggle, civil war, and revolution in most of Central America. Through the study of specific novels, short stories, and films, this course analyzes the representation of violence, and the political repression generated by military conflicts. Taught in Spanish. (Offered every three years)",
+    "exclusions": "SPA389H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA378H1": {
+    "code": "SPA378H1",
+    "name": "Central America Postwar Narrative",
+    "hours": "24L",
+    "description": "The end of civil and military conflicts in the last decade of the 20th century reshapes the political landscape of Central America. Through selected readings of novels and short stories from representative writers, issues of immigration, displacement, and globalization are discussed to understand these changes in the region. Taught in Spanish. (Offered every three years)",
+    "exclusions": "SPA488H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": "SPA"
+    }
+  },
+  "SPA381H1": {
+    "code": "SPA381H1",
+    "name": "Nation, Identity and Modernity in Spanish-America",
+    "hours": "24L",
+    "description": "Analysis of poetry, short stories, essays, and graphic art in the context of nation-building and the question of identity during the nineteenth century. Taught in Spanish. (Offered every three years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA382H1": {
+    "code": "SPA382H1",
+    "name": "Spanish American Women in Art, Film, and Literature",
+    "hours": "24L",
+    "description": "Study of different creative expressions by women in Spanish America from the colonial period to the present; analysis of selected works of visual art, film, essays, poetry, and fiction. Taught in Spanish. (Offered every three years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA383H1": {
+    "code": "SPA383H1",
+    "name": "Disability and Embodiment in Spanish American Cultures",
+    "hours": "24L",
+    "description": "This course approaches literary, visual, and multi-media texts of twentieth-century and contemporary Spanish America, focusing on the body as site of multiple differences, lived experience, exploitation, and creative expression. We will consider the roles of disability through cultural production and activism, particularly in the Mexican context, the histories that have shaped ongoing inequalities, and relationships between disability, gender, and race in these histories. Taught in Spanish. (Offered alternate years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA384H1": {
+    "code": "SPA384H1",
+    "name": "Avant-Garde Movements in Spanish America",
+    "hours": "24L",
+    "description": "Study of representative works of major artistic and literary movements in 20th and 21st century Spanish America: avant-garde poetry, theatre of the absurd, surrealist art, neo-realism, postmodernism. Taught in Spanish. (Offered every three years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA385H1": {
+    "code": "SPA385H1",
+    "name": "Literature and Social Change in Spanish America",
+    "hours": "24L",
+    "description": "Detailed study of key moments and texts in Spanish American culture from the nineteenth and twentieth centuries, focusing on such topics as the creation of new nations, indigenismo, Caribbean anti-slavery literature, and the Mexican and Cuban Revolutions. Taught in Spanish. (Offered every three years)",
+    "exclusions": "SPA487H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA386H1": {
+    "code": "SPA386H1",
+    "name": "Literary Landscapes of the Mexican Revolution",
+    "hours": "24L",
+    "description": "Examines cultural production, including short stories, novels, films and paintings surrounding the socio-political transformations of the revolutionary period. Readings and discussion emphasize general concepts of the landscape, as a visual and spatial mode of interpreting relationships between human subjects, and between these subjects and the territory they occupy. Taught in Spanish. (Offered every three years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA387H1": {
+    "code": "SPA387H1",
+    "name": "Latin American Performative Expression",
+    "hours": "24L",
+    "description": "Considers continuities and divisions between word and action, art and politics, in short works of fiction, theatre, film and performance projects. Includes work from twentieth-century and contemporary Mexico as well as Latin American cultural production from Canada and the United States. Taught in Spanish with occasional English. (Offered every three years)",
+    "exclusions": "SPA467H1 (Topics: Latin American Performative Practices), offered in Fall 2009, Winter 2018",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA120Y1",
+        "SPA220Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA398H0": {
+    "code": "SPA398H0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "SPA398Y0": {
+    "code": "SPA398Y0",
+    "name": "Research Excursions",
+    "hours": null,
+    "description": "An instructor-supervised group project in an off-campus setting. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-excursions-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "SPA399H1": {
+    "code": "SPA399H1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "SPA399Y1": {
+    "code": "SPA399Y1",
+    "name": "Research Opportunity Program",
+    "hours": null,
+    "description": "Credit course for supervised participation in faculty research project. Details at https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "SPA420H1": {
+    "code": "SPA420H1",
+    "name": "Advanced Spanish Grammar",
+    "hours": "36L",
+    "description": "Linguistic analysis with the objective of improving students' command of Spanish grammar. Advanced review of traditional grammatical topics, including the verbal and pronominal systems, Spanish copulas, and embedded clauses. This course assumes familiarity with the grammatical terminology introduced in  SPA301H1 and  SPA302H1 (formerly  SPA320Y1). Taught in Spanish.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "SPA421H1": {
+    "code": "SPA421H1",
+    "name": "The Structure of Spanish",
+    "hours": "36L",
+    "description": "Study of Spanish morphology and syntax: syntactic categories in Spanish, the structure and interpretation of simple and complex sentences. (Offered in alternate years)",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "SPA420H1"
+  },
+  "SPA422H1": {
+    "code": "SPA422H1",
+    "name": "Sociolinguistics of Spanish",
+    "hours": "24L",
+    "description": "Study of linguistic variation across the Spanish-speaking world; central issues in phonological, morphological, and syntactic variation, analyzed from a geographical as well as from a social point of view. (Offered in alternate years)",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "SPA322H1"
+  },
+  "SPA423H1": {
+    "code": "SPA423H1",
+    "name": "Spanish Phonology",
+    "hours": "24L/12T",
+    "description": "Theoretical and experimental approaches to Spanish phonology. Topics include: Spanish phonemic inventory, sound patterns, suprasegmentals (stress and intonation), synchronic and diachronic variation. Methods of data collection and analysis in the discipline, with practical applications. (Offered in alternate years)",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": "SPA322H1"
+  },
+  "SPA424H1": {
+    "code": "SPA424H1",
+    "name": "Experimental Approaches to Hispanic and Lusophone Linguistics",
+    "hours": "12P/24S",
+    "description": "This course introduces students to theoretically grounded experimental approaches in the field of linguistics, with a particular focus on Hispanic and Lusophone linguistics. Students will receive training in the use of different experimental and corpus analysis techniques and will discuss paradigmatic examples of research papers in the areas of phonetics-phonology and morpho-syntax. Throughout the course, they will conduct their own research project under the supervision of a specialist in the field. The course can be taught in English, Spanish and Portuguese.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA322H1",
+        "PRT322H1"
+      ]
+    }
+  },
+  "SPA425H1": {
+    "code": "SPA425H1",
+    "name": "History of the Spanish Language",
+    "hours": "24L",
+    "description": "Have you ever doubted where Spanish came from? Or how did it become the language we know today? This course presents a detailed study of the external and internal history of the Spanish language in which this evolution occurred. Special attention will be paid to the linguistic progress of the language from its Latin roots to Modern Spanish and to the socio-cultural, historical, political and literary influence that have affected its linguistic evolution. The main features of the Spanish language evolution will be put in practice through a close reading of representative Medieval, Renaissance and dialectal texts. Taught in Spanish. (Offered every three years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA302H1",
+        "SPA305H1",
+        "SPA320Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA427H1": {
+    "code": "SPA427H1",
+    "name": "Spanish Language Teaching as Reflective Practice",
+    "hours": "24L/6P",
+    "description": "Practical introduction to planning, management, and delivery of academic projects related to teaching of the Spanish language. This course concentrates on core communication skills that students will adapt and apply to various contexts and projects. Through experiential activities, students will be able to deepen their understanding on how we negotiate institutional, societal, and global challenges in multilingual educational contexts.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA302H1",
+        "SPA305H1",
+        "SPA320Y1"
+      ]
+    }
+  },
+  "SPA435H1": {
+    "code": "SPA435H1",
+    "name": "Fictions of Contemporary Spain",
+    "hours": "24L",
+    "description": "Study of major currents in narrative fiction during the last twenty years, a period of return to democratic government, the relaxing of censorship and the opening up of Spanish culture. Analysis of works from several generations of male and female writers. Taught in Spanish. (Offered every three years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": ""
+    }
+  },
+  "SPA439H1": {
+    "code": "SPA439H1",
+    "name": "Topics in Spanish Studies",
+    "hours": "24S",
+    "description": "A course on specific topics in Spanish studies, designed for advanced students. Course content and instructor are established on a yearly basis.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA202H1",
+        "SPA205H1",
+        "SPA220Y1",
+        "SPA219Y1"
+      ]
+    }
+  },
+  "SPA454H1": {
+    "code": "SPA454H1",
+    "name": "Cervantes: Don Quixote",
+    "hours": "36L",
+    "description": "Detailed study of Don Quixote as a foundational text in the European literary tradition, with attention to the conventions, genres, and literary techniques that inform the text. Taught in Spanish. (Offered in alternate years)",
+    "exclusions": "SPA350Y1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA302H1",
+        "SPA305H1",
+        "SPA219Y1",
+        "SPA320Y1",
+        "SPA258H1"
+      ]
+    }
+  },
+  "SPA467H1": {
+    "code": "SPA467H1",
+    "name": "Topics in Spanish-American Literature and Culture",
+    "hours": "24L",
+    "description": "A course on a specific topic in Spanish American culture, designed for advanced students. Course content and instructor are established on a yearly basis.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": ""
+    }
+  },
+  "SPA475H1": {
+    "code": "SPA475H1",
+    "name": "21st Century Latin American Culture",
+    "hours": "24L",
+    "description": "Contemporary Latin American authors and visual artists will be studied through their work, online visibility, and also the institutional and discursive structures that facilitate and shape their production. In-class remote online discussions with some of the artists. Taught in Spanish. (Offered every three years)",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": ""
+    }
+  },
+  "SPA480H1": {
+    "code": "SPA480H1",
+    "name": "Icons and Iconography in Latin American Culture",
+    "hours": "24L",
+    "description": "Production, circulation and meaning of icons through Latin American literary and cultural contexts. Readings are selected from the period of independence to the present, and focus on the transformative ideological charge of cultural objects across geographic space and history. Focuses on political and socio-economic tensions between popular and elite spheres of cultural production, and on the risks and limits of iconographic representation. Taught in Spanish. (Offered every three years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": ""
+    }
+  },
+  "SPA482H1": {
+    "code": "SPA482H1",
+    "name": "20th-Century Spanish American Narrative",
+    "hours": "24L",
+    "description": "Detailed study of the major movements in Spanish-American narrative, including magic realism, fantastic literature, women's writing, and testimonial literature, through analysis of representative novels and short stories. Taught in Spanish. (Offered every three years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": ""
+    }
+  },
+  "SPA486H1": {
+    "code": "SPA486H1",
+    "name": "Contemporary Caribbean Literatures and Identities",
+    "hours": "24L",
+    "description": "Literature studied as a socio-political space for the articulation of new concepts of cultural identity; examination of cultural change and aesthetic innovation in selected poetic, dramatic, and narrative texts from different national traditions (Cuba, the Dominican Republic, Puerto Rico). Taught in Spanish. (Offered every three years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": ""
+    }
+  },
+  "SPA489H1": {
+    "code": "SPA489H1",
+    "name": "Latin American Transculturations",
+    "hours": "36L",
+    "description": "This course integrates a series of contemporary debates in Latin American cultural studies with analysis of its transdisciplinary history and global permutations. Key topics of investigation within these debates may include indigeneity; coloniality, transculturation, and subalternity; empire, nation, and globalism; revolution, state discourse, and the popular; gender and sexuality; and the production of race. Taught in Spanish. (Offered in alternate years)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "SPA302H1",
+        "SPA305H1",
+        "SPA219Y1",
+        "SPA320Y1",
+        "SPA258H1"
+      ]
+    }
+  }
+}

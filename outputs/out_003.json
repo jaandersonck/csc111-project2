@@ -1,0 +1,1326 @@
+{
+  "BCH445H1": {
+    "code": "BCH445H1",
+    "name": "Organelles in Cell Function and Death",
+    "hours": "24L",
+    "description": "Advanced principles and concepts of cell biology are covered, including the structure, life cycle, and dynamic behavior of cell organelles. The cellular processes regulated by organelles, including the life and death of the cell and cellular communication, are highlighted. The course will also cover techniques and technologies that have advanced studies of the cell.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH210H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BCH242Y1",
+            "BIO230H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "BIO255H1",
+            "BCH311H1"
+          ]
+        },
+        "MGY311Y1",
+        "PSL350H1"
+      ]
+    }
+  },
+  "BCH446H1": {
+    "code": "BCH446H1",
+    "name": "Membrane Dynamics of the Cell Surface",
+    "hours": "24L",
+    "description": "This course covers the principles and concepts related to molecular cell biology of the cell surface in multicellular organisms. Topics include: biophysical properties of cells, membranes, and extracellular matrix, dynamic remodelling of the cytoskeleton; cell-cell and cell-matrix interactions; maintenance of planar and apical-basal cell polarity; cytokinesis, viral uptake by macropinocytosis and engulfment by phagocytosis. In addition to lectures, groups of students will interpret a recent scientific paper related to the course material to be formally presented during regular class hours.",
+    "exclusions": "CSB331H1,  CSB428H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH210H1",
+        "BCH242Y1",
+        "BCH311H1",
+        "MGY311Y1",
+        "PSL350H1"
+      ]
+    }
+  },
+  "BCH448H1": {
+    "code": "BCH448H1",
+    "name": "Structure and Function of the Nucleus",
+    "hours": "24L",
+    "description": "This course examines the structure and function of the cell nucleus and the genome through the lens of biochemistry, molecular biology, cell biology and evolution. A focus is placed on the major scientific developments that shaped our current understanding. Topics that will be covered are eukaryogenesis, junk DNA, the structure of DNA and chromatin, the transfer of information between genotype and phenotype, the filtering of information found in the genome into biologically relevant molecules such as mRNA, the processing and export of these products from the nucleus into the cytoplasm, and the translation of mRNA into protein. We will also investigate how various organelles, such as the endoplasmic reticulum and mitochondria, played a role in the evolution of the nucleus. Finally we will investigate how biological information is partitioned during mitosis.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH210H1",
+        "BCH242Y1",
+        "BCH311H1",
+        "MGY311Y1",
+        "PSL350H1"
+      ]
+    }
+  },
+  "BCH449H1": {
+    "code": "BCH449H1",
+    "name": "Medical Biochemistry",
+    "hours": "24L/12T",
+    "description": "This course will apply core biochemical principles to explain the pathogenesis of emerging diseases at the molecular level and describe advanced biochemical technologies used to understand and treat these illnesses. Students will be exposed to how biochemical principles influence medical diagnoses, therapy and the development of new drugs.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH242Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "BCH210H1",
+            "BCH311H1",
+            "BIO230H1"
+          ]
+        }
+      ]
+    }
+  },
+  "BCH450H1": {
+    "code": "BCH450H1",
+    "name": "Antibiotics and Antibiotic Targets",
+    "hours": "24L/12T",
+    "description": "This course will cover the action of the biochemical targets of the existing antibiotics (nucleotide-, RNA-, DNA-, protein- and cell wall synthesis, the manner in which these pathways are inhibited in antimicrobial therapy and the biochemical basis of antibiotic resistance. The biochemistry and origin of naturally occurring and synthetic antibiotics will be introduced. (Enrolment limited.)",
+    "exclusions": "BCH350H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH242Y1",
+        {
+          "operator": "AND",
+          "items": [
+            "BCH210H1",
+            "BCH311H1"
+          ]
+        }
+      ]
+    }
+  },
+  "BCH470H1": {
+    "code": "BCH470H1",
+    "name": "Independent Research Project",
+    "hours": "144P",
+    "description": "This course provides an opportunity for individual research with a specific topic of study. Students are mentored and supervised by research scientists and faculty associated with the University of Toronto. It provides students an opportunity to enhance and apply their knowledge and understanding learned in other courses. Direct supervision must be provided by a faculty member within the Department of Biochemistry. Not eligible for the CR/NCR option.",
+    "exclusions": "BCH473Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BCH340H1",
+            "BCH377H1",
+            "BCH378H1"
+          ]
+        },
+        "MGY311Y1",
+        "BCH370H1",
+        "BCH311H1"
+      ]
+    }
+  },
+  "BCH471H1": {
+    "code": "BCH471H1",
+    "name": "Independent Research Project",
+    "hours": "144P",
+    "description": "This course provides an opportunity for individual research with a specific topic of study. Students are mentored and supervised by research scientists and faculty associated with the University of Toronto. It provides students an opportunity to enhance and apply their knowledge and understanding learned in other courses. Direct supervision must be provided by a faculty member within the Department of Biochemistry. Not eligible for the CR/NCR option.",
+    "exclusions": "BCH473Y1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BCH340H1",
+            "BCH377H1",
+            "BCH378H1"
+          ]
+        },
+        "MGY311Y1",
+        "BCH370H1",
+        "BCH311H1"
+      ]
+    }
+  },
+  "BCH472Y1": {
+    "code": "BCH472Y1",
+    "name": "Advanced Summer Research Project in Biochemistry",
+    "hours": "144P",
+    "description": "This course provides opportunities to pursue an original individual research project in a particular area of biochemistry, under the direct supervision of a Biochemistry Department faculty member. Students are responsible for arranging for supervision by a Biochemistry Department faculty member. To apply for enrolment, students are required to complete the application form by contacting the Course Coordinator by the end of April. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH340H1",
+        "BCH377H1"
+      ]
+    }
+  },
+  "BCH473Y1": {
+    "code": "BCH473Y1",
+    "name": "Advanced Research Project in Biochemistry",
+    "hours": "144P",
+    "description": "This course provides opportunities to pursue an original individual research project in a particular area of biochemistry, under the direct supervision of a Biochemistry Department faculty member. Students are responsible for arranging for supervision by a Biochemistry Department faculty member. To apply for enrolment, students are required to complete the application form by contacting the Course Coordinator before the end of August. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH340H1",
+        "BCH377H1",
+        {
+          "operator": "AND",
+          "items": [
+            "MGY311Y1",
+            "BCH370H1"
+          ]
+        },
+        "BCH311H1"
+      ]
+    }
+  },
+  "BCH478H1": {
+    "code": "BCH478H1",
+    "name": "Advanced Biochemistry Laboratory",
+    "hours": "24L/84P",
+    "description": "Experiments extend students\u2019 technical abilities as well as their knowledge and application of practical theory. This course is designed as an advanced successor in a progression of biochemistry laboratory experiences in  BCH242Y1 and  BCH377H1 that will equip students with a spectrum of practical abilities that are of vital importance in scientific research. (Lab fees: $25)",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "BCH340H1",
+        "BCH377H1",
+        "MGY311Y1"
+      ]
+    }
+  },
+  "BCH479H1": {
+    "code": "BCH479H1",
+    "name": "Advanced Seminar in Biochemistry",
+    "hours": "24S",
+    "description": "This seminar course will foster close interactions between students and Faculty and encourage in depth discussion not only of results but the ways the results were presented and the rationales for experimental design. Critical thinking skills will be developed, as will presentation skills, as students become presenters of results and take on the role of scientist presenting and analyzing new findings. Writing skills will be developed through a written assignment. Students within the audience will also have access to the experimental papers and be encouraged to pose thoughtful questions about research and the ways that research can be communicated within the scientific community. This seminar course will foster an appreciation of scientific writing and give students a venue to develop their communication skills. The goal of the seminar course is to improve both the written and oral scientific communication skills and to increase the knowledge of key papers in Biochemistry. Note: In addition to the required courses listed in the prerequisites, students enrolling in this course need to contact the Department at biochemistry.undergrad@utoronto.ca.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BCH340H1",
+        {
+          "operator": "AND",
+          "items": [
+            "BCH370H1",
+            "BCH340H1"
+          ]
+        },
+        "BCH377H1"
+      ]
+    }
+  },
+  "BIO120H1": {
+    "code": "BIO120H1",
+    "name": "Adaptation and Biodiversity",
+    "hours": "24L/15P",
+    "description": "Principles and concepts of evolution and ecology related to origins of adaptation and biodiversity. Mechanisms and processes driving biological diversification illustrated from various perspectives using empirical and theoretical approaches. Topics include: genetic diversity, natural selection, speciation, physiological, population, and community ecology, maintenance of species diversity, conservation, species extinction, global environmental change, and invasion biology. A lab coat is required. (Lab Materials Fee: $26)",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "BIO130H1": {
+    "code": "BIO130H1",
+    "name": "Molecular and Cell Biology",
+    "hours": "36L/15P",
+    "description": "One of the goals of modern biology is to understand how the basic building blocks of life give rise to biological form and function. This course provides students with a common lexicon to understand the key principles and concepts in molecular and cell biology, with a focus on how the building blocks of life lead to functioning cells. (Lab Materials Fee: approximately $11). Lab coat and safety glasses are required for use in laboratories; students are responsible for purchasing these items (approximate cost is $27).",
+    "exclusions": "BIOA01H3,  BIO152H5",
+    "breadth": 4,
+    "prereq_tree": null
+  },
+  "BIO220H1": {
+    "code": "BIO220H1",
+    "name": "From Genomes to Ecosystems in a Changing World",
+    "hours": "24L/15P",
+    "description": "Dynamics of genetic and ecological change in biological systems, from genomes to ecosystems. Evolutionary genetic and ecological perspectives on wide-ranging topics including disease, aging, sexual conflict, genetics of human differences, conservation, and global climate change. Applications of evolutionary, ecological, and molecular-genetic principles and processes. Responsibilities of human societies in a changing world. (Lab Materials Fee: $26).",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": "BIO120H1"
+  },
+  "BIO230H1": {
+    "code": "BIO230H1",
+    "name": "From Genes to Organisms",
+    "hours": "36L/15P",
+    "description": "The genome is the \"book of life,\" providing instructions to construct an organism. This course introduces genome biology and explores how the building blocks of life are networked into functioning organisms. We will investigate how cells perceive internal and external cues, how gene expression is shaped by this perception, and how these events give rise to tissues, organs, and whole organisms. (Lab Materials Fee: approximately $16). Lab coat and safety glasses are required for use in laboratories; students are responsible for purchasing these items (approximate cost is $27).",
+    "exclusions": "BIO255H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BIO130H1",
+            "CHM135H1",
+            "CHM136H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "CHM138H1",
+            "CHM139H1"
+          ]
+        },
+        "CHM151Y1"
+      ]
+    }
+  },
+  "BIO251H1": {
+    "code": "BIO251H1",
+    "name": "Form, Function and Development in Plants",
+    "hours": "24L/12T",
+    "description": "This course is an introduction to structure, function and ecology of vegetative and reproductive processes in plants with a focus on flowering plants and gymnosperms. Topics of study in lecture and laboratory tutorials include photosynthesis, transport processes, plant reproduction, patterns of plant growth and development, and the role of hormones in plant development.",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": "BIO120H1"
+  },
+  "BIO255H1": {
+    "code": "BIO255H1",
+    "name": "From Genes to Organisms with Advanced Laboratory",
+    "hours": "36L/33P",
+    "description": "The genome is the \"book of life,\" providing instructions to construct an organism. This course introduces genome biology and explores how the building blocks of life are networked into functioning organisms. We will investigate how cells perceive internal and external cues, how gene expression is shaped by this perception, and how these events give rise to tissues, organs, and whole organisms. The Enhanced Laboratory provides the opportunity for greater laboratory skill development in modern investigative techniques and is intended for students interested in conducting their own laboratory research. (Lab Materials Fee: $53). Lab coat and safety glasses are required for use in laboratories; students are responsible for purchasing these items (approximate cost is $27).",
+    "exclusions": "BIO230H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BIO130H1",
+            "CHM135H1",
+            "CHM136H1"
+          ]
+        },
+        {
+          "operator": "AND",
+          "items": [
+            "CHM138H1",
+            "CHM139H1"
+          ]
+        },
+        "CHM151Y1"
+      ]
+    }
+  },
+  "BIO260H1": {
+    "code": "BIO260H1",
+    "name": "Concepts in Genetics",
+    "hours": "48L/12T",
+    "description": "This is a problem based course which discusses classical, molecular, developmental, and population genetics and genomics with emphasis on model organisms for genetic analysis.",
+    "exclusions": "HMB265H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BIO230H1",
+        "BIO255H1"
+      ]
+    }
+  },
+  "BIO270H1": {
+    "code": "BIO270H1",
+    "name": "Animal Physiology I",
+    "hours": "24L/9P",
+    "description": "Animal physiology is a biological sub-discipline that aims to understand, in physical and chemical terms, how animals work. This course uses examples from throughout the animal kingdom, in a comparative approach, to introduce and study homeostasis and the endocrine system. Accompanying laboratories reinforce concepts introduced in lectures and provide opportunities for students to experience firsthand the role that experimentation, data collection, interpretation of data, and communication of data plays in the nature of the scientific process. (Lab Materials Fee: approximately $11). Lab coat and safety glasses are required for use in laboratories; students are responsible for purchasing these items (approximate cost is $27).",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": "BIO130H1"
+  },
+  "BIO271H1": {
+    "code": "BIO271H1",
+    "name": "Animal Physiology II",
+    "hours": "24L/9P",
+    "description": "Animal physiology is a biological sub-discipline that aims to understand, in physical and chemical terms, how animals work. This course uses examples from throughout the animal kingdom in a comparative approach to introduce and study the nervous and cardiorespiratory systems. Accompanying laboratories reinforce concepts introduced in lectures and provide opportunities for students to experience firsthand the role that experimentation, data collection, interpretation of data, and communication of data plays in the nature of the scientific process. (Lab Materials Fee: approximately $11). Lab coat and safety glasses are required for use in laboratories; students are responsible for purchasing these items (approximate cost is $27).",
+    "exclusions": null,
+    "breadth": 4,
+    "prereq_tree": "BIO270H1"
+  },
+  "BMS100H1": {
+    "code": "BMS100H1",
+    "name": "Introduction to Book & Media Studies",
+    "hours": "24L/12T",
+    "description": "Introduces the academic study of media in all its forms, including books and print media as well as modern electronic and digital media. Provides an overview of key theories of media, culture, and society and relates them to contemporary issues, enabling students to apply different critical approaches to their everyday experiences with media.",
+    "exclusions": "SMC219Y1,  CCT218H5,  MDSA01H3",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "BMS110Y1": {
+    "code": "BMS110Y1",
+    "name": "The Printed Book",
+    "hours": "48L",
+    "description": "In this full-year seminar, students will learn about the revived art of letterpress printing. Starting with a historical overview of the printing itself\u2014from the development of movable type onwards\u2014and its massive impact on society, this course will teach students about the importance of printing, the development of the book as technology, and their power, then and now, to shape humanity. Topics covered will include the development of movable type and of the printing press, the emergence of books as a form of knowledge transmission, and the way both have affected the way we live our lives. Students will have an opportunity to produce printed materials using 19th and 20th century printing presses.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "BMS200Y1": {
+    "code": "BMS200Y1",
+    "name": "Book & Media Histories",
+    "hours": "48L/24T",
+    "description": "Traces the long history of media in culture and society, including books and other communication technologies. Covers historical developments including orality and writing, printing and the book, image and sound reproduction, wired and wireless communication, electronic and broadcast media, and contemporary digital media. Examples and case studies will be drawn from a variety of different sociocultural contexts, media industries, and creative practices.",
+    "exclusions": "SMC219Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "BMS201H1": {
+    "code": "BMS201H1",
+    "name": "Information Literacy, Writing, and Research for Book & Media Studies",
+    "hours": "24L",
+    "description": "Develops foundational skills for students in Book & Media Studies, including academic writing, information literacy, media literacy, citation, qualitative and quantitative research, primary and secondary sources, library resources, and practical techniques for analyzing different forms of media.",
+    "exclusions": "ACMB01H3",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "BMS300H1": {
+    "code": "BMS300H1",
+    "name": "Special Topics in Book & Media Theories",
+    "hours": "24L",
+    "description": "This course offers students the opportunity to explore key issues and questions in the theory of books and media. The exact topic will change depending on the instructor. Possible topics include but are not limited to: specific theorists, theoretical schools, or traditions; theories of particular aspects or forms of media; theoretical debates or comparative approaches; interdisciplinary theory.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS301H1": {
+    "code": "BMS301H1",
+    "name": "Special Topics in Book & Media Cultures",
+    "hours": "24L",
+    "description": "This course offers students the opportunity to explore cultural questions and issues related to books and media. The exact topic will change depending on the instructor. Possible topics include but are not limited to: cultural studies approaches; issues of identity and representation; media and ideology; national, regional, or sub-cultural media; cross-cultural analysis; media genres, styles, and conventions.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS302H1": {
+    "code": "BMS302H1",
+    "name": "Special Topics in Book & Media Histories",
+    "hours": "24L",
+    "description": "This course offers students the opportunity to explore book and media history and historical research. The exact topic will change depending on the instructor. Possible topics include but are not limited to: particular periods or areas in book and media history; histories of specific media forms or styles; histories of media representation; historical research methods and approaches; industrial histories; comparative histories.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS303H1": {
+    "code": "BMS303H1",
+    "name": "Special Topics in Book & Media Industries",
+    "hours": "24L",
+    "description": "This course offers students the opportunity to explore the industrial contexts in which books and media are made. The exact topic will change depending on the instructor. Possible topics include but are not limited to: particular media industries; national or regional publishing or media industries; approaches to studying media and cultural industries; specific aspects of media production, distribution, or reception; the relationship between different media industries; convergence and consolidation in media industries.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS311H1": {
+    "code": "BMS311H1",
+    "name": "Open Topics in Book & Media Studies",
+    "hours": "24L",
+    "description": "This course is reserved for unique topics not already covered in other courses. The exact topic will change depending on the instructor.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS312Y0": {
+    "code": "BMS312Y0",
+    "name": "Open Topics in Book & Media Studies",
+    "hours": "48L",
+    "description": "Offered as part of the Summer Abroad Program, this course provides students the opportunity to explore book and media cultures and historical research. The exact topic will change depending on the instructor. Possible topics include but are not limited to: particular periods or areas in book and media history; histories of specific media forms or styles; histories of media representation and cultures; historical research methods and approaches; cross-cultural analysis; national, regional, or sub-cultural media; comparative histories and culture. Students should check the Summer Abroad Program website for details.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "BMS314H1": {
+    "code": "BMS314H1",
+    "name": "Media Revolutions",
+    "hours": "24L",
+    "description": "This class offers a deeper examination of the intersections of technology and human thought, perception and culture. The advent of new media technologies, from literacy through to social media, will be examined as revolutions in technology, semantic fields of cultural meaning-making and human action. Students gain a strong focus on technological advancements as insights into cross-cultural change at significant turning points in book and media history.",
+    "exclusions": "SMC314H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS316H1": {
+    "code": "BMS316H1",
+    "name": "Social Media & Digital Platforms",
+    "hours": "24L",
+    "description": "Social media, digital platforms, and networked technologies are deeply embedded in our contemporary lives, both shaping and shaped by users. But what are their social, cultural, political, and economic impacts? What consequences do they have for how we think, feel, socialize, work, play, and understand ourselves? Students in this course will explore, examine, and debate these questions with reference to their everyday experiences and current examples.",
+    "exclusions": "CCT331H5,  MDSB15H3",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS319H1": {
+    "code": "BMS319H1",
+    "name": "Media Ethics",
+    "hours": "24L",
+    "description": "Provides students with a theoretical foundation that enables them to identify and analyze ethical issues in mainstream and non-mainstream media. Traditional principles of journalistic truth-seeking, objectivity, and minimizing harm are revisited in the light of global, interactive media, produced by both citizens and professionals.",
+    "exclusions": "MDSC63H3",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS320H1": {
+    "code": "BMS320H1",
+    "name": "Media and Trauma",
+    "hours": "24L",
+    "description": "This course explores the intersection of media studies and cultural trauma theory through decolonizing frameworks. Students will learn theoretical foundations of cultural trauma theory with which they will engage mixed media narratives including film, books, music, video games and social media. Throughout the semester, we will focus on the construction of survivor-centered narratives amidst norms of popular media cultures and industries.",
+    "exclusions": "BMS301H1 (Special Topics in Book and Media Cultures: Trauma & Media), offered in Fall 2021, Summer 2022, Fall 2022;  BMS301H1 (Special Topics in Book and Media Cultures: Books, Media & Music), offered in Winter 2022;  SMC317H1 (Books, Media, and Music: Trauma), offered in Fall 2020 and Summer 2021",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS331H1": {
+    "code": "BMS331H1",
+    "name": "The History of the Book: Elements of Bibliography and Print Culture",
+    "hours": "24L/12T",
+    "description": "An exploration of the history of the book from ancient inscriptions to e-books. This course develops an awareness of the interplay between material object and conceptual categories in book history by focusing on significant episodes in the evolution of the book as a medium, such as the rise of the context and the introduction of print. This course also delves in the practices of bibliography, the features of typography, and the material details of the printing process, while also highlighting the interdisciplinary nature of book history from a global perspective. Typically, this course will involve in-person workshops and visits to print studios and rare books collections on campus.",
+    "exclusions": "SMC228H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS332H1": {
+    "code": "BMS332H1",
+    "name": "The History of Reading: Readers, Readerships, Reception",
+    "hours": "24L",
+    "description": "This course explores the history of reading. Attention is given to the pivotal episodes in this history with a focus on its changing modes and shifting cultural significance. By surveying the habits, institutions, and aims of reading, students in this course will gain a greater understanding of its rich history and its complex evolution, and will enable them to reflect on the critical place of reading in their daily lives.",
+    "exclusions": "SMC229H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS333H1": {
+    "code": "BMS333H1",
+    "name": "Impacts of Advertising Typography",
+    "hours": "24L",
+    "description": "Creative and eye-catching typography has long been used to sell products and services. In this course, the history of advertising typography will be explored in connection with its influence on popular culture, consumer markets, and the on the rise of typographic trends. A special emphasis will be placed on the development and use of wood type during the nineteenth century and its role in the proliferation of advertising media. Students will have an opportunity to produce printed materials using 19th and 20th century printing presses.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS350H1": {
+    "code": "BMS350H1",
+    "name": "Propaganda and Media",
+    "hours": "24S",
+    "description": "This course assesses ways in which governments, political parties, news agencies and other groups and institutions use media to shape particular messages or describe current events. Each week the seminar will focus on a major historical event, the manner in which it was reported and interpreted, and principal challenges to that interpretation. A wide variety of media will be analyzed including: books, newspapers, film, radio, television, and the internet. Events such as the War on Terror, the Great War, the Dreyfus Affair, the Irish Famine, and the \u201cRed Scare\u201d are among some of the topics that will be discussed. Students will prepare unique assignments akin to the work done by communications officers.",
+    "exclusions": "SMC470H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS351H1": {
+    "code": "BMS351H1",
+    "name": "The Illustrated Dante",
+    "hours": "24L",
+    "description": "This course will explore the multifaceted relationship between text, image, and culture from late medieval illuminated manuscripts up to the present day through an examination of illustrated versions of Dante\u2019s Divine Comedy. As early as the fourteenth century and into the present day, the reading and reception of Dante Alighieri\u2019s Divine Comedy has been tied to its presentation in illustration. Students will also study how engagements with Dante\u2019s poem have given life to visual responses and creative re-elaborations.",
+    "exclusions": "BMS302H1S (Special Topics in Book & Media Histories: The Illustrated Dante) offered in Winter 2024.",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS352H1": {
+    "code": "BMS352H1",
+    "name": "Media and the Myths of Romance",
+    "hours": "24L",
+    "description": "This course explores the intersections of historical and contemporary media narratives, technologies, and industries in the construction and representation of mainstream romance narratives. Romance tropes and myths will be deconstructed through feminist, queer, disability and decolonial theories of gender, class, sexuality, race and body image at the intersections of film, music, literature, tv, video games and/or social media to expose marginalizing and disempowering tropes at the center of dominant constructions and representations of romantic love.",
+    "exclusions": "BMS301H1 (Special Topics in Book & Media Cultures: Media & The Myths of Romance) offered in Winter 2024.",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS353H1": {
+    "code": "BMS353H1",
+    "name": "Fandom, Fan Fiction, and Participatory Culture",
+    "hours": "24L",
+    "description": "In this course, students will explore the idea of fandom, the history of fandom and fandom scholarship, fan activities across the globe, and what it means to be a fan. By applying the broad conceptual frame of participatory culture, the course will examine a wide range of fan creations. It will also examine the evolution of fan interaction with the objects of fandom, with the media industry, and with society at large. Students will have the opportunity to explore and create some fan artefacts of their own, and in the process, to dive deep into the complex world of fandom.",
+    "exclusions": "BMS301H1 (Special Topics in Book & Media Cultures: Fandom and Fan Fiction) offered in Fall 2023.",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS354H1": {
+    "code": "BMS354H1",
+    "name": "Transnationalism and East Asian Media",
+    "hours": "24L",
+    "description": "This course examines East Asian media industries and cultures in a transnational context. Topics to be explored include media production, distribution, reception, and regulation; representation, identity, and nationhood; cross-cultural exchange; and the global circulation of East Asian media. Media and cultural forms examined may include print media, film, television, radio, news media, popular music, animation, comics, video games, digital media, and social media.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS380H1": {
+    "code": "BMS380H1",
+    "name": "Staging Britishness from Shakespeare to the BBC",
+    "hours": "24L",
+    "description": "This course explores various approaches to the staging of national identity and history in Britain from the sixteenth century to the present day. Students will study a range of dramatic works and examine evolving ideas of what can constitute a national stage or theatre. Subjects to be explored include ceremonial royal pageantry from Elizabethan England to televised coronations and investitures; the history of television, radio, and the BBC as a communal playhouse; arts festivals, national exhibitions, and the amateur pageant play; revisionist stagings of Shakespeare\u2019s history plays; challenges to ideas of Britishness in England, Scotland, and Wales. (Offered in alternate years.)",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS381H1": {
+    "code": "BMS381H1",
+    "name": "Cool Britannia? Popular Music Culture and Postwar Britain",
+    "hours": "24L",
+    "description": "Since the 1960s \"British Invasion,\" British popular music has been associated with the cultural strength of modern Britain and the voice and character of its 'people.' Through an examination of major musical movements from the 1950s to the present day (including skiffle, punk, 2-Tone, New Romantic, Britpop, grime), students will explore how these perceptions have been perpetuated and challenged through various media amidst evolving understandings of nation, class, race, gender, and empire. Topics include the role of pirate and state-sanctioned radio; the history of music magazines; and the relationship between music and film, television, fashion, photography, and the national media. Offered in alternate years.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS382H1": {
+    "code": "BMS382H1",
+    "name": "Fortune-Telling and Media Throughout the Centuries",
+    "hours": "24L",
+    "description": "From the astrologers in ancient Babylon to Tarot card printers in early modern Europe and contemporary AI, fortune-telling has been practiced for millennia across various cultures. This course examines the global history of fortune-telling and its legacy of responsive adaptiveness to diverse changes in media technology. Topics include early observations of the heavens, the implications of the print revolution and definitions of readership, the rise of broadcast media, the invention of the internet, and contemporary technologies.",
+    "exclusions": "BMS301H1 (Fortune Telling and Media) offered in Fall 2024.",
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS386H1": {
+    "code": "BMS386H1",
+    "name": "Book and Media Internship",
+    "hours": "48P",
+    "description": "Credit is offered to a student doing an internship with a media organization. A faculty supervisor assesses and assigns the necessary written component cognate to the internship. Students are responsible for securing their own internship. A description of the internship, working bibliography, marking scheme, and academic supervisor\u2019s support must be submitted for approval by the Program Coordinator and Director. More information and application forms are available at https://stmikes.utoronto.ca/bms-internship-form or from the SMC Principal's Office, smc.programs@utoronto.ca. Enrolment in this course is intended for Book and Media Studies Majors not enrolled in the Arts & Science Internship (ASIP) stream of the program. Not eligible for CR/NCR option.",
+    "exclusions": "SMC386H1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        {
+          "operator": "AND",
+          "items": [
+            "BMS100H1",
+            "BMS200Y1",
+            "BMS201H1"
+          ]
+        },
+        "SMC219Y1"
+      ]
+    }
+  },
+  "BMS387H1": {
+    "code": "BMS387H1",
+    "name": "Advertising and Media",
+    "hours": "24L",
+    "description": "This course presents a critical media studies approach to advertising and consumer culture, past and present. Advertising, marketing, branding, and promotion play a central role in capitalist societies and media industries, reflecting and refracting dominant cultural attitudes and ideologies. How does advertising shape what and how we consume? What are its social, cultural, economic, and environmental impacts? Students will learn to analyze the form, content, and ideology of advertisements, and think critically about the advertising they are subjected to in everyday life.",
+    "exclusions": "CCT316H5,  MDSB03H3",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS389H1": {
+    "code": "BMS389H1",
+    "name": "Libraries, Special Collections, and Archives",
+    "hours": "24L",
+    "description": "This course takes a hands-on approach to introduce students to different types of printed and manuscript primary and secondary sources. Students will learn to apply information literacy concepts, and library and archival theories to the analysis, critique, evaluation, and use of materials drawn from the University of Toronto\u2019s collections of library, rare book, and archival materials. This course will touch on current topics within information literacy, including, but not limited to, digitization, the ethical collection and use of oral and written information; post-colonial practices; racial, cultural, and gender representations; and archival neutrality.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS391H1": {
+    "code": "BMS391H1",
+    "name": "The Media Franchise",
+    "hours": "24L",
+    "description": "Reflective of the broader logics of media convergence, media franchises spread their commercial interests and imaginary worlds across many multiple media. For media industries, franchises maximize profits by linking together movies, TV series, books, comics, games, toys, merchandise, and promotional paratexts to encourage consumption. At the same time, they are a platform for new forms of serial narrative, world-building, and transmedia storytelling, and generate vibrant, diverse fan cultures that are sometimes at odds with franchise producers. Drawing on a wide range of scholarly and critical work, this course examines popular media franchises from historical, economic/industrial, formal/aesthetic, and sociocultural perspectives.",
+    "exclusions": "SMC301H1 (The Media Franchise, offered in Winter 2018, 2019, 2020, and 2021),  BMS303H1 (The Media Franchise, offered in Fall 2022)",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS392H1": {
+    "code": "BMS392H1",
+    "name": "Media Identities",
+    "hours": "24L",
+    "description": "An exploration of media\u2019s influence on the constructions and representation of identity and power relations across race, gender and class in individual and collective spheres. Applies a social justice and intersectional framework to media technologies and industries in order to expose socio-political influence on identity and to position media consumption and production as potential vehicles for restorative mediations of marginalized identities.",
+    "exclusions": "CCT314H5,  MDSC02H3",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS393H1": {
+    "code": "BMS393H1",
+    "name": "Media Ecology",
+    "hours": "24L",
+    "description": "This course presents an advanced introduction to Media Ecology, an interdisciplinary field of inquiry which examines how media environments affect human affairs, understanding, feelings, and values. Building on the assigned readings, students will examine the various theories of Media Ecology, honing their skills of assessment, analysis, criticism, and reflection. An interdisciplinary approach informed by literature, philosophy, anthropology, semiotics, aesthetics, and history will provide students with the opportunity to critically evaluate some crucial and controversial issues facing contemporary society.",
+    "exclusions": "BMS300H1 (Media Ecology) offered in Winter 2022 and Fall 2022",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS394H1": {
+    "code": "BMS394H1",
+    "name": "Independent Study in Book and Media Studies",
+    "hours": null,
+    "description": "An independent research project to be proposed by the student and supervised by a full-time faculty member affiliated with the Book & Media Studies Program. A full proposal including a course description, working bibliography, marking scheme, and approval from your academic supervisor must be submitted for approval by the Program Coordinator and Director. More information and application forms are available at https://stmikes.utoronto.ca/academic-forms or from the SMC Principal's Office, smc.programs@utoronto.ca. Completed forms must be submitted to the Principal's Office by the first day of classes in September/May for F courses, or January/July for S courses. Meeting times are determined in consultation with your supervisor, and may be in person or online as appropriate. Students must have approval of an instructor willing to supervise the project. Final approval is granted by the program director. Not eligible for CR/NCR option.",
+    "exclusions": "BMS395Y1",
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 6.0,
+      "department": ""
+    }
+  },
+  "BMS395Y1": {
+    "code": "BMS395Y1",
+    "name": "Independent Study in Book and Media Studies",
+    "hours": null,
+    "description": "An independent research project to be proposed by the student and supervised by a full-time faculty member affiliated with the Book & Media Studies Program. A full proposal including a course description, working bibliography, marking scheme, and approval from your academic supervisor must be submitted for approval by the Program Coordinator and Director. More information and application forms are available at https://stmikes.utoronto.ca/academic-forms or from the SMC Principal's Office, smc.programs@utoronto.ca. Completed forms must be submitted to the Principal's Office by the first day of classes in September/May for F courses, or January/July for S courses. Meeting times are determined in consultation with your supervisor, and may be in person or online as appropriate. Students must have approval of an instructor willing to supervise the project. Final approval is granted by the program director. Not eligible for CR/NCR option.",
+    "exclusions": "BMS394H1",
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "BMS400H1": {
+    "code": "BMS400H1",
+    "name": "Advanced Topics in Book & Media Theories",
+    "hours": "24S",
+    "description": "This course is an advanced seminar on theoretical approaches to books and media. Students can expect to take an active role in leading course discussions and developing their own research projects. The exact topic will change depending on the instructor. In some terms this course may require an application. This will be clearly noted in the Timetable.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "BMS401H1": {
+    "code": "BMS401H1",
+    "name": "Advanced Topics in Book & Media Cultures",
+    "hours": "24S",
+    "description": "This course is an advanced seminar on the cultural aspects of book and media studies. Students can expect to take an active role in leading course discussions and developing their own research projects. The exact topic will change depending on the instructor. In some terms this course may require an application. This will be clearly noted in the Timetable.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "BMS402H1": {
+    "code": "BMS402H1",
+    "name": "Advanced Topics in Book & Media Histories",
+    "hours": "24S",
+    "description": "This course is an advanced seminar on the history of books and media. Students can expect to take an active role in leading course discussions and developing their own research projects. The exact topic will change depending on the instructor. In some terms this course may require an application. This will be clearly noted in the Timetable.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "BMS403H1": {
+    "code": "BMS403H1",
+    "name": "Advanced Topics in Book & Media Industries",
+    "hours": "24S",
+    "description": "This course is an advanced seminar on the industrial and economic aspects of books and media. Students can expect to take an active role in leading course discussions and developing their own research projects. The exact topic will change depending on the instructor. In some terms this course may require an application. This will be clearly noted in the Timetable.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "BMS411H1": {
+    "code": "BMS411H1",
+    "name": "Advanced Open Topics in Book & Media Studies",
+    "hours": "24S",
+    "description": "This seminar is reserved for unique topics not already covered in other courses. The exact topic will change depending on the instructor. In some terms this course may require an application. This will be clearly noted in the Timetable.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "BMS420H1": {
+    "code": "BMS420H1",
+    "name": "Bookbinding Then and Now",
+    "hours": "24L",
+    "description": "A survey of the history and development of bookbinding technologies from the sixteenth century to the modern day. Through a combination of lectures and tutorials, this course will explore how the construction of books as physical objects has influenced the transmission of knowledge and the development of society. Special attention is paid to binding structures. Students will have an opportunity to fabricate book objects.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "BMS421H1": {
+    "code": "BMS421H1",
+    "name": "Histories of Letterpress Printing",
+    "hours": "24L",
+    "description": "In this senior seminar course, students will have a hands-on opportunity to learn about the Western letterpress tradition from its fifteenth century emergence to its nineteenth century rise as an industrial trade. Framed by the apprenticeship model that supported the growth of printers as a trade, where apprentices would train under a master to become a journeyman, this course will expose students to all steps involved in producing letterpress materials set within a historical context. Social issues associated with the printing industries, such as working conditions and the rise of guilds, will also be explored. Students will have an opportunity to produce printed materials using 19th and 20th century printing presses.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "BMS430H1": {
+    "code": "BMS430H1",
+    "name": "Mindful Media",
+    "hours": "24S",
+    "description": "This seminar integrates critical media studies with mindfulness pedagogy to yield an experiential and theoretical exploration of critical media literacy. A critical media studies lens is applied to various topics that dominate contemporary mediascapes, such as violence, mental health, body image, etc. Through experiential practice and study of mindfulness pedagogy, students develop practices of critical media literacy able to be applied to their own lives and in future work/study in various media industry and educational praxes.",
+    "exclusions": "BMS401H1 (Advanced Topics in Book & Media Cultures: Mindful Media: Theory & Practice) offered in Winter 2024.",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "BMS431H1": {
+    "code": "BMS431H1",
+    "name": "Media and Environmental Justice",
+    "hours": "24S",
+    "description": "This course explores the relatively new field of ecomedia to consider how media technologies, mainstream media practices and dominant media narratives intersect and contribute to global environmental crises. Students will engage in individual and collaborative qualitative and experiential research methods to apply critical media literacy skills and decolonial lenses to reimagine how contemporary media practices can promote environmental justice and/or cultivate a reparative eco-consciousness on individual and collective levels.",
+    "exclusions": "BMS401H1 (Advanced Topics in Book & Media Cultures: Environmental Justice & Media) offered in Winter 2023.",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "BMS432H1": {
+    "code": "BMS432H1",
+    "name": "The Game Industry",
+    "hours": "24S",
+    "description": "Commercial video games are an extremely profitable global industry, emblematic of how media is produced, distributed, marketed, and monetized in contemporary capitalism. Students will examine a variety of issues, including the history of the industry, consolidation and concentration of ownership, digital distribution and platformization, systemic sexism, racism, and discrimination in the industry, labour and collective organizing, independent and alternative game production cultures, local, regional, national and transnational contexts, and more. To make sense of these complex phenomena, students will learn to apply critical lenses and methods from game studies, media industry studies, and cultural studies. No previous experience or expertise with video games or knowledge of the game industry is required to take this course.",
+    "exclusions": "BMS403H1 (Advanced Topics in Book & Media Industry: The Game Industry) offered in Winter 2024.",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "BMS433H1": {
+    "code": "BMS433H1",
+    "name": "Video Games and Culture",
+    "hours": "24S",
+    "description": "From early mainframe computers to arcades, home video game consoles, mobile devices, VR, and beyond, digital games have become increasingly central within contemporary culture. Why do we make and play games? How do games produce experiences, make meaning, and reflect or refract ideology, and what impact do they have on players? Who gets to make, play, and find representation in games, and who is left out? What role do games play in the contemporary media ecosystem? Through scholarly research and interactive examples, this seminar-style class will explore digital games and culture from a variety of critical perspectives, including history, industry, technology, culture, politics, and aesthetics. No previous experience or expertise with video games is required.",
+    "exclusions": null,
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "BMS434H1": {
+    "code": "BMS434H1",
+    "name": "Boys\u2019 Love and the Culture of Desire",
+    "hours": "24L",
+    "description": "The Boys' Love genre of homoerotic stories primarily written by women for women originated in East Asia and has gained international popularity in recent years. From novels and manga to live action TV series, the world of Boys\u2019 Love is ever expanding to become increasingly more inclusive and global, reflecting a fast-changing world and an amazingly multifaceted understanding of desire. This class looks at Boys' Love from its historical origins to its modern manifestations, to explore how the genre reflects the hidden desires of its international audience communities.",
+    "exclusions": "BMS401H1 (Advanced Topics in Book & Media Cultures: Boys' Love and the Culture of Desire) offered in Winter 2023.",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "BMS494H1": {
+    "code": "BMS494H1",
+    "name": "Independent Study in Book and Media Studies",
+    "hours": null,
+    "description": "An independent research project to be proposed by the student and supervised by a full-time faculty member affiliated with the Book & Media Studies Program. A full proposal including a course description, working bibliography, marking scheme, and approval from your academic supervisor must be submitted for approval by the Program Coordinator and Director. More information and application forms are available at https://stmikes.utoronto.ca/academic-forms or from the SMC Principal's Office, smc.programs@utoronto.ca. Completed forms must be submitted to the Principal's Office by the first day of classes in September/May for F courses, or January/July for S courses. Meeting times are determined in consultation with your supervisor, and may be in person or online as appropriate. Students must have approval of an instructor willing to supervise the project. Final approval is granted by the program director. Not eligible for CR/NCR option.",
+    "exclusions": "BMS495Y1",
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "BMS495Y1": {
+    "code": "BMS495Y1",
+    "name": "Independent Study in Book and Media Studies",
+    "hours": null,
+    "description": "An independent research project to be proposed by the student and supervised by a full-time faculty member affiliated with the Book & Media Studies Program. A full proposal including a course description, working bibliography, marking scheme, and approval from your academic supervisor must be submitted for approval by the Program Coordinator and Director. More information and application forms are available at https://stmikes.utoronto.ca/academic-forms or from the SMC Principal's Office, smc.programs@utoronto.ca. Completed forms must be submitted to the Principal's Office by the first day of classes in September/May for F courses, or January/July for S courses. Meeting times are determined in consultation with your supervisor, and may be in person or online as appropriate. Students must have approval of an instructor willing to supervise the project. Final approval is granted by the program director. Not eligible for CR/NCR option.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 10.0,
+      "department": ""
+    }
+  },
+  "BPM100H1": {
+    "code": "BPM100H1",
+    "name": "The Art & Science of Human Flourishing",
+    "hours": "12L/12P",
+    "description": "A multi-cultural survey of recipes for a life of \u201cflourishing,\u201d through satisfaction, well-being, resilience, and accomplishment, as well as critical scholarship on concepts and practices of human flourishing. Students explore perspectives from the sciences and the humanities about what it means to flourish across diverse cultures and contexts, each week covering a specific theme and set of practices that expand self-awareness, enhance social connectivity, and facilitate purpose and passion.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "BPM214H1": {
+    "code": "BPM214H1",
+    "name": "Socially Engaged Buddhism",
+    "hours": "24L",
+    "description": "Explores how Socially Engaged Buddhism has developed in response to global conversations on systemic oppression, climate justice, equity, decolonization, and trauma. We examine the roots of Engaged Buddhism in countries such as Vietnam, China & Taiwan, Sri Lanka, Thailand, and India, and its transformation into a global movement. Themes include Buddhist environmental activism, and Buddhist protest movements, along with research on the application of Buddhist teachings in healthcare, education, business, and the criminal justice system.",
+    "exclusions": "NEW214H1,  NEW214Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "BPM232H1": {
+    "code": "BPM232H1",
+    "name": "Buddhism and Psychology",
+    "hours": "36L",
+    "description": "An overview of the encounter between Buddhism and psychology over the last century, with cross-disciplinary study of topics such as self, embodiment, impermanence, suffering, liberation, and insight. We explore how (and why) scientists, psychologists, and Buddhist reformers have reinterpreted Buddhism as \u201cscience\u201d and how Buddhist contemplative practices such as mindfulness or compassion training have been transformed and promoted by modern psychology.",
+    "exclusions": "NEW232H1,  NEW232Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "BPM330H1": {
+    "code": "BPM330H1",
+    "name": "Mindfulness-Informed Interventions for Mental Health",
+    "hours": "36L",
+    "description": "An exploration of how mindfulness-based approaches are being used in biomedical mental health interventions. We study mindfulness from historical, societal, structural, cultural, professional, and personal perspectives, with an emphasis on its Buddhist foundations and on concepts of the embodied mind. We look at how recent socio-political phenomena are inspiring diverse applications and adaptations of mindfulness-based interventions.",
+    "exclusions": "NEW330H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "BPM332H1": {
+    "code": "BPM332H1",
+    "name": "Buddhism and Psychotherapy",
+    "hours": "36L",
+    "description": "A multi-cultural and interdisciplinary study of therapeutically-oriented practices and theories of the mind. Areas considered include positive psychology, psychoanalysis, cognitive-behavioural therapy, mindfulness meditation, and Jungian psychology, with comparison to various Buddhist teachings and practices.",
+    "exclusions": "NEW332H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "BPM333H1": {
+    "code": "BPM333H1",
+    "name": "Buddhism and Cognitive Science",
+    "hours": "36L",
+    "description": "An interdisciplinary exploration of how cognitive science may connect with Buddhist terms, concepts, and practices, studying topics such as wisdom, mindfulness, meditation, insight, self-control, flow, or mystical experience.",
+    "exclusions": "NEW333H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "BPM334H1": {
+    "code": "BPM334H1",
+    "name": "Science of Wisdom: Buddhist and Western Traditions",
+    "hours": "36L",
+    "description": "Provides a conceptual and contemplative interdisciplinary exploration of \u201cwisdom traditions.\u201d Buddhist approaches to self-actualization and wisdom will be compared to traditions from Mesopotamia, classical Greece, Christianity, the Renaissance, etc. Coursework includes guided experiential exercises for various traditions.",
+    "exclusions": "NEW334H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "BPM335H1": {
+    "code": "BPM335H1",
+    "name": "Meditation and the Body",
+    "hours": "36L",
+    "description": "An overview of scientific research on the psychological and neurophysiological effects of meditation. We explore the effects of different meditation styles on brain structure, brain activity, neurochemistry and other biological processes. Effects of meditation on mental health, pain, social behavior, aging, memory, and cardiovascular function are also a major focus. The use of meditation in the treatment and prevention of illness is critically reviewed.",
+    "exclusions": "NEW335H1",
+    "breadth": 4,
+    "prereq_tree": {
+      "credits": 9.0,
+      "department": ""
+    }
+  },
+  "BPM336H1": {
+    "code": "BPM336H1",
+    "name": "Special Topics in Buddhism, Psychology and Mental Health",
+    "hours": "36L",
+    "description": "Topics vary from year to year depending on the instructor.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "BPM337H1": {
+    "code": "BPM337H1",
+    "name": "Special Topics in Buddhism, Psychology and Mental Health",
+    "hours": "36L",
+    "description": "Topics vary from year to year.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 0.5,
+      "department": ""
+    }
+  },
+  "BPM338H1": {
+    "code": "BPM338H1",
+    "name": "Exploring Mindful Awareness",
+    "hours": "36L",
+    "description": "An overview of mindfulness as a systematic investigation of subjective experience, with a survey of classic descriptions and contemporary scientific literature. Students will explore meditative practices in class and maintain a meditation practice outside class.",
+    "exclusions": "NEW338H1,  NEW432H1 (Advanced Special Topics in Buddhism, Psychology and Mental Health: Cultivating Consciousness), offered in Fall 2012, Fall 2013, Fall 2014, Summer 2015, and Winter 2016",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "BPM232H1",
+        "NEW232Y1",
+        "BPM332H1",
+        "BPM333H1",
+        "BPM334H1",
+        "BPM335H1",
+        "BPM339H1"
+      ]
+    }
+  },
+  "BPM339H1": {
+    "code": "BPM339H1",
+    "name": "Mind, Consciousness and the Self",
+    "hours": "36L",
+    "description": "An interdisciplinary study of theories of mind, consciousness, and the self, placing Buddhist traditions in dialogue with scientific theories of the mind in psychology.",
+    "exclusions": "NEW339H1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "BPM381H1": {
+    "code": "BPM381H1",
+    "name": "Buddhist Perspectives on Current Social Issues",
+    "hours": "36L",
+    "description": "Explores teachings and principles in Buddhist canonical sources and considers their application to a wide range of social, political, and environmental crises we are facing today, including climate justice, systemic racism, burnout and mental health. We explore how Buddhist teachings are applied and adapted across different sectors of society including healthcare, education and business.",
+    "exclusions": "NEW214Y1/  NEW336H1 (Special Topics in Buddhism, Psychology and Mental Health: Buddhist Perspectives on Current Social Issues), offered in Winter 2020 or Winter 2021/  BPM336H1 (Special Topics in Buddhism, Psychology and Mental Health: Buddhist Perspectives on Current Social Issues), offered in Winter 2022",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "BPM432H1": {
+    "code": "BPM432H1",
+    "name": "Advanced Research in Meditation, Psychology and Neuroscience",
+    "hours": "36L",
+    "description": "This seminar-based course prepares students for advanced research on meditation by exposing them to diverse theories, tools and techniques used in the field. Students will learn about the scientific method and develop critical thinking skills; critique scientific research articles on meditation; practice communication skills; and propose their own original study on meditation.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "BPM433H1": {
+    "code": "BPM433H1",
+    "name": "Advanced Exploration of Buddhist Psychology and Practice",
+    "hours": "36S",
+    "description": "An in-depth, interdisciplinary exploration of how Buddhist teachings are set in conversation with contemporary scientific research on topics such as suffering, wellbeing, and compassion, through a mixture of lecture, textual analysis, discussion, and hands-on experiential practice.",
+    "exclusions": null,
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "BPM438H1": {
+    "code": "BPM438H1",
+    "name": "Mindfulness Meditation: Science and Research",
+    "hours": "36S",
+    "description": "An exponential increase of scientific research on aspects of Buddhist theories of mind and mindfulness meditation has contributed to the growing popularity of mindfulness across the sectors of healthcare, education and business. Examines the theoretical and empirical basis of mindfulness-based interventions and applications in healthcare settings and beyond. Critically addresses the roots of mindfulness, current models and adaptations, relevant applications, interventions and outcomes. Quantitative and qualitative research methodology will be reviewed, and conceptual, methodological, statistical, and interpretive limitations of the scientific literature will be discussed. The course aims to build scientific literacy skills through the assessment, critique, and discussion of peer reviewed journal articles.",
+    "exclusions": "NEW438H1",
+    "breadth": 5,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "PSY201H1",
+        "SOC202H1",
+        "STA220H1"
+      ]
+    }
+  },
+  "BPM498H1": {
+    "code": "BPM498H1",
+    "name": "Advanced Topics in Buddhism, Psychology and Mental Health",
+    "hours": "24S",
+    "description": "An upper-level seminar. Topics vary from year to year, depending on the instructor.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "BPM232H1",
+        {
+          "credits": 1.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "BPM499H1": {
+    "code": "BPM499H1",
+    "name": "Advanced Topics in Buddhism, Psychology and Mental Health",
+    "hours": "24S",
+    "description": "A joint graduate/undergraduate upper-level seminar. Topics vary from year to year, depending on the instructor. Consult the Program Office for course enrolment procedures.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "operator": "AND",
+      "items": [
+        "BPM232H1",
+        {
+          "credits": 1.0,
+          "department": ""
+        }
+      ]
+    }
+  },
+  "CAR120Y1": {
+    "code": "CAR120Y1",
+    "name": "Introduction to Caribbean Studies",
+    "hours": "48L/24T",
+    "description": "Explores the complex and diverse languages, geographies, regional and national histories, cultural practices, intellectual traditions and political and economic landscapes of the Caribbean region, its people and its diasporas. Students will be introduced to the main questions, themes, and debates in Caribbean Studies. Lectures and readings develop the skills to take an interdisciplinary approach to Caribbean Studies. This is a team taught course.",
+    "exclusions": "NEW120Y1",
+    "breadth": 3,
+    "prereq_tree": null
+  },
+  "CAR215H1": {
+    "code": "CAR215H1",
+    "name": "Caribbean Foodways Across History, Culture and Diaspora",
+    "hours": "24L",
+    "description": "Examines the historical roots of regional Caribbean food from the colonial period to the present day, and then moves to study Caribbean food in the global and Caribbean-Canadian diasporas, in the literary imagination, as a marker of personal, group and national identity, and as cultural expression.",
+    "exclusions": "NEW315H1,  CAR315H1",
+    "breadth": 2,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CAR220H1": {
+    "code": "CAR220H1",
+    "name": "Comparative Caribbean Literature",
+    "hours": "24L",
+    "description": "Introduction to the rich and multi-linguistic literary traditions of the Caribbean and its diaspora, focusing on both canonical and emergent texts of Caribbean literature. Texts not originally written in English are read in translation.",
+    "exclusions": "NEW220H1,  NEW222H1,  NEW222Y1,  NEW223Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CAR221H1": {
+    "code": "CAR221H1",
+    "name": "Comparative Caribbean Literature and Visual Culture",
+    "hours": "24L",
+    "description": "Focuses on recent literary and visual texts produced in the last decade, from the Caribbean, insular and continental, and its diaspora. Texts not originally written in English are read in translation. While  CAR220H1 is an excellent companion course,  CAR221H1 can be taken independently.",
+    "exclusions": "NEW221H1,  NEW222H1,  NEW222Y1,  NEW223Y1",
+    "breadth": 1,
+    "prereq_tree": null
+  },
+  "CAR225H1": {
+    "code": "CAR225H1",
+    "name": "Caribbean Societies",
+    "hours": "24L/12T",
+    "description": "Offers an interdisciplinary introduction to Caribbean sociology, focusing on the writings of thinkers and scholars from the era of decolonization to the more contemporary period. Themes may include: colonial encounters in the making of Caribbean societies; the role of religion; popular consciousness; histories of capitalism and exploitation; the relationship between political institutions and the wider society; \"development\", dependency and \"underdevelopment\".",
+    "exclusions": "NEW225H1,  NEW224Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CAR226H1": {
+    "code": "CAR226H1",
+    "name": "Caribbean Political Thought",
+    "hours": "24L/12T",
+    "description": "Examines currents of Caribbean political thought from the Haitian Revolution to the present. Themes may include: struggles for independence and liberation, particularly the Haitian and Cuban Revolutions; theories of dependency; Caribbean political systems; regional integration; contemporary political issues facing Caribbean societies today; analyses of capitalism by Caribbean thinkers.",
+    "exclusions": "NEW226H1,  NEW224Y1",
+    "breadth": 2,
+    "prereq_tree": null
+  },
+  "CAR316H1": {
+    "code": "CAR316H1",
+    "name": "Caribbean Religions",
+    "hours": "24L",
+    "description": "Explores the complex and dynamic practices, philosophies and political and cultural contexts of Caribbean religions. Topics may include the profound impact - in both the Caribbean and its diasporas - of Caribbean Christianities, Hinduism and Islam as well as Afro-Creole religions such as Vodun, Rastafari and Santeria.",
+    "exclusions": "NEW316H1,  NEW329H1 (Special Topics in Caribbean Studies: Caribbean Religions), offered in Fall 2014 and Fall 2015",
+    "breadth": 2,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS230H1",
+        "HIS231H1",
+        "CAR120Y1",
+        "CAR220H1",
+        "CAR221H1",
+        "NEW224Y1",
+        "CAR225H1",
+        "CAR226H1"
+      ]
+    }
+  },
+  "CAR317H1": {
+    "code": "CAR317H1",
+    "name": "Caribbean Women Writers",
+    "hours": "24L",
+    "description": "A critical feminist reading of selected works of fiction, poetry and essays by Caribbean women writers. The aim is to appraise the development of this literature, situate texts within the key social and political debates which have influenced the region's literary output, as well as to consider the implications of the environments within which these writers function.",
+    "exclusions": "NEW317H1,  WGS330H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CAR321H1": {
+    "code": "CAR321H1",
+    "name": "Caribbean Visual Arts, Social Media and Performance",
+    "hours": "24L",
+    "description": "Explores themes relating to visual arts, social media and theatre in the Caribbean. Topics may include: theatre, film, mixed media arts, the role of the internet and online publishing in the arts and the relationship between artists, the state and wider society.",
+    "exclusions": "NEW321H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS230H1",
+        "HIS231H1",
+        "CAR120Y1",
+        "CAR220H1",
+        "CAR221H1",
+        "NEW224Y1",
+        "CAR225H1",
+        "CAR226H1"
+      ]
+    }
+  },
+  "CAR324H1": {
+    "code": "CAR324H1",
+    "name": "Capitalism and Crisis in the Caribbean",
+    "hours": "24L",
+    "description": "This upper level course examines the interplay between wider global processes and intra-regional responses that together help shape contemporary Caribbean realities. Topics include: economic crisis and structural adjustment; tourism; the agricultural sector; the Caribbean Single Market and Economy; migration and diaspora.",
+    "exclusions": "NEW324H1,  NEW324Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS230H1",
+        "HIS231H1",
+        "CAR120Y1",
+        "CAR220H1",
+        "CAR221H1",
+        "NEW224Y1",
+        "CAR225H1",
+        "CAR226H1"
+      ]
+    }
+  },
+  "CAR325H1": {
+    "code": "CAR325H1",
+    "name": "Caribbean Women Thinkers",
+    "hours": "24L",
+    "description": "An examination of the historical and political significance of writings (literary, political, scholarly) by Caribbean women who engage problems within Caribbean culture and provide insights into the endeavours of the peoples of the region.",
+    "exclusions": "NEW325H1",
+    "breadth": 1,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CAR328H1": {
+    "code": "CAR328H1",
+    "name": "Caribbean Indentureship and its Legacies",
+    "hours": "24L",
+    "description": "Explores indentured migration and its legacies from the 17th century through to the present. Encourages students to think comparatively and transnationally about indentureship and diaspora, as well as indentured migration's relationship to contract and labour law.",
+    "exclusions": "NEW328H1,  NEW326Y1",
+    "breadth": 3,
+    "prereq_tree": {
+      "operator": "OR",
+      "items": [
+        "HIS230H1",
+        "HIS231H1",
+        "CAR120Y1",
+        "CAR220H1",
+        "CAR221H1",
+        "NEW224Y1",
+        "CAR225H1",
+        "CAR226H1"
+      ]
+    }
+  },
+  "CAR329H1": {
+    "code": "CAR329H1",
+    "name": "Special Topics in Caribbean Studies",
+    "hours": "24L",
+    "description": "An upper level course. Topics of study vary from year to year.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": null
+  },
+  "CAR332Y0": {
+    "code": "CAR332Y0",
+    "name": "Puerto Rican Culture and Environment",
+    "hours": "48L",
+    "description": "Based on readings, lectures, experiential activities and discussions,  CAR332Y0 examines the cultural and environmental history of Puerto Rico. The course explores debates on colonialism, capitalist modernity, development, ecosystems, religion, race and politics. Such analysis will help with the consideration of Puerto Rico as the last colony of the Americas within the larger context of the Caribbean. The course will include on-site excursions related to the lectures and reading material covered. This course will be taught in English.",
+    "exclusions": null,
+    "breadth": 3,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  },
+  "CAR342Y0": {
+    "code": "CAR342Y0",
+    "name": "The Dominican Republic: Culture and Environment",
+    "hours": "48L",
+    "description": "This course examines the cultural and environmental histories of the Dominican Republic. It traces key moments in the nation\u2019s history which have been significant for both the environmental destiny and the cultural character of the society. We will pay special attention to the social and ecological consequences of the nation\u2019s tourist industry in the 21st century. In the process we cover a range of issues concerning global capitalism, ecopolitics, race and cultural production. The course includes weekly excursions and will be taught in English.",
+    "exclusions": null,
+    "breadth": null,
+    "prereq_tree": {
+      "credits": 4.0,
+      "department": ""
+    }
+  }
+}
