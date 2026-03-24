@@ -63,7 +63,7 @@ def _raw_list_to_formatted(tree: list) -> list[CourseCondition | BooleanList]:
         assert isinstance(item, dict) or isinstance(item, str)
 
         if isinstance(item, str):
-            lst.append(CourseCondition('course', item))
+            lst.append(item)
         else:
             # Handle the dict case
             result = _traverse_tree(item)
@@ -72,7 +72,7 @@ def _raw_list_to_formatted(tree: list) -> list[CourseCondition | BooleanList]:
                 lst.append(result)
             elif isinstance(result, CreditCondition):
                 # Per the definition, BooleanList can contain CourseCondition
-                lst.append(CourseCondition('credit', result))
+                lst.append(result)
     return lst
 
 
@@ -117,7 +117,6 @@ def parse_prerequisite_list(tree: dict) -> BooleanList:
     prerequisite_list: BooleanList = _traverse_tree(tree)
     return prerequisite_list
 
-
 def load_graph_from_json(file: str) -> CourseGraph:
     """Load each course from a valid json file into a CourseGraph consisting of distinct _CourseVertex.
     Return the resulting CourseGraph.
@@ -133,6 +132,7 @@ def load_graph_from_json(file: str) -> CourseGraph:
             vert = _CourseVertex(course['code'], course['name'], course['hours'],
                                  course['description'], course['breadth'], prerequisites, course['exclusions'])
             graph.add_vertex(vert)
+
     return graph
 
 
