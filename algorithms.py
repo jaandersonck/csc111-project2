@@ -67,7 +67,7 @@ def get_relevant_courses(graph: CourseGraph, target: str, completed: set[str]) -
     """
 
     if target in completed:
-        return {target}
+        return set()
     else:
         course_vertex = graph._vertices[target]
         if course_vertex.prerequisites is None:
