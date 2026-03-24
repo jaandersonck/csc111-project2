@@ -11,3 +11,4 @@ verify_samples.py
 split.py
 process_batch.py
 batches/
+outputs/
