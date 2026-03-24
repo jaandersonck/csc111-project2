@@ -100,7 +100,7 @@ class BooleanList:
     operator: str | None
     items: list[BooleanList | str | CreditCondition] | None
 
-    def __init__(self, operator: str = None, items: list[CreditCondition | BooleanList] = None) -> None:
+    def __init__(self, operator: str = None, items: list[CourseCondition | BooleanList] = None) -> None:
         """Initialize a new BooleanList with the given operator and items."""
         self.operator = operator
         self.items = items
@@ -137,6 +137,38 @@ class BooleanList:
             return item.credits_satisfied(completed)
         else:
             raise ValueError(f'Unknown item type: {type(item)}')
+    # Equality for BooleanList for doctests and ease of use
+    def __eq__(self, candidate: BooleanList) -> bool:
+        """
+        >>> BooleanList('AND', []) == BooleanList('OR', [])
+        False
+
+        >>> BooleanList('AND', []) == BooleanList('AND', [])
+        True
+
+        >>> BooleanList('AND', [CourseCondition('course', 'CSC110')]) \
+        == BooleanList('AND', [CourseCondition('course', 'CSC110')])
+        True
+
+        >>> BooleanList('AND', [CourseCondition('course', 'CSC110')]) \
+        == BooleanList('AND', [CourseCondition('course', 'CSC11')])
+        False
+        """
+        if self.operator != candidate.operator:
+            return False
+        elif len(self.items) != len(candidate.items):
+            return False
+        else:
+            for i in range(len(self.items)):
+                candidate_item = candidate.items[i]
+                self_item = self.items[i]
+
+                if not isinstance(candidate_item, type(self_item)):
+                    return False
+                # this is the recursive call, when comparing two BooleanLists
+                if self_item != candidate_item:
+                    return False
+        return True
 
     def is_satisfied(self, completed: set[str]) -> bool:
         """Return whether this boolean condition is satisfied given a set of completed course codes.
@@ -165,5 +197,3 @@ class BooleanList:
             return all(self.evaluate_item(item, completed) for item in self.items)
         elif self.operator == 'OR':
             return any(self.evaluate_item(item, completed) for item in self.items)
-        else:
-            raise ValueError(f'Unknown operator: {self.operator!r}')
