@@ -2,6 +2,8 @@ from __future__ import annotations
 from typing import Any
 from dataclasses import dataclass
 
+from dill.pointers import children
+
 
 @dataclass
 class CreditCondition:
@@ -80,6 +82,7 @@ class BooleanList:
 
                 if not isinstance(candidate_item, type(self_item)):
                     return False
+                # this is the recursive call, when comparing two BooleanLists
                 if self_item != candidate_item:
                     return False
         return True
@@ -113,3 +116,69 @@ class BooleanList:
             return all(item in completed for item in self.items)
         elif self.operator == 'OR':
             return any(item in completed for item in self.items)
+
+    # @staticmethod
+    # def _get_at_depth(lst: list | Any, d: int = 0) -> list:
+    #     """
+    #     >>> BooleanList._get_at_depth([1,2,3, [4,5,6]], 1)
+    #     [1, 2, 3]
+    #     """
+    #     if not isinstance(lst, list):
+    #         if d == 0:
+    #             return [lst]
+    #         return []
+    #     else:
+    #         results = []
+    #         for sublist in lst:
+    #             results.extend(BooleanList._get_at_depth(sublist, d - 1))
+    #         return results
+
+    # def _generate_nested_list(self, d: int = 0) -> list:
+    #     """...
+    #     example:
+    #     [[1, 2, [3, [4], [5]]] represents 1 AND 2 AND (3 AND (4 OR 5))
+    #
+    #     >>> BooleanList('AND', [1, 2, BooleanList('OR', [3, 4])])._generate_nested_list()
+    #     [[1, 2, [3], [4]]]
+    #     """
+    #     root_list = []
+    #     if self.operator == 'AND':
+    #         combination = []
+    #         for item in self.items:
+    #             if isinstance(item, BooleanList):
+    #                 combination.extend(item._generate_nested_list(d + 1))
+    #             else:
+    #                 combination.append(item)
+    #
+    #         if d != 0:
+    #             root_list.extend(combination)
+    #         else:
+    #             root_list.append(combination)
+    #     elif self.operator == 'OR':
+    #         for item in self.items:
+    #             if isinstance(item, BooleanList):
+    #                 root_list.append(item._generate_nested_list(d + 1))
+    #             else:
+    #                 root_list.append([item])
+    #
+    #     return root_list
+
+    # def _generate_comb2(self, d: int = 0) -> list:
+    #     """...
+    #     >>> BooleanList('AND', [1, 2, BooleanList('OR', [3, 4, BooleanList('AND', [5, 6])])])._generate_comb2()
+    #     [[1, 2, 3], [1, 2, 4], [1, 2, 5, 6]]
+    #
+    #     >>> BooleanList('AND', [1, BooleanList('AND', [2, 3, BooleanList('AND', [4, 5])])])._generate_comb2()
+    #     [1, 2, 3, 4, 5]
+    #     """
+    #     children_at_depth = []
+    #     for item in self.items:
+    #         if isinstance(item, BooleanList):
+    #             pass
+    #         else:
+    #             children_at_depth.append(item)
+    #     pass
+    #
+    # def generate_combinations(self) -> None:
+    #     """..."""
+    #     pass
