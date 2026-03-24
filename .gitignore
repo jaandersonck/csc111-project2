@@ -4,11 +4,4 @@
 __pycache__/
 *.pyc
 .DS_Store
-assemble.py
-shrink.py
-run_all_batches.py
-verify_samples.py
-split.py
-process_batch.py
-batches/
-outputs/
+formatting/
