@@ -137,4 +137,4 @@ def load_graph_from_json(file: str) -> CourseGraph:
 
 
 if __name__ == "__main__":
-    g = load_graph_from_json('data/courses_final.json')
+    pass
