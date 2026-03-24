@@ -221,7 +221,6 @@ class CourseGraph:
                        if course in self._vertices
                        and self._vertices[course].department == department)
 
-
     def find_paths(self, completed: set[str], target: str) -> list[list[str]]:
         """Return all valid course sequences the student could take to become eligible for target.
 
