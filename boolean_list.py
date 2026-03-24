@@ -100,7 +100,7 @@ class BooleanList:
     operator: str | None
     items: list[BooleanList | str | CreditCondition] | None
 
-    def __init__(self, operator: str = None, items: list[CourseCondition | BooleanList] = None) -> None:
+    def __init__(self, operator: str = None, items: list[CreditCondition | BooleanList | str] = None) -> None:
         """Initialize a new BooleanList with the given operator and items."""
         self.operator = operator
         self.items = items
