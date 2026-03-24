@@ -216,6 +216,8 @@ class BooleanList:
         >>> bl.is_satisfied({'MAT137Y1'})
         False
         """
+        if not self.items:
+            return True
 
         if self.operator == 'AND':
             return all(self.evaluate_item(item, completed) for item in self.items)

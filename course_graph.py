@@ -50,8 +50,8 @@ class _CourseVertex:
         self.prerequisites = prerequisites
         self.exclusions = exclusions
         self.credits = 1.0 if code.endswith('Y1') else 0.5
-        self.level = int(next(c for c in code if c.isdigit())) * 100
-        self.department = ''.join(c for c in code if c.isalpha())
+        self.level = int(code[3]) * 100
+        self.department = code[:3]
 
 
 class CourseGraph:
