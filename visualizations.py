@@ -20,8 +20,8 @@ COLOUR = 'rgb(89, 205, 100)'
 def visualize_course_graph(graph: CourseGraph, output_file: str = '') -> None:
     digraph = graph.to_networkx()
     
-    pos = getattr(nx, 'spring_layout')(digraph)
-
+    pos = hierarchical_layout(digraph)
+    
     x_values = [pos[k][0] for k in digraph.nodes]
     y_values = [pos[k][1] for k in digraph.nodes]
     labels = list(digraph.nodes)
@@ -65,6 +65,33 @@ def visualize_course_graph(graph: CourseGraph, output_file: str = '') -> None:
     else:
         fig.write_image(output_file)
 
+def get_depths(digraph: nx.DiGraph) -> dict[str, int]:
+    """Return a dictionary mapping each course to its depth in the digraph."""
+
+    depths = {node: 0 for node in digraph.nodes}
+    for node in nx.topological_sort(digraph):
+        predecessors = list(digraph.predecessors(node))
+        if not predecessors:
+            continue
+        depths[node] = max([depths[pred] for pred in predecessors]) + 1
+    return depths
+
+def hierarchical_layout(digraph: nx.DiGraph) -> dict[str, int]:
+    """Return the position of each course in a digraph taking into account the number of prerequisites."""
+    depths = get_depths(digraph)
+    pos = {}
+    
+    by_depth = {}
+    for course, depth in depths.items():
+        if depth not in by_depth:
+            by_depth[depth] = []
+        by_depth[depth].append(course)
+    for depth, courses in by_depth.items():
+        y = -depth
+        for i, course in enumerate(courses):
+            x = i * 2
+            pos[course] = (x, y)
+    return pos
 
 if __name__ == '__main__':
     from course_graph import CourseGraph
