@@ -1,6 +1,6 @@
 from __future__ import annotations
 from boolean_list import BooleanList
-
+import networkx as nx
 
 class _CourseVertex:
     """A vertex in a CourseGraph, representing a single UofT course.
@@ -269,3 +269,14 @@ class CourseGraph:
         >>> g._find_paths_helper(set(), 'CSC148H1', set())
         [['CSC108H1', 'CSC148H1']]
         """
+
+    def to_networkx(self) -> nx.DiGraph:
+        """Convert this CourseGraph to a NetworkX DiGraph."""
+        digraph_nx = nx.DiGraph()
+        for code, course in self._vertices.items():
+            digraph_nx.add_node(code)
+            if course.prerequisites:
+                for prereq in course.prerequisites.get_all_courses():
+                    digraph_nx.add_edge(prereq, code)
+
+        return digraph_nx

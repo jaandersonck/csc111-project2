@@ -242,6 +242,22 @@ class BooleanList:
 
         arranged.extend(boolean_lists)
         return BooleanList(self.operator, arranged)
+    
+    def get_all_courses(self) -> set[str]:
+        """Return a set of all course code that appear in a BooleanList.
+        Preconditions:
+            - self is a valid BooleanList
+        >>> bl = BooleanList('AND', ['MAT137Y1', BooleanList('OR', ['CSC110H1', 'CSC111H1'])])
+        >>> bl.get_all_courses()
+        {'MAT137Y1', 'CSC110H1', 'CSC111H1'}
+        """
+        courses = set()
+        for item in self.items:
+            if isinstance(item, str):
+                courses.add(item)
+            elif isinstance(item, BooleanList):
+                courses = courses.union(item.get_all_courses())
+        return courses
 
     def generate_combinations(self) -> list[list]:
         """Return a list of all combinations that satisfy the condition built by the BooleanList.
