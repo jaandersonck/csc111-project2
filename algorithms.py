@@ -83,45 +83,17 @@ def get_relevant_courses(graph: CourseGraph, target: str, completed: set[str]) -
         return new_completed
 
 
-def find_paths_helper(graph: CourseGraph,
-                      completed: set[str],
-                      targets: set[str],
-                      relevant: set[str],
-                      current_path: list[str]) -> list[list[str]]:
-    """Return all valid course sequences from the current state that satisfy all targets.
+def eligible_relevant_courses(graph: CourseGraph, completed: set[str], target: str) -> set[str]:
+    """Return the set of courses that the student is both currently eligible to take
+    and that are relevant to reaching the target course.
 
-    This is the recursive DFS helper for find_paths. At each step it finds all
-    currently eligible courses within the relevant subgraph, simulates taking
-    each one, and recurses until all targets are in completed.
-
-    completed is treated as immutable — a new set is created at each recursive
-    call rather than mutating the original, so different DFS branches stay
-    fully independent of each other.
+    This is the intersection of all courses the student can currently enrol in
+    (based on their completed courses) and all courses that lie on some
+    prerequisite path leading to target.
 
     Preconditions:
-        - all(t in graph._vertices for t in targets)
+        - target in graph._vertices
         - all(c in graph._vertices for c in completed)
-        - all(r in graph._vertices for r in relevant)
-        - all(c in relevant or c in completed for c in current_path)
-    """
-    raise NotImplementedError
-
-
-def find_paths(graph: CourseGraph,
-               completed: set[str],
-               targets: set[str],
-               max_results: int = 10) -> list[list[str]]:
-    """Return up to max_results valid course sequences that satisfy all targets.
-
-    Each path is a list of course codes in the order the student should take them,
-    not including any courses already in completed.
-    Paths are sorted by length, shortest first.
-    Returns an empty list if all targets are already satisfied or are unreachable.
-
-    Preconditions:
-        - all(t in graph._vertices for t in targets)
-        - all(c in graph._vertices for c in completed)
-        - max_results >= 1
 
     >>> from course_graph import CourseGraph, _CourseVertex
     >>> from boolean_list import BooleanList
@@ -129,10 +101,28 @@ def find_paths(graph: CourseGraph,
     >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro', None, None, 5, None, None))
     >>> g.add_vertex(_CourseVertex('CSC148H1', 'Intro 2', None, None, 5,
     ...     BooleanList('AND', ['CSC108H1']), None))
-    >>> g.add_vertex(_CourseVertex('CSC207H1', 'Software Design', None, None, 5,
-    ...     BooleanList('AND', ['CSC148H1']), None))
-    >>> paths = find_paths(g, set(), {'CSC207H1'})
-    >>> paths[0]
-    ['CSC108H1', 'CSC148H1', 'CSC207H1']
+    >>> g.add_vertex(_CourseVertex('MAT137Y1', 'Calc', None, None, 5, None, None))
+    >>> eligible_relevant_courses(g, set(), 'CSC148H1') == {'CSC108H1'}
+    True
     """
-    raise NotImplementedError
+
+
+def is_target_reachable(graph: CourseGraph, target: str, completed: set[str]) -> bool:
+    """Return whether the student can eventually reach the target course from their
+    current set of completed courses.
+
+    The target is reachable if it is already in completed, or if there exists at
+    least one eligible course in the relevant subgraph that the student can take
+    to make progress toward the target.
+
+    Preconditions:
+        - target in graph._vertices
+        - all(c in graph._vertices for c in completed)
+
+    >>> from course_graph import CourseGraph, _CourseVertex
+    >>> from boolean_list import BooleanList
+    >>> g = CourseGraph()
+    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro', None, None, 5, None, None))
+    >>> is_target_reachable(g, 'CSC108H1', {'CSC108H1'})
+    True
+    """
