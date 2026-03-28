@@ -14,14 +14,15 @@ COLOUR_SCHEME = [
 ]
 
 LINE_COLOUR = 'rgb(210,210,210)'
-VERTEX_BORDER_COLOUR = 'rgb(50, 50, 50)' 
+VERTEX_BORDER_COLOUR = 'rgb(50, 50, 50)'
 COLOUR = 'rgb(89, 205, 100)'
+
 
 def visualize_course_graph(graph: CourseGraph, output_file: str = '') -> None:
     digraph = graph.to_networkx()
-    
+
     pos = hierarchical_layout(digraph)
-    
+
     x_values = [pos[k][0] for k in digraph.nodes]
     y_values = [pos[k][1] for k in digraph.nodes]
     labels = list(digraph.nodes)
@@ -80,7 +81,7 @@ def hierarchical_layout(digraph: nx.DiGraph) -> dict[str, int]:
     """Return the position of each course in a digraph taking into account the number of prerequisites."""
     depths = get_depths(digraph)
     pos = {}
-    
+
     by_depth = {}
     for course, depth in depths.items():
         if depth not in by_depth:
@@ -104,5 +105,5 @@ if __name__ == '__main__':
     g.add_vertex(v3)
     g.add_edge('CSC108H1', 'CSC148H1')
     g.add_edge('CSC148H1', 'CSC207H1')
-    
+
     visualize_course_graph(g)
