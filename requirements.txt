@@ -3,3 +3,4 @@ lxml
 networkx
 tkinter
 bs4
+plotly

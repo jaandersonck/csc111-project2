@@ -73,7 +73,7 @@ def get_relevant_courses(graph: CourseGraph, target: str, completed: set[str]) -
     """
 
     if target in completed:
-        return set()
+        return {target}
     else:
         course_vertex: _CourseVertex = graph.vertices[target]
         if course_vertex.prerequisites is None:
@@ -447,10 +447,11 @@ def search_courses(graph: CourseGraph, query: str) -> list[str]:
 
 
 if __name__ == '__main__':
+    import doctest
+    doctest.testmod()
     # import python_ta
     # python_ta.check_all(config={
     #     'extra-imports': ['course_graph', 'boolean_list'],
     #     'allowed-io': [],
     #     'max-line-length': 120
     # })
-    pass

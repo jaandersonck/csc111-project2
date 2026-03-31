@@ -140,10 +140,11 @@ def load_graph_from_json(file: str) -> CourseGraph:
 
 
 if __name__ == '__main__':
+    import doctest
+    doctest.testmod()
     # import python_ta
     # python_ta.check_all(config={
     #     'extra-imports': ['course_graph', 'boolean_list', 'json'],
     #     'allowed-io': ['load_graph_from_json'],
     #     'max-line-length': 120
     # })
-    pass

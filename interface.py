@@ -82,6 +82,7 @@ class CourseNavigator:
     path_frame: tk.Frame
     completed_count_label: tk.Label
     info_text: tk.Text
+    path_graph: CourseGraph
 
     def __init__(self, graph: CourseGraph) -> None:
         """Initialize the navigator with the given course graph."""
@@ -328,7 +329,7 @@ class CourseNavigator:
                                  font=('Helvetica', 10), bg=BLUE, fg=WHITE,
                                  cursor='hand2', pady=6)
         visualize_btn.pack(padx=14, pady=3, fill='x')
-        visualize_btn.bind('<Button-1>', lambda _: visualize_course_graph(self.path_graph))
+        visualize_btn.bind('<Button-1>', lambda e: visualize_course_graph(self.path_graph))
 
     def _build_navigation_right_panel(self) -> None:
         """Build the right panel that shows course info on hover."""
@@ -468,14 +469,14 @@ class CourseNavigator:
         # Get the course from the main graph to access its prerequisites
         course = self.graph.vertices[course_code]
         for prereq in get_course_codes(course.prerequisites):
-            # Only add prereq edge if it's in completed or path (courses we chose or already have)
-            if prereq in self.completed or prereq in self.path:
-                if prereq in self.graph.vertices:
-                    if prereq not in self.path_graph.vertices:
-                        self.path_graph.add_vertex(self.graph.vertices[prereq])
-                    self.path_graph.add_edge(prereq, course_code)
+            if prereq not in self.completed and prereq not in self.path:
+                continue
+            if prereq not in self.graph.vertices:
+                continue
 
-        self._refresh_path_display()
+            if prereq not in self.path_graph.vertices:
+                self.path_graph.add_vertex(self.graph.vertices[prereq])
+            self.path_graph.add_edge(prereq, course_code)
         self.completed_count_label.config(text=str(len(self.completed)) + ' completed')
         self._refresh_course_options()
 
@@ -712,7 +713,7 @@ class CourseNavigator:
 
         self.completed.add(course_code)
         self.completed_listbox.insert('end', ' ' + course_code)
-        
+
         if course_code not in self.path_graph.vertices:
             self.path_graph.add_vertex(self.graph.vertices[course_code])
 
@@ -807,10 +808,12 @@ def run(json_file: str = 'data/courses_formatted_3.json') -> None:
 
 
 if __name__ == '__main__':
+    import doctest
+    doctest.testmod()
     # import python_ta
     # python_ta.check_all(config={
     #     'extra-imports': ['tkinter', 'webbrowser', 'collections.abc', 'course_graph',
-    #                       'boolean_list', 'algorithms', 'json_to_graph'],
+    #                       'boolean_list', 'algorithms', 'json_to_graph', 'visualizations'],
     #     'allowed-io': [],
     #     'max-line-length': 120,
     #     'max-attributes': 20

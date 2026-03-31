@@ -262,10 +262,11 @@ class CourseGraph:
 
 
 if __name__ == '__main__':
+    import doctest
+    doctest.testmod()
     # import python_ta
     # python_ta.check_all(config={
     #     'extra-imports': ['boolean_list', 'networkx'],
     #     'allowed-io': [],
     #     'max-line-length': 120
     # })
-    pass

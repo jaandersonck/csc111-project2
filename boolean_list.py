@@ -264,10 +264,11 @@ class BooleanList:
 
 
 if __name__ == '__main__':
+    import doctest
+    doctest.testmod()
     # import python_ta
     # python_ta.check_all(config={
     #     'extra-imports': [],
     #     'allowed-io': [],
     #     'max-line-length': 120
     # })
-    pass
