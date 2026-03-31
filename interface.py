@@ -19,8 +19,10 @@ from tkinter import messagebox
 
 from course_graph import CourseGraph
 from boolean_list import BooleanList, CreditCondition
-from algorithms import get_next_needed_courses, search_courses
+from algorithms import get_next_needed_courses, search_courses, get_course_codes
 from json_to_graph import load_graph_from_json
+from visualizations import visualize_course_graph
+
 
 # COLORS
 BACKGROUND = '#0d1117'
@@ -286,16 +288,23 @@ class CourseNavigator:
                             font=('Helvetica', 10), bg=CARD, fg=GREY,
                             cursor='hand2', pady=6)
         undo_btn.pack(padx=14, pady=3, fill='x')
-        undo_btn.bind('<Button-1>', lambda e: self._undo_last())
-        undo_btn.bind('<Enter>', lambda e: undo_btn.config(bg=CARD_HOVER))
-        undo_btn.bind('<Leave>', lambda e: undo_btn.config(bg=CARD))
+        undo_btn.bind('<Button-1>', lambda _: self._undo_last())
+        undo_btn.bind('<Enter>', lambda _: undo_btn.config(bg=CARD_HOVER))
+        undo_btn.bind('<Leave>', lambda _: undo_btn.config(bg=CARD))
 
         # Reset button
         reset_btn = tk.Label(self.left_panel, text='  Start over  ',
                              font=('Helvetica', 10), bg=RED, fg=WHITE,
                              cursor='hand2', pady=6)
         reset_btn.pack(padx=14, pady=3, fill='x')
-        reset_btn.bind('<Button-1>', lambda e: self._reset())
+        reset_btn.bind('<Button-1>', lambda _: self._reset())
+
+        # Visualize button
+        visualize_btn = tk.Label(self.left_panel, text='  Visualize Graph  ',
+                                 font=('Helvetica', 10), bg=BLUE, fg=WHITE,
+                                 cursor='hand2', pady=6)
+        visualize_btn.pack(padx=14, pady=3, fill='x')
+        visualize_btn.bind('<Button-1>', lambda _: visualize_course_graph(self.graph))
 
     def _build_navigation_right_panel(self) -> None:
         """Build the right panel that shows course info on hover."""
@@ -425,6 +434,9 @@ class CourseNavigator:
         self.completed.add(course_code)
         self.path.append(course_code)
 
+        course = self.graph._vertices[course_code]
+        for prereq in get_course_codes(course.prerequisites):
+            self.graph.add_edge(prereq, course_code)
         self._refresh_path_display()
         self.completed_count_label.config(text=str(len(self.completed)) + ' completed')
         self._refresh_course_options()
@@ -659,6 +671,9 @@ class CourseNavigator:
 
         self.completed.add(course_code)
         self.completed_listbox.insert('end', ' ' + course_code)
+        
+        if course_code not in self.graph.get_all_course_codes():
+            self.graph.add_vertex(course_code)
 
         # Clear the search field and dropdown
         self.search_var.set('')
