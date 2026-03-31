@@ -558,7 +558,6 @@ class CourseNavigator:
 
         for item in boolean_list.items:
             if isinstance(item, str):
-                # Course code - show checkmark if completed
                 if item in self.completed:
                     mark = 'v'
                 else:
@@ -566,7 +565,7 @@ class CourseNavigator:
                 result_so_far += indent + '  ' + mark + ' ' + item + '\n'
 
             elif isinstance(item, BooleanList):
-                # Nested boolean list - recurse
+                # Recurse on nested BooleanList
                 result_so_far += self._format_prereq_tree(item, depth + 1)
 
             elif isinstance(item, CreditCondition):
