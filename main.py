@@ -1,6 +1,6 @@
-def main():
-    print("Hello from project2!")
+import interface
 
+interface.run()
 
 if __name__ == "__main__":
     main()
