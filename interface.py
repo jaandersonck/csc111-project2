@@ -20,8 +20,9 @@ import webbrowser
 
 from course_graph import CourseGraph
 from boolean_list import BooleanList, CreditCondition
-from algorithms import get_next_needed_courses, search_courses
+from algorithms import get_next_needed_courses, search_courses, get_course_codes
 from json_to_graph import load_graph_from_json
+from visualizations import visualize_course_graph
 
 # COLORS
 BACKGROUND = '#0d1117'
@@ -54,6 +55,7 @@ class CourseNavigator:
     target: str | None
     path: list[str]
     phase: str
+    path_graph: CourseGraph
 
     def __init__(self, graph: CourseGraph) -> None:
         """Initialize the navigator with the given course graph."""
@@ -62,7 +64,7 @@ class CourseNavigator:
         self.target = None
         self.path = []
         self.phase = 'setup'
-
+        self.path_graph = CourseGraph()
         # Create the window
         self.root = tk.Tk()
         self.root.title('Course Pathway Navigator')
@@ -295,6 +297,13 @@ class CourseNavigator:
         reset_btn.pack(padx=14, pady=3, fill='x')
         reset_btn.bind('<Button-1>', lambda _: self._reset())
 
+        # Visualize button
+        visualize_btn = tk.Label(self.left_panel, text='  Visualize Graph  ',
+                                 font=('Helvetica', 10), bg=BLUE, fg=WHITE,
+                                 cursor='hand2', pady=6)
+        visualize_btn.pack(padx=14, pady=3, fill='x')
+        visualize_btn.bind('<Button-1>', lambda _: visualize_course_graph(self.path_graph))
+
     def _build_navigation_right_panel(self) -> None:
         """Build the right panel that shows course info on hover."""
         tk.Label(self.right_panel, text='COURSE INFO', font=('Helvetica', 9),
@@ -422,6 +431,20 @@ class CourseNavigator:
         """
         self.completed.add(course_code)
         self.path.append(course_code)
+
+        # Add the vertex to path_graph if not already there
+        if course_code not in self.path_graph.vertices:
+            self.path_graph.add_vertex(self.graph.vertices[course_code])
+
+        # Get the course from the main graph to access its prerequisites
+        course = self.graph.vertices[course_code]
+        for prereq in get_course_codes(course.prerequisites):
+            # Only add prereq edge if it's in completed or path (courses we chose or already have)
+            if prereq in self.completed or prereq in self.path:
+                if prereq in self.graph.vertices:
+                    if prereq not in self.path_graph.vertices:
+                        self.path_graph.add_vertex(self.graph.vertices[prereq])
+                    self.path_graph.add_edge(prereq, course_code)
 
         self._refresh_path_display()
         self.completed_count_label.config(text=str(len(self.completed)) + ' completed')
@@ -660,6 +683,17 @@ class CourseNavigator:
 
         self.completed.add(course_code)
         self.completed_listbox.insert('end', ' ' + course_code)
+
+        if course_code not in self.path_graph.vertices:
+            self.path_graph.add_vertex(self.graph.vertices[course_code])
+
+        # Add edges from this completed course to any courses in the path that require it as a prerequisite
+        for path_course in self.path:
+            path_course_obj = self.graph.vertices[path_course]
+            if path_course_obj.prerequisites:
+                prereqs = get_course_codes(path_course_obj.prerequisites)
+                if course_code in prereqs:
+                    self.path_graph.add_edge(course_code, path_course)
 
         # Clear the search field and dropdown
         self.search_var.set('')
