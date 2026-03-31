@@ -2,6 +2,7 @@ import networkx as nx
 from plotly.graph_objs import Scatter, Figure
 
 import algorithms
+from algorithms import get_course_codes
 from course_graph import CourseGraph, _CourseVertex
 from boolean_list import BooleanList
 

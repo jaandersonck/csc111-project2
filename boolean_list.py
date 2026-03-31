@@ -243,10 +243,15 @@ class BooleanList:
         >>> bl.get_all_courses()
         {'MAT137Y1', 'CSC110H1', 'CSC111H1'}
         """
+        if self.items is None:
+            return set()
+
         courses = set()
         for item in self.items:
             if isinstance(item, str):
                 courses.add(item)
             elif isinstance(item, BooleanList):
                 courses = courses.union(item.get_all_courses())
+            elif isinstance(item, CreditCondition):
+                continue
         return courses

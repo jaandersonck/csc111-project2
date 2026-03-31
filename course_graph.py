@@ -291,6 +291,8 @@ class CourseGraph:
             digraph_nx.add_node(code)
             if course.prerequisites:
                 for prereq in course.prerequisites.get_all_courses():
-                    digraph_nx.add_edge(prereq, code)
+                    # Only add edge if both courses are in this graph
+                    if prereq in self.vertices:
+                        digraph_nx.add_edge(prereq, code)
 
         return digraph_nx
