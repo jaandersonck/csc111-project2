@@ -1,3 +1,16 @@
+"""CSC111 Winter 2026 Project 2: Course Algorithms
+
+Module Description
+==================
+
+This module contains the algorithms used to traverse and query the CourseGraph,
+including prerequisite resolution, relevance filtering, and course search.
+
+Copyright and Usage Information
+===============================
+
+This file is Copyright (c) 2026.
+"""
 from __future__ import annotations
 from course_graph import CourseGraph, _CourseVertex
 from boolean_list import BooleanList, CreditCondition
@@ -28,7 +41,7 @@ def get_course_codes(prereq_tree: BooleanList) -> set[str]:
 
     codes_so_far = set()
     for item in prereq_tree.items:
-        if isinstance(item,  str):
+        if isinstance(item, str):
             codes_so_far.add(item)
         elif isinstance(item, BooleanList):
             codes_result = get_course_codes(item)
@@ -48,11 +61,9 @@ def get_relevant_courses(graph: CourseGraph, target: str, completed: set[str]) -
         - all(c in graph._vertices for c in completed)
 
     >>> g = CourseGraph()
-    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro', None, None, 5, None, None))
-    >>> g.add_vertex(_CourseVertex('CSC148H1', 'Intro 2', None, None, 5,
-    ...     BooleanList('AND', ['CSC108H1']), None))
-    >>> g.add_vertex(_CourseVertex('CSC207H1', 'Software Design', None, None, 5,
-    ...     BooleanList('AND', ['CSC148H1']), None))
+    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro'))
+    >>> g.add_vertex(_CourseVertex('CSC148H1', 'Intro 2', BooleanList('AND', ['CSC108H1'])))
+    >>> g.add_vertex(_CourseVertex('CSC207H1', 'Software Design', BooleanList('AND', ['CSC148H1'])))
     >>> get_relevant_courses(g, 'CSC207H1', set()) == {'CSC108H1', 'CSC148H1', 'CSC207H1'}
     True
     >>> get_relevant_courses(g, 'CSC207H1', {'CSC148H1'}) == {'CSC148H1', 'CSC207H1'}
@@ -64,7 +75,7 @@ def get_relevant_courses(graph: CourseGraph, target: str, completed: set[str]) -
     if target in completed:
         return set()
     else:
-        course_vertex = graph.vertices[target]
+        course_vertex: _CourseVertex = graph.vertices[target]
         if course_vertex.prerequisites is None:
             return {target}
 
@@ -88,10 +99,9 @@ def eligible_relevant_courses(graph: CourseGraph, completed: set[str], target: s
         - all(c in graph._vertices for c in completed)
 
     >>> g = CourseGraph()
-    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro', None, None, 5, None, None))
-    >>> g.add_vertex(_CourseVertex('CSC148H1', 'Intro 2', None, None, 5,
-    ...     BooleanList('AND', ['CSC108H1']), None))
-    >>> g.add_vertex(_CourseVertex('MAT137Y1', 'Calc', None, None, 5, None, None))
+    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro'))
+    >>> g.add_vertex(_CourseVertex('CSC148H1', 'Intro 2', BooleanList('AND', ['CSC108H1'])))
+    >>> g.add_vertex(_CourseVertex('MAT137Y1', 'Calc'))
     >>> eligible_relevant_courses(g, set(), 'CSC148H1') == {'CSC108H1'}
     True
     """
@@ -196,7 +206,7 @@ def _partition_or_children(
     return with_progress, without_progress
 
 
-def _collect_eligible_from_or_children(
+def _collect_or_children(
         graph: CourseGraph,
         children: list,
         completed: set[str],
@@ -248,7 +258,7 @@ def _recurse_into_non_eligible_or(
     and calls _resolve_needed on it.
 
     BooleanList children are intentionally skipped here since they were already
-    fully recursed inside _collect_eligible_from_or_children; arriving here
+    fully recursed inside _collect_or_children; arriving here
     means they returned empty, so there is nothing further to explore.
 
     Preconditions:
@@ -285,12 +295,12 @@ def _resolve_or(graph: CourseGraph, prereqs: BooleanList,
     if _or_is_already_satisfied(prereqs, completed):
         return set()
 
-    with_progress, without_progress = _partition_or_children(prereqs, completed, graph)
+    with_progress, _ = _partition_or_children(prereqs, completed, graph)
 
     # Focus on branches already started; if none, explore everything
     children_to_explore = with_progress if with_progress else prereqs.items
 
-    eligible_courses, non_eligible_children = _collect_eligible_from_or_children(
+    eligible_courses, non_eligible_children = _collect_or_children(
         graph, children_to_explore, completed, visited
     )
 
@@ -298,6 +308,28 @@ def _resolve_or(graph: CourseGraph, prereqs: BooleanList,
         return eligible_courses
 
     return _recurse_into_non_eligible_or(graph, non_eligible_children, completed, visited)
+
+
+def _resolve_and_str_item(graph: CourseGraph, item: str,
+                          completed: set[str], visited: set[str]) -> set[str]:
+    """Return the courses to take for a single string child of an AND node.
+
+    If item is already satisfied or being visited, returns empty. If item is
+    eligible now, returns it directly. Otherwise recurses into its prerequisites.
+
+    Preconditions:
+        - item is a course code string
+        - all(c in graph.vertices for c in completed)
+    """
+    if item in completed or item in visited or item not in graph.vertices:
+        return set()
+    if graph.is_eligible(item, completed):
+        return {item}
+    visited.add(item)
+    inner_vertex: _CourseVertex = graph.vertices[item]
+    if inner_vertex.prerequisites and inner_vertex.prerequisites.items:
+        return _resolve_needed(graph, inner_vertex.prerequisites, completed, visited)
+    return set()
 
 
 def _resolve_and(graph: CourseGraph, prereqs: BooleanList,
@@ -310,22 +342,13 @@ def _resolve_and(graph: CourseGraph, prereqs: BooleanList,
     Preconditions:
         - prereqs.operator == 'AND'
         - prereqs.items is not None
-        - all(c in graph._vertices for c in completed)
+        - all(c in graph.vertices for c in completed)
     """
     result: set[str] = set()
 
     for item in prereqs.items:
         if isinstance(item, str):
-            if item in completed or item in visited or item not in graph.vertices:
-                continue
-            if graph.is_eligible(item, completed):
-                result.add(item)
-            else:
-                visited.add(item)
-                inner_vertex = graph.vertices[item]
-                if inner_vertex.prerequisites and inner_vertex.prerequisites.items:
-                    result = result.union(_resolve_needed(graph, inner_vertex.prerequisites,
-                                                          completed, visited))
+            result = result.union(_resolve_and_str_item(graph, item, completed, visited))
         elif isinstance(item, BooleanList):
             if not item.is_satisfied(completed):
                 result = result.union(_resolve_needed(graph, item, completed, visited))
@@ -369,11 +392,9 @@ def get_next_needed_courses(graph: CourseGraph, target: str, completed: set[str]
         - all(c in graph._vertices for c in completed)
 
     >>> g = CourseGraph()
-    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro', None, None, 5, None, None))
-    >>> g.add_vertex(_CourseVertex('CSC148H1', 'Intro 2', None, None, 5,
-    ...     BooleanList('AND', ['CSC108H1']), None))
-    >>> g.add_vertex(_CourseVertex('CSC207H1', 'Software Design', None, None, 5,
-    ...     BooleanList('AND', ['CSC148H1']), None))
+    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro'))
+    >>> g.add_vertex(_CourseVertex('CSC148H1', 'Intro 2', BooleanList('AND', ['CSC108H1'])))
+    >>> g.add_vertex(_CourseVertex('CSC207H1', 'Software Design', BooleanList('AND', ['CSC148H1'])))
     >>> get_next_needed_courses(g, 'CSC207H1', set()) == {'CSC108H1'}
     True
     >>> get_next_needed_courses(g, 'CSC207H1', {'CSC108H1'}) == {'CSC148H1'}
@@ -409,7 +430,7 @@ def search_courses(graph: CourseGraph, query: str) -> list[str]:
         - len(query) > 0
 
     >>> g = CourseGraph()
-    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro to Programming', None, None, 5, None, None))
+    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro to Programming'))
     >>> search_courses(g, 'csc108')
     ['CSC108H1']
     >>> search_courses(g, 'intro')
@@ -423,3 +444,13 @@ def search_courses(graph: CourseGraph, query: str) -> list[str]:
 
     matches.sort(key=lambda c: (not c.lower().startswith(query_lower), c))
     return matches
+
+
+if __name__ == '__main__':
+    # import python_ta
+    # python_ta.check_all(config={
+    #     'extra-imports': ['course_graph', 'boolean_list'],
+    #     'allowed-io': [],
+    #     'max-line-length': 120
+    # })
+    pass

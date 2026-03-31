@@ -17,6 +17,7 @@ from __future__ import annotations
 import tkinter as tk
 from tkinter import messagebox
 import webbrowser
+from collections.abc import Callable
 
 from course_graph import CourseGraph
 from boolean_list import BooleanList, CreditCondition
@@ -48,12 +49,38 @@ class CourseNavigator:
         - target: the target course code the student wants to reach
         - path: ordered list of courses selected during navigation
         - phase: either 'setup' or 'navigate'
+        - root: the root Tk window
+        - status_label: the header status label
+        - left_panel: the left sidebar frame
+        - centre_panel: the centre content frame
+        - right_panel: the right info frame
+        - completed_listbox: listbox of completed courses (setup phase)
+        - search_var: StringVar for the completed course search entry
+        - completed_search_dropdown: frame holding completed search results
+        - target_var: StringVar for the target course search entry
+        - target_search_dropdown: frame holding target search results
+        - path_frame: frame holding the path labels (navigate phase)
+        - completed_count_label: label showing number of completed courses
+        - info_text: Text widget showing course info (navigate phase)
     """
     graph: CourseGraph
     completed: set[str]
     target: str | None
     path: list[str]
     phase: str
+    root: tk.Tk
+    status_label: tk.Label
+    left_panel: tk.Frame
+    centre_panel: tk.Frame
+    right_panel: tk.Frame
+    completed_listbox: tk.Listbox
+    search_var: tk.StringVar
+    completed_search_dropdown: tk.Frame
+    target_var: tk.StringVar
+    target_search_dropdown: tk.Frame
+    path_frame: tk.Frame
+    completed_count_label: tk.Label
+    info_text: tk.Text
 
     def __init__(self, graph: CourseGraph) -> None:
         """Initialize the navigator with the given course graph."""
@@ -132,9 +159,9 @@ class CourseNavigator:
                               font=('Helvetica', 10), bg=RED, fg=WHITE,
                               cursor='hand2', pady=6)
         remove_btn.pack(padx=14, pady=3, fill='x')
-        remove_btn.bind('<Button-1>', lambda _: self._remove_completed_course())
+        remove_btn.bind('<Button-1>', lambda e: self._remove_completed_course())
 
-        # --- Centre panel: the two search bars and start button ---
+        # Centre panel: the two search bars and start button
         centre_frame = tk.Frame(self.centre_panel, bg=BACKGROUND)
         centre_frame.pack(expand=True)
 
@@ -163,7 +190,7 @@ class CourseNavigator:
                            font=('Helvetica', 10), bg=GREEN, fg=WHITE,
                            cursor='hand2', pady=6, padx=10)
         add_btn.pack(side='left')
-        add_btn.bind('<Button-1>', lambda _: self._add_completed_from_entry())
+        add_btn.bind('<Button-1>', lambda e: self._add_completed_from_entry())
 
         # Dropdown for completed course search results
         self.completed_search_dropdown = tk.Frame(centre_frame, bg=CARD)
@@ -205,7 +232,7 @@ class CourseNavigator:
                              font=('Helvetica', 10), bg=BLUE, fg=WHITE,
                              cursor='hand2', pady=6, padx=10)
         start_btn.pack()
-        start_btn.bind('<Button-1>', lambda _: self._start_navigation())
+        start_btn.bind('<Button-1>', lambda e: self._start_navigation())
 
         # --- Right panel: instructions ---
         tk.Label(self.right_panel, text='HOW IT WORKS', font=('Helvetica', 9),
@@ -224,7 +251,7 @@ class CourseNavigator:
                      bg=PANEL, fg=GREY, wraplength=240, justify='left',
                      anchor='w').pack(padx=14, pady=2, anchor='w')
 
-    # ******************Navigation phase***************
+    # ******************Navigation phase**********
 
     def _start_navigation(self) -> None:
         """Validate the target input and switch to navigation mode."""
@@ -287,16 +314,16 @@ class CourseNavigator:
                             font=('Helvetica', 10), bg=CARD, fg=GREY,
                             cursor='hand2', pady=6)
         undo_btn.pack(padx=14, pady=3, fill='x')
-        undo_btn.bind('<Button-1>', lambda _: self._undo_last())
-        undo_btn.bind('<Enter>', lambda _: undo_btn.config(bg=CARD_HOVER))
-        undo_btn.bind('<Leave>', lambda _: undo_btn.config(bg=CARD))
+        undo_btn.bind('<Button-1>', lambda e: self._undo_last())
+        undo_btn.bind('<Enter>', lambda e: undo_btn.config(bg=CARD_HOVER))
+        undo_btn.bind('<Leave>', lambda e: undo_btn.config(bg=CARD))
 
         # Reset button
         reset_btn = tk.Label(self.left_panel, text='  Start over  ',
                              font=('Helvetica', 10), bg=RED, fg=WHITE,
                              cursor='hand2', pady=6)
         reset_btn.pack(padx=14, pady=3, fill='x')
-        reset_btn.bind('<Button-1>', lambda _: self._reset())
+        reset_btn.bind('<Button-1>', lambda e: self._reset())
 
     def _build_navigation_right_panel(self) -> None:
         """Build the right panel that shows course info on hover."""
@@ -314,9 +341,31 @@ class CourseNavigator:
         # Show target info by default
         self._display_course_info(self.target)
 
+    def _build_scrollable_canvas(self) -> tk.Frame:
+        """Build a vertically scrollable canvas in the centre panel and return its inner frame."""
+        canvas = tk.Canvas(self.centre_panel, bg=BACKGROUND, highlightthickness=0)
+        scrollbar = tk.Scrollbar(self.centre_panel, orient='vertical', command=canvas.yview)
+        inner_frame = tk.Frame(canvas, bg=BACKGROUND)
+
+        inner_frame.bind('<Configure>',
+                         lambda e: canvas.configure(scrollregion=canvas.bbox('all')))
+        window_id = canvas.create_window((0, 0), window=inner_frame, anchor='nw')
+        canvas.configure(yscrollcommand=scrollbar.set)
+
+        canvas.bind('<Configure>',
+                    lambda e: canvas.itemconfig(window_id, width=e.width))
+
+        canvas.pack(side='left', fill='both', expand=True)
+        scrollbar.pack(side='right', fill='y')
+
+        canvas.bind_all('<MouseWheel>',
+                        lambda e: canvas.yview_scroll(int(-1 * (e.delta / 120)), 'units'))
+        return inner_frame
+
     def _refresh_course_options(self) -> None:
         """Clear and redraw the centre panel with the courses the student can pick from."""
-        # Clear old widgets
+        # Unbind scroll handler before destroying the canvas that owns it
+        self.root.unbind_all('<MouseWheel>')
         for widget in self.centre_panel.winfo_children():
             widget.destroy()
 
@@ -336,41 +385,22 @@ class CourseNavigator:
         tk.Label(self.centre_panel, text='Choose your next course',
                  font=('Helvetica', 12, 'bold'), bg=BACKGROUND, fg=WHITE).pack(pady=(16, 2))
 
-        option_count = len(options)
-        if option_count == 1:
+        if len(options) == 1:
             count_text = '1 option'
         else:
-            count_text = str(option_count) + ' options'
+            count_text = str(len(options)) + ' options'
 
         tk.Label(self.centre_panel, text=count_text,
                  font=('Helvetica', 9), bg=BACKGROUND, fg=DARK_GREY).pack(pady=(0, 12))
 
         # Scrollable area for the course cards
-        canvas = tk.Canvas(self.centre_panel, bg=BACKGROUND, highlightthickness=0)
-        scrollbar = tk.Scrollbar(self.centre_panel, orient='vertical', command=canvas.yview)
-        inner_frame = tk.Frame(canvas, bg=BACKGROUND)
-
-        inner_frame.bind('<Configure>',
-                         lambda _: canvas.configure(scrollregion=canvas.bbox('all')))
-        window_id = canvas.create_window((0, 0), window=inner_frame, anchor='nw')
-        canvas.configure(yscrollcommand=scrollbar.set)
-
-        # Make inner frame fill the canvas width
-        canvas.bind('<Configure>',
-                    lambda e: canvas.itemconfig(window_id, width=e.width))
-
-        canvas.pack(side='left', fill='both', expand=True)
-        scrollbar.pack(side='right', fill='y')
-
-        # Mouse wheel scrolling
-        canvas.bind_all('<MouseWheel>',
-                        lambda e: canvas.yview_scroll(int(-1 * (e.delta / 120)), 'units'))
+        inner_frame = self._build_scrollable_canvas()
 
         # Sort options: target first, then by department and level
         sorted_options = sorted(options, key=lambda code: (
             code != self.target,
-            self.graph.vertices[code].department,
-            self.graph.vertices[code].level,
+            self.graph.vertices[code].department(),
+            self.graph.vertices[code].level(),
             code
         ))
 
@@ -379,11 +409,11 @@ class CourseNavigator:
 
         for course_code in sorted_options:
             vertex = self.graph.vertices[course_code]
-            is_target_course = (course_code == self.target)
+            is_target_course = course_code == self.target
 
             # Draw a department divider when the department changes
-            if not is_target_course and vertex.department != current_department:
-                current_department = vertex.department
+            if not is_target_course and vertex.department() != current_department:
+                current_department = vertex.department()
                 divider_frame = tk.Frame(inner_frame, bg=BACKGROUND)
                 divider_frame.pack(fill='x', padx=24, pady=(10, 4))
 
@@ -412,12 +442,12 @@ class CourseNavigator:
 
             # Bind click and hover events
             card.bind('<Button-1>',
-                      lambda _, code=course_code: self._select_course(code))
+                      lambda e, code=course_code: self._select_course(code))
             card.bind('<Enter>',
-                      lambda _, code=course_code, label=card, hover=card_hover_bg: (
+                      lambda e, code=course_code, label=card, hover=card_hover_bg: (
                           label.config(bg=hover), self._display_course_info(code)))
             card.bind('<Leave>',
-                      lambda _, label=card, original_bg=card_bg: label.config(bg=original_bg))
+                      lambda e, label=card, original_bg=card_bg: label.config(bg=original_bg))
 
     def _select_course(self, course_code: str) -> None:
         """Handle the user clicking on a course card. Add it to completed and path,
@@ -430,7 +460,7 @@ class CourseNavigator:
         self.completed_count_label.config(text=str(len(self.completed)) + ' completed')
         self._refresh_course_options()
 
-    # ********************Success and dead end screens***************
+    # ***********Success and dead end screens****
 
     def _show_success_screen(self) -> None:
         """Show a message when the student has reached their target."""
@@ -454,7 +484,7 @@ class CourseNavigator:
                                font=('Helvetica', 10), bg=BLUE, fg=WHITE,
                                cursor='hand2', pady=6, padx=10)
         restart_btn.pack(pady=12)
-        restart_btn.bind('<Button-1>', lambda _: self._reset())
+        restart_btn.bind('<Button-1>', lambda e: self._reset())
 
     def _show_dead_end_screen(self) -> None:
         """Show a message when no courses are available to pick from."""
@@ -475,15 +505,15 @@ class CourseNavigator:
         undo_btn = tk.Label(button_row, text='  Undo  ', font=('Helvetica', 10),
                             bg=CARD, fg=GREY, cursor='hand2', pady=6, padx=10)
         undo_btn.pack(side='left', padx=4)
-        undo_btn.bind('<Button-1>', lambda _: self._undo_last())
+        undo_btn.bind('<Button-1>', lambda e: self._undo_last())
 
         restart_btn = tk.Label(button_row, text='  Start over  ',
                                font=('Helvetica', 10), bg=RED, fg=WHITE,
                                cursor='hand2', pady=6, padx=10)
         restart_btn.pack(side='left', padx=4)
-        restart_btn.bind('<Button-1>', lambda _: self._reset())
+        restart_btn.bind('<Button-1>', lambda e: self._reset())
 
-    # ************************Course info panel (right side)******************
+    # **************Course info panel (right side)********
 
     def _display_course_info(self, course_code: str) -> None:
         """Show information about a course in the right panel text area."""
@@ -498,14 +528,15 @@ class CourseNavigator:
         # Course code and name
         self.info_text.insert('end', vertex.code + '\n', 'course_code')
         self.info_text.insert('end', vertex.name + '\n\n')
-        self.info_text.bind("<Button-1>",
-                            lambda _: webbrowser.open(f'https://artsci.calendar.utoronto.ca/course/{course_code}'))
+        self.info_text.bind('<Button-1>',
+                            lambda e: webbrowser.open(
+                                f'https://artsci.calendar.utoronto.ca/course/{course_code}'))
         self.info_text.config(cursor='hand2')
 
         # Basic stats line
-        stats_line = str(vertex.credits) + ' cr'
-        stats_line += '  |  Level ' + str(vertex.level)
-        stats_line += '  |  ' + vertex.department
+        stats_line = str(vertex.credits()) + ' cr'
+        stats_line += '  |  Level ' + str(vertex.level())
+        stats_line += '  |  ' + vertex.department()
         if vertex.breadth is not None:
             stats_line += '  |  Breadth ' + str(vertex.breadth)
         self.info_text.insert('end', stats_line + '\n\n', 'grey_text')
@@ -578,9 +609,9 @@ class CourseNavigator:
 
         return result_so_far
 
-    # ************************Search dropdowns*********************************
+    # **************Search dropdowns********
 
-    def _on_completed_search_typed(self, *args: object) -> None:
+    def _on_completed_search_typed(self, *_args: object) -> None:
         """Called every time the user types in the completed courses search bar.
         Updates the dropdown with matching results.
         """
@@ -588,7 +619,7 @@ class CourseNavigator:
         self._show_search_results(query, self.completed_search_dropdown,
                                   self._add_completed_course)
 
-    def _on_target_search_typed(self, *args: object) -> None:
+    def _on_target_search_typed(self, *_args: object) -> None:
         """Called every time the user types in the target course search bar.
         Updates the dropdown with matching results.
         """
@@ -597,7 +628,7 @@ class CourseNavigator:
                                   self._pick_target_from_dropdown)
 
     def _show_search_results(self, query: str, dropdown_frame: tk.Frame,
-                            on_click_action: callable) -> None:
+                             on_click_action: Callable) -> None:
         """Show search results in the given dropdown frame. When a result is clicked,
         on_click_action is called with the course code.
         """
@@ -624,13 +655,13 @@ class CourseNavigator:
 
             # When clicked, run the action with this course code
             result_label.bind('<Button-1>',
-                              lambda _, code=course_code: on_click_action(code))
+                              lambda e, code=course_code: on_click_action(code))
 
             # Hover effect
             result_label.bind('<Enter>',
-                              lambda _, label=result_label: label.config(bg=CARD_HOVER, fg=WHITE))
+                              lambda e, label=result_label: label.config(bg=CARD_HOVER, fg=WHITE))
             result_label.bind('<Leave>',
-                              lambda _, label=result_label: label.config(bg=CARD, fg=GREY))
+                              lambda e, label=result_label: label.config(bg=CARD, fg=GREY))
 
     def _pick_target_from_dropdown(self, course_code: str) -> None:
         """Set the target entry field when the user clicks a search result."""
@@ -746,4 +777,12 @@ def run(json_file: str = 'data/courses_formatted_3.json') -> None:
 
 
 if __name__ == '__main__':
+    # import python_ta
+    # python_ta.check_all(config={
+    #     'extra-imports': ['tkinter', 'webbrowser', 'collections.abc', 'course_graph',
+    #                       'boolean_list', 'algorithms', 'json_to_graph'],
+    #     'allowed-io': [],
+    #     'max-line-length': 120,
+    #     'max-attributes': 20
+    # })
     run()

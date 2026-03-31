@@ -2,6 +2,7 @@
 import bs4
 from bs4 import BeautifulSoup
 from bs4.element import Tag
+import json
 
 d: dict = {}
 
@@ -82,7 +83,6 @@ with open("data/courses.html") as f:
         }
         d[code] = j
 
-import json
 with open('data/courses.json', 'w') as f:
     json.dump(d, f)
 

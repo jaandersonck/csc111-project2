@@ -1,17 +1,20 @@
+"""CSC111 Winter 2026 Project 2: Course Graph Visualizations
+
+Module Description
+==================
+
+This module contains functions for visualizing the CourseGraph using Plotly and NetworkX.
+
+Copyright and Usage Information
+===============================
+
+This file is Copyright (c) 2026.
+"""
 import networkx as nx
 from plotly.graph_objs import Scatter, Figure
 
-import algorithms
 from course_graph import CourseGraph, _CourseVertex
 from boolean_list import BooleanList
-
-# Colours to use when visualizing different clusters.
-COLOUR_SCHEME = [
-    '#2E91E5', '#E15F99', '#1CA71C', '#FB0D0D', '#DA16FF', '#222A2A', '#B68100',
-    '#750D86', '#EB663B', '#511CFB', '#00A08B', '#FB00D1', '#FC0080', '#B2828D',
-    '#6C7C32', '#778AAE', '#862A16', '#A777F1', '#620042', '#1616A7', '#DA60CA',
-    '#6C4516', '#0D2A63', '#AF0038'
-]
 
 LINE_COLOUR = 'rgb(210,210,210)'
 VERTEX_BORDER_COLOUR = 'rgb(50, 50, 50)'
@@ -19,6 +22,10 @@ COLOUR = 'rgb(89, 205, 100)'
 
 
 def visualize_course_graph(graph: CourseGraph, output_file: str = '') -> None:
+    """Display the course prerequisite graph as an interactive Plotly figure.
+
+    If output_file is given, write the figure to that path instead of displaying it.
+    """
     digraph = graph.to_networkx()
 
     pos = hierarchical_layout(digraph)
@@ -37,18 +44,18 @@ def visualize_course_graph(graph: CourseGraph, output_file: str = '') -> None:
                      y=y_edges,
                      mode='lines',
                      name='edges',
-                     line=dict(color=LINE_COLOUR, width=1),
+                     line={'color': LINE_COLOUR, 'width': 1},
                      hoverinfo='none',
                      )
     trace4 = Scatter(x=x_values,
                      y=y_values,
                      mode='markers+text',
                      name='nodes',
-                     marker=dict(symbol='circle-dot',
-                                 size=15,
-                                 color=COLOUR,
-                                 line=dict(color=VERTEX_BORDER_COLOUR, width=0.5)
-                                 ),
+                     marker={'symbol': 'circle-dot',
+                             'size': 15,
+                             'color': COLOUR,
+                             'line': {'color': VERTEX_BORDER_COLOUR, 'width': 0.5}
+                             },
                      text=labels,
                      textposition='middle center',
                      hovertemplate='%{text}',
@@ -66,10 +73,13 @@ def visualize_course_graph(graph: CourseGraph, output_file: str = '') -> None:
     else:
         fig.write_image(output_file)
 
-def get_depths(digraph: nx.DiGraph) -> dict[str, int]:
-    """Return a dictionary mapping each course to its depth in the digraph."""
 
-    depths = {node: 0 for node in digraph.nodes}
+def get_depths(digraph: nx.DiGraph) -> dict[str, int]:
+    """Return a dictionary mapping each node to its depth in the digraph.
+
+    Depth is defined as the length of the longest path of predecessors leading to that node.
+    """
+    depths = {n: 0 for n in digraph.nodes}
     for node in nx.topological_sort(digraph):
         predecessors = list(digraph.predecessors(node))
         if not predecessors:
@@ -77,12 +87,16 @@ def get_depths(digraph: nx.DiGraph) -> dict[str, int]:
         depths[node] = max([depths[pred] for pred in predecessors]) + 1
     return depths
 
-def hierarchical_layout(digraph: nx.DiGraph) -> dict[str, int]:
-    """Return the position of each course in a digraph taking into account the number of prerequisites."""
+
+def hierarchical_layout(digraph: nx.DiGraph) -> dict[str, tuple[int, int]]:
+    """Return a position dict for each node, laid out by prerequisite depth.
+
+    Nodes at the same depth share the same vertical level.
+    """
     depths = get_depths(digraph)
     pos = {}
 
-    by_depth = {}
+    by_depth: dict[int, list] = {}
     for course, depth in depths.items():
         if depth not in by_depth:
             by_depth[depth] = []
@@ -94,12 +108,19 @@ def hierarchical_layout(digraph: nx.DiGraph) -> dict[str, int]:
             pos[course] = (x, y)
     return pos
 
+
 if __name__ == '__main__':
-    from course_graph import CourseGraph
+    # import python_ta
+    # python_ta.check_all(config={
+    #     'extra-imports': ['networkx', 'plotly', 'plotly.graph_objs', 'course_graph', 'boolean_list'],
+    #     'allowed-io': [],
+    #     'max-line-length': 120
+    # })
+
     g = CourseGraph()
-    v1 = _CourseVertex('CSC108H1', 'Intro to Programming', None, None, None, None, None)
-    v2 = _CourseVertex('CSC148H1', 'Intro to Computer Science', None, None, None, BooleanList('AND', ['CSC108H1']), None)
-    v3 = _CourseVertex('CSC207H1', 'Software Design', None, None, None, BooleanList('AND', ['CSC148H1']), None)
+    v1 = _CourseVertex('CSC108H1', 'Intro to Programming')
+    v2 = _CourseVertex('CSC148H1', 'Intro to Computer Science', BooleanList('AND', ['CSC108H1']))
+    v3 = _CourseVertex('CSC207H1', 'Software Design', BooleanList('AND', ['CSC148H1']))
     g.add_vertex(v1)
     g.add_vertex(v2)
     g.add_vertex(v3)

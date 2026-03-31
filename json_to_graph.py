@@ -1,7 +1,7 @@
 """Functions for moving between json and CourseGraph/_CourseVertex."""
+import json
 from course_graph import CourseGraph, _CourseVertex
 from boolean_list import BooleanList, CreditCondition
-import json
 
 
 def _dict_to_boolean_list(tree: dict) -> BooleanList:
@@ -41,7 +41,7 @@ def _dict_to_credit_condition(tree: dict) -> CreditCondition:
 
         if key == 'credits':
             assert isinstance(value, float)
-            credit_condition.credits = value
+            credit_condition.amount_credits = value
         else:
             # Department can be empty
             assert isinstance(value, str) or value is None
@@ -60,7 +60,7 @@ def _raw_list_to_formatted(tree: list) -> list[BooleanList]:
     """
     lst = []
     for item in tree:
-        assert isinstance(item, dict) or isinstance(item, str)
+        assert isinstance(item, (dict, str))
 
         if isinstance(item, str):
             lst.append(item)
@@ -129,12 +129,21 @@ def load_graph_from_json(file: str) -> CourseGraph:
         data = json.load(f)
         for course in data.values():
             prerequisites = parse_prerequisite_list(course['prereq_tree'])
-            vert = _CourseVertex(course['code'], course['name'], course['hours'],
-                                 course['description'], course['breadth'], prerequisites, course['exclusions'])
+            vert = _CourseVertex(course['code'], course['name'], prerequisites)
+            vert.hours = course['hours']
+            vert.description = course['description']
+            vert.breadth = course['breadth']
+            vert.exclusions = course['exclusions']
             graph.add_vertex(vert)
 
     return graph
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
+    # import python_ta
+    # python_ta.check_all(config={
+    #     'extra-imports': ['course_graph', 'boolean_list', 'json'],
+    #     'allowed-io': ['load_graph_from_json'],
+    #     'max-line-length': 120
+    # })
     pass
