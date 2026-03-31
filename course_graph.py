@@ -12,8 +12,8 @@ Copyright and Usage Information
 This file is Copyright (c) 2026.
 """
 from __future__ import annotations
-from boolean_list import BooleanList
 import networkx as nx
+from boolean_list import BooleanList
 
 
 class _CourseVertex:
@@ -25,15 +25,17 @@ class _CourseVertex:
         - hours: the weekly contact hours string, e.g. '36L/12T'
         - description: the course description from the A&S calendar
         - breadth: the breadth requirement category number, or None if not applicable
-        - credits: the credit weight, either 0.5 for H courses or 1.0 for Y courses
-        - level: the course level, one of 100, 200, 300, or 400
-        - department: the department code prefix, e.g. 'CSC'
         - prerequisites: the prerequisite condition as a BooleanList, or None if there are none
         - exclusions: a list of course codes that cannot be taken alongside this course, or None
 
+    Computed Properties (derived from code):
+        - credits: the credit weight, either 0.5 for H courses or 1.0 for Y courses
+        - level: the course level, one of 100, 200, 300, or 400
+        - department: the department code prefix, e.g. 'CSC'
+
     Representation Invariants:
-        - self.credits in {0.5, 1.0}
-        - self.level in {100, 200, 300, 400}
+        - self.credits() in {0.5, 1.0}
+        - self.level() in {100, 200, 300, 400}
         - len(self.code) > 0
     """
     code: str
@@ -41,31 +43,44 @@ class _CourseVertex:
     hours: str | None
     description: str | None
     breadth: int | None
-    credits: float
-    level: int
-    department: str
     prerequisites: BooleanList | None
     exclusions: list[str] | None
+    # credits, level, department are computed properties derived from code
 
-    def __init__(self,
-                 code: str,
-                 name: str,
-                 hours: str | None,
-                 description: str | None,
-                 breadth: int | None,
-                 prerequisites: BooleanList | None,
-                 exclusions: list[str] | None) -> None:
-        """Initialize a new vertex with the given course details."""
+    def __init__(self, code: str, name: str,
+                 prerequisites: BooleanList | None = None) -> None:
+        """Initialize a new vertex with the given course code, name, and prerequisites.
+
+        hours, description, breadth, and exclusions default to None and can be set directly.
+
+        Preconditions:
+            - len(code) > 0
+
+        >>> v = _CourseVertex('CSC148H1', 'Intro to Computer Science')
+        >>> v.code
+        'CSC148H1'
+        >>> v.credits()
+        0.5
+        """
         self.code = code
         self.name = name
-        self.hours = hours
-        self.description = description
-        self.breadth = breadth
         self.prerequisites = prerequisites
-        self.exclusions = exclusions
-        self.credits = 1.0 if code.endswith('Y1') else 0.5
-        self.level = int(code[3]) * 100
-        self.department = code[:3]
+        self.hours = None
+        self.description = None
+        self.breadth = None
+        self.exclusions = None
+
+    def credits(self) -> float:
+        """Return the credit weight: 1.0 for Y courses, 0.5 for all others."""
+        return 1.0 if self.code.endswith('Y1') else 0.5
+
+    def level(self) -> int:
+        """Return the course level as a multiple of 100 (e.g. 100, 200, 300, 400)."""
+        return int(self.code[3]) * 100
+
+    def department(self) -> str:
+        """Return the three-letter department prefix from the course code."""
+        return self.code[:3]
 
 
 class CourseGraph:
@@ -75,13 +90,13 @@ class CourseGraph:
     indicates that A is a prerequisite of B.
 
     Representation Invariants:
-        - all(code == self._vertices[code].code for code in self._vertices)
-        - all(code in self._vertices for code in self._edges)
-        - all(neighbour in self._vertices for neighbours in self._edges.values()
+        - all(code == self.vertices[code].code for code in self.vertices)
+        - all(code in self.vertices for code in self._edges)
+        - all(neighbour in self.vertices for neighbours in self._edges.values()
               for neighbour in neighbours)
     """
     # Private Instance Attributes:
-    #   - _vertices: maps each course code to its corresponding _CourseVertex object
+    #   - vertices: maps each course code to its corresponding _CourseVertex object
     #   - _edges: maps each course code to the set of course codes it is a prerequisite of
 
     vertices: dict[str, _CourseVertex]
@@ -99,7 +114,7 @@ class CourseGraph:
             - vertex is not None
 
         >>> g = CourseGraph()
-        >>> v = _CourseVertex('CSC148H1', 'Introduction to Computer Science', None, None, 5, None, None)
+        >>> v = _CourseVertex('CSC148H1', 'Introduction to Computer Science')
         >>> g.add_vertex(v)
         >>> 'CSC148H1' in g.vertices
         True
@@ -115,13 +130,13 @@ class CourseGraph:
 
         Preconditions:
             - code1 != code2
-            - code1 in self._vertices
-            - code2 in self._vertices
-            - code2 not in self._edges[code1]  # no duplicate edges
+            - code1 in self.vertices
+            - code2 in self.vertices
+            - code2 not in self._edges[code1]
 
         >>> g = CourseGraph()
-        >>> v1 = _CourseVertex('CSC148H1', 'Intro', None, None, 5, None, None)
-        >>> v2 = _CourseVertex('CSC207H1', 'Software Design', None, None, 5, None, None)
+        >>> v1 = _CourseVertex('CSC148H1', 'Intro')
+        >>> v2 = _CourseVertex('CSC207H1', 'Software Design')
         >>> g.add_vertex(v1)
         >>> g.add_vertex(v2)
         >>> g.add_edge('CSC148H1', 'CSC207H1')
@@ -138,62 +153,59 @@ class CourseGraph:
         Raise KeyError if no vertex with that code exists in this graph.
 
         Preconditions:
-            - code in self._vertices
+            - code in self.vertices
 
         >>> g = CourseGraph()
-        >>> v = _CourseVertex('CSC148H1', 'Intro', None, None, 5, None, None)
+        >>> v = _CourseVertex('CSC148H1', 'Intro')
         >>> g.add_vertex(v)
         >>> g.get_vertex('CSC148H1').code
         'CSC148H1'
         """
         if code not in self.vertices:
-            raise ValueError
-
+            raise KeyError(f'Course code not found in graph: {code!r}')
         return self.vertices[code]
 
     def is_eligible(self, code: str, completed: set[str]) -> bool:
         """Return whether a student who has completed the given courses is eligible to enrol in code.
 
-        A student is eligible if the course's prereq_tree is None (no prerequisites)
-        or if prereq_tree.is_satisfied(completed) returns True.
+        A student is eligible if the course's prerequisites is None (no prerequisites)
+        or if prerequisites.is_satisfied(completed) returns True.
         A course the student has already completed is not considered eligible.
 
         Raise KeyError if code does not correspond to a vertex in this graph.
 
         Preconditions:
-            - code in self._vertices
-            - all(c in self._vertices for c in completed)
+            - code in self.vertices
+            - all(c in self.vertices for c in completed)
 
         >>> g = CourseGraph()
-        >>> v = _CourseVertex('CSC108H1', 'Intro', None, None, 5, None, None)
+        >>> v = _CourseVertex('CSC108H1', 'Intro')
         >>> g.add_vertex(v)
         >>> g.is_eligible('CSC108H1', set())
         True
         >>> g.is_eligible('CSC108H1', {'CSC108H1'})
         False
         """
-        # Unvalid Course Code
         if code not in self.vertices:
             raise KeyError(f'Course code not found in graph: {code!r}')
 
-        # Student already completed the course
         if code in completed:
             return False
 
-        if self.vertices[code].prerequisites is None:  # Course w/o prerequisites
+        prereqs = self.vertices[code].prerequisites
+        if prereqs is None:
             return True
-        else:  # Course that neeeds to check prerequisites
-            return self.vertices[code].prerequisites.is_satisfied(completed)
+        return prereqs.is_satisfied(completed)
 
     def eligible_courses(self, completed: set[str]) -> set[str]:
         """Return the set of all course codes the student is currently eligible to enrol in,
         excluding courses they have already completed.
 
         Preconditions:
-            - all(c in self._vertices for c in completed)
+            - all(c in self.vertices for c in completed)
 
         >>> g = CourseGraph()
-        >>> v = _CourseVertex('CSC108H1', 'Intro', None, None, 5, None, None)
+        >>> v = _CourseVertex('CSC108H1', 'Intro')
         >>> g.add_vertex(v)
         >>> 'CSC108H1' in g.eligible_courses(set())
         True
@@ -212,9 +224,9 @@ class CourseGraph:
             - department is None or len(department) > 0
 
         >>> g = CourseGraph()
-        >>> v1 = _CourseVertex('CSC148H1', 'Intro', None, None, 5, None, None)
-        >>> v2 = _CourseVertex('CSC207H1', 'Software Design', None, None, 5, None, None)
-        >>> v3 = _CourseVertex('MAT137Y1', 'Calculus', None, None, 5, None, None)
+        >>> v1 = _CourseVertex('CSC148H1', 'Intro')
+        >>> v2 = _CourseVertex('CSC207H1', 'Software Design')
+        >>> v3 = _CourseVertex('MAT137Y1', 'Calculus')
         >>> g.add_vertex(v1)
         >>> g.add_vertex(v2)
         >>> g.add_vertex(v3)
@@ -226,63 +238,14 @@ class CourseGraph:
         0.5
         """
         if department is None:
-            return sum(self.vertices[course].credits
+            return sum(self.vertices[course].credits()
                        for course in completed
                        if course in self.vertices)
         else:
-            return sum(self.vertices[course].credits
+            return sum(self.vertices[course].credits()
                        for course in completed
                        if course in self.vertices
-                       and self.vertices[course].department == department)
-
-    def find_paths(self, completed: set[str], target: str) -> list[list[str]]:
-        """Return all valid course sequences the student could take to become eligible for target.
-
-        Each path is a list of course codes in the order they should be taken,
-        starting from the first course the student needs to take and ending with target.
-        Courses in completed are not included in the returned paths.
-        Returns an empty list if target is already in completed or is unreachable.
-
-        Preconditions:
-            - target in self._vertices
-            - all(c in self._vertices for c in completed)
-            - target not in completed
-
-        >>> g = CourseGraph()
-        >>> v1 = _CourseVertex('CSC108H1', 'Intro', None, None, 5, None, None)
-        >>> v2 = _CourseVertex('CSC148H1', 'Intro 2', None, None, 5, None, None)
-        >>> g.add_vertex(v1)
-        >>> g.add_vertex(v2)
-        >>> g.add_edge('CSC108H1', 'CSC148H1')
-        >>> g.find_paths(set(), 'CSC148H1')
-        [['CSC108H1', 'CSC148H1']]
-        """
-
-    def _find_paths_helper(self, completed: set[str], target: str, visited: set[str]) -> list[list[str]]:
-        """Return all valid course sequences from the current state to target, avoiding visited courses.
-
-        This is a helper method for find_paths. It recursively explores all eligible
-        courses from the current completed set, adding each to the path and simulating
-        the student taking it before continuing the search.
-
-        visited tracks which courses have already been explored in the current branch
-        of the search to prevent infinite loops in the graph traversal.
-
-        Preconditions:
-            - target in self._vertices
-            - all(c in self._vertices for c in completed)
-            - all(c in self._vertices for c in visited)
-            - target not in completed
-
-        >>> g = CourseGraph()
-        >>> v1 = _CourseVertex('CSC108H1', 'Intro', None, None, 5, None, None)
-        >>> v2 = _CourseVertex('CSC148H1', 'Intro 2', None, None, 5, None, None)
-        >>> g.add_vertex(v1)
-        >>> g.add_vertex(v2)
-        >>> g.add_edge('CSC108H1', 'CSC148H1')
-        >>> g._find_paths_helper(set(), 'CSC148H1', set())
-        [['CSC108H1', 'CSC148H1']]
-        """
+                       and self.vertices[course].department() == department)
 
     def to_networkx(self) -> nx.DiGraph:
         """Convert this CourseGraph to a NetworkX DiGraph."""
@@ -296,3 +259,13 @@ class CourseGraph:
                         digraph_nx.add_edge(prereq, code)
 
         return digraph_nx
+
+
+if __name__ == '__main__':
+    # import python_ta
+    # python_ta.check_all(config={
+    #     'extra-imports': ['boolean_list', 'networkx'],
+    #     'allowed-io': [],
+    #     'max-line-length': 120
+    # })
+    pass

@@ -1,3 +1,16 @@
+"""CSC111 Winter 2026 Project 2: Course Algorithms
+
+Module Description
+==================
+
+This module contains the algorithms used to traverse and query the CourseGraph,
+including prerequisite resolution, relevance filtering, and course search.
+
+Copyright and Usage Information
+===============================
+
+This file is Copyright (c) 2026.
+"""
 from __future__ import annotations
 from course_graph import CourseGraph, _CourseVertex
 from boolean_list import BooleanList, CreditCondition
@@ -28,7 +41,7 @@ def get_course_codes(prereq_tree: BooleanList) -> set[str]:
 
     codes_so_far = set()
     for item in prereq_tree.items:
-        if isinstance(item,  str):
+        if isinstance(item, str):
             codes_so_far.add(item)
         elif isinstance(item, BooleanList):
             codes_result = get_course_codes(item)
@@ -39,25 +52,18 @@ def get_course_codes(prereq_tree: BooleanList) -> set[str]:
 
 
 def get_relevant_courses(graph: CourseGraph, target: str, completed: set[str]) -> set[str]:
-    """Return all courses needed to reach target that are not already in completed.
+    """Return all courses on any prerequisite path to target, including target itself.
 
-    Walks backwards through the prerequisite graph starting from target,
-    collecting all courses that appear in any prerequisite tree along the way.
-    Stops recursing into a course if it is already in completed.
-    Always includes target itself in the returned set.
+    Stops recursing into a course already in completed.
 
     Preconditions:
         - target in graph._vertices
         - all(c in graph._vertices for c in completed)
 
-    >>> from course_graph import CourseGraph, _CourseVertex
-    >>> from boolean_list import BooleanList
     >>> g = CourseGraph()
-    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro', None, None, 5, None, None))
-    >>> g.add_vertex(_CourseVertex('CSC148H1', 'Intro 2', None, None, 5,
-    ...     BooleanList('AND', ['CSC108H1']), None))
-    >>> g.add_vertex(_CourseVertex('CSC207H1', 'Software Design', None, None, 5,
-    ...     BooleanList('AND', ['CSC148H1']), None))
+    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro'))
+    >>> g.add_vertex(_CourseVertex('CSC148H1', 'Intro 2', BooleanList('AND', ['CSC108H1'])))
+    >>> g.add_vertex(_CourseVertex('CSC207H1', 'Software Design', BooleanList('AND', ['CSC148H1'])))
     >>> get_relevant_courses(g, 'CSC207H1', set()) == {'CSC108H1', 'CSC148H1', 'CSC207H1'}
     True
     >>> get_relevant_courses(g, 'CSC207H1', {'CSC148H1'}) == {'CSC148H1', 'CSC207H1'}
@@ -69,7 +75,7 @@ def get_relevant_courses(graph: CourseGraph, target: str, completed: set[str]) -
     if target in completed:
         return set()
     else:
-        course_vertex = graph.vertices[target]
+        course_vertex: _CourseVertex = graph.vertices[target]
         if course_vertex.prerequisites is None:
             return {target}
 
@@ -84,25 +90,18 @@ def get_relevant_courses(graph: CourseGraph, target: str, completed: set[str]) -
 
 
 def eligible_relevant_courses(graph: CourseGraph, completed: set[str], target: str) -> set[str]:
-    """Return the set of courses that the student is both currently eligible to take
-    and that are relevant to reaching the target course.
+    """Return courses the student can enrol in now that are relevant to reaching target.
 
-    This is the intersection of all courses the student can currently enrol in
-    (based on their completed courses) and all courses that lie on some
-    prerequisite path leading to target. The target itself is excluded from
-    the result (it is handled separately by the interface).
+    Target and already-completed courses are excluded from the result.
 
     Preconditions:
         - target in graph._vertices
         - all(c in graph._vertices for c in completed)
 
-    >>> from course_graph import CourseGraph, _CourseVertex
-    >>> from boolean_list import BooleanList
     >>> g = CourseGraph()
-    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro', None, None, 5, None, None))
-    >>> g.add_vertex(_CourseVertex('CSC148H1', 'Intro 2', None, None, 5,
-    ...     BooleanList('AND', ['CSC108H1']), None))
-    >>> g.add_vertex(_CourseVertex('MAT137Y1', 'Calc', None, None, 5, None, None))
+    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro'))
+    >>> g.add_vertex(_CourseVertex('CSC148H1', 'Intro 2', BooleanList('AND', ['CSC108H1'])))
+    >>> g.add_vertex(_CourseVertex('MAT137Y1', 'Calc'))
     >>> eligible_relevant_courses(g, set(), 'CSC148H1') == {'CSC108H1'}
     True
     """
@@ -112,17 +111,20 @@ def eligible_relevant_courses(graph: CourseGraph, completed: set[str], target: s
 
 
 def _has_progress(prereqs: BooleanList, completed: set[str]) -> bool:
-    """Return whether the student has made any progress toward satisfying this
-    BooleanList node — meaning at least one sub-item is fully satisfied.
+    """Return True if at least one sub-item in prereqs is already satisfied.
 
-    For AND nodes: True if at least one child is satisfied.
-    For OR nodes: True if at least one child has progress (recursive).
-
-    This is used to detect which branch of a top-level OR the student has
-    started working on, so we can prioritize that branch.
+    AND nodes: True if any direct child is satisfied.
+    OR nodes: True if any child has progress (recursive).
 
     Preconditions:
         - prereqs is a valid BooleanList
+
+    >>> _has_progress(BooleanList('AND', ['CSC148H1', 'MAT137Y1']), {'CSC148H1'})
+    True
+    >>> _has_progress(BooleanList('AND', ['CSC148H1', 'MAT137Y1']), set())
+    False
+    >>> _has_progress(BooleanList('OR', ['CSC148H1', 'MAT137Y1']), {'MAT137Y1'})
+    True
     """
     if prereqs.items is None:
         return False
@@ -133,7 +135,7 @@ def _has_progress(prereqs: BooleanList, completed: set[str]) -> bool:
         elif isinstance(item, BooleanList):
             if item.is_satisfied(completed):
                 return True
-            # For AND nodes, check if any sub-item is satisfied (partial progress)
+            # For AND nodes, check if any sub item is satisfied (partial progress)
             if prereqs.operator == 'AND' and _has_progress(item, completed):
                 return True
         elif isinstance(item, CreditCondition) and item.credits_satisfied(completed):
@@ -142,27 +144,228 @@ def _has_progress(prereqs: BooleanList, completed: set[str]) -> bool:
     return False
 
 
+def _or_is_already_satisfied(prereqs: BooleanList, completed: set[str]) -> bool:
+    """Return True if any direct child of an OR node is already satisfied.
+
+    Preconditions:
+        - prereqs.operator == 'OR'
+        - prereqs.items is not None
+
+    >>> _or_is_already_satisfied(BooleanList('OR', ['CSC148H1', 'MAT137Y1']), {'MAT137Y1'})
+    True
+    >>> _or_is_already_satisfied(BooleanList('OR', ['CSC148H1', 'MAT137Y1']), set())
+    False
+    """
+    for item in prereqs.items:
+        if isinstance(item, str) and item in completed:
+            return True
+        elif isinstance(item, BooleanList) and item.is_satisfied(completed):
+            return True
+        elif isinstance(item, CreditCondition) and item.credits_satisfied(completed):
+            return True
+    return False
+
+
+def _partition_or_children(
+        prereqs: BooleanList,
+        completed: set[str],
+        graph: CourseGraph
+) -> tuple[list, list]:
+    """Split the children of an OR node into two lists based on whether the
+    student has already made progress on that branch.
+
+    'Progress' means at least one sub-item inside a BooleanList branch is already
+    satisfied.  Single course-code strings never count as a branch with progress,
+    they are placed in the without-progress list so they can be evaluated normally
+    for eligibility later.
+
+    Returns:
+        (with_progress, without_progress) — two lists whose union covers every
+        valid, non-completed child of the OR node.
+
+    Preconditions:
+        - prereqs.operator == 'OR'
+        - prereqs.items is not None
+    """
+    with_progress = []
+    without_progress = []
+
+    for item in prereqs.items:
+        if isinstance(item, str):
+            if item in completed or item not in graph.vertices:
+                continue
+
+            # Single course codes have no branch progress
+            without_progress.append(item)
+        elif isinstance(item, BooleanList):
+            if _has_progress(item, completed):
+                with_progress.append(item)
+            else:
+                without_progress.append(item)
+
+    return with_progress, without_progress
+
+
+def _collect_or_children(
+        graph: CourseGraph,
+        children: list,
+        completed: set[str],
+        visited: set[str]
+) -> tuple[set[str], list]:
+    """Scan a list of OR children and separate those that provide eligible courses
+    right now from those that do not.
+
+    For each child:
+        - str: eligible if the student hasn't visited it yet and graph.is_eligible
+          returns True.
+        - BooleanList: recurses via _resolve_needed; if that produces any courses,
+          those count as eligible results from this child.
+
+    Preconditions:
+        - all children are str, BooleanList, or CreditCondition items from an OR node
+        - all(c in graph._vertices for c in completed)
+    """
+    eligible_courses: set[str] = set()
+    non_eligible_children = []
+
+    for item in children:
+        if isinstance(item, str):
+            if item in completed or item not in graph.vertices:
+                continue
+            if item not in visited and graph.is_eligible(item, completed):
+                eligible_courses.add(item)
+            else:
+                non_eligible_children.append(item)
+        elif isinstance(item, BooleanList):
+            child_result = _resolve_needed(graph, item, completed, visited)
+            if child_result:
+                eligible_courses = eligible_courses.union(child_result)
+            else:
+                non_eligible_children.append(item)
+
+    return eligible_courses, non_eligible_children
+
+
+def _recurse_into_non_eligible_or(
+        graph: CourseGraph,
+        non_eligible_children: list,
+        completed: set[str],
+        visited: set[str]
+) -> set[str]:
+    """Recurse deeper into OR children that had no immediately eligible courses.
+
+    For each string child, looks up that course's own prerequisite tree
+    and calls _resolve_needed on it.
+
+    BooleanList children are intentionally skipped here since they were already
+    fully recursed inside _collect_or_children; arriving here
+    means they returned empty, so there is nothing further to explore.
+
+    Preconditions:
+        - all items in non_eligible_children are str or BooleanList
+        - all(c in graph._vertices for c in completed)
+    """
+    deeper: set[str] = set()
+
+    for item in non_eligible_children:
+        if isinstance(item, str):
+            if item in visited or item in completed or item not in graph.vertices:
+                continue
+            visited.add(item)
+            inner_vertex = graph.vertices[item]
+            if inner_vertex.prerequisites and inner_vertex.prerequisites.items:
+                deeper = deeper.union(_resolve_needed(graph, inner_vertex.prerequisites,
+                                                      completed, visited))
+
+    return deeper
+
+
+def _resolve_or(graph: CourseGraph, prereqs: BooleanList,
+                completed: set[str], visited: set[str]) -> set[str]:
+    """Return actionable courses for an OR node.
+
+    Prefers branches with prior progress; within those, prefers immediately
+    eligible courses before recursing deeper into blocked ones.
+
+    Preconditions:
+        - prereqs.operator == 'OR'
+        - prereqs.items is not None
+        - all(c in graph._vertices for c in completed)
+    """
+    if _or_is_already_satisfied(prereqs, completed):
+        return set()
+
+    with_progress, _ = _partition_or_children(prereqs, completed, graph)
+
+    # Focus on branches already started; if none, explore everything
+    children_to_explore = with_progress if with_progress else prereqs.items
+
+    eligible_courses, non_eligible_children = _collect_or_children(
+        graph, children_to_explore, completed, visited
+    )
+
+    if eligible_courses:
+        return eligible_courses
+
+    return _recurse_into_non_eligible_or(graph, non_eligible_children, completed, visited)
+
+
+def _resolve_and_str_item(graph: CourseGraph, item: str,
+                          completed: set[str], visited: set[str]) -> set[str]:
+    """Return the courses to take for a single string child of an AND node.
+
+    If item is already satisfied or being visited, returns empty. If item is
+    eligible now, returns it directly. Otherwise recurses into its prerequisites.
+
+    Preconditions:
+        - item is a course code string
+        - all(c in graph.vertices for c in completed)
+    """
+    if item in completed or item in visited or item not in graph.vertices:
+        return set()
+    if graph.is_eligible(item, completed):
+        return {item}
+    visited.add(item)
+    inner_vertex: _CourseVertex = graph.vertices[item]
+    if inner_vertex.prerequisites and inner_vertex.prerequisites.items:
+        return _resolve_needed(graph, inner_vertex.prerequisites, completed, visited)
+    return set()
+
+
+def _resolve_and(graph: CourseGraph, prereqs: BooleanList,
+                 completed: set[str], visited: set[str]) -> set[str]:
+    """Return actionable courses for an AND node.
+
+    Collects from all unsatisfied children simultaneously. Adds eligible string
+    children directly; recurses into ineligible ones. CreditConditions are skipped.
+
+    Preconditions:
+        - prereqs.operator == 'AND'
+        - prereqs.items is not None
+        - all(c in graph.vertices for c in completed)
+    """
+    result: set[str] = set()
+
+    for item in prereqs.items:
+        if isinstance(item, str):
+            result = result.union(_resolve_and_str_item(graph, item, completed, visited))
+        elif isinstance(item, BooleanList):
+            if not item.is_satisfied(completed):
+                result = result.union(_resolve_needed(graph, item, completed, visited))
+        elif isinstance(item, CreditCondition):
+            continue
+
+    return result
+
+
 def _resolve_needed(graph: CourseGraph, prereqs: BooleanList,
                     completed: set[str], visited: set[str]) -> set[str]:
-    """Walk a prerequisite BooleanList tree and return the set of courses the student
-    should pick from right now to make progress.
+    """Traverse a prerequisite BooleanList tree and return the set of courses the
+    student should pick from right now to make progress.
 
-    This function combines tree-pruning and eligibility-checking in one pass:
-
-    For AND nodes: collects actionable courses from ALL unsatisfied children.
-    For OR nodes:
-        - If any child is already satisfied → returns empty (requirement met).
-        - Otherwise, collects eligible courses from all children.
-        - If some children yield eligible courses and others don't, only returns
-          the eligible ones (no need to recurse deeper into harder alternatives
-          when easier options exist).
-        - Only recurses into non-eligible children if NO child has eligible courses.
-
-    For each leaf course code found:
-        - If the student is eligible → includes it directly.
-        - If not eligible → recurses into that course's own prereq tree.
-
-    visited prevents infinite loops when prerequisite trees have cycles.
+    Dispatches to _resolve_or or _resolve_and based on the node's operator, then
+    returns their result.  visited is threaded through all recursive calls to
+    prevent infinite loops when prerequisite trees have cycles.
 
     Preconditions:
         - prereqs is a valid BooleanList
@@ -172,130 +375,26 @@ def _resolve_needed(graph: CourseGraph, prereqs: BooleanList,
         return set()
 
     if prereqs.operator == 'OR':
-        # If ANY child is already satisfied, the whole OR is done
-        for item in prereqs.items:
-            if isinstance(item, str) and item in completed:
-                return set()
-            elif isinstance(item, BooleanList) and item.is_satisfied(completed):
-                return set()
-            elif isinstance(item, CreditCondition) and item.credits_satisfied(completed):
-                return set()
-
-        # Nothing satisfied — check if user has made progress on any branch
-        # If so, only show courses from the branch(es) with progress
-        children_with_progress = []
-        children_without_progress = []
-
-        for item in prereqs.items:
-            if isinstance(item, str):
-                # A single course option — no "progress" concept, just eligible or not
-                if item in completed:
-                    continue
-                if item not in graph.vertices:
-                    continue
-                # Treat as no-progress child (it's a single course, not a branch)
-                children_without_progress.append(item)
-            elif isinstance(item, BooleanList):
-                if _has_progress(item, completed):
-                    children_with_progress.append(item)
-                else:
-                    children_without_progress.append(item)
-
-        # If some branches have progress, only explore those
-        children_to_explore = children_with_progress if children_with_progress else prereqs.items
-
-        # Collect eligible courses from the branches we're exploring
-        eligible_from_children = set()
-        non_eligible_children = []
-
-        for item in children_to_explore:
-            if isinstance(item, str):
-                if item in completed:
-                    continue
-                if item not in graph.vertices:
-                    continue
-                if item not in visited and graph.is_eligible(item, completed):
-                    eligible_from_children.add(item)
-                else:
-                    non_eligible_children.append(item)
-            elif isinstance(item, BooleanList):
-                child_result = _resolve_needed(graph, item, completed, visited)
-                if child_result:
-                    eligible_from_children |= child_result
-                else:
-                    non_eligible_children.append(item)
-
-        # If we found eligible courses, return those — don't dig into harder paths
-        if eligible_from_children:
-            return eligible_from_children
-
-        # No eligible courses found — recurse deeper into non-eligible children
-        deeper = set()
-        for item in non_eligible_children:
-            if isinstance(item, str):
-                if item in visited or item in completed or item not in graph.vertices:
-                    continue
-                visited.add(item)
-                inner_vertex = graph.vertices[item]
-                if inner_vertex.prerequisites and inner_vertex.prerequisites.items:
-                    deeper |= _resolve_needed(graph, inner_vertex.prerequisites,
-                                              completed, visited)
-            # BooleanList children were already recursed into above
-        return deeper
-
-    else:  # AND
-        # Collect actionable courses from all unsatisfied children
-        result = set()
-        for item in prereqs.items:
-            if isinstance(item, str):
-                if item in completed:
-                    continue
-                if item in visited or item not in graph.vertices:
-                    continue
-                if graph.is_eligible(item, completed):
-                    result.add(item)
-                else:
-                    # Recurse into this course's prereqs
-                    visited.add(item)
-                    inner_vertex = graph.vertices[item]
-                    if inner_vertex.prerequisites and inner_vertex.prerequisites.items:
-                        result |= _resolve_needed(graph, inner_vertex.prerequisites,
-                                                  completed, visited)
-            elif isinstance(item, BooleanList):
-                if not item.is_satisfied(completed):
-                    result |= _resolve_needed(graph, item, completed, visited)
-            elif isinstance(item, CreditCondition):
-                continue
-        return result
+        return _resolve_or(graph, prereqs, completed, visited)
+    else:
+        return _resolve_and(graph, prereqs, completed, visited)
 
 
 def get_next_needed_courses(graph: CourseGraph, target: str, completed: set[str]) -> set[str]:
-    """Return the set of courses the student should consider taking next to make
-    progress toward the target course.
+    """Return the courses the student should take next to make progress toward target.
 
-    Walks the target's prerequisite tree, prunes satisfied branches, and for
-    each remaining needed course:
-        - if the student is eligible to take it now, includes it in the result
-        - if the student is NOT eligible (its own prereqs aren't met), recurses
-          into that course's prereq tree instead to find deeper prerequisites
-        - within OR groups, prefers showing eligible courses over recursing into
-          harder alternatives (e.g. if STA237H1 is eligible, don't also show
-          the deep prereq chains of STA255H1)
-
-    Also includes the target itself if the student is now eligible for it.
+    Returns target itself if the student is now eligible. Otherwise walks the
+    prerequisite tree and returns immediately takeable courses, recursing deeper
+    for any that are still blocked.
 
     Preconditions:
         - target in graph._vertices
         - all(c in graph._vertices for c in completed)
 
-    >>> from course_graph import CourseGraph, _CourseVertex
-    >>> from boolean_list import BooleanList
     >>> g = CourseGraph()
-    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro', None, None, 5, None, None))
-    >>> g.add_vertex(_CourseVertex('CSC148H1', 'Intro 2', None, None, 5,
-    ...     BooleanList('AND', ['CSC108H1']), None))
-    >>> g.add_vertex(_CourseVertex('CSC207H1', 'Software Design', None, None, 5,
-    ...     BooleanList('AND', ['CSC148H1']), None))
+    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro'))
+    >>> g.add_vertex(_CourseVertex('CSC148H1', 'Intro 2', BooleanList('AND', ['CSC108H1'])))
+    >>> g.add_vertex(_CourseVertex('CSC207H1', 'Software Design', BooleanList('AND', ['CSC148H1'])))
     >>> get_next_needed_courses(g, 'CSC207H1', set()) == {'CSC108H1'}
     True
     >>> get_next_needed_courses(g, 'CSC207H1', {'CSC108H1'}) == {'CSC148H1'}
@@ -330,9 +429,8 @@ def search_courses(graph: CourseGraph, query: str) -> list[str]:
     Preconditions:
         - len(query) > 0
 
-    >>> from course_graph import CourseGraph, _CourseVertex
     >>> g = CourseGraph()
-    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro to Programming', None, None, 5, None, None))
+    >>> g.add_vertex(_CourseVertex('CSC108H1', 'Intro to Programming'))
     >>> search_courses(g, 'csc108')
     ['CSC108H1']
     >>> search_courses(g, 'intro')
@@ -346,3 +444,13 @@ def search_courses(graph: CourseGraph, query: str) -> list[str]:
 
     matches.sort(key=lambda c: (not c.lower().startswith(query_lower), c))
     return matches
+
+
+if __name__ == '__main__':
+    # import python_ta
+    # python_ta.check_all(config={
+    #     'extra-imports': ['course_graph', 'boolean_list'],
+    #     'allowed-io': [],
+    #     'max-line-length': 120
+    # })
+    pass

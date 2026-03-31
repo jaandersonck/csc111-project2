@@ -1,6 +1,10 @@
-import interface
+"""CSC111 Winter 2026 Project 2: Main Entry Point
 
-interface.run()
+Copyright and Usage Information
 
-if __name__ == "__main__":
-    main()
+This file is Copyright (c) 2026.
+"""
+from interface import run
+
+if __name__ == '__main__':
+    run()

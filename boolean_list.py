@@ -15,7 +15,12 @@ from __future__ import annotations
 
 
 class CreditCondition:
-    """..."""
+    """A prerequisite condition based on accumulated credits rather than specific courses.
+
+    Instance Attributes:
+        - amount_credits: the minimum number of credits required, or None if unconstrained
+        - department: the department prefix to filter by (e.g. 'CSC'), or None for any department
+    """
     amount_credits: float | None
     department: str | None
 
@@ -111,7 +116,8 @@ class BooleanList:
     operator: str | None
     items: list[BooleanList | str | CreditCondition] | None
 
-    def __init__(self, operator: str = None, items: list[CreditCondition | BooleanList | str] = None) -> None:
+    def __init__(self, operator: str | None = None,
+                 items: list[CreditCondition | BooleanList | str] | None = None) -> None:
         """Initialize a new BooleanList with the given operator and items."""
         self.operator = operator
         self.items = items
@@ -168,6 +174,10 @@ class BooleanList:
         """
         if self.operator != candidate.operator:
             return False
+        elif self.items is None and candidate.items is None:
+            return True
+        elif self.items is None or candidate.items is None:
+            return False
         elif len(self.items) != len(candidate.items):
             return False
         else:
@@ -194,16 +204,15 @@ class BooleanList:
         >>> BooleanList('AND', [1, 2, BooleanList('OR', [3, 4])])
         (1 AND 2 AND (3 OR 4))
         """
-        s = ''
+        if self.items is None:
+            return '()'
         if self.operator == 'AND':
             p = [item.__repr__() for item in self.items]
             s = ' AND '.join(p)
-            s = f'({s})'
         else:
             p = [item.__repr__() for item in self.items]
             s = ' OR '.join(p)
-            s = f'({s})'
-        return s
+        return f'({s})'
 
     def is_satisfied(self, completed: set[str]) -> bool:
         """Return whether this boolean condition is satisfied given a set of completed course codes.
@@ -240,18 +249,25 @@ class BooleanList:
         Preconditions:
             - self is a valid BooleanList
         >>> bl = BooleanList('AND', ['MAT137Y1', BooleanList('OR', ['CSC110H1', 'CSC111H1'])])
-        >>> bl.get_all_courses()
-        {'MAT137Y1', 'CSC110H1', 'CSC111H1'}
+        >>> bl.get_all_courses() == {'MAT137Y1', 'CSC110H1', 'CSC111H1'}
+        True
         """
         if self.items is None:
             return set()
-
         courses = set()
         for item in self.items:
             if isinstance(item, str):
                 courses.add(item)
             elif isinstance(item, BooleanList):
                 courses = courses.union(item.get_all_courses())
-            elif isinstance(item, CreditCondition):
-                continue
         return courses
+
+
+if __name__ == '__main__':
+    # import python_ta
+    # python_ta.check_all(config={
+    #     'extra-imports': [],
+    #     'allowed-io': [],
+    #     'max-line-length': 120
+    # })
+    pass
