@@ -88,9 +88,6 @@ class CourseNavigator:
                                      bg=PANEL, fg=GREY)
         self.status_label.pack(side='right', padx=16)
 
-        # Thin line under header
-        tk.Frame(self.root, bg=BLUE, height=1).pack(fill='x')
-
         # Main area
         main_frame = tk.Frame(self.root, bg=BACKGROUND)
         main_frame.pack(fill='both', expand=True)
@@ -114,7 +111,7 @@ class CourseNavigator:
         self.status_label.config(text='Setup')
         self._clear_all_panels()
 
-        # --- Left panel: list of completed courses ---
+        # Left panel: list of completed courses
         tk.Label(self.left_panel, text='COMPLETED COURSES', font=('Helvetica', 9),
                  bg=PANEL, fg=DARK_GREY).pack(pady=(14, 2), padx=14, anchor='w')
         tk.Frame(self.left_panel, bg=BORDER_COLOUR, height=1).pack(fill='x', padx=14, pady=(0, 8))
@@ -133,7 +130,7 @@ class CourseNavigator:
         remove_btn.pack(padx=14, pady=3, fill='x')
         remove_btn.bind('<Button-1>', lambda e: self._remove_completed_course())
 
-        # --- Centre panel: the two search bars and start button ---
+        # Centre panel: the two search bars and start button
         centre_frame = tk.Frame(self.centre_panel, bg=BACKGROUND)
         centre_frame.pack(expand=True)
 
@@ -206,7 +203,7 @@ class CourseNavigator:
         start_btn.pack()
         start_btn.bind('<Button-1>', lambda e: self._start_navigation())
 
-        # --- Right panel: instructions ---
+        # Right panel: instructions
         tk.Label(self.right_panel, text='HOW IT WORKS', font=('Helvetica', 9),
                  bg=PANEL, fg=DARK_GREY).pack(pady=(14, 2), padx=14, anchor='w')
         tk.Frame(self.right_panel, bg=BORDER_COLOUR, height=1).pack(fill='x', padx=14, pady=(0, 8))
