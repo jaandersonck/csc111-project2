@@ -23,10 +23,6 @@ from boolean_list import BooleanList, CreditCondition
 from algorithms import get_next_needed_courses, search_courses, get_course_codes
 from json_to_graph import load_graph_from_json
 from visualizations import visualize_course_graph
-<<<<<<< HEAD
-=======
-
->>>>>>> c4098bf16e1b52338ee11078dd18d59e9cc50d31
 
 # COLORS
 BACKGROUND = '#0d1117'
@@ -306,11 +302,7 @@ class CourseNavigator:
                                  font=('Helvetica', 10), bg=BLUE, fg=WHITE,
                                  cursor='hand2', pady=6)
         visualize_btn.pack(padx=14, pady=3, fill='x')
-<<<<<<< HEAD
         visualize_btn.bind('<Button-1>', lambda _: visualize_course_graph(self.path_graph))
-=======
-        visualize_btn.bind('<Button-1>', lambda _: visualize_course_graph(self.graph))
->>>>>>> c4098bf16e1b52338ee11078dd18d59e9cc50d31
 
     def _build_navigation_right_panel(self) -> None:
         """Build the right panel that shows course info on hover."""
@@ -440,7 +432,6 @@ class CourseNavigator:
         self.completed.add(course_code)
         self.path.append(course_code)
 
-<<<<<<< HEAD
         # Add the vertex to path_graph if not already there
         if course_code not in self.path_graph.vertices:
             self.path_graph.add_vertex(self.graph.vertices[course_code])
@@ -455,11 +446,6 @@ class CourseNavigator:
                         self.path_graph.add_vertex(self.graph.vertices[prereq])
                     self.path_graph.add_edge(prereq, course_code)
 
-=======
-        course = self.graph._vertices[course_code]
-        for prereq in get_course_codes(course.prerequisites):
-            self.graph.add_edge(prereq, course_code)
->>>>>>> c4098bf16e1b52338ee11078dd18d59e9cc50d31
         self._refresh_path_display()
         self.completed_count_label.config(text=str(len(self.completed)) + ' completed')
         self._refresh_course_options()
@@ -698,9 +684,6 @@ class CourseNavigator:
         self.completed.add(course_code)
         self.completed_listbox.insert('end', ' ' + course_code)
         
-        if course_code not in self.graph.get_all_course_codes():
-            self.graph.add_vertex(course_code)
-
         if course_code not in self.path_graph.vertices:
             self.path_graph.add_vertex(self.graph.vertices[course_code])
 
