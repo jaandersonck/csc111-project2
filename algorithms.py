@@ -69,7 +69,7 @@ def get_relevant_courses(graph: CourseGraph, target: str, completed: set[str]) -
     if target in completed:
         return set()
     else:
-        course_vertex = graph._vertices[target]
+        course_vertex = graph.vertices[target]
         if course_vertex.prerequisites is None:
             return {target}
 
@@ -191,7 +191,7 @@ def _resolve_needed(graph: CourseGraph, prereqs: BooleanList,
                 # A single course option — no "progress" concept, just eligible or not
                 if item in completed:
                     continue
-                if item not in graph._vertices:
+                if item not in graph.vertices:
                     continue
                 # Treat as no-progress child (it's a single course, not a branch)
                 children_without_progress.append(item)
@@ -212,7 +212,7 @@ def _resolve_needed(graph: CourseGraph, prereqs: BooleanList,
             if isinstance(item, str):
                 if item in completed:
                     continue
-                if item not in graph._vertices:
+                if item not in graph.vertices:
                     continue
                 if item not in visited and graph.is_eligible(item, completed):
                     eligible_from_children.add(item)
@@ -233,10 +233,10 @@ def _resolve_needed(graph: CourseGraph, prereqs: BooleanList,
         deeper = set()
         for item in non_eligible_children:
             if isinstance(item, str):
-                if item in visited or item in completed or item not in graph._vertices:
+                if item in visited or item in completed or item not in graph.vertices:
                     continue
                 visited.add(item)
-                inner_vertex = graph._vertices[item]
+                inner_vertex = graph.vertices[item]
                 if inner_vertex.prerequisites and inner_vertex.prerequisites.items:
                     deeper |= _resolve_needed(graph, inner_vertex.prerequisites,
                                               completed, visited)
@@ -250,14 +250,14 @@ def _resolve_needed(graph: CourseGraph, prereqs: BooleanList,
             if isinstance(item, str):
                 if item in completed:
                     continue
-                if item in visited or item not in graph._vertices:
+                if item in visited or item not in graph.vertices:
                     continue
                 if graph.is_eligible(item, completed):
                     result.add(item)
                 else:
                     # Recurse into this course's prereqs
                     visited.add(item)
-                    inner_vertex = graph._vertices[item]
+                    inner_vertex = graph.vertices[item]
                     if inner_vertex.prerequisites and inner_vertex.prerequisites.items:
                         result |= _resolve_needed(graph, inner_vertex.prerequisites,
                                                   completed, visited)
@@ -311,7 +311,7 @@ def get_next_needed_courses(graph: CourseGraph, target: str, completed: set[str]
     if graph.is_eligible(target, completed):
         return {target}
 
-    vertex = graph._vertices[target]
+    vertex = graph.vertices[target]
     if vertex.prerequisites is None or vertex.prerequisites.items is None:
         return {target}
 
@@ -340,7 +340,7 @@ def search_courses(graph: CourseGraph, query: str) -> list[str]:
     """
     query_lower = query.lower()
     matches = []
-    for code, vertex in graph._vertices.items():
+    for code, vertex in graph.vertices.items():
         if query_lower in code.lower() or query_lower in vertex.name.lower():
             matches.append(code)
 
