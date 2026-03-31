@@ -125,7 +125,7 @@ def load_graph_from_json(file: str) -> CourseGraph:
         - file exists and is valid json and is formatted according to project standards
     """
     graph = CourseGraph()
-    with open(file, 'r') as f:
+    with open(file, 'r', encoding='utf-8') as f:
         data = json.load(f)
         for course in data.values():
             prerequisites = parse_prerequisite_list(course['prereq_tree'])
