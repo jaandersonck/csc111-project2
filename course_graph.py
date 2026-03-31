@@ -1,6 +1,20 @@
+"""CSC111 Winter 2026 Project 2: Course Graph
+
+Module Description
+==================
+
+This module contains the components of the CourseGraph used throughout the application, including
+_CourseVertex and CourseGraph.
+
+Copyright and Usage Information
+===============================
+
+This file is Copyright (c) 2026.
+"""
 from __future__ import annotations
 from boolean_list import BooleanList
 import networkx as nx
+
 
 class _CourseVertex:
     """A vertex in a CourseGraph, representing a single UofT course.
@@ -70,12 +84,12 @@ class CourseGraph:
     #   - _vertices: maps each course code to its corresponding _CourseVertex object
     #   - _edges: maps each course code to the set of course codes it is a prerequisite of
 
-    _vertices: dict[str, _CourseVertex]
+    vertices: dict[str, _CourseVertex]
     _edges: dict[str, set[str]]
 
     def __init__(self) -> None:
         """Initialize an empty CourseGraph with no vertices or edges."""
-        self._vertices = {}
+        self.vertices = {}
         self._edges = {}
 
     def add_vertex(self, vertex: _CourseVertex) -> None:
@@ -87,11 +101,11 @@ class CourseGraph:
         >>> g = CourseGraph()
         >>> v = _CourseVertex('CSC148H1', 'Introduction to Computer Science', None, None, 5, None, None)
         >>> g.add_vertex(v)
-        >>> 'CSC148H1' in g._vertices
+        >>> 'CSC148H1' in g.vertices
         True
         """
-        if vertex.code not in self._vertices:
-            self._vertices[vertex.code] = vertex
+        if vertex.code not in self.vertices:
+            self.vertices[vertex.code] = vertex
             self._edges[vertex.code] = set()
 
     def add_edge(self, code1: str, code2: str) -> None:
@@ -114,7 +128,7 @@ class CourseGraph:
         >>> 'CSC207H1' in g._edges['CSC148H1']
         True
         """
-        if code1 not in self._vertices or code2 not in self._vertices:
+        if code1 not in self.vertices or code2 not in self.vertices:
             raise ValueError(f'One or both course codes not found in graph: {code1!r}, {code2!r}')
         self._edges[code1].add(code2)
 
@@ -132,10 +146,10 @@ class CourseGraph:
         >>> g.get_vertex('CSC148H1').code
         'CSC148H1'
         """
-        if code not in self._vertices:
+        if code not in self.vertices:
             raise ValueError
 
-        return self._vertices[code]
+        return self.vertices[code]
 
     def is_eligible(self, code: str, completed: set[str]) -> bool:
         """Return whether a student who has completed the given courses is eligible to enrol in code.
@@ -159,17 +173,17 @@ class CourseGraph:
         False
         """
         # Unvalid Course Code
-        if code not in self._vertices:
+        if code not in self.vertices:
             raise KeyError(f'Course code not found in graph: {code!r}')
 
         # Student already completed the course
         if code in completed:
             return False
 
-        if self._vertices[code].prerequisites is None:  # Course w/o prerequisites
+        if self.vertices[code].prerequisites is None:  # Course w/o prerequisites
             return True
         else:  # Course that neeeds to check prerequisites
-            return self._vertices[code].prerequisites.is_satisfied(completed)
+            return self.vertices[code].prerequisites.is_satisfied(completed)
 
     def eligible_courses(self, completed: set[str]) -> set[str]:
         """Return the set of all course codes the student is currently eligible to enrol in,
@@ -186,7 +200,7 @@ class CourseGraph:
         >>> 'CSC108H1' in g.eligible_courses({'CSC108H1'})
         False
         """
-        return {code for code in self._vertices if self.is_eligible(code, completed)}
+        return {code for code in self.vertices if self.is_eligible(code, completed)}
 
     def credit_count(self, completed: set[str], department: str | None = None) -> float:
         """Return the total credits accumulated from the completed courses.
@@ -212,14 +226,14 @@ class CourseGraph:
         0.5
         """
         if department is None:
-            return sum(self._vertices[course].credits
+            return sum(self.vertices[course].credits
                        for course in completed
-                       if course in self._vertices)
+                       if course in self.vertices)
         else:
-            return sum(self._vertices[course].credits
+            return sum(self.vertices[course].credits
                        for course in completed
-                       if course in self._vertices
-                       and self._vertices[course].department == department)
+                       if course in self.vertices
+                       and self.vertices[course].department == department)
 
     def find_paths(self, completed: set[str], target: str) -> list[list[str]]:
         """Return all valid course sequences the student could take to become eligible for target.
@@ -273,7 +287,7 @@ class CourseGraph:
     def to_networkx(self) -> nx.DiGraph:
         """Convert this CourseGraph to a NetworkX DiGraph."""
         digraph_nx = nx.DiGraph()
-        for code, course in self._vertices.items():
+        for code, course in self.vertices.items():
             digraph_nx.add_node(code)
             if course.prerequisites:
                 for prereq in course.prerequisites.get_all_courses():

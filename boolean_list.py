@@ -1,6 +1,17 @@
+"""CSC111 Winter 2026 Project 2: Boolean List
+
+Module Description
+==================
+
+This module contains the BooleanList implementation for representing prerequisite logic
+for courses.
+
+Copyright and Usage Information
+===============================
+
+This file is Copyright (c) 2026.
+"""
 from __future__ import annotations
-from typing import Any
-from dataclasses import dataclass
 
 
 class CreditCondition:
@@ -224,25 +235,6 @@ class BooleanList:
         else:
             return any(self.evaluate_item(item, completed) for item in self.items)
 
-    def arrange(self) -> BooleanList:
-        """Return a BooleanList such that each sublist contains non-recursive types first, and
-        sub-BooleanLists last.
-
-        >>> bl = BooleanList('AND', [BooleanList('OR', [1, 2]), 1, 2])
-        >>> bl.arrange()
-        >>> bl == BooleanList('AND', [1, 2, BooleanList('OR', [1,2])])
-        True
-        """
-        arranged, boolean_lists = [], []
-        for item in self.items:
-            if isinstance(item, BooleanList):
-                boolean_lists.append(item.arrange())
-            else:
-                arranged.append(item)
-
-        arranged.extend(boolean_lists)
-        return BooleanList(self.operator, arranged)
-    
     def get_all_courses(self) -> set[str]:
         """Return a set of all course code that appear in a BooleanList.
         Preconditions:
@@ -258,34 +250,3 @@ class BooleanList:
             elif isinstance(item, BooleanList):
                 courses = courses.union(item.get_all_courses())
         return courses
-
-    def generate_combinations(self) -> list[list]:
-        """Return a list of all combinations that satisfy the condition built by the BooleanList.
-
-        The returned list contains other non-nested lists, where each list represents a distinct
-        and valid combination.
-
-        Preconditions:
-            - self is a valid BooleanList
-
-        >>> BooleanList('AND', [BooleanList('OR', [1,2]), 3, 4]).generate_combinations()
-        [[1, 3, 4], [2, 3, 4]]
-        """
-        #########################
-        # UNDERSTAND THIS
-        #########################
-        options_at_depth = []
-        for item in self.items:
-            if isinstance(item, BooleanList):
-                options_at_depth.append(item.generate_combinations())
-            else:
-                options_at_depth.append([[item]])
-
-        # CLAUDE:
-        if self.operator == 'AND':
-            result = [[]]
-            for options in options_at_depth:
-                result = [partial + option for partial in result for option in options]
-            return result
-        else:
-            return [path for paths in options_at_depth for path in paths]

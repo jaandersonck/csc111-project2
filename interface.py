@@ -16,6 +16,7 @@ This file is Copyright (c) 2026.
 from __future__ import annotations
 import tkinter as tk
 from tkinter import messagebox
+import webbrowser
 
 from course_graph import CourseGraph
 from boolean_list import BooleanList, CreditCondition
@@ -131,7 +132,7 @@ class CourseNavigator:
                               font=('Helvetica', 10), bg=RED, fg=WHITE,
                               cursor='hand2', pady=6)
         remove_btn.pack(padx=14, pady=3, fill='x')
-        remove_btn.bind('<Button-1>', lambda e: self._remove_completed_course())
+        remove_btn.bind('<Button-1>', lambda _: self._remove_completed_course())
 
         # --- Centre panel: the two search bars and start button ---
         centre_frame = tk.Frame(self.centre_panel, bg=BACKGROUND)
@@ -162,7 +163,7 @@ class CourseNavigator:
                            font=('Helvetica', 10), bg=GREEN, fg=WHITE,
                            cursor='hand2', pady=6, padx=10)
         add_btn.pack(side='left')
-        add_btn.bind('<Button-1>', lambda e: self._add_completed_from_entry())
+        add_btn.bind('<Button-1>', lambda _: self._add_completed_from_entry())
 
         # Dropdown for completed course search results
         self.completed_search_dropdown = tk.Frame(centre_frame, bg=CARD)
@@ -204,7 +205,7 @@ class CourseNavigator:
                              font=('Helvetica', 10), bg=BLUE, fg=WHITE,
                              cursor='hand2', pady=6, padx=10)
         start_btn.pack()
-        start_btn.bind('<Button-1>', lambda e: self._start_navigation())
+        start_btn.bind('<Button-1>', lambda _: self._start_navigation())
 
         # --- Right panel: instructions ---
         tk.Label(self.right_panel, text='HOW IT WORKS', font=('Helvetica', 9),
@@ -233,7 +234,7 @@ class CourseNavigator:
             messagebox.showwarning('Missing target', 'Enter a target course code.')
             return
 
-        if target_code not in self.graph._vertices:
+        if target_code not in self.graph.vertices:
             messagebox.showerror('Invalid course', f'"{target_code}" not found.')
             return
 
@@ -286,16 +287,16 @@ class CourseNavigator:
                             font=('Helvetica', 10), bg=CARD, fg=GREY,
                             cursor='hand2', pady=6)
         undo_btn.pack(padx=14, pady=3, fill='x')
-        undo_btn.bind('<Button-1>', lambda e: self._undo_last())
-        undo_btn.bind('<Enter>', lambda e: undo_btn.config(bg=CARD_HOVER))
-        undo_btn.bind('<Leave>', lambda e: undo_btn.config(bg=CARD))
+        undo_btn.bind('<Button-1>', lambda _: self._undo_last())
+        undo_btn.bind('<Enter>', lambda _: undo_btn.config(bg=CARD_HOVER))
+        undo_btn.bind('<Leave>', lambda _: undo_btn.config(bg=CARD))
 
         # Reset button
         reset_btn = tk.Label(self.left_panel, text='  Start over  ',
                              font=('Helvetica', 10), bg=RED, fg=WHITE,
                              cursor='hand2', pady=6)
         reset_btn.pack(padx=14, pady=3, fill='x')
-        reset_btn.bind('<Button-1>', lambda e: self._reset())
+        reset_btn.bind('<Button-1>', lambda _: self._reset())
 
     def _build_navigation_right_panel(self) -> None:
         """Build the right panel that shows course info on hover."""
@@ -350,7 +351,7 @@ class CourseNavigator:
         inner_frame = tk.Frame(canvas, bg=BACKGROUND)
 
         inner_frame.bind('<Configure>',
-                         lambda e: canvas.configure(scrollregion=canvas.bbox('all')))
+                         lambda _: canvas.configure(scrollregion=canvas.bbox('all')))
         window_id = canvas.create_window((0, 0), window=inner_frame, anchor='nw')
         canvas.configure(yscrollcommand=scrollbar.set)
 
@@ -368,8 +369,8 @@ class CourseNavigator:
         # Sort options: target first, then by department and level
         sorted_options = sorted(options, key=lambda code: (
             code != self.target,
-            self.graph._vertices[code].department,
-            self.graph._vertices[code].level,
+            self.graph.vertices[code].department,
+            self.graph.vertices[code].level,
             code
         ))
 
@@ -377,7 +378,7 @@ class CourseNavigator:
         current_department = None
 
         for course_code in sorted_options:
-            vertex = self.graph._vertices[course_code]
+            vertex = self.graph.vertices[course_code]
             is_target_course = (course_code == self.target)
 
             # Draw a department divider when the department changes
@@ -411,12 +412,12 @@ class CourseNavigator:
 
             # Bind click and hover events
             card.bind('<Button-1>',
-                      lambda e, code=course_code: self._select_course(code))
+                      lambda _, code=course_code: self._select_course(code))
             card.bind('<Enter>',
-                      lambda e, code=course_code, label=card, hover=card_hover_bg: (
+                      lambda _, code=course_code, label=card, hover=card_hover_bg: (
                           label.config(bg=hover), self._display_course_info(code)))
             card.bind('<Leave>',
-                      lambda e, label=card, original_bg=card_bg: label.config(bg=original_bg))
+                      lambda _, label=card, original_bg=card_bg: label.config(bg=original_bg))
 
     def _select_course(self, course_code: str) -> None:
         """Handle the user clicking on a course card. Add it to completed and path,
@@ -453,7 +454,7 @@ class CourseNavigator:
                                font=('Helvetica', 10), bg=BLUE, fg=WHITE,
                                cursor='hand2', pady=6, padx=10)
         restart_btn.pack(pady=12)
-        restart_btn.bind('<Button-1>', lambda e: self._reset())
+        restart_btn.bind('<Button-1>', lambda _: self._reset())
 
     def _show_dead_end_screen(self) -> None:
         """Show a message when no courses are available to pick from."""
@@ -474,22 +475,22 @@ class CourseNavigator:
         undo_btn = tk.Label(button_row, text='  Undo  ', font=('Helvetica', 10),
                             bg=CARD, fg=GREY, cursor='hand2', pady=6, padx=10)
         undo_btn.pack(side='left', padx=4)
-        undo_btn.bind('<Button-1>', lambda e: self._undo_last())
+        undo_btn.bind('<Button-1>', lambda _: self._undo_last())
 
         restart_btn = tk.Label(button_row, text='  Start over  ',
                                font=('Helvetica', 10), bg=RED, fg=WHITE,
                                cursor='hand2', pady=6, padx=10)
         restart_btn.pack(side='left', padx=4)
-        restart_btn.bind('<Button-1>', lambda e: self._reset())
+        restart_btn.bind('<Button-1>', lambda _: self._reset())
 
     # ************************Course info panel (right side)******************
 
     def _display_course_info(self, course_code: str) -> None:
         """Show information about a course in the right panel text area."""
-        if course_code not in self.graph._vertices:
+        if course_code not in self.graph.vertices:
             return
 
-        vertex = self.graph._vertices[course_code]
+        vertex = self.graph.vertices[course_code]
 
         self.info_text.config(state='normal')
         self.info_text.delete('1.0', 'end')
@@ -497,6 +498,9 @@ class CourseNavigator:
         # Course code and name
         self.info_text.insert('end', vertex.code + '\n', 'course_code')
         self.info_text.insert('end', vertex.name + '\n\n')
+        self.info_text.bind("<Button-1>",
+                            lambda _: webbrowser.open(f'https://artsci.calendar.utoronto.ca/course/{course_code}'))
+        self.info_text.config(cursor='hand2')
 
         # Basic stats line
         stats_line = str(vertex.credits) + ' cr'
@@ -594,7 +598,7 @@ class CourseNavigator:
                                   self._pick_target_from_dropdown)
 
     def _show_search_results(self, query: str, dropdown_frame: tk.Frame,
-                              on_click_action: callable) -> None:
+                            on_click_action: callable) -> None:
         """Show search results in the given dropdown frame. When a result is clicked,
         on_click_action is called with the course code.
         """
@@ -611,7 +615,7 @@ class CourseNavigator:
         results_to_show = matching_courses[:8]
 
         for course_code in results_to_show:
-            course_name = self.graph._vertices[course_code].name
+            course_name = self.graph.vertices[course_code].name
             display_text = ' ' + course_code + '  -  ' + course_name
 
             result_label = tk.Label(dropdown_frame, text=display_text,
@@ -621,13 +625,13 @@ class CourseNavigator:
 
             # When clicked, run the action with this course code
             result_label.bind('<Button-1>',
-                              lambda e, code=course_code: on_click_action(code))
+                              lambda _, code=course_code: on_click_action(code))
 
             # Hover effect
             result_label.bind('<Enter>',
-                              lambda e, label=result_label: label.config(bg=CARD_HOVER, fg=WHITE))
+                              lambda _, label=result_label: label.config(bg=CARD_HOVER, fg=WHITE))
             result_label.bind('<Leave>',
-                              lambda e, label=result_label: label.config(bg=CARD, fg=GREY))
+                              lambda _, label=result_label: label.config(bg=CARD, fg=GREY))
 
     def _pick_target_from_dropdown(self, course_code: str) -> None:
         """Set the target entry field when the user clicks a search result."""
@@ -648,7 +652,7 @@ class CourseNavigator:
         """Add a course to the completed set if it exists in the graph."""
         course_code = course_code.upper().strip()
 
-        if course_code not in self.graph._vertices:
+        if course_code not in self.graph.vertices:
             messagebox.showwarning('Not found',
                                    '"' + course_code + '" is not in the course graph.')
             return
